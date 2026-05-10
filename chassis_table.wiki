@@ -3,57 +3,57 @@
 |-
 !Image !! Name !! Chassis Type !! Chassis Cost !! Technology Required !! Other Requirements !! Weapon Slots !! Module Slots !! Shield Slots !! Reactor Slots !! Weapon Tech !! Shield Tech !! Module Tech !! Reactor Tech !! Payload !! Armor !! Speed !! Critical Hit Chance !! Accuracy Adjusted !! Damage Adjusted !! Defensive Merit !! Shield Projection !! Module Uplink !! Energy Distribution / Energy Share !! Energy Induction !! Damage Boost !! Drain Boost
 |-
-|  || [https://cybots.fandom.com/wiki/Bulwark Bulwark] || Spider || 140200 credits || Bulwark Technology ||  || 4 || 2 || 2 || 1 || 21 || 6 || 11 || 16 || 600 || 650 || 40 || 1 % || 5 % || 5 % || 16300 || 20 % ||  ||  ||  ||  || 
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/Bulwark|size=60px}} || [https://cybots.fandom.com/wiki/Bulwark Bulwark] || Spider || 140200 credits || Bulwark Technology ||  || 4 || 2 || 2 || 1 || 21 || 6 || 11 || 16 || 600 || 650 || 40 || 1 % || 5 % || 5 % || 16300 || 20 % ||  ||  ||  ||  || 
 |-
-|  || [https://cybots.fandom.com/wiki/Cargo_Transport Cargo Transport] || Quadra || 50000000 credits ||  ||  || 0 || 6 || 0 || 1 || 0 || 0 || 15 || 1 || 5000 || 500 || 5 ||  ||  ||  || 150000 ||  ||  ||  ||  ||  || 
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/Cargo_Transport|size=60px}} || [https://cybots.fandom.com/wiki/Cargo_Transport Cargo Transport] || Quadra || 50000000 credits ||  ||  || 0 || 6 || 0 || 1 || 0 || 0 || 15 || 1 || 5000 || 500 || 5 ||  ||  ||  || 150000 ||  ||  ||  ||  ||  || 
 |-
-|  || [https://cybots.fandom.com/wiki/Crusader Crusader] || Tracker || 300480 credits || Crusader Technology ||  || 1 || 2 || 4 || 1 || 21 || 11 || 11 || 16 || 800 || 525 || 25 || 1 % || 25 % || 200 % || 94870 ||  ||  ||  ||  ||  || 
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/Crusader|size=60px}} || [https://cybots.fandom.com/wiki/Crusader Crusader] || Tracker || 300480 credits || Crusader Technology ||  || 1 || 2 || 4 || 1 || 21 || 11 || 11 || 16 || 800 || 525 || 25 || 1 % || 25 % || 200 % || 94870 ||  ||  ||  ||  ||  || 
 |-
-|  || [https://cybots.fandom.com/wiki/CyBulwark CyCorps Bulwark] || Spider || 500 lava diamonds ||  ||  || 4 || 3 || 2 || 1 || 147 || 15 || 40 || 50 || 600 || 1200 || 85 || 20 % || 40 % ||  || 16300 || 25 % ||  ||  ||  || 150 % || 
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/CyBulwark|size=60px}} || [https://cybots.fandom.com/wiki/CyBulwark CyCorps Bulwark] || Spider || 500 lava diamonds ||  ||  || 4 || 3 || 2 || 1 || 147 || 15 || 40 || 50 || 600 || 1200 || 85 || 20 % || 40 % ||  || 16300 || 25 % ||  ||  ||  || 150 % || 
 |-
-|  || [https://cybots.fandom.com/wiki/CyCorps_Overseer CyCorps Overseer] || Hover || found ||  || Defeat the Master Controllers || 1 || 4 || 1 || 1 || 1 || 1 || 31 || 16 || 400 || 350 || 55 ||  ||  ||  || ? ||  || 50 % ||  ||  || -25 % || ?
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/CyCorps_Overseer|size=60px}} || [https://cybots.fandom.com/wiki/CyCorps_Overseer CyCorps Overseer] || Hover || found ||  || Defeat the Master Controllers || 1 || 4 || 1 || 1 || 1 || 1 || 31 || 16 || 400 || 350 || 55 ||  ||  ||  || ? ||  || 50 % ||  ||  || -25 % || ?
 |-
-|  || [https://cybots.fandom.com/wiki/CyCrusader CyCorps Crusader] || Tracker || 500 mirons ||  ||  || 2 || 3 || 4 || 1 || 21 || 11 || 11 || 16 || 800 || 800 || 40 || 20 % || 35 % ||  || 85000 ||  ||  ||  ||  || 250 % || 
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/CyCrusader|size=60px}} || [https://cybots.fandom.com/wiki/CyCrusader CyCorps Crusader] || Tracker || 500 mirons ||  ||  || 2 || 3 || 4 || 1 || 21 || 11 || 11 || 16 || 800 || 800 || 40 || 20 % || 35 % ||  || 85000 ||  ||  ||  ||  || 250 % || 
 |-
-|  || [https://cybots.fandom.com/wiki/CyMarauder CyCorps Marauder] || Quadra || 50000000 credits ||  ||  || 6 || 3 || 2 || 1 || 298 || 15 || 40 || 56 || 700 || 2000 || 85 || 50 % || 35 % ||  || 34500 ||  ||  ||  ||  || 200 % || 
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/CyMarauder|size=60px}} || [https://cybots.fandom.com/wiki/CyMarauder CyCorps Marauder] || Quadra || 50000000 credits ||  ||  || 6 || 3 || 2 || 1 || 298 || 15 || 40 || 56 || 700 || 2000 || 85 || 50 % || 35 % ||  || 34500 ||  ||  ||  ||  || 200 % || 
 |-
-|  || [https://cybots.fandom.com/wiki/CyOrbiter CyCorps Orbiter] || Hover || 500 mirons ||  ||  || 2 || 4 || 1 || 1 || 147 || 15 || 16 || 50 || 400 || 300 || 90 || 1 % ||  ||  || 5800 ||  ||  ||  ||  ||  || 
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/CyOrbiter|size=60px}} || [https://cybots.fandom.com/wiki/CyOrbiter CyCorps Orbiter] || Hover || 500 mirons ||  ||  || 2 || 4 || 1 || 1 || 147 || 15 || 16 || 50 || 400 || 300 || 90 || 1 % ||  ||  || 5800 ||  ||  ||  ||  ||  || 
 |-
-|  || [https://cybots.fandom.com/wiki/CyRanger CyCorps Ranger] || Wheeler || 20000000 credits ||  ||  || 1 || 2 || 1 || 1 || 298 || 15 || 15 || 56 || 125 || 900 || 125 || 50 % || 35 % ||  || 9250 ||  ||  ||  ||  || 200 % || 
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/CyRanger|size=60px}} || [https://cybots.fandom.com/wiki/CyRanger CyCorps Ranger] || Wheeler || 20000000 credits ||  ||  || 1 || 2 || 1 || 1 || 298 || 15 || 15 || 56 || 125 || 900 || 125 || 50 % || 35 % ||  || 9250 ||  ||  ||  ||  || 200 % || 
 |-      
-|  || [https://cybots.fandom.com/wiki/CyValadin CyCorps Valadin] || Walker || 30000000 credits ||  ||  || 2 || 3 || 2 || 1 || 11 || 11 || 1 || 11 || 450 || 600 || 55 || 2 % || 5 % ||  || 15600 ||  ||  ||  ||  ||  || 
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/CyValadin|size=60px}} || [https://cybots.fandom.com/wiki/CyValadin CyCorps Valadin] || Walker || 30000000 credits ||  ||  || 2 || 3 || 2 || 1 || 11 || 11 || 1 || 11 || 450 || 600 || 55 || 2 % || 5 % ||  || 15600 ||  ||  ||  ||  ||  || 
 |-
-|  || [https://cybots.fandom.com/wiki/Enhanced_Reaper Enhanced Reaper] || Spider ||  ||  || Complete Enhanced Reaper Quest || 2 || 2 || 2 || 1 || 308 || 1 || 50 || 56 || 1000 || 800 || 100 || 25 % || 100 % ||  || 95500 ||  ||  || 100 % || 100 % ||  || 250 %
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/Enhanced_Reaper|size=60px}} || [https://cybots.fandom.com/wiki/Enhanced_Reaper Enhanced Reaper] || Spider ||  ||  || Complete Enhanced Reaper Quest || 2 || 2 || 2 || 1 || 308 || 1 || 50 || 56 || 1000 || 800 || 100 || 25 % || 100 % ||  || 95500 ||  ||  || 100 % || 100 % ||  || 250 %
 |-
-|  || [https://cybots.fandom.com/wiki/Flaming_Hornet Flaming Hornet] || Hover ||  ||  || Praetorian Base Schematics || 2 || 4 || 2 || 1 || 147 || 15 || 110 || 50 || 600 || 125 || 150 || 1 % || 100 % ||  || 22000 ||  || 75 % ||  ||  || 125 % || 
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/Flaming_Hornet|size=60px}} || [https://cybots.fandom.com/wiki/Flaming_Hornet Flaming Hornet] || Hover ||  ||  || Praetorian Base Schematics || 2 || 4 || 2 || 1 || 147 || 15 || 110 || 50 || 600 || 125 || 150 || 1 % || 100 % ||  || 22000 ||  || 75 % ||  ||  || 125 % || 
 |-
-|  || [https://cybots.fandom.com/wiki/Flaming_Orbiter Flaming Orbiter] || Hover || 350 mirons ||  ||  || 1 || 4 || 1 || 1 || 1 || 1 || 11 || 1 || 400 || 400 || 130 || 40 % || 0 % ||  || 4750 ||  ||  ||  ||  ||  || 150 % verify
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/Flaming_Orbiter|size=60px}} || [https://cybots.fandom.com/wiki/Flaming_Orbiter Flaming Orbiter] || Hover || 350 mirons ||  ||  || 1 || 4 || 1 || 1 || 1 || 1 || 11 || 1 || 400 || 400 || 130 || 40 % || 0 % ||  || 4750 ||  ||  ||  ||  ||  || 150 % verify
 |-
-|  || [https://cybots.fandom.com/wiki/Hornet Hornet] || Hover ||  ||  || Praetorian Research Lab Schematics || 2 || 4 || 2 || 1 || 147 || 15 || 110 || 50 || 600 || 125 || 125 || 1 % || 100 % ||  || 25000 ||  || 75 % ||  ||  || 125 % || 
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/Hornet|size=60px}} || [https://cybots.fandom.com/wiki/Hornet Hornet] || Hover ||  ||  || Praetorian Research Lab Schematics || 2 || 4 || 2 || 1 || 147 || 15 || 110 || 50 || 600 || 125 || 125 || 1 % || 100 % ||  || 25000 ||  || 75 % ||  ||  || 125 % || 
 |-
-|  || [https://cybots.fandom.com/wiki/Leviathan Leviathan] || Walker || found ||  || Order of the Regiment || 8 || 2 || 2 || 1 || 15 || 15 || 5 || 20 || 1500 || 3000 || 15 || 1 % ||  ||  || 112550 (verify) ||  ||  ||  ||  ||  || 
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/Leviathan|size=60px}} || [https://cybots.fandom.com/wiki/Leviathan Leviathan] || Walker || found ||  || Order of the Regiment || 8 || 2 || 2 || 1 || 15 || 15 || 5 || 20 || 1500 || 3000 || 15 || 1 % ||  ||  || 112550 (verify) ||  ||  ||  ||  ||  || 
 |-
-|  || [https://cybots.fandom.com/wiki/Marauder Marauder] || Quadra || 158200 credits ||  ||  || 5 || 0 || 0 || 1 || 16 || 1 || 1 || 11 || 550 || 800 || 40 || 1 % || 35 % || 10 % || 20800 ||  ||  ||  ||  ||  || 
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/Marauder|size=60px}} || [https://cybots.fandom.com/wiki/Marauder Marauder] || Quadra || 158200 credits ||  ||  || 5 || 0 || 0 || 1 || 16 || 1 || 1 || 11 || 550 || 800 || 40 || 1 % || 35 % || 10 % || 20800 ||  ||  ||  ||  ||  || 
 |-
-|  || [https://cybots.fandom.com/wiki/Orbiter Orbiter] || Hover || 45750 credits ||  ||  || 1 || 4 || 1 || 1 || 6 || 1 || 11 || 5 || 180 || 120 || 80 || 1 % ||  ||  || 4550 ||  ||  ||  ||  ||  || 
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/Orbiter|size=60px}} || [https://cybots.fandom.com/wiki/Orbiter Orbiter] || Hover || 45750 credits ||  ||  || 1 || 4 || 1 || 1 || 6 || 1 || 11 || 5 || 180 || 120 || 80 || 1 % ||  ||  || 4550 ||  ||  ||  ||  ||  || 
 |-
-|  || [https://cybots.fandom.com/wiki/Overseer Overseer] || Hover || 90000 credits ||  ||  || 1 || 3 || 1 || 1 || 1 || 1 || 16 || 6 || 300 || 300 || 45 ||  ||  || -25 % || 7500 ||  || 25 % ||  ||  ||  || 
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/Overseer|size=60px}} || [https://cybots.fandom.com/wiki/Overseer Overseer] || Hover || 90000 credits ||  ||  || 1 || 3 || 1 || 1 || 1 || 1 || 16 || 6 || 300 || 300 || 45 ||  ||  || -25 % || 7500 ||  || 25 % ||  ||  ||  || 
 |-
-|  || [https://cybots.fandom.com/wiki/Ranger Ranger] || Wheeler || 24500 credits ||  ||  || 1 || 1 || 1 || 1 || 6 || 1 || 1 || 1 || 275 || 150 || 70 || 5 % || 25 % || 20 % || 6375 ||  ||  ||  ||  ||  || 
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/Ranger|size=60px}} || [https://cybots.fandom.com/wiki/Ranger Ranger] || Wheeler || 24500 credits ||  ||  || 1 || 1 || 1 || 1 || 6 || 1 || 1 || 1 || 275 || 150 || 70 || 5 % || 25 % || 20 % || 6375 ||  ||  ||  ||  ||  || 
 |-
-|  || [https://cybots.fandom.com/wiki/Reaper Reaper] || Spider || 76200 credits ||  ||  || 2 || 1 || 2 || 1 || 11 || 1 || 1 || 6 || 225 || 300 || 55 || 1 % ||  ||  || 12800 ||  ||  || 50 % || 100 % ||  || 150 %
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/Reaper|size=60px}} || [https://cybots.fandom.com/wiki/Reaper Reaper] || Spider || 76200 credits ||  ||  || 2 || 1 || 2 || 1 || 11 || 1 || 1 || 6 || 225 || 300 || 55 || 1 % ||  ||  || 12800 ||  ||  || 50 % || 100 % ||  || 150 %
 |-
-|  || [https://cybots.fandom.com/wiki/Recon_Hornet Recon Hornet] || Hover ||  ||  || Praetorian Base Schematics || 2 || 4 || 2 || 1 || 147 || 15 || 110 || 50 || 600 || 400 || 125 || 20 % || 100 % ||  || verify ||  || 75 % || none* verify || none* verify || verify || none* verify
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/Recon_Hornet|size=60px}} || [https://cybots.fandom.com/wiki/Recon_Hornet Recon Hornet] || Hover ||  ||  || Praetorian Base Schematics || 2 || 4 || 2 || 1 || 147 || 15 || 110 || 50 || 600 || 400 || 125 || 20 % || 100 % ||  || verify ||  || 75 % || none* verify || none* verify || verify || none* verify
 |-
-|  || [https://cybots.fandom.com/wiki/Recon_Warthog Recon Warthog] || Tracker ||  ||  || Praetorian Base Schematics || 2 || 5 || 5 || 1 || 147 || 252 || 15 || 102 || 2000 || 1200 || 50 || 25 % ||  ||  || 30000 || 200 % ||  ||  ||  || 150 % || 
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/Recon_Warthog|size=60px}} || [https://cybots.fandom.com/wiki/Recon_Warthog Recon Warthog] || Tracker ||  ||  || Praetorian Base Schematics || 2 || 5 || 5 || 1 || 147 || 252 || 15 || 102 || 2000 || 1200 || 50 || 25 % ||  ||  || 30000 || 200 % ||  ||  ||  || 150 % || 
 |-
-|  || [https://cybots.fandom.com/wiki/Sentinel Sentinel] || Tracker || 95000 credits ||  ||  || 2 || 1 || 3 || 1 || 1 || 11 || 1 || 11 || 550 || 450 || 35 ||  || -25 % || -25 % || 11250 || 30 % ||  ||  ||  ||  || 
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/Sentinel|size=60px}} || [https://cybots.fandom.com/wiki/Sentinel Sentinel] || Tracker || 95000 credits ||  ||  || 2 || 1 || 3 || 1 || 1 || 11 || 1 || 11 || 550 || 450 || 35 ||  || -25 % || -25 % || 11250 || 30 % ||  ||  ||  ||  || 
 |-
-|  || [https://cybots.fandom.com/wiki/Terminus_Prototype Terminus Prototype] || Spider || 150000000 credits ||  ||  || 8 || 3 || 4 || 1 || 1000 || 252 || 110 || 102 || 5500 || 1200 || 300 || 50 % || 100 % ||  || 500000 || 200 % || 100 % || 100 % || 100 % || 225 % || 200 %
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/Terminus_Prototype|size=60px}} || [https://cybots.fandom.com/wiki/Terminus_Prototype Terminus Prototype] || Spider || 150000000 credits ||  ||  || 8 || 3 || 4 || 1 || 1000 || 252 || 110 || 102 || 5500 || 1200 || 300 || 50 % || 100 % ||  || 500000 || 200 % || 100 % || 100 % || 100 % || 225 % || 200 %
 |-
-|  || [https://cybots.fandom.com/wiki/Valadin Valadin] || Walker || 40200 credits ||  ||  || 2 || 2 || 2 || 1 || 6 || 1 || 1 || 6 || 350 || 400 || 50 || 1 % ||  ||  || 10050 ||  ||  ||  ||  ||  || 
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/Valadin|size=60px}} || [https://cybots.fandom.com/wiki/Valadin Valadin] || Walker || 40200 credits ||  ||  || 2 || 2 || 2 || 1 || 6 || 1 || 1 || 6 || 350 || 400 || 50 || 1 % ||  ||  || 10050 ||  ||  ||  ||  ||  || 
 |-
-|  || [https://cybots.fandom.com/wiki/Viper Viper] || Hover || 75000000 credits ||  ||  || 4 || 1 || 2 || 1 || 650 || 252 || 110 || 102 || 1000 || 1000 || 225 || 1 % || 100 % ||  || 75000 || 100 % ||  ||  ||  ||  || 125 %
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/Viper|size=60px}} || [https://cybots.fandom.com/wiki/Viper Viper] || Hover || 75000000 credits ||  ||  || 4 || 1 || 2 || 1 || 650 || 252 || 110 || 102 || 1000 || 1000 || 225 || 1 % || 100 % ||  || 75000 || 100 % ||  ||  ||  ||  || 125 %
 |-
-|  || [https://cybots.fandom.com/wiki/Warthog Warthog] || Tracker ||  ||  || Praetorian Research Lab Schematics || 2 || 5 || 4 || 1 || 147 || 252 || 15 || 102 || 2000 || 300 || 5 || none* verify || -50 % || none* verify || verify || 150 % ||  ||  ||  || -50 % || 
+| {{#invoke:Chassis|image|url=https://cybots.fandom.com/wiki/Warthog|size=60px}} || [https://cybots.fandom.com/wiki/Warthog Warthog] || Tracker ||  ||  || Praetorian Research Lab Schematics || 2 || 5 || 4 || 1 || 147 || 252 || 15 || 102 || 2000 || 300 || 5 || none* verify || -50 % || none* verify || verify || 150 % ||  ||  ||  || -50 % || 
 |}
