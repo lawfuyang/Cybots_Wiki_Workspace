@@ -1,0 +1,214 @@
+This is a list of all shields useable by the Controller.
+{| class="sortable fandom-table"
+|+Shields (Useable by Controller)
+!
+!Shield
+!Cost
+!Weight
+!Required Tech Level
+!Other Requirements
+!Primary Level
+!Energy Use
+!Recharge Rate
+!Defensive Merit
+|-
+|[[File:Baronshield.jpg|50x50px]]
+|[[Baron (Shield)]]
+|11000 credits
+|10
+|1
+|none
+|200
+|20
+|20
+|5000
+|-
+|[[File:Baronreflective.jpg|50x50px]]
+|[[Baron Reflective]]
+|16500 credits
+|15
+|5
+|none
+|300
+|30
+|30
+|7500
+|-
+|[[File:Baronimpulse.jpg|50x50px]]
+|[[Baron Impulse]]
+|22000 credits
+|20
+|10
+|none
+|400
+|40
+|40
+|10000
+|-
+|[[File:Baronii.jpg|50x50px]]
+|[[Baron II]]
+|27500 credits
+|25
+|15
+|none
+|500
+|50
+|50
+|12500
+|-
+|[[File:Photonic.jpg|50x50px]]
+|[[Photonic]]
+|33000 credits
+|35
+|30
+|none
+|600
+|60
+|50
+|15000
+|-
+|[[File:Photonicsv.jpg|50x50px]]
+|[[Photonic SV]]
+|38500 credits
+|40
+|40
+|none
+|700
+|70
+|50
+|17500
+|-
+|[[File:Photonicdv.jpg|50x50px]]
+|[[Photonic DV]]
+|41250 credits
+|45
+|50
+|none
+|750
+|75
+|100
+|18750
+|-
+|[[File:Photonicsphere.jpg|50x50px]]
+|[[Photonic Sphere]]
+|49500 credits
+|50
+|60
+|none
+|900
+|100
+|90
+|22500
+|-
+|[[File:Plasma.jpg|50x50px]]
+|[[Plasma (Shield)]]
+|55000 credits
+|100
+|65
+|[[Plasma Technology]]
+|1000
+|50
+|50
+|25000
+|-
+|[[File:Argon.jpg|50x50px]]
+|[[Argon (Shield)]]
+|55000 credits
+|60
+|80
+|none
+|1000
+|100
+|200
+|25000
+|-
+|[[File:Argon400.jpg|50x50px]]
+|[[Argon 400]]
+|66000 credits
+|70
+|100
+|none
+|1200
+|120
+|200
+|30000
+|-
+|[[File:Argonarray.jpg|50x50px]]
+|[[Argon Array]]
+|71500 credits
+|80
+|120
+|none
+|1300
+|130
+|300
+|32500
+|-
+|[[File:Photonicarray.jpg|50x50px]]
+|[[Photonic Array]]
+|82500 credit value
+found
+|80
+|135
+|none
+|1500
+|150
+|75
+|37500
+|-
+|[[File:Argonweb.jpg|50x50px]]
+|[[Argon Web]]
+|82500 credits
+|100
+|150
+|none
+|1500
+|150
+|300
+|37500
+|-
+|[[File:Plasmaidt.jpg|50x50px]]
+|[[Plasma IDT]]
+|165000 credits
+|150
+|200
+|[[Plasma Technology]]
+|3000
+|150
+|150
+|75000
+|-
+|[[File:Plasmaanamorph.jpg|50x50px]]
+|[[Plasma Anamorph]]
+|330000 credits
+|200
+|250
+|[[Plasma Technology]]
+|6000
+|300
+|300
+|150000
+|-
+|[[File:Sxd8.jpg|50x50px]]
+|[[SxD8]]
+|165000 credit value
+250 mercreds
+|60
+|35
+|none
+|3000
+|25
+|200
+|50000
+|-
+|[[File:Sxd10.jpg|50x50px]]
+|[[SxD10]]
+|275000 credit value
+|50
+|15
+|none
+|5000
+|150
+|850
+|70000
+|}
