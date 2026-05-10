@@ -1,0 +1,1513 @@
+[
+  {
+    "title": "Bulwark",
+    "url": "https://cybots.fandom.com/wiki/Bulwark",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Spider",
+        "Chassis Cost": {
+          "value": 140200,
+          "unit": "credits"
+        },
+        "Technology Required": "Bulwark Technology",
+        "Other Requirements": null
+      },
+      "Slots": {
+        "Weapon Slots": 4,
+        "Module Slots": 2,
+        "Shield Slots": 2,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 21,
+        "Shield Tech": 6,
+        "Module Tech": 11,
+        "Reactor Tech": 16
+      },
+      "Base Stats": {
+        "Payload": 600,
+        "Armor": 650,
+        "Speed": 40,
+        "Critical Hit Chance": {
+          "value": 1,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": {
+          "value": 5,
+          "unit": "%"
+        },
+        "Damage Adjusted": {
+          "value": 5,
+          "unit": "%"
+        },
+        "Defensive Merit": 16300
+      },
+      "Unique Stats": {
+        "Shield Projection": {
+          "value": 20,
+          "unit": "%"
+        },
+        "Module Uplink": null,
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": null,
+        "Drain Boost": null
+      }
+    }
+  },
+  {
+    "title": "Cargo Transport",
+    "url": "https://cybots.fandom.com/wiki/Cargo_Transport",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Quadra",
+        "Chassis Cost": {
+          "value": 50000000,
+          "unit": "credits"
+        },
+        "Technology Required": null,
+        "Other Requirements": null
+      },
+      "Slots": {
+        "Weapon Slots": 0,
+        "Module Slots": 6,
+        "Shield Slots": 0,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 0,
+        "Shield Tech": 0,
+        "Module Tech": 15,
+        "Reactor Tech": 1
+      },
+      "Base Stats": {
+        "Payload": 5000,
+        "Armor": 500,
+        "Speed": 5,
+        "Critical Hit Chance": null,
+        "Accuracy Adjusted": null,
+        "Damage Adjusted": null,
+        "Defensive Merit": 150000
+      },
+      "Unique Stats": {
+        "Shield Projection": null,
+        "Module Uplink": null,
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": null,
+        "Drain Boost": null
+      }
+    }
+  },
+  {
+    "title": "Crusader",
+    "url": "https://cybots.fandom.com/wiki/Crusader",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Tracker",
+        "Chassis Cost": {
+          "value": 300480,
+          "unit": "credits"
+        },
+        "Technology Required": "Crusader Technology",
+        "Other Requirements": null
+      },
+      "Slots": {
+        "Weapon Slots": 1,
+        "Module Slots": 2,
+        "Shield Slots": 4,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 21,
+        "Shield Tech": 11,
+        "Module Tech": 11,
+        "Reactor Tech": 16
+      },
+      "Base Stats": {
+        "Payload": 800,
+        "Armor": 525,
+        "Speed": 25,
+        "Critical Hit Chance": {
+          "value": 1,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": {
+          "value": 25,
+          "unit": "%"
+        },
+        "Damage Adjusted": {
+          "value": 200,
+          "unit": "%"
+        },
+        "Defensive Merit": 94870
+      },
+      "Unique Stats": {
+        "Shield Projection": null,
+        "Module Uplink": null,
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": null,
+        "Drain Boost": null
+      }
+    }
+  },
+  {
+    "title": "CyBulwark",
+    "url": "https://cybots.fandom.com/wiki/CyBulwark",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Spider",
+        "Chassis Cost": {
+          "value": 500,
+          "unit": "lava diamonds"
+        },
+        "Technology Required": null,
+        "Other Requirements": null
+      },
+      "Slots": {
+        "Weapon Slots": 4,
+        "Module Slots": 3,
+        "Shield Slots": 2,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 147,
+        "Shield Tech": 15,
+        "Module Tech": 40,
+        "Reactor Tech": 50
+      },
+      "Base Stats": {
+        "Payload": 600,
+        "Armor": 1200,
+        "Speed": 85,
+        "Critical Hit Chance": {
+          "value": 20,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": {
+          "value": 40,
+          "unit": "%"
+        },
+        "Damage Adjusted": null,
+        "Defensive Merit": 16300
+      },
+      "Unique Stats": {
+        "Shield Projection": {
+          "value": 25,
+          "unit": "%"
+        },
+        "Module Uplink": null,
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": {
+          "value": 150,
+          "unit": "%"
+        },
+        "Drain Boost": null
+      }
+    }
+  },
+  {
+    "title": "CyCorps Overseer",
+    "url": "https://cybots.fandom.com/wiki/CyCorps_Overseer",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Hover",
+        "Chassis Cost": "found",
+        "Technology Required": null,
+        "Other Requirements": "Defeat the Master Controllers"
+      },
+      "Slots": {
+        "Weapon Slots": 1,
+        "Module Slots": 4,
+        "Shield Slots": 1,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 1,
+        "Shield Tech": 1,
+        "Module Tech": 31,
+        "Reactor Tech": 16
+      },
+      "Base Stats": {
+        "Payload": 400,
+        "Armor": 350,
+        "Speed": 55,
+        "Critical Hit Chance": null,
+        "Accuracy Adjusted": null,
+        "Damage Adjusted": null,
+        "Defensive Merit": "?"
+      },
+      "Unique Stats": {
+        "Shield Projection": null,
+        "Module Uplink": {
+          "value": 50,
+          "unit": "%"
+        },
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": {
+          "value": -25,
+          "unit": "%"
+        },
+        "Drain Boost": "?"
+      }
+    }
+  },
+  {
+    "title": "CyCrusader",
+    "url": "https://cybots.fandom.com/wiki/CyCrusader",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Tracker",
+        "Chassis Cost": {
+          "value": 500,
+          "unit": "mirons"
+        },
+        "Technology Required": null,
+        "Other Requirements": null
+      },
+      "Slots": {
+        "Weapon Slots": 2,
+        "Module Slots": 3,
+        "Shield Slots": 4,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 21,
+        "Shield Tech": 11,
+        "Module Tech": 11,
+        "Reactor Tech": 16
+      },
+      "Base Stats": {
+        "Payload": 800,
+        "Armor": 800,
+        "Speed": 40,
+        "Critical Hit Chance": {
+          "value": 20,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": {
+          "value": 35,
+          "unit": "%"
+        },
+        "Damage Adjusted": null,
+        "Defensive Merit": 85000
+      },
+      "Unique Stats": {
+        "Shield Projection": null,
+        "Module Uplink": null,
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": {
+          "value": 250,
+          "unit": "%"
+        },
+        "Drain Boost": null
+      }
+    }
+  },
+  {
+    "title": "CyMarauder",
+    "url": "https://cybots.fandom.com/wiki/CyMarauder",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Quadra",
+        "Chassis Cost": {
+          "value": 50000000,
+          "unit": "credits"
+        },
+        "Technology Required": null,
+        "Other Requirements": null
+      },
+      "Slots": {
+        "Weapon Slots": 6,
+        "Module Slots": 3,
+        "Shield Slots": 2,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 298,
+        "Shield Tech": 15,
+        "Module Tech": 40,
+        "Reactor Tech": 56
+      },
+      "Base Stats": {
+        "Payload": 700,
+        "Armor": 2000,
+        "Speed": 85,
+        "Critical Hit Chance": {
+          "value": 50,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": {
+          "value": 35,
+          "unit": "%"
+        },
+        "Damage Adjusted": null,
+        "Defensive Merit": 34500
+      },
+      "Unique Stats": {
+        "Shield Projection": null,
+        "Module Uplink": null,
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": {
+          "value": 200,
+          "unit": "%"
+        },
+        "Drain Boost": null
+      }
+    }
+  },
+  {
+    "title": "CyOrbiter",
+    "url": "https://cybots.fandom.com/wiki/CyOrbiter",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Hover",
+        "Chassis Cost": {
+          "value": 500,
+          "unit": "mirons"
+        },
+        "Technology Required": null,
+        "Other Requirements": null
+      },
+      "Slots": {
+        "Weapon Slots": 2,
+        "Module Slots": 4,
+        "Shield Slots": 1,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 147,
+        "Shield Tech": 15,
+        "Module Tech": 16,
+        "Reactor Tech": 50
+      },
+      "Base Stats": {
+        "Payload": 400,
+        "Armor": 300,
+        "Speed": 90,
+        "Critical Hit Chance": {
+          "value": 1,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": null,
+        "Damage Adjusted": null,
+        "Defensive Merit": 5800
+      },
+      "Unique Stats": {
+        "Shield Projection": null,
+        "Module Uplink": null,
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": null,
+        "Drain Boost": null
+      }
+    }
+  },
+  {
+    "title": "CyRanger",
+    "url": "https://cybots.fandom.com/wiki/CyRanger",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Wheeler",
+        "Chassis Cost": {
+          "value": 20000000,
+          "unit": "credits"
+        },
+        "Technology Required": null,
+        "Other Requirements": null
+      },
+      "Slots": {
+        "Weapon Slots": 1,
+        "Module Slots": 2,
+        "Shield Slots": 1,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 298,
+        "Shield Tech": 15,
+        "Module Tech": 15,
+        "Reactor Tech": 56
+      },
+      "Base Stats": {
+        "Payload": 125,
+        "Armor": 900,
+        "Speed": 125,
+        "Critical Hit Chance": {
+          "value": 50,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": {
+          "value": 35,
+          "unit": "%"
+        },
+        "Defensive Merit": 9250
+      },
+      "Unique Stats": {
+        "Shield Projection": null,
+        "Module Uplink": null,
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": {
+          "value": 200,
+          "unit": "%"
+        },
+        "Drain Boost": null
+      }
+    }
+  },
+  {
+    "title": "CyValadin",
+    "url": "https://cybots.fandom.com/wiki/CyValadin",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Walker",
+        "Chassis Cost": {
+          "value": 30000000,
+          "unit": "credits"
+        },
+        "Technology Required": null,
+        "Other Requirements": null
+      },
+      "Slots": {
+        "Weapon Slots": 2,
+        "Module Slots": 3,
+        "Shield Slots": 2,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 11,
+        "Shield Tech": 11,
+        "Module Tech": 1,
+        "Reactor Tech": 11
+      },
+      "Base Stats": {
+        "Payload": 450,
+        "Armor": 600,
+        "Speed": 55,
+        "Critical Hit Chance": {
+          "value": 2,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": {
+          "value": 5,
+          "unit": "%"
+        },
+        "Damage Adjusted": null,
+        "Defensive Merit": 15600
+      },
+      "Unique Stats": {
+        "Shield Projection": null,
+        "Module Uplink": null,
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": null,
+        "Drain Boost": null
+      }
+    }
+  },
+  {
+    "title": "Enhanced Reaper",
+    "url": "https://cybots.fandom.com/wiki/Enhanced_Reaper",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Spider",
+        "Chassis Cost": null,
+        "Technology Required": null,
+        "Other Requirements": "Complete Enhanced Reaper Quest"
+      },
+      "Slots": {
+        "Weapon Slots": 2,
+        "Module Slots": 2,
+        "Shield Slots": 2,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 308,
+        "Shield Tech": 1,
+        "Module Tech": 50,
+        "Reactor Tech": 56
+      },
+      "Base Stats": {
+        "Payload": 1000,
+        "Armor": 800,
+        "Speed": 100,
+        "Critical Hit Chance": {
+          "value": 25,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": {
+          "value": 100,
+          "unit": "%"
+        },
+        "Damage Adjusted": null,
+        "Defensive Merit": 95500
+      },
+      "Unique Stats": {
+        "Shield Projection": null,
+        "Module Uplink": null,
+        "Energy Distribution / Energy Share": {
+          "value": 100,
+          "unit": "%"
+        },
+        "Energy Induction": {
+          "value": 100,
+          "unit": "%"
+        }
+      },
+      "Hidden Stats": {
+        "Damage Boost": null,
+        "Drain Boost": {
+          "value": 250,
+          "unit": "%"
+        }
+      }
+    }
+  },
+  {
+    "title": "Flaming Hornet",
+    "url": "https://cybots.fandom.com/wiki/Flaming_Hornet",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Hover",
+        "Chassis Cost": null,
+        "Technology Required": null,
+        "Other Requirements": "Praetorian Base Schematics"
+      },
+      "Slots": {
+        "Weapon Slots": 2,
+        "Module Slots": 4,
+        "Shield Slots": 2,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 147,
+        "Shield Tech": 15,
+        "Module Tech": 110,
+        "Reactor Tech": 50
+      },
+      "Base Stats": {
+        "Payload": 600,
+        "Armor": 125,
+        "Speed": 150,
+        "Critical Hit Chance": {
+          "value": 1,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": {
+          "value": 100,
+          "unit": "%"
+        },
+        "Defensive Merit": 22000
+      },
+      "Unique Stats": {
+        "Shield Projection": null,
+        "Module Uplink": {
+          "value": 75,
+          "unit": "%"
+        },
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": {
+          "value": 125,
+          "unit": "%"
+        },
+        "Drain Boost": null
+      }
+    }
+  },
+  {
+    "title": "Flaming Orbiter",
+    "url": "https://cybots.fandom.com/wiki/Flaming_Orbiter",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Hover",
+        "Chassis Cost": {
+          "value": 350,
+          "unit": "mirons"
+        },
+        "Technology Required": null,
+        "Other Requirements": null
+      },
+      "Slots": {
+        "Weapon Slots": 1,
+        "Module Slots": 4,
+        "Shield Slots": 1,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 1,
+        "Shield Tech": 1,
+        "Module Tech": 11,
+        "Reactor Tech": 1
+      },
+      "Base Stats": {
+        "Payload": 400,
+        "Armor": 400,
+        "Speed": 130,
+        "Critical Hit Chance": {
+          "value": 40,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": {
+          "value": 0,
+          "unit": "%"
+        },
+        "Damage Adjusted": null,
+        "Defensive Merit": 4750
+      },
+      "Unique Stats": {
+        "Shield Projection": null,
+        "Module Uplink": null,
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": null,
+        "Drain Boost": {
+          "value": 150,
+          "unit": "% verify"
+        }
+      }
+    }
+  },
+  {
+    "title": "Hornet",
+    "url": "https://cybots.fandom.com/wiki/Hornet",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Hover",
+        "Chassis Cost": null,
+        "Technology Required": null,
+        "Other Requirements": "Praetorian Research Lab Schematics"
+      },
+      "Slots": {
+        "Weapon Slots": 2,
+        "Module Slots": 4,
+        "Shield Slots": 2,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 147,
+        "Shield Tech": 15,
+        "Module Tech": 110,
+        "Reactor Tech": 50
+      },
+      "Base Stats": {
+        "Payload": 600,
+        "Armor": 125,
+        "Speed": 125,
+        "Critical Hit Chance": {
+          "value": 1,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": {
+          "value": 100,
+          "unit": "%"
+        },
+        "Damage Adjusted": null,
+        "Defensive Merit": 25000
+      },
+      "Unique Stats": {
+        "Shield Projection": null,
+        "Module Uplink": {
+          "value": 75,
+          "unit": "%"
+        },
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": {
+          "value": 125,
+          "unit": "%"
+        },
+        "Drain Boost": null
+      }
+    }
+  },
+  {
+    "title": "Leviathan",
+    "url": "https://cybots.fandom.com/wiki/Leviathan",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Walker",
+        "Chassis Cost": "found",
+        "Technology Required": null,
+        "Other Requirements": "Order of the Regiment"
+      },
+      "Slots": {
+        "Weapon Slots": 8,
+        "Module Slots": 2,
+        "Shield Slots": 2,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 15,
+        "Shield Tech": 15,
+        "Module Tech": 5,
+        "Reactor Tech": 20
+      },
+      "Base Stats": {
+        "Payload": 1500,
+        "Armor": 3000,
+        "Speed": 15,
+        "Critical Hit Chance": {
+          "value": 1,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": null,
+        "Damage Adjusted": null,
+        "Defensive Merit": {
+          "value": 112550,
+          "unit": "(verify)"
+        }
+      },
+      "Unique Stats": {
+        "Shield Projection": null,
+        "Module Uplink": null,
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": null,
+        "Drain Boost": null
+      }
+    }
+  },
+  {
+    "title": "Marauder",
+    "url": "https://cybots.fandom.com/wiki/Marauder",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Quadra",
+        "Chassis Cost": {
+          "value": 158200,
+          "unit": "credits"
+        },
+        "Technology Required": null,
+        "Other Requirements": null
+      },
+      "Slots": {
+        "Weapon Slots": 5,
+        "Module Slots": 0,
+        "Shield Slots": 0,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 16,
+        "Shield Tech": 1,
+        "Module Tech": 1,
+        "Reactor Tech": 11
+      },
+      "Base Stats": {
+        "Payload": 550,
+        "Armor": 800,
+        "Speed": 40,
+        "Critical Hit Chance": {
+          "value": 1,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": {
+          "value": 35,
+          "unit": "%"
+        },
+        "Damage Adjusted": {
+          "value": 10,
+          "unit": "%"
+        },
+        "Defensive Merit": 20800
+      },
+      "Unique Stats": {
+        "Shield Projection": null,
+        "Module Uplink": null,
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": null,
+        "Drain Boost": null
+      }
+    }
+  },
+  {
+    "title": "Orbiter",
+    "url": "https://cybots.fandom.com/wiki/Orbiter",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Hover",
+        "Chassis Cost": {
+          "value": 45750,
+          "unit": "credits"
+        },
+        "Technology Required": null,
+        "Other Requirements": null
+      },
+      "Slots": {
+        "Weapon Slots": 1,
+        "Module Slots": 4,
+        "Shield Slots": 1,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 6,
+        "Shield Tech": 1,
+        "Module Tech": 11,
+        "Reactor Tech": 5
+      },
+      "Base Stats": {
+        "Payload": 180,
+        "Armor": 120,
+        "Speed": 80,
+        "Critical Hit Chance": {
+          "value": 1,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": null,
+        "Damage Adjusted": null,
+        "Defensive Merit": 4550
+      },
+      "Unique Stats": {
+        "Shield Projection": null,
+        "Module Uplink": null,
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": null,
+        "Drain Boost": null
+      }
+    }
+  },
+  {
+    "title": "Overseer",
+    "url": "https://cybots.fandom.com/wiki/Overseer",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Hover",
+        "Chassis Cost": {
+          "value": 90000,
+          "unit": "credits"
+        },
+        "Technology Required": null,
+        "Other Requirements": null
+      },
+      "Slots": {
+        "Weapon Slots": 1,
+        "Module Slots": 3,
+        "Shield Slots": 1,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 1,
+        "Shield Tech": 1,
+        "Module Tech": 16,
+        "Reactor Tech": 6
+      },
+      "Base Stats": {
+        "Payload": 300,
+        "Armor": 300,
+        "Speed": 45,
+        "Critical Hit Chance": null,
+        "Accuracy Adjusted": null,
+        "Damage Adjusted": {
+          "value": -25,
+          "unit": "%"
+        },
+        "Defensive Merit": 7500
+      },
+      "Unique Stats": {
+        "Shield Projection": null,
+        "Module Uplink": {
+          "value": 25,
+          "unit": "%"
+        },
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": null,
+        "Drain Boost": null
+      }
+    }
+  },
+  {
+    "title": "Ranger",
+    "url": "https://cybots.fandom.com/wiki/Ranger",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Wheeler",
+        "Chassis Cost": {
+          "value": 24500,
+          "unit": "credits"
+        },
+        "Technology Required": null,
+        "Other Requirements": null
+      },
+      "Slots": {
+        "Weapon Slots": 1,
+        "Module Slots": 1,
+        "Shield Slots": 1,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 6,
+        "Shield Tech": 1,
+        "Module Tech": 1,
+        "Reactor Tech": 1
+      },
+      "Base Stats": {
+        "Payload": 275,
+        "Armor": 150,
+        "Speed": 70,
+        "Critical Hit Chance": {
+          "value": 5,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": {
+          "value": 25,
+          "unit": "%"
+        },
+        "Damage Adjusted": {
+          "value": 20,
+          "unit": "%"
+        },
+        "Defensive Merit": 6375
+      },
+      "Unique Stats": {
+        "Shield Projection": null,
+        "Module Uplink": null,
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": null,
+        "Drain Boost": null
+      }
+    }
+  },
+  {
+    "title": "Reaper",
+    "url": "https://cybots.fandom.com/wiki/Reaper",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Spider",
+        "Chassis Cost": {
+          "value": 76200,
+          "unit": "credits"
+        },
+        "Technology Required": null,
+        "Other Requirements": null
+      },
+      "Slots": {
+        "Weapon Slots": 2,
+        "Module Slots": 1,
+        "Shield Slots": 2,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 11,
+        "Shield Tech": 1,
+        "Module Tech": 1,
+        "Reactor Tech": 6
+      },
+      "Base Stats": {
+        "Payload": 225,
+        "Armor": 300,
+        "Speed": 55,
+        "Critical Hit Chance": {
+          "value": 1,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": null,
+        "Damage Adjusted": null,
+        "Defensive Merit": 12800
+      },
+      "Unique Stats": {
+        "Shield Projection": null,
+        "Module Uplink": null,
+        "Energy Distribution / Energy Share": {
+          "value": 50,
+          "unit": "%"
+        },
+        "Energy Induction": {
+          "value": 100,
+          "unit": "%"
+        }
+      },
+      "Hidden Stats": {
+        "Damage Boost": null,
+        "Drain Boost": {
+          "value": 150,
+          "unit": "%"
+        }
+      }
+    }
+  },
+  {
+    "title": "Recon Hornet",
+    "url": "https://cybots.fandom.com/wiki/Recon_Hornet",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Hover",
+        "Chassis Cost": null,
+        "Technology Required": null,
+        "Other Requirements": "Praetorian Base Schematics"
+      },
+      "Slots": {
+        "Weapon Slots": 2,
+        "Module Slots": 4,
+        "Shield Slots": 2,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 147,
+        "Shield Tech": 15,
+        "Module Tech": 110,
+        "Reactor Tech": 50
+      },
+      "Base Stats": {
+        "Payload": 600,
+        "Armor": 400,
+        "Speed": 125,
+        "Critical Hit Chance": {
+          "value": 20,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": {
+          "value": 100,
+          "unit": "%"
+        },
+        "Damage Adjusted": null,
+        "Defensive Merit": "verify"
+      },
+      "Unique Stats": {
+        "Shield Projection": null,
+        "Module Uplink": {
+          "value": 75,
+          "unit": "%"
+        },
+        "Energy Distribution / Energy Share": "none* verify",
+        "Energy Induction": "none* verify"
+      },
+      "Hidden Stats": {
+        "Damage Boost": "verify",
+        "Drain Boost": "none* verify"
+      }
+    }
+  },
+  {
+    "title": "Recon Warthog",
+    "url": "https://cybots.fandom.com/wiki/Recon_Warthog",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Tracker",
+        "Chassis Cost": null,
+        "Technology Required": null,
+        "Other Requirements": "Praetorian Base Schematics"
+      },
+      "Slots": {
+        "Weapon Slots": 2,
+        "Module Slots": 5,
+        "Shield Slots": 5,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 147,
+        "Shield Tech": 252,
+        "Module Tech": 15,
+        "Reactor Tech": 102
+      },
+      "Base Stats": {
+        "Payload": 2000,
+        "Armor": 1200,
+        "Speed": 50,
+        "Critical Hit Chance": {
+          "value": 25,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": null,
+        "Defensive Merit": 30000
+      },
+      "Unique Stats": {
+        "Shield Projection": {
+          "value": 200,
+          "unit": "%"
+        },
+        "Module Uplink": null,
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": {
+          "value": 150,
+          "unit": "%"
+        },
+        "Drain Boost": null
+      }
+    }
+  },
+  {
+    "title": "Sentinel",
+    "url": "https://cybots.fandom.com/wiki/Sentinel",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Tracker",
+        "Chassis Cost": {
+          "value": 95000,
+          "unit": "credits"
+        },
+        "Technology Required": null,
+        "Other Requirements": null
+      },
+      "Slots": {
+        "Weapon Slots": 2,
+        "Module Slots": 1,
+        "Shield Slots": 3,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 1,
+        "Shield Tech": 11,
+        "Module Tech": 1,
+        "Reactor Tech": 11
+      },
+      "Base Stats": {
+        "Payload": 550,
+        "Armor": 450,
+        "Speed": 35,
+        "Critical Hit Chance": null,
+        "Accuracy Adjusted": {
+          "value": -25,
+          "unit": "%"
+        },
+        "Damage Adjusted": {
+          "value": -25,
+          "unit": "%"
+        },
+        "Defensive Merit": 11250
+      },
+      "Unique Stats": {
+        "Shield Projection": {
+          "value": 30,
+          "unit": "%"
+        },
+        "Module Uplink": null,
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": null,
+        "Drain Boost": null
+      }
+    }
+  },
+  {
+    "title": "Terminus Prototype",
+    "url": "https://cybots.fandom.com/wiki/Terminus_Prototype",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Spider",
+        "Chassis Cost": {
+          "value": 150000000,
+          "unit": "credits"
+        },
+        "Technology Required": null,
+        "Other Requirements": null
+      },
+      "Slots": {
+        "Weapon Slots": 8,
+        "Module Slots": 3,
+        "Shield Slots": 4,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 1000,
+        "Shield Tech": 252,
+        "Module Tech": 110,
+        "Reactor Tech": 102
+      },
+      "Base Stats": {
+        "Payload": 5500,
+        "Armor": 1200,
+        "Speed": 300,
+        "Critical Hit Chance": {
+          "value": 50,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": {
+          "value": 100,
+          "unit": "%"
+        },
+        "Defensive Merit": 500000
+      },
+      "Unique Stats": {
+        "Shield Projection": {
+          "value": 200,
+          "unit": "%"
+        },
+        "Module Uplink": {
+          "value": 100,
+          "unit": "%"
+        },
+        "Energy Distribution / Energy Share": {
+          "value": 100,
+          "unit": "%"
+        },
+        "Energy Induction": {
+          "value": 100,
+          "unit": "%"
+        }
+      },
+      "Hidden Stats": {
+        "Damage Boost": {
+          "value": 225,
+          "unit": "%"
+        },
+        "Drain Boost": {
+          "value": 200,
+          "unit": "%"
+        }
+      }
+    }
+  },
+  {
+    "title": "Valadin",
+    "url": "https://cybots.fandom.com/wiki/Valadin",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Walker",
+        "Chassis Cost": {
+          "value": 40200,
+          "unit": "credits"
+        },
+        "Technology Required": null,
+        "Other Requirements": null
+      },
+      "Slots": {
+        "Weapon Slots": 2,
+        "Module Slots": 2,
+        "Shield Slots": 2,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 6,
+        "Shield Tech": 1,
+        "Module Tech": 1,
+        "Reactor Tech": 6
+      },
+      "Base Stats": {
+        "Payload": 350,
+        "Armor": 400,
+        "Speed": 50,
+        "Critical Hit Chance": {
+          "value": 1,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": null,
+        "Damage Adjusted": null,
+        "Defensive Merit": 10050
+      },
+      "Unique Stats": {
+        "Shield Projection": null,
+        "Module Uplink": null,
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": null,
+        "Drain Boost": null
+      }
+    }
+  },
+  {
+    "title": "Viper",
+    "url": "https://cybots.fandom.com/wiki/Viper",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Hover",
+        "Chassis Cost": {
+          "value": 75000000,
+          "unit": "credits"
+        },
+        "Technology Required": null,
+        "Other Requirements": null
+      },
+      "Slots": {
+        "Weapon Slots": 4,
+        "Module Slots": 1,
+        "Shield Slots": 2,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 650,
+        "Shield Tech": 252,
+        "Module Tech": 110,
+        "Reactor Tech": 102
+      },
+      "Base Stats": {
+        "Payload": 1000,
+        "Armor": 1000,
+        "Speed": 225,
+        "Critical Hit Chance": {
+          "value": 1,
+          "unit": "%"
+        },
+        "Accuracy Adjusted": {
+          "value": 100,
+          "unit": "%"
+        },
+        "Damage Adjusted": null,
+        "Defensive Merit": 75000
+      },
+      "Unique Stats": {
+        "Shield Projection": {
+          "value": 100,
+          "unit": "%"
+        },
+        "Module Uplink": null,
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": null,
+        "Drain Boost": {
+          "value": 125,
+          "unit": "%"
+        }
+      }
+    }
+  },
+  {
+    "title": "Warthog",
+    "url": "https://cybots.fandom.com/wiki/Warthog",
+    "sections": {
+      "Unit Information": {
+        "Unit Type": "Cybot (Useable)",
+        "Faction": null,
+        "Chassis Type": "Tracker",
+        "Chassis Cost": null,
+        "Technology Required": null,
+        "Other Requirements": "Praetorian Research Lab Schematics"
+      },
+      "Slots": {
+        "Weapon Slots": 2,
+        "Module Slots": 5,
+        "Shield Slots": 4,
+        "Reactor Slots": 1
+      },
+      "Starting Tech Levels": {
+        "Weapon Tech": 147,
+        "Shield Tech": 252,
+        "Module Tech": 15,
+        "Reactor Tech": 102
+      },
+      "Base Stats": {
+        "Payload": 2000,
+        "Armor": 300,
+        "Speed": 5,
+        "Critical Hit Chance": "none* verify",
+        "Accuracy Adjusted": {
+          "value": -50,
+          "unit": "%"
+        },
+        "Damage Adjusted": "none* verify",
+        "Defensive Merit": "verify"
+      },
+      "Unique Stats": {
+        "Shield Projection": {
+          "value": 150,
+          "unit": "%"
+        },
+        "Module Uplink": null,
+        "Energy Distribution / Energy Share": null,
+        "Energy Induction": null
+      },
+      "Hidden Stats": {
+        "Damage Boost": {
+          "value": -50,
+          "unit": "%"
+        },
+        "Drain Boost": null
+      }
+    }
+  }
+]
