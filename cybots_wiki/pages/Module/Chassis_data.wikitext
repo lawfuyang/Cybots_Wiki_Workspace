@@ -11,8 +11,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Spider",
                 ["Chassis Cost"] = { value = 140200, unit = "credits" },
-                ["Technology Required"] = "Bulwark Technology",
-                ["Other Requirements"] = nil,
+                ["Requirements"] = "Bulwark Technology",
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 4,
@@ -57,8 +56,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Quadra",
                 ["Chassis Cost"] = { value = 50000000, unit = "credits" },
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = nil,
+                ["Requirements"] = nil,
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 0,
@@ -103,8 +101,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Tracker",
                 ["Chassis Cost"] = { value = 300480, unit = "credits" },
-                ["Technology Required"] = "Crusader Technology",
-                ["Other Requirements"] = nil,
+                ["Requirements"] = "Crusader Technology",
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 1,
@@ -149,8 +146,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Spider",
                 ["Chassis Cost"] = { value = 500, unit = "lava diamonds" },
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = nil,
+                ["Requirements"] = nil,
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 4,
@@ -195,8 +191,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Hover",
                 ["Chassis Cost"] = "found",
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = "Defeat the Master Controllers",
+                ["Requirements"] = "Defeat the Master Controllers",
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 1,
@@ -241,8 +236,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Tracker",
                 ["Chassis Cost"] = { value = 500, unit = "mirons" },
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = nil,
+                ["Requirements"] = nil,
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 2,
@@ -287,8 +281,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Quadra",
                 ["Chassis Cost"] = { value = 50000000, unit = "credits" },
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = nil,
+                ["Requirements"] = nil,
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 6,
@@ -333,8 +326,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Hover",
                 ["Chassis Cost"] = { value = 500, unit = "mirons" },
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = nil,
+                ["Requirements"] = nil,
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 2,
@@ -379,8 +371,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Wheeler",
                 ["Chassis Cost"] = { value = 20000000, unit = "credits" },
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = nil,
+                ["Requirements"] = nil,
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 1,
@@ -424,8 +415,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Walker",
                 ["Chassis Cost"] = { value = 30000000, unit = "credits" },
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = nil,
+                ["Requirements"] = nil,
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 2,
@@ -470,8 +460,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Spider",
                 ["Chassis Cost"] = nil,
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = "Complete Enhanced Reaper Quest",
+                ["Requirements"] = "Complete Enhanced Reaper Quest",
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 2,
@@ -516,8 +505,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Hover",
                 ["Chassis Cost"] = nil,
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = "Praetorian Base Schematics",
+                ["Requirements"] = "Praetorian Base Schematics",
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 2,
@@ -561,8 +549,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Hover",
                 ["Chassis Cost"] = { value = 350, unit = "mirons" },
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = nil,
+                ["Requirements"] = nil,
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 1,
@@ -607,8 +594,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Hover",
                 ["Chassis Cost"] = nil,
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = "Praetorian Research Lab Schematics",
+                ["Requirements"] = "Praetorian Research Lab Schematics",
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 2,
@@ -653,8 +639,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Walker",
                 ["Chassis Cost"] = "found",
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = "Order of the Regiment",
+                ["Requirements"] = "Order of the Regiment",
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 8,
@@ -699,8 +684,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Quadra",
                 ["Chassis Cost"] = { value = 158200, unit = "credits" },
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = nil,
+                ["Requirements"] = nil,
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 5,
@@ -745,8 +729,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Hover",
                 ["Chassis Cost"] = { value = 45750, unit = "credits" },
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = nil,
+                ["Requirements"] = nil,
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 1,
@@ -791,8 +774,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Hover",
                 ["Chassis Cost"] = { value = 90000, unit = "credits" },
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = nil,
+                ["Requirements"] = nil,
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 1,
@@ -837,8 +819,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Wheeler",
                 ["Chassis Cost"] = { value = 24500, unit = "credits" },
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = nil,
+                ["Requirements"] = nil,
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 1,
@@ -883,8 +864,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Spider",
                 ["Chassis Cost"] = { value = 76200, unit = "credits" },
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = nil,
+                ["Requirements"] = nil,
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 2,
@@ -929,8 +909,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Hover",
                 ["Chassis Cost"] = nil,
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = "Praetorian Base Schematics",
+                ["Requirements"] = "Praetorian Base Schematics",
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 2,
@@ -975,8 +954,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Tracker",
                 ["Chassis Cost"] = nil,
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = "Praetorian Base Schematics",
+                ["Requirements"] = "Praetorian Base Schematics",
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 2,
@@ -1020,8 +998,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Tracker",
                 ["Chassis Cost"] = { value = 95000, unit = "credits" },
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = nil,
+                ["Requirements"] = nil,
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 2,
@@ -1066,8 +1043,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Spider",
                 ["Chassis Cost"] = { value = 150000000, unit = "credits" },
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = nil,
+                ["Requirements"] = nil,
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 8,
@@ -1111,8 +1087,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Walker",
                 ["Chassis Cost"] = { value = 40200, unit = "credits" },
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = nil,
+                ["Requirements"] = nil,
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 2,
@@ -1157,8 +1132,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Hover",
                 ["Chassis Cost"] = { value = 75000000, unit = "credits" },
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = nil,
+                ["Requirements"] = nil,
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 4,
@@ -1203,8 +1177,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Tracker",
                 ["Chassis Cost"] = nil,
-                ["Technology Required"] = nil,
-                ["Other Requirements"] = "Praetorian Research Lab Schematics",
+                ["Requirements"] = "Praetorian Research Lab Schematics",
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 2,
