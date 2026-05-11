@@ -3,7 +3,7 @@
 return {
     {
         title = "Bulwark",
-        url = "https://cybots.fandom.com/wiki/Bulwark",la
+        url = "https://cybots.fandom.com/wiki/Bulwark",
         image1 = "bulwark.jpg",
         sections = {
             ["Unit Information"] = {
