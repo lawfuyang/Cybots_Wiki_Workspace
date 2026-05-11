@@ -1,4 +1,6 @@
 -- Auto-generated data module for Module:Modules
+-- NOTE: Data parsed from in-game. May not reflect accurate values.
+--	     Sets over time may modify certain properties
 
 return {
     {
@@ -53,7 +55,7 @@ return {
                 ["Energy Drain Deflection"] = "—",
                 ["Bounty Enhanced"] = "—",
                 ["Experience Enhanced"] = "—",
-                ["Defensive Merit"] = 0,
+                ["Defensive Merit"] = nil,
             },
         },
     },
@@ -109,7 +111,7 @@ return {
                 ["Energy Drain Deflection"] = "—",
                 ["Bounty Enhanced"] = "—",
                 ["Experience Enhanced"] = "—",
-                ["Defensive Merit"] = 0,
+                ["Defensive Merit"] = 1500,
             },
         },
     },
@@ -165,7 +167,7 @@ return {
                 ["Energy Drain Deflection"] = "—",
                 ["Bounty Enhanced"] = "—",
                 ["Experience Enhanced"] = "—",
-                ["Defensive Merit"] = 0,
+                ["Defensive Merit"] = 5000,
             },
         },
     },
@@ -221,7 +223,7 @@ return {
                 ["Energy Drain Deflection"] = "—",
                 ["Bounty Enhanced"] = "—",
                 ["Experience Enhanced"] = "—",
-                ["Defensive Merit"] = 0,
+                ["Defensive Merit"] = 10125,
             },
         },
     },
@@ -613,7 +615,7 @@ return {
                 ["Energy Drain Deflection"] = "—",
                 ["Bounty Enhanced"] = "—",
                 ["Experience Enhanced"] = "—",
-                ["Defensive Merit"] = 0,
+                ["Defensive Merit"] = nil,
             },
         },
     },

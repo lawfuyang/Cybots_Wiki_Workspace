@@ -1,4 +1,6 @@
 -- Auto-generated data module for Module:Chassis
+-- NOTE: Data parsed from in-game. May not reflect accurate values.
+--	     Sets over time may modify certain properties
 
 return {
     {
@@ -27,8 +29,8 @@ return {
             },
             ["Base Stats"] = {
                 ["Payload"] = 600,
-                ["Armor"] = 650,
-                ["Speed"] = 40,
+                ["Armor"] = 550,
+                ["Speed"] = 30,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
                 ["Accuracy Adjusted"] = { value = 5, unit = "%" },
                 ["Damage Adjusted"] = { value = 5, unit = "%" },
@@ -208,7 +210,7 @@ return {
             ["Base Stats"] = {
                 ["Payload"] = 400,
                 ["Armor"] = 350,
-                ["Speed"] = 55,
+                ["Speed"] = 45,
                 ["Critical Hit Chance"] = nil,
                 ["Accuracy Adjusted"] = nil,
                 ["Damage Adjusted"] = nil,
@@ -656,8 +658,8 @@ return {
             ["Base Stats"] = {
                 ["Payload"] = 1500,
                 ["Armor"] = 3000,
-                ["Speed"] = 15,
-                ["Critical Hit Chance"] = { value = 1, unit = "%" },
+                ["Speed"] = 30,
+                ["Critical Hit Chance"] = { value = 2, unit = "%" },
                 ["Accuracy Adjusted"] = nil,
                 ["Damage Adjusted"] = nil,
                 ["Defensive Merit"] = { value = 112550 },
@@ -701,8 +703,8 @@ return {
             ["Base Stats"] = {
                 ["Payload"] = 550,
                 ["Armor"] = 800,
-                ["Speed"] = 40,
-                ["Critical Hit Chance"] = { value = 1, unit = "%" },
+                ["Speed"] = 70,
+                ["Critical Hit Chance"] = { value = 12, unit = "%" },
                 ["Accuracy Adjusted"] = { value = 35, unit = "%" },
                 ["Damage Adjusted"] = { value = 10, unit = "%" },
                 ["Defensive Merit"] = 20800,
@@ -790,8 +792,8 @@ return {
             },
             ["Base Stats"] = {
                 ["Payload"] = 300,
-                ["Armor"] = 300,
-                ["Speed"] = 45,
+                ["Armor"] = 275,
+                ["Speed"] = 40,
                 ["Critical Hit Chance"] = nil,
                 ["Accuracy Adjusted"] = nil,
                 ["Damage Adjusted"] = { value = -25, unit = "%" },
@@ -835,9 +837,9 @@ return {
             },
             ["Base Stats"] = {
                 ["Payload"] = 275,
-                ["Armor"] = 150,
-                ["Speed"] = 70,
-                ["Critical Hit Chance"] = { value = 5, unit = "%" },
+                ["Armor"] = 125,
+                ["Speed"] = 60,
+                ["Critical Hit Chance"] = { value = 1, unit = "%" },
                 ["Accuracy Adjusted"] = { value = 25, unit = "%" },
                 ["Damage Adjusted"] = { value = 20, unit = "%" },
                 ["Defensive Merit"] = 6375,
@@ -880,8 +882,8 @@ return {
             },
             ["Base Stats"] = {
                 ["Payload"] = 225,
-                ["Armor"] = 300,
-                ["Speed"] = 55,
+                ["Armor"] = 250,
+                ["Speed"] = 45,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
                 ["Accuracy Adjusted"] = nil,
                 ["Damage Adjusted"] = nil,
@@ -1014,7 +1016,7 @@ return {
             },
             ["Base Stats"] = {
                 ["Payload"] = 550,
-                ["Armor"] = 450,
+                ["Armor"] = 400,
                 ["Speed"] = 35,
                 ["Critical Hit Chance"] = nil,
                 ["Accuracy Adjusted"] = { value = -25, unit = "%" },

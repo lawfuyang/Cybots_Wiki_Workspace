@@ -1,4 +1,6 @@
 -- Auto-generated data module for Module:Shields
+-- NOTE: Data parsed from in-game. May not reflect accurate values.
+--	     Sets over time may modify certain properties
 
 return {
     {
@@ -110,7 +112,7 @@ return {
             ["Properties"] = {
                 ["Primary Level"] = 700,
                 ["Energy Use"] = 70,
-                ["Recharge Rate"] = 50,
+                ["Recharge Rate"] = 70,
                 ["Defensive Merit"] = 17500,
             },
         },
@@ -129,7 +131,7 @@ return {
             ["Properties"] = {
                 ["Primary Level"] = 750,
                 ["Energy Use"] = 75,
-                ["Recharge Rate"] = 100,
+                ["Recharge Rate"] = 75,
                 ["Defensive Merit"] = 18750,
             },
         },
@@ -147,7 +149,7 @@ return {
             },
             ["Properties"] = {
                 ["Primary Level"] = 900,
-                ["Energy Use"] = 100,
+                ["Energy Use"] = 90,
                 ["Recharge Rate"] = 90,
                 ["Defensive Merit"] = 22500,
             },
@@ -224,7 +226,7 @@ return {
             ["Properties"] = {
                 ["Primary Level"] = 1300,
                 ["Energy Use"] = 130,
-                ["Recharge Rate"] = 300,
+                ["Recharge Rate"] = 130,
                 ["Defensive Merit"] = 32500,
             },
         },

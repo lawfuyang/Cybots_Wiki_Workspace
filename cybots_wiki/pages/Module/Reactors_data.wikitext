@@ -1,4 +1,6 @@
 -- Auto-generated data module for Module:Reactors
+-- NOTE: Data parsed from in-game. May not reflect accurate values.
+--	     Sets over time may modify certain properties
 
 return {
     {
@@ -337,9 +339,9 @@ return {
                 ["Other Requirements"] = nil,
             },
             ["Properties"] = {
-                ["Max Energy Level"] = nil,
-                ["Recharge Rate"] = nil,
-                ["Defensive Merit"] = nil,
+                ["Max Energy Level"] = 5000,
+                ["Recharge Rate"] = 2000,
+                ["Defensive Merit"] = 15000,
             },
         },
     },
