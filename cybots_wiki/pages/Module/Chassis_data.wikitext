@@ -3,7 +3,7 @@
 return {
     {
         title = "Bulwark",
-        url = "https://cybots.fandom.com/wiki/Bulwark",
+        url = "https://cybots.fandom.com/wiki/Bulwark",la
         image1 = "bulwark.jpg",
         sections = {
             ["Unit Information"] = {
@@ -222,7 +222,7 @@ return {
             },
             ["Hidden Stats"] = {
                 ["Damage Boost"] = { value = -25, unit = "%" },
-                ["Drain Boost"] = "?",
+                ["Drain Boost"] = nil,
             },
         },
     },
@@ -505,7 +505,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Hover",
                 ["Chassis Cost"] = nil,
-                ["Requirements"] = "Praetorian Base Schematics",
+                ["Requirements"] = "Lava Fort Schematics",
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 2,
@@ -580,7 +580,7 @@ return {
             },
             ["Hidden Stats"] = {
                 ["Damage Boost"] = nil,
-                ["Drain Boost"] = { value = 150, unit = "% verify" },
+                ["Drain Boost"] = nil,
             },
         },
     },
@@ -660,7 +660,7 @@ return {
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
                 ["Accuracy Adjusted"] = nil,
                 ["Damage Adjusted"] = nil,
-                ["Defensive Merit"] = { value = 112550, unit = "(verify)" },
+                ["Defensive Merit"] = { value = 112550 },
             },
             ["Unique Stats"] = {
                 ["Shield Projection"] = nil,
@@ -930,17 +930,17 @@ return {
                 ["Critical Hit Chance"] = { value = 20, unit = "%" },
                 ["Accuracy Adjusted"] = { value = 100, unit = "%" },
                 ["Damage Adjusted"] = nil,
-                ["Defensive Merit"] = "verify",
+                ["Defensive Merit"] = "?",
             },
             ["Unique Stats"] = {
                 ["Shield Projection"] = nil,
                 ["Module Uplink"] = { value = 75, unit = "%" },
-                ["Energy Distribution / Energy Share"] = "none* verify",
-                ["Energy Induction"] = "none* verify",
+                ["Energy Distribution / Energy Share"] = nil,
+                ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = "verify",
-                ["Drain Boost"] = "none* verify",
+                ["Damage Boost"] = { value = 125, unit = "%" },
+                ["Drain Boost"] = nil,
             },
         },
     },
@@ -1195,10 +1195,10 @@ return {
                 ["Payload"] = 2000,
                 ["Armor"] = 300,
                 ["Speed"] = 5,
-                ["Critical Hit Chance"] = "none* verify",
+                ["Critical Hit Chance"] = nil,
                 ["Accuracy Adjusted"] = { value = -50, unit = "%" },
-                ["Damage Adjusted"] = "none* verify",
-                ["Defensive Merit"] = "verify",
+                ["Damage Adjusted"] = nil,
+                ["Defensive Merit"] = "?",
             },
             ["Unique Stats"] = {
                 ["Shield Projection"] = { value = 150, unit = "%" },
