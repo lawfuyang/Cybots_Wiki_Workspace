@@ -1,0 +1,346 @@
+-- Auto-generated data module for Module:Shields
+
+return {
+    {
+        title = "Baron (Shield)",
+        url = "https://cybots.fandom.com/wiki/Baron_(Shield)",
+        image1 = "Baronshield.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 11000, unit = "credits" },
+                ["Weight"] = 10,
+                ["Required Tech Level"] = 1,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 200,
+                ["Energy Use"] = 20,
+                ["Recharge Rate"] = 20,
+                ["Defensive Merit"] = 5000,
+            },
+        },
+    },
+    {
+        title = "Baron Reflective",
+        url = "https://cybots.fandom.com/wiki/Baron_Reflective",
+        image1 = "Baronreflective.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 16500, unit = "credits" },
+                ["Weight"] = 15,
+                ["Required Tech Level"] = 5,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 300,
+                ["Energy Use"] = 30,
+                ["Recharge Rate"] = 30,
+                ["Defensive Merit"] = 7500,
+            },
+        },
+    },
+    {
+        title = "Baron Impulse",
+        url = "https://cybots.fandom.com/wiki/Baron_Impulse",
+        image1 = "Baronimpulse.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 22000, unit = "credits" },
+                ["Weight"] = 20,
+                ["Required Tech Level"] = 10,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 400,
+                ["Energy Use"] = 40,
+                ["Recharge Rate"] = 40,
+                ["Defensive Merit"] = 10000,
+            },
+        },
+    },
+    {
+        title = "Baron II",
+        url = "https://cybots.fandom.com/wiki/Baron_II",
+        image1 = "Baronii.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 27500, unit = "credits" },
+                ["Weight"] = 25,
+                ["Required Tech Level"] = 15,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 500,
+                ["Energy Use"] = 50,
+                ["Recharge Rate"] = 50,
+                ["Defensive Merit"] = 12500,
+            },
+        },
+    },
+    {
+        title = "Photonic",
+        url = "https://cybots.fandom.com/wiki/Photonic",
+        image1 = "Photonic.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 33000, unit = "credits" },
+                ["Weight"] = 35,
+                ["Required Tech Level"] = 30,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 600,
+                ["Energy Use"] = 60,
+                ["Recharge Rate"] = 50,
+                ["Defensive Merit"] = 15000,
+            },
+        },
+    },
+    {
+        title = "Photonic SV",
+        url = "https://cybots.fandom.com/wiki/Photonic_SV",
+        image1 = "Photonicsv.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 38500, unit = "credits" },
+                ["Weight"] = 40,
+                ["Required Tech Level"] = 40,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 700,
+                ["Energy Use"] = 70,
+                ["Recharge Rate"] = 50,
+                ["Defensive Merit"] = 17500,
+            },
+        },
+    },
+    {
+        title = "Photonic DV",
+        url = "https://cybots.fandom.com/wiki/Photonic_DV",
+        image1 = "Photonicdv.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 41250, unit = "credits" },
+                ["Weight"] = 45,
+                ["Required Tech Level"] = 50,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 750,
+                ["Energy Use"] = 75,
+                ["Recharge Rate"] = 100,
+                ["Defensive Merit"] = 18750,
+            },
+        },
+    },
+    {
+        title = "Photonic Sphere",
+        url = "https://cybots.fandom.com/wiki/Photonic_Sphere",
+        image1 = "Photonicsphere.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 49500, unit = "credits" },
+                ["Weight"] = 50,
+                ["Required Tech Level"] = 60,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 900,
+                ["Energy Use"] = 100,
+                ["Recharge Rate"] = 90,
+                ["Defensive Merit"] = 22500,
+            },
+        },
+    },
+    {
+        title = "Plasma (Shield)",
+        url = "https://cybots.fandom.com/wiki/Plasma_(Shield)",
+        image1 = "Plasma.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 55000, unit = "credits" },
+                ["Weight"] = 100,
+                ["Required Tech Level"] = 65,
+                ["Other Requirements"] = "Plasma Technology",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 1000,
+                ["Energy Use"] = 50,
+                ["Recharge Rate"] = 50,
+                ["Defensive Merit"] = 25000,
+            },
+        },
+    },
+    {
+        title = "Argon (Shield)",
+        url = "https://cybots.fandom.com/wiki/Argon_(Shield)",
+        image1 = "Argon.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 55000, unit = "credits" },
+                ["Weight"] = 60,
+                ["Required Tech Level"] = 80,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 1000,
+                ["Energy Use"] = 100,
+                ["Recharge Rate"] = 200,
+                ["Defensive Merit"] = 25000,
+            },
+        },
+    },
+    {
+        title = "Argon 400",
+        url = "https://cybots.fandom.com/wiki/Argon_400",
+        image1 = "Argon400.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 66000, unit = "credits" },
+                ["Weight"] = 70,
+                ["Required Tech Level"] = 100,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 1200,
+                ["Energy Use"] = 120,
+                ["Recharge Rate"] = 200,
+                ["Defensive Merit"] = 30000,
+            },
+        },
+    },
+    {
+        title = "Argon Array",
+        url = "https://cybots.fandom.com/wiki/Argon_Array",
+        image1 = "Argonarray.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 71500, unit = "credits" },
+                ["Weight"] = 80,
+                ["Required Tech Level"] = 120,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 1300,
+                ["Energy Use"] = 130,
+                ["Recharge Rate"] = 300,
+                ["Defensive Merit"] = 32500,
+            },
+        },
+    },
+    {
+        title = "Photonic Array",
+        url = "https://cybots.fandom.com/wiki/Photonic_Array",
+        image1 = "Photonicarray.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = "82500 credit value; found",
+                ["Weight"] = 80,
+                ["Required Tech Level"] = 135,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 1500,
+                ["Energy Use"] = 150,
+                ["Recharge Rate"] = 75,
+                ["Defensive Merit"] = 37500,
+            },
+        },
+    },
+    {
+        title = "Argon Web",
+        url = "https://cybots.fandom.com/wiki/Argon_Web",
+        image1 = "Argonweb.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 82500, unit = "credits" },
+                ["Weight"] = 100,
+                ["Required Tech Level"] = 150,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 1500,
+                ["Energy Use"] = 150,
+                ["Recharge Rate"] = 300,
+                ["Defensive Merit"] = 37500,
+            },
+        },
+    },
+    {
+        title = "Plasma IDT",
+        url = "https://cybots.fandom.com/wiki/Plasma_IDT",
+        image1 = "Plasmaidt.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 165000, unit = "credits" },
+                ["Weight"] = 150,
+                ["Required Tech Level"] = 200,
+                ["Other Requirements"] = "Plasma Technology",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 3000,
+                ["Energy Use"] = 150,
+                ["Recharge Rate"] = 150,
+                ["Defensive Merit"] = 75000,
+            },
+        },
+    },
+    {
+        title = "Plasma Anamorph",
+        url = "https://cybots.fandom.com/wiki/Plasma_Anamorph",
+        image1 = "Plasmaanamorph.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 330000, unit = "credits" },
+                ["Weight"] = 200,
+                ["Required Tech Level"] = 250,
+                ["Other Requirements"] = "Plasma Technology",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 6000,
+                ["Energy Use"] = 300,
+                ["Recharge Rate"] = 300,
+                ["Defensive Merit"] = 150000,
+            },
+        },
+    },
+    {
+        title = "SxD8",
+        url = "https://cybots.fandom.com/wiki/SxD8",
+        image1 = "Sxd8.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = "165000 credit value; 250 mercreds",
+                ["Weight"] = 60,
+                ["Required Tech Level"] = 35,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 3000,
+                ["Energy Use"] = 25,
+                ["Recharge Rate"] = 200,
+                ["Defensive Merit"] = 50000,
+            },
+        },
+    },
+    {
+        title = "SxD10",
+        url = "https://cybots.fandom.com/wiki/SxD10",
+        image1 = "Sxd10.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = "275000 credit value",
+                ["Weight"] = 50,
+                ["Required Tech Level"] = 15,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 5000,
+                ["Energy Use"] = 150,
+                ["Recharge Rate"] = 850,
+                ["Defensive Merit"] = 70000,
+            },
+        },
+    },
+}
