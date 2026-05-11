@@ -1,12 +1,12 @@
 ﻿local p = {}
 local helper = require('Module:DataTableHelper')
 
-local ok, DATA = pcall(function() return mw.loadData('Module:Shields/data') end)
+local ok, DATA = pcall(function() return mw.loadData('Module:Reactors/data') end)
 if not ok or type(DATA) ~= 'table' then DATA = nil end
 
 function p.get(frame)
     local args = (frame and frame.args) or {}
-    local name = args[1] or args.name or args.title or args.shield
+    local name = args[1] or args.name or args.title or args.reactor
     if not name and args.url then name = helper.title_from_url(args.url) end
     if not name then return '' end
     local entry = helper.findEntry(name, DATA or {})
@@ -29,7 +29,7 @@ function p.get(frame)
 end
 
 function p.generateTable(frame)
-    local data = DATA or helper.loadData('Module:Shields/data', 'Module:Shields_data')
+    local data = DATA or helper.loadData('Module:Reactors/data', 'Module:Reactors_data')
     
     local cols = {
         { title = 'Image', section = nil, key = 'image' },
@@ -38,18 +38,17 @@ function p.generateTable(frame)
         { title = 'Weight', section = 'Unit Information', key = 'Weight' },
         { title = 'Required Tech Level', section = 'Unit Information', key = 'Required Tech Level' },
         { title = 'Other Requirements', section = 'Unit Information', key = 'Other Requirements' },
-        { title = 'Primary Level', section = 'Properties', key = 'Primary Level' },
-        { title = 'Energy Use', section = 'Properties', key = 'Energy Use' },
+        { title = 'Max Energy Level', section = 'Properties', key = 'Max Energy Level' },
         { title = 'Recharge Rate', section = 'Properties', key = 'Recharge Rate' },
         { title = 'Defensive Merit', section = 'Properties', key = 'Defensive Merit' },
     }
     
-    return helper.generateTable(data, 'Shield', cols, 'Could not load data module. Check Module:Shields/data or Module:Shields_data exists.')
+    return helper.generateTable(data, 'Reactor', cols, 'Could not load data module. Check Module:Reactors/data or Module:Reactors_data exists.')
 end
 
 function p.testData(frame)
-    local data = DATA or helper.loadData('Module:Shields/data', 'Module:Shields_data')
-    return helper.testData(data, 'Module:Shields/data')
+    local data = DATA or helper.loadData('Module:Reactors/data', 'Module:Reactors_data')
+    return helper.testData(data, 'Module:Reactors/data')
 end
 
 return p

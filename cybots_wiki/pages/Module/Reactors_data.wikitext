@@ -1,0 +1,364 @@
+-- Auto-generated data module for Module:Reactors
+
+return {
+    {
+        title = "Ion",
+        url = "https://cybots.fandom.com/wiki/Ion",
+        image1 = "Ion.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 4266, unit = "credits" },
+                ["Weight"] = 20,
+                ["Required Tech Level"] = 1,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 300,
+                ["Recharge Rate"] = 100,
+                ["Defensive Merit"] = 800,
+            },
+        },
+    },
+    {
+        title = "Ion V2",
+        url = "https://cybots.fandom.com/wiki/Ion_V2",
+        image1 = "Ionv2.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 8816, unit = "credits" },
+                ["Weight"] = 25,
+                ["Required Tech Level"] = 5,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 400,
+                ["Recharge Rate"] = 150,
+                ["Defensive Merit"] = 1150,
+            },
+        },
+    },
+    {
+        title = "Ion Flux",
+        url = "https://cybots.fandom.com/wiki/Ion_Flux",
+        image1 = "Ionflux.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 15000, unit = "credits" },
+                ["Weight"] = 30,
+                ["Required Tech Level"] = 10,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 500,
+                ["Recharge Rate"] = 200,
+                ["Defensive Merit"] = 1500,
+            },
+        },
+    },
+    {
+        title = "Ion Flux Plus",
+        url = "https://cybots.fandom.com/wiki/Ion_Flux_Plus",
+        image1 = "Ionfluxplus.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 22816, unit = "credits" },
+                ["Weight"] = 35,
+                ["Required Tech Level"] = 15,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 600,
+                ["Recharge Rate"] = 250,
+                ["Defensive Merit"] = 1850,
+            },
+        },
+    },
+    {
+        title = "Sub-Nuclear",
+        url = "https://cybots.fandom.com/wiki/Sub-Nuclear",
+        image1 = "Subnuclear.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 35266, unit = "credits" },
+                ["Weight"] = 50,
+                ["Required Tech Level"] = 20,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 800,
+                ["Recharge Rate"] = 300,
+                ["Defensive Merit"] = 2300,
+            },
+        },
+    },
+    {
+        title = "Nuclear",
+        url = "https://cybots.fandom.com/wiki/Nuclear",
+        image1 = "Nuclear.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 46816, unit = "credits" },
+                ["Weight"] = 60,
+                ["Required Tech Level"] = 25,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 900,
+                ["Recharge Rate"] = 350,
+                ["Defensive Merit"] = 2650,
+            },
+        },
+    },
+    {
+        title = "Quantum",
+        url = "https://cybots.fandom.com/wiki/Quantum",
+        image1 = "Quantum.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 60000, unit = "credits" },
+                ["Weight"] = 60,
+                ["Required Tech Level"] = 25,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 3000,
+                ["Recharge Rate"] = 0,
+                ["Defensive Merit"] = 3000,
+            },
+        },
+    },
+    {
+        title = "Bio-Nuclear",
+        url = "https://cybots.fandom.com/wiki/Bio-Nuclear",
+        image1 = "Bionuclear.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 60000, unit = "credits" },
+                ["Weight"] = 70,
+                ["Required Tech Level"] = 30,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 1000,
+                ["Recharge Rate"] = 400,
+                ["Defensive Merit"] = 3000,
+            },
+        },
+    },
+    {
+        title = "Crix80 Didron",
+        url = "https://cybots.fandom.com/wiki/Crix80_Didron",
+        image1 = "Crix80didron.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = "81666 credit value; found",
+                ["Weight"] = 80,
+                ["Required Tech Level"] = 0,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 1000,
+                ["Recharge Rate"] = 650,
+                ["Defensive Merit"] = 2500,
+            },
+        },
+    },
+    {
+        title = "Hydron Core",
+        url = "https://cybots.fandom.com/wiki/Hydron_Core",
+        image1 = "Hydroncore.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 93750, unit = "credits" },
+                ["Weight"] = 100,
+                ["Required Tech Level"] = 40,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 1500,
+                ["Recharge Rate"] = 450,
+                ["Defensive Merit"] = 3750,
+            },
+        },
+    },
+    {
+        title = "Hydron Core Mk. II",
+        url = "https://cybots.fandom.com/wiki/Hydron_Core_Mk._II",
+        image1 = "Hydroncoremkii.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 120416, unit = "credits" },
+                ["Weight"] = 120,
+                ["Required Tech Level"] = 45,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 1750,
+                ["Recharge Rate"] = 500,
+                ["Defensive Merit"] = 4250,
+            },
+        },
+    },
+    {
+        title = "Cobalt Hydron",
+        url = "https://cybots.fandom.com/wiki/Cobalt_Hydron",
+        image1 = "Cobalthydron.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 220416, unit = "credits" },
+                ["Weight"] = 150,
+                ["Required Tech Level"] = 50,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 2000,
+                ["Recharge Rate"] = 750,
+                ["Defensive Merit"] = 5750,
+            },
+        },
+    },
+    {
+        title = "Quantum Syncron",
+        url = "https://cybots.fandom.com/wiki/Quantum_Syncron",
+        image1 = "Quantumsyncron.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 240000, unit = "credits" },
+                ["Weight"] = 120,
+                ["Required Tech Level"] = 50,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 6000,
+                ["Recharge Rate"] = 0,
+                ["Defensive Merit"] = 6000,
+            },
+        },
+    },
+    {
+        title = "Magmatic",
+        url = "https://cybots.fandom.com/wiki/Magmatic",
+        image1 = "Magmatic.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 260416, unit = "credits" },
+                ["Weight"] = 80,
+                ["Required Tech Level"] = 55,
+                ["Other Requirements"] = "Magma Technology",
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 2500,
+                ["Recharge Rate"] = 750,
+                ["Defensive Merit"] = 6250,
+            },
+        },
+    },
+    {
+        title = "Tribolt Hydron",
+        url = "https://cybots.fandom.com/wiki/Tribolt_Hydron",
+        image1 = "Tribolthydron.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 426666, unit = "credits" },
+                ["Weight"] = 200,
+                ["Required Tech Level"] = 60,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 3000,
+                ["Recharge Rate"] = 1000,
+                ["Defensive Merit"] = 8000,
+            },
+        },
+    },
+    {
+        title = "Magmatic Pyroclast",
+        url = "https://cybots.fandom.com/wiki/Magmatic_Pyroclast",
+        image1 = "Magmaticpyroclast.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 1041666, unit = "credits" },
+                ["Weight"] = 250,
+                ["Required Tech Level"] = 100,
+                ["Other Requirements"] = "Magma Technology",
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 5000,
+                ["Recharge Rate"] = 1500,
+                ["Defensive Merit"] = 12500,
+            },
+        },
+    },
+    {
+        title = "Pneumatron",
+        url = "https://cybots.fandom.com/wiki/Pneumatron",
+        image1 = "Quantum.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = "750 mirons; found",
+                ["Weight"] = 150,
+                ["Required Tech Level"] = 45,
+                ["Other Requirements"] = "Star of Talsia",
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 10000,
+                ["Recharge Rate"] = 2000,
+                ["Defensive Merit"] = 12000,
+            },
+        },
+    },
+    {
+        title = "Magtronic Power Cell",
+        url = "https://cybots.fandom.com/wiki/Magtronic_Power_Cell",
+        image1 = "Magtronicpowercell.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 200, unit = "mirons" },
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = nil,
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = nil,
+                ["Recharge Rate"] = nil,
+                ["Defensive Merit"] = nil,
+            },
+        },
+    },
+    {
+        title = "True Guard Cell",
+        url = "https://cybots.fandom.com/wiki/True_Guard_Cell",
+        image1 = "Trueguardcell.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = { value = 300, unit = "mirons" },
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = nil,
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = nil,
+                ["Recharge Rate"] = nil,
+                ["Defensive Merit"] = nil,
+            },
+        },
+    },
+    {
+        title = "Hydroplasmonic",
+        url = "https://cybots.fandom.com/wiki/Hydroplasmonic",
+        image1 = "Hydroplasmonic.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = "found",
+                ["Weight"] = 400,
+                ["Required Tech Level"] = 50,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 15000,
+                ["Recharge Rate"] = 5000,
+                ["Defensive Merit"] = 12000,
+            },
+        },
+    },
+}

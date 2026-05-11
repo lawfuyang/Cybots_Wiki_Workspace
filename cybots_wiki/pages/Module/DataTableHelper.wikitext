@@ -1,0 +1,164 @@
+-- Shared helper module for data table functionality across Chassis, Weapons, Modules, Reactors, and Shields
+
+local helper = {}
+
+-- Format values with optional units
+function helper.fmt(v)
+    if v == nil then return '—' end
+    if type(v) == 'table' then
+        if v.value ~= nil then
+            if v.unit then return tostring(v.value) .. ' ' .. tostring(v.unit) end
+            return tostring(v.value)
+        end
+        return tostring(v)
+    end
+    return tostring(v)
+end
+
+-- Extract title from wiki URL
+function helper.title_from_url(url)
+    if not url then return nil end
+    local m = url:match('/wiki/([^#%?]+)') or url
+    m = mw.ustring.gsub(m, '_', ' ')
+    m = mw.ustring.gsub(m, '^%s+', '')
+    m = mw.ustring.gsub(m, '%s+$', '')
+    return m
+end
+
+-- Find entry by name with multiple matching strategies
+function helper.findEntry(name, data)
+    if not data or not name then return nil end
+    if data[name] then return data[name] end
+    local norm = tostring(name):gsub('_', ' ')
+    if #data > 0 then
+        for _, v in ipairs(data) do
+            if v and v.title and (v.title == name or v.title == norm) then return v end
+        end
+    else
+        for k, v in pairs(data) do
+            if type(k) == 'string' and (k == name or k == norm) then return v end
+            if type(v) == 'table' and v.title and (v.title == name or v.title == norm) then return v end
+        end
+    end
+    local tname = helper.title_from_url(name)
+    if tname and tname ~= norm and tname ~= name then
+        if #data > 0 then
+            for _, v in ipairs(data) do
+                if v and v.title == tname then return v end
+            end
+        else
+            for _, v in pairs(data) do
+                if type(v) == 'table' and v.title == tname then return v end
+            end
+        end
+    end
+    return nil
+end
+
+-- Load data module with fallback to alternate path
+function helper.loadData(primaryPath, alternativePath)
+    local ok, data = pcall(function() return mw.loadData(primaryPath) end)
+    if ok and type(data) == 'table' then
+        return data
+    end
+    if alternativePath then
+        ok, data = pcall(function() return mw.loadData(alternativePath) end)
+        if ok and type(data) == 'table' then
+            return data
+        end
+    end
+    return nil
+end
+
+-- Render table row for an entry
+function helper.renderTableRow(entry, cols)
+    if not entry or not entry.title then return '' end
+    local result = '|-\n'
+    -- Image cell
+    local filename = entry.image1 or entry.image
+    local imageVal = filename and ('[[File:' .. tostring(filename) .. '|60px]]') or '—'
+    result = result .. '| ' .. imageVal .. ' || [[' .. entry.title .. ']]'
+    
+    -- Rest of cells
+    for i = 3, #cols do
+        local col = cols[i]
+        local val = '—'
+        if col.section then
+            if entry.sections and entry.sections[col.section] and entry.sections[col.section][col.key] then
+                val = helper.fmt(entry.sections[col.section][col.key])
+            end
+        end
+        result = result .. ' || ' .. val
+    end
+    result = result .. '\n'
+    return result
+end
+
+-- Generate table header row
+function helper.renderTableHeader(cols)
+    local result = '|-\n'
+    result = result .. '! Image !! Name'
+    for i = 3, #cols do
+        result = result .. ' !! ' .. cols[i].title
+    end
+    result = result .. '\n'
+    return result
+end
+
+-- Generate complete table
+function helper.generateTable(data, tableName, cols, dataErrorMsg)
+    if not data or type(data) ~= 'table' then
+        return 'Error: ' .. (dataErrorMsg or 'Could not load data module.')
+    end
+    
+    -- Check if table has entries
+    local hasEntries = false
+    if #data > 0 then
+        hasEntries = true
+    else
+        for _ in pairs(data) do
+            hasEntries = true
+            break
+        end
+    end
+    
+    if not hasEntries then
+        return 'Error: Data module is empty. Ensure data is properly formatted.'
+    end
+    
+    local result = '{| class="wikitable sortable" style="width:100%;"\n'
+    result = result .. '|+ ' .. tableName .. ' overview\n'
+    result = result .. helper.renderTableHeader(cols)
+    
+    -- Data rows - iterate as array first, fall back to key iteration
+    if #data > 0 then
+        for _, entry in ipairs(data) do
+            result = result .. helper.renderTableRow(entry, cols)
+        end
+    else
+        -- Fallback for keyed tables
+        for _, entry in pairs(data) do
+            result = result .. helper.renderTableRow(entry, cols)
+        end
+    end
+    
+    result = result .. '|}'
+    return result
+end
+
+-- Test data loading
+function helper.testData(data, modulePath)
+    if data and type(data) == 'table' then
+        if #data > 0 then
+            return 'SUCCESS: Loaded ' .. tostring(#data) .. ' entries from ' .. modulePath
+        else
+            local count = 0
+            for _ in pairs(data) do count = count + 1 end
+            return 'PARTIAL: Module loaded with ' .. tostring(count) .. ' entries (may be keyed table)'
+        end
+    else
+        return 'ERROR: Could not load ' .. modulePath
+    end
+end
+
+return helper
