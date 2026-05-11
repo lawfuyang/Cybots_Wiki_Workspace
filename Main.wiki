@@ -9,11 +9,11 @@ We're a collaborative community website about {{topic}} that anyone, including y
 
 ==Important articles==
 <gallery position="center" captionalign="center" navigation="true">
-File:Bionuclear.jpg|[[Reactors]]
-File:Baronbattery.jpg|[[Weapons]]
-File:Module2.jpg|[[Modules]]
-File:Argonarray.jpg|[[Shields]]
-File:Reaper.jpg|[[Chassis]]
+File:Bionuclear.jpg|link=Reactors|[[Reactors]]
+File:Baronbattery.jpg|link=Weapons|[[Weapons]]
+File:Module2.jpg|link=Modules|[[Modules]]
+File:Argonarray.jpg|link=Shields|[[Shields]]
+File:Reaper.jpg|link=Chassis|[[Chassis]]
 </gallery>
 <!-- The gallery above works well for individual articles, but it would also be good to have another below it that points to important Category: pages. -->
 <mainpage-endcolumn />
