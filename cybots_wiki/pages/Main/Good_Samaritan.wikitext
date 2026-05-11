@@ -1,0 +1,10 @@
+{{Weapon|image1=File:goodsamaritan.jpg|caption-image1=Mortar|weapon-information=Weapon Information|cost=  56250 credits|weight=160|required_tech_level=154|technology_required=none|shield_damage=900|armor_piercing=300|energy_drain=0|damage_radius=3|accuracy=40|shots_per_turn=0.5|energy_per_shot=250|max_targets_per_turn=1|offensive_merit=67500}}
+
+== Overview ==
+The 'Good Samaritan' fires a powerful shock charge dealing out damage over a large area.
+
+== Where to Acquire ==
+The Good Samaritan can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Mortars)]]
+[[Category:Weapons]]

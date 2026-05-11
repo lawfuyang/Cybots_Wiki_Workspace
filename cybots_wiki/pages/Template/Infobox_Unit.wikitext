@@ -1,0 +1,281 @@
+<includeonly>
+<infobox>
+  <title source="title1">
+    <default>{{PAGENAME}}</default>
+  </title>
+  <image source="image1">
+    <caption source="caption-image1"/>
+  </image>
+  <group>
+    <header source="header1">Unit Information</header>
+    <data source="unit_type">
+      <label>Unit Type</label>
+    </data>
+    <data source="chassis_type">
+      <label>Chassis Type</label>
+    </data>
+    <data source="chassis_cost">
+      <label>Chassis Cost</label>
+    </data>
+    <data source="technology_required">
+      <label>Tech Required</label>
+    </data>
+  </group>
+  <group>
+    <header>Slots</header>
+    <data source="weapon_slots">
+      <label>Weapon Slots</label>
+    </data>
+    <data source="module_slots">
+      <label>Module Slots</label>
+    </data>
+    <data source="shield_slots">
+      <label>Shield Slots</label>
+    </data>
+    <data>
+      <label>Reactor Slots</label>
+    </data>
+  </group>
+  <group>
+    <header source="header3">Starting Tech</header>
+    <data source="weapon_tech">
+      <label>Weapon Tech</label>
+    </data>
+    <data source="shield_tech">
+      <label>Shield Tech</label>
+    </data>
+    <data source="module_tech">
+      <label>Module Tech</label>
+    </data>
+    <data source="reactor_tech">
+      <label>Reactor Tech</label>
+    </data>
+  </group>
+  <group>
+    <header source="header4">Starting Stats</header>
+    <data source="payload">
+      <label>Payload</label>
+    </data>
+    <data source="armor">
+      <label>Armor</label>
+    </data>
+    <data source="speed">
+      <label>Speed</label>
+    </data>
+    <data source="critical_hit">
+      <label>Critical Hit Chance</label>
+    </data>
+    <data source="accuracy_adjusted">
+      <label>Accuracy Adjusted</label>
+    </data>
+    <data source="damage_adjusted">
+      <label>Damage Adjusted</label>
+    </data>
+    <data source="defensive_merit">
+      <label>Defensive Merit</label>
+    </data>
+  </group>
+  <group>
+    <header source="header5">Unique Stats</header>
+    <data source="shield_projection">
+      <label>Shield Projection</label>
+    </data>
+    <data source="module_uplink">
+      <label>Module Uplink</label>
+    </data>
+    <data source="energy_distribution_share">
+      <label>Energy Distribution/Energy Share</label>
+    </data>
+    <data source="energy_induction">
+      <label>Energy Induction</label>
+    </data>
+  </group>
+  <group>
+    <header source="header6">Hidden Stats</header>
+    <data source="damage_boost">
+      <label>Damage Boost</label>
+    </data>
+    <data source="drain_boost">
+      <label>Drain Boost</label>
+    </data>
+  </group>
+</infobox>
+</includeonly>
+<noinclude>
+Example usage:
+{{Infobox Unit
+  | title1=Ranger
+  | image1=Example.jpg
+  | caption-image1=Example
+  | row1=Cybot
+  | row2=Wheeler
+  | row3=$24,500 credits
+  | row4=none
+  | row5=1
+  | row6=1
+  | row7=1
+  | row8=6
+  | row9=1
+  | row10=1
+  | row11=1
+  | row12=275 kg
+  | row13=150
+  | row14=70
+  | row15=5%
+  | row16=15%
+  | row17=20%
+  | row18=6375
+  | row19=none
+  | row20=none
+  | row21=none
+  | row22=none
+  | row23=Example
+  | row24=Example}}
+<pre>
+{{Infobox Unit
+  | title1=Example
+  | image1=Example.jpg
+  | caption-image1=Example
+  | row1=Example
+  | row2=Example
+  | row3=Example
+  | row4=Example
+  | row5=Example
+  | row6=Example
+  | row7=Example
+  | row8=Example
+  | row9=Example
+  | row10=Example
+  | row11=Example
+  | row12=Example
+  | row13=Example
+  | row14=Example
+  | row15=Example
+  | row16=Example
+  | row17=Example
+  | row18=Example
+  | row19=Example
+  | row20=Example
+  | row21=Example
+  | row22=Example
+  | row23=Example
+  | row24=Example}}
+</pre>
+<templatedata>
+{
+	"params": {
+		"image1": {
+			"suggested": true
+		},
+		"caption-image1": {
+			"suggested": true
+		},
+		"name": {
+			"required": true
+		},
+		"Unit Type": {
+			"suggested": true
+		},
+		"Chassis Type": {
+			"suggested": true
+		},
+		"Chassis Cost": {
+			"suggested": true
+		},
+		"Tech Required": {
+			"suggested": true
+		},
+		"Weapon Slots": {
+			"suggested": true
+		},
+		"Module Slots": {
+			"suggested": true
+		},
+		"Shield Slots": {
+			"suggested": true
+		},
+		"Reactor Slots": {
+			"suggested": true
+		},
+		"Weapon Tech": {
+			"suggested": true
+		},
+		"Shield Tech": {
+			"suggested": true
+		},
+		"Module Tech": {
+			"suggested": true
+		},
+		"Reactor Tech": {
+			"suggested": true
+		},
+		"Payload": {
+			"suggested": true
+		},
+		"Armor": {
+			"suggested": true
+		},
+		"Speed": {
+			"suggested": true
+		},
+		"Critical Hit Chance": {
+			"suggested": true
+		},
+		"Accuracy Adjusted": {
+			"suggested": true
+		},
+		"Damage Adjusted": {
+			"suggested": true
+		},
+		"Defensive Merit": {
+			"suggested": true
+		},
+		"Shield Projection": {
+			"suggested": true
+		},
+		"Module Uplink": {
+			"suggested": true
+		},
+		"Energy Distribution / Energy Share": {
+			"suggested": true
+		},
+		"Energy Induction": {
+			"suggested": true
+		},
+		"Damage Boost": {
+			"suggested": true
+		}
+	},
+	"sets": [],
+	"paramOrder": [
+		"name",
+		"image1",
+		"caption-image1",
+		"Unit Type",
+		"Chassis Type",
+		"Chassis Cost",
+		"Tech Required",
+		"Weapon Slots",
+		"Module Slots",
+		"Shield Slots",
+		"Reactor Slots",
+		"Weapon Tech",
+		"Shield Tech",
+		"Module Tech",
+		"Reactor Tech",
+		"Payload",
+		"Armor",
+		"Speed",
+		"Critical Hit Chance",
+		"Accuracy Adjusted",
+		"Damage Adjusted",
+		"Defensive Merit",
+		"Shield Projection",
+		"Module Uplink",
+		"Energy Distribution / Energy Share",
+		"Energy Induction",
+		"Damage Boost"
+	]
+}
+</templatedata>
+</noinclude>

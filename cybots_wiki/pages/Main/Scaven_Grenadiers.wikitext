@@ -1,0 +1,51 @@
+{{Unit_New
+| image1=File:scavengrenadiers.jpg
+| unit_type=Mercenary
+| faction=Scaven
+| chassis_type=Foot
+| weapon_slots=3
+| module_slots=0
+| shield_slots=0
+| reactor_slots=none
+
+| payload=90
+| armor=50
+| speed=50
+| critical_hit_chance=none
+| accuracy_adjusted=none
+| damage_adjusted=none
+| defensive_merit=none
+
+| shield_projection=none
+| module_uplink=none
+| energy_distribution_/_energy_share=none
+| energy_induction=none
+
+| damage_boost=none
+| drain_boost=none
+}}
+
+== Overview ==
+Scaven Grenadiers are aggressive frontline units used by the [[Scaven]] faction. With high payload and multiple weapon slots, they are built for explosive offense.
+
+== Equipment ==
+<gallery widths="100">
+File:Handgrenades.jpg|link=Hand Grenades|[[Hand Grenades|Weapon: Hand Grenades]]
+File:Submachinegun.jpg|link=Sub-Machine Gun|[[Sub-Machine Gun|Weapon: Sub-Machine Gun]]
+</gallery>
+
+== Faction ==
+[[Scaven]]
+
+== Location ==
+Scaven Grenadiers may appear as hired support by completing a mission for any [[Scaven Settlement]] in [[Scaven Territory]] in [[Vulcore]].
+
+== Combat Strategy ==
+Use Scaven Grenadiers to saturate enemies with grenades and gunfire. Their lack of shielding is compensated by raw offense. Ideal when protected by shielded allies or during ambushes.
+
+== See also ==
+[[:Category:Mercenaries (Vulcore)|Mercenaries (Vulcore)]]
+
+[[Category:Mercenaries (Scaven)]]
+[[Category:Mercenaries (Vulcore)]]
+[[Category:Mercenaries]]

@@ -1,0 +1,25 @@
+
+{{Unit_New|image1=File:Scavenboss.jpg|unit_type=Mercenary|faction=Scaven|chassis_type=Foot|weapon_slots=2|module_slots=1|shield_slots=2|reactor_slots=0|payload=50|armor=100|speed=60|critical_hit_chance=none|accuracy_adjusted=none|damage_adjusted=none|shield_projection=none|module_uplink=50%|energy_distribution_/_energy_share=none|energy_induction=none|damage_boost=none|drain_boost=none}}
+
+== Overview ==
+The Scaven Boss is a [[Scaven]] command unit mercenary that provides a boost in firepower and fire rate, as well as a small increase in  squad defensive capabilities.
+
+== Equipment ==
+<gallery widths="100">
+File:Inspiration.jpg|link=Inspiration|[[Inspiration|Module: Inspiration]]
+File:Pistol.jpg|link=Pistol|[[Pistol|Weapon: Pistol]] 
+</gallery>
+== Faction ==
+[[Scaven]]
+
+== Location ==
+The Scaven Boss can be hired by completing a mission for a [[Scaven Settlement]] in [[Scaven Territory]] in [[Vulcore]]. 
+
+== Combat Strategy ==
+
+== See also ==
+[[:Category:Mercenaries (Vulcore)|Mercenaries (Vulcore)]]
+
+[[Category:Mercenaries (Scaven)]]
+[[Category:Mercenaries (Vulcore)]]
+[[Category:Mercenaries]]

@@ -1,0 +1,10 @@
+{{Weapon|image1=File:pulserockets.jpg|caption-image1=Multi-Launch Rocket Pack|weapon-information=Weapon Information|cost=300 mirons<br>1250000 credit value|weight=400|required_tech_level=450|technology_required=none|shield_damage=1500|armor_piercing=500|energy_drain=800|damage_radius=2|accuracy=?|shots_per_turn=0.3|energy_per_shot=1000|max_targets_per_turn=3|offensive_merit=200000}}
+
+== Overview ==
+
+
+== Where to Acquire ==
+Pulse Rockets can be bought in the [[Gamma Base Store]] (currently not working).
+
+[[Category:Weapons (Useable)]]
+[[Category:Weapons]]

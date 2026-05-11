@@ -1,0 +1,9 @@
+{{Reactor|image1=File:cobalthydron.jpg|cost=220416 credits|other_requirements=none|weight=150|required_tech_level=50|max_energy_level=2000|recharge_rate=750|defensive_merit=5750}}
+== Overview ==
+The Cobalt Hydron reactor offers extra recharge over the [[Hydron Core Mk. II|Core Mk. II]].
+
+== Where to Acquire ==
+The Cobalt Hydron Reactor can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+
+[[Category:Reactors (Useable)]]
+[[Category:Reactors]]

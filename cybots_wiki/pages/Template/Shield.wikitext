@@ -1,0 +1,129 @@
+<includeonly>
+<infobox>
+  <title source="title1">
+    <default>{{PAGENAME}}</default>
+  </title>
+  <image source="image1">
+    <caption source="caption-image1"/>
+  </image>
+  <group>
+    <header source="shield_information">Shield Information</header>
+    <data source="cost">
+      <label>Cost</label>
+    </data>
+    <data source="weight">
+      <label>Weight</label>
+    </data>
+    <data source="required_tech_level">
+      <label>Required Tech Level</label>
+    </data>
+    <data source="additional_requirements">
+      <label>Additional Requirements</label>
+    </data>
+    <data source="primary_level">
+      <label>Primary Level</label>
+    </data>
+    <data source="energy_use">
+      <label>Energy Use</label>
+    </data>
+    <data source="recharge_rate">
+      <label>Recharge Rate</label>
+    </data>
+    <data source="defensive_merit">
+      <label>Defensive Merit</label>
+    </data>
+  </group>
+</infobox>
+</includeonly>
+<noinclude>
+Example usage:
+{{Shield
+  | title1=Example
+  | image1=Example.jpg
+  | caption-image1=Example
+  | shield_information=Example
+  | cost=Example
+  | weight=Example
+  | required_tech_level=Example
+  | additional_requirements=Example
+  | primary_level=Example
+  | energy_use=Example
+  | recharge_rate=Example
+  | defensive_merit=Example}}
+<pre>
+{{Shield
+  | title1=Example
+  | image1=Example.jpg
+  | caption-image1=Example
+  | shield_information=Example
+  | cost=Example
+  | weight=Example
+  | required_tech_level=Example
+  | additional_requirements=Example
+  | primary_level=Example
+  | energy_use=Example
+  | recharge_rate=Example
+  | defensive_merit=Example}}
+</pre>
+<templatedata>
+{
+	"params": {
+		"title1": {
+			"suggested": true
+		},
+		"image1": {
+			"suggested": true
+		},
+		"caption-image1": {
+			"suggested": true
+		},
+		"shield_information": {
+			"suggested": true
+		},
+		"cost": {
+			"suggested": true
+		},
+		"weight": {
+			"suggested": true
+		},
+		"required_tech_level": {
+			"suggested": true
+		},
+		"primary_level": {
+			"suggested": true
+		},
+		"energy_use": {
+			"suggested": true
+		},
+		"recharge_rate": {
+			"suggested": true
+		},
+		"defensive_merit": {
+			"suggested": true
+		},
+		"additional requirements": {
+			"suggestedvalues": [
+				"none",
+				"Plasma Technology"
+			],
+			"suggested": true
+		}
+	},
+	"sets": [],
+	"paramOrder": [
+		"title1",
+		"image1",
+		"caption-image1",
+		"shield_information",
+		"cost",
+		"weight",
+		"required_tech_level",
+		"additional requirements",
+		"primary_level",
+		"energy_use",
+		"recharge_rate",
+		"defensive_merit"
+	]
+}
+</templatedata>
+</noinclude>

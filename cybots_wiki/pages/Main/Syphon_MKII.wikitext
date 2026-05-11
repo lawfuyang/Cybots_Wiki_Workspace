@@ -1,0 +1,10 @@
+{{Weapon|image1=File:syphonmkii.jpg|caption-image1=Power Disruptor|weapon-information=Weapon Information|cost=  15000 credits|weight=10|required_tech_level=31|technology_required=none|shield_damage=0|armor_piercing=0|energy_drain=400|damage_radius=1|accuracy=75|shots_per_turn=1.0|energy_per_shot=100|max_targets_per_turn=1|offensive_merit=18000}}
+
+== Overview ==
+The upgraded version of the [[EM Syphon]], the MKII model can literally immobilize a target by draining its energy reserves.
+
+== Where to Acquire ==
+The Syphon MKII can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Power Disruptors)]]
+[[Category:Weapons]]

@@ -1,0 +1,49 @@
+{{Unit_New
+| image1=File:Scavenshielders.jpg
+| unit_type=Mercenary
+| faction=Scaven
+| chassis_type=Foot
+| weapon_slots=1
+| module_slots=1
+| shield_slots=2
+| reactor_slots=1
+
+| payload=200
+| armor=100
+| speed=30
+| critical_hit_chance=none
+|accuracy_adjusted=none|damage_adjusted=none| damage_boost=none
+| drain_boost=none
+| shield_projection=25%
+| module_uplink=none
+| energy_distribution_/_energy_share=none
+| energy_induction=none
+}}
+
+== Overview ==
+Scaven Shielders are resilient front-line support mercenaries used by the [[Scaven]]. They are equipped with dual shield generators and project a portion of their shielding to nearby allies, making them ideal defensive anchors in squad formations.
+
+== Equipment ==
+<gallery widths="100">
+File:Inspiration.jpg|link=Inspiration|[[Inspiration|Module: Inspiration]]
+File:Pistol.jpg|link=Pistol|[[Pistol|Weapon: Pistol]]
+File:Baron.jpg|link=Baron|[[Baron|Shield: Baron]]
+File:Baron.jpg|link=Baron|[[Baron|Shield: Baron]]
+File:Powercell.jpg|link=Power Cell|[[Power Cell|Reactor: Power Cell]]
+</gallery>
+
+== Faction ==
+[[Scaven]]
+
+== Location ==
+Scaven Shielders may appear as hired support by completing a mission for any Scaven Settlement in Scaven Territory in Vulcore.
+
+== Combat Strategy ==
+Use Scaven Shielders as mobile cover to shield high-damage units. Their shield projection helps protect allies in the squad, and the dual Baron shields allow them to withstand considerable punishment.
+
+== See also ==
+[[:Category:Mercenaries (Vulcore)|Mercenaries (Vulcore)]]
+
+[[Category:Mercenaries (Scaven)]]
+[[Category:Mercenaries (Vulcore)]]
+[[Category:Mercenaries]]

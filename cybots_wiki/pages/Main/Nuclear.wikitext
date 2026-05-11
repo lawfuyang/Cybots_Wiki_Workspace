@@ -1,0 +1,9 @@
+{{Reactor|image1=File:nuclear.jpg|cost=46816 credits|other_requirements=none|weight=60|required_tech_level=25|max_energy_level=900|recharge_rate=350|defensive_merit=2650}}
+== Overview ==
+The Nuclear reactor contains a large power reserve and is ideal for medium level bots.
+
+== Where to Acquire ==
+The Nuclear Reactor can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+
+[[Category:Reactors (Useable)]]
+[[Category:Reactors]]

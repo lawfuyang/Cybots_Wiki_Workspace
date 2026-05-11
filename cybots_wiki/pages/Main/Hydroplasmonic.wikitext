@@ -1,0 +1,10 @@
+{{Reactor|image1=File:hydroplasmonic.jpg|cost=found|other_requirements=none|weight=400|required_tech_level=50|max_energy_level=15000|recharge_rate=5000|defensive_merit=12000}}
+== Overview ==
+The Hydroplasmonic Reactor is a special reactor that can be obtained as a reward for defeating the [[Carnutum Arena Masters]].
+
+== Where to Acquire ==
+The Hydroplasmonic Reactor is awarded to the Controller for defeating the Carnutum Arena Masters at the [[Carnutum Ignus Gladiator Areana]] in the [[South West Quadrant]] of [[Gamma]].
+
+[[Category:Reactors (Useable)]]
+[[Category:Reactors (Special)]]
+[[Category:Reactors]]

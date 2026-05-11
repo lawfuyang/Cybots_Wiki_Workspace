@@ -1,0 +1,10 @@
+{{Weapon|image1=File:clusterbombs.jpg|caption-image1=Clusterbomb|weapon-information=Weapon Information|cost=250 mirons<br>750000 credit value|weight=1000|required_tech_level=850|technology_required=none|shield_damage=3500|armor_piercing=500|energy_drain=750|damage_radius=6|accuracy=?|shots_per_turn=0.15|energy_per_shot=1500|max_targets_per_turn=?|offensive_merit=200000}}
+
+== Overview ==
+
+
+== Where to Acquire ==
+Cluster Bombs can be bought in the [[Gamma Base Store]].
+
+[[Category:Weapons (Useable)]]
+[[Category:Weapons]]

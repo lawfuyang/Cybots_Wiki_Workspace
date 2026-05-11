@@ -1,0 +1,13 @@
+{{Unit New|image1=File:leviathan.jpg|unit_type=Cybot (Useable)|faction=none|chassis_type=Walker|chassis_cost=found|technology_required=none|other_requirements=Order of the Regiment|weapon_slots=8|module_slots=2|shield_slots=2|reactor_slots=1|weapon_tech=15|shield_tech=15|module_tech=5|reactor_tech=20|payload=1500|armor=3000|speed=15|critical_hit_chance=1%|accuracy_adjusted=none|damage_adjusted=none|defensive_merit=112550 (verify)|shield_projection=none|module_uplink=none|energy_distribution_/_energy_share=none|energy_induction=none|damage_boost=none|drain_boost=none}}
+
+== Overview ==
+The Leviathan class walker chassis is award to [[Controller|Controllers]] who have proven themselves on the frontlines in the [[Talsia|Talsian Warfront]].  
+
+Sells for 220080 credits.  
+
+== Combat Strategy ==
+
+== See also ==
+[[:Category:Chassis (Useable)|Chassis (Useable)]]
+[[Category:Chassis (Useable)]]
+[[Category:Chassis]]

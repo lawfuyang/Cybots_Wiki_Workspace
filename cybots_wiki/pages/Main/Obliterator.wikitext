@@ -1,0 +1,10 @@
+{{Weapon|image1=File:Obliterator.jpg|caption-image1=Superweapon|weapon-information=Weapon Information|cost=  1000 accolades <br>131212 credits value|weight=250|required_tech_level=379|technology_required=none|shield_damage=2000|armor_piercing=1000|energy_drain=0|damage_radius=4|accuracy=100|shots_per_turn=0.35|energy_per_shot=800|max_targets_per_turn=?|offensive_merit=157455}}
+
+== Overview ==
+Purchase From [[Accolades Exchange]] In [[Talsian Warfront]].
+
+== Where to Acquire ==
+The Obliterator superweapon can be bought from the accolade exchanger in the Talsian Warfront, or found after defeating Annihilators in Sulphur (with squad [[Battle Merit|BM]] of 20m+).<ref>need to verify</ref> It can also be found in vaults in [[Praetorian Outpost|Praetorian Outposts]] in the [[South East Quadrant]] of [[Gamma]].
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Superweapons)]]
+[[Category:Weapons]]

@@ -1,0 +1,10 @@
+{{Module|image1=File:Module4.jpg|cost=2500 credits|weight=10|required_tech_level=1|utility_module=yes|requirement=none|energy_use=20|bounty_enhanced=20%|defensive_merit=0}}
+
+== Overview ==
+This nifty module boosts the amount of credits won in outland events and battles by 20%. The effect is cumulative.
+
+== Where to Acquire ==
+The Bounty Enhancer can be bought in the workshop or found in caves, vaults, and bot remains in [[Vulcore]].
+[[Category:Modules (Useable)]]
+[[Category:Modules (Utility)]]
+[[Category:Modules]]

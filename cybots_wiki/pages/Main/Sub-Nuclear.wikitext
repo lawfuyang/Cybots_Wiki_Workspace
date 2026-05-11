@@ -1,0 +1,9 @@
+{{Reactor|image1=File:subnuclear.jpg|cost=35266 credits|other_requirements=none|weight=50|required_tech_level=20|max_energy_level=800|recharge_rate=300|defensive_merit=2300}}
+== Overview ==
+This miniature nuclear reactor can generate enough power to drive the medium Bot types but is likely too heavy for the lighter types. It has a balance between reserve power and recharge.
+
+== Where to Acquire ==
+The Sub-Nuclear Reactor can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+
+[[Category:Reactors (Useable)]]
+[[Category:Reactors]]

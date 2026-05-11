@@ -1,0 +1,10 @@
+{{Weapon|image1=File:shardcannon.jpg|caption-image1=Cannon|weapon-information=Weapon Information|cost=  24750 credits|weight=30|required_tech_level=60|technology_required=none|shield_damage=50|armor_piercing=800|energy_drain=0|damage_radius=1|accuracy=75|shots_per_turn=0.4|energy_per_shot=100|max_targets_per_turn=1|offensive_merit=29700}}
+
+== Overview ==
+This tank-like weapon fires a large shard of depleted colonite, which does large amounts armor damage. The reloading process however takes some amount of time and energy.
+
+== Where to Acquire ==
+The Shard Cannon can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Cannons)]]
+[[Category:Weapons]]

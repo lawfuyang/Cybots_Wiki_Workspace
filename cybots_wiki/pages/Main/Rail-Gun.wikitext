@@ -1,0 +1,10 @@
+{{Weapon|image1=File:railgun.jpg|caption-image1=Cannon|weapon-information=Weapon Information|cost=  74250 credits|weight=120|required_tech_level=208|technology_required=none|shield_damage=200|armor_piercing=3200|energy_drain=0|damage_radius=1|accuracy=65|shots_per_turn=0.3|energy_per_shot=200|max_targets_per_turn=1|offensive_merit=89100}}
+
+== Overview ==
+The MegaCorp experimental XG56D series 45 beta prototype Rail-Gun has had some serious development problems over its 32 year design period. Now however it is considered the replacement technology for heavy caliber guns and cannons.
+
+== Where to Acquire ==
+The Rail-Gun can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Cannons)]]
+[[Category:Weapons]]

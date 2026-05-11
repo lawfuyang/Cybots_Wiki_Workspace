@@ -1,0 +1,11 @@
+{{Weapon|image1=File:magmacannon.jpg|caption-image1=Cannon (Radius)|weapon-information=Weapon Information|cost=  36562 credits|weight=40|required_tech_level=95|technology_required=Magma Technology|shield_damage=250|armor_piercing=200|energy_drain=0|damage_radius=2|accuracy=75|shots_per_turn=1.0|energy_per_shot=50|max_targets_per_turn=2|offensive_merit=43875}}
+
+== Overview ==
+The Magma Cannon is a high pressure gas laser utilizing an explosive mixture of ultra heated oxidized gases normally found inside volcanic activity.
+
+== Where to Acquire ==
+The Magma Cannon can be bought in the workshop after obtaining [[Magma Technology]].
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Cannon (Radius))]]
+[[Category:Weapons (Magma Technology)]]
+[[Category:Weapons]]

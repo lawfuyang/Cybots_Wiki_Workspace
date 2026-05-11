@@ -1,0 +1,10 @@
+{{Weapon|image1=File:avenger.jpg|caption-image1=Cannon|weapon-information=Weapon Information|cost=  12187 credits|weight=15|required_tech_level=22|technology_required=none|shield_damage=25|armor_piercing=350|energy_drain=0|damage_radius=1|accuracy=70|shots_per_turn=1.0|energy_per_shot=50|max_targets_per_turn=1|offensive_merit=14625}}
+
+== Overview ==
+The Avenger is a light [[:Category:Weapons (Cannons)|cannon]] which can cause significant damage for low level squads when used with [[:Category:Weapons (Shield Disruptors)|Shield Disruptors]].
+
+== Where to Acquire ==
+The Avenger can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Cannons)]]
+[[Category:Weapons]]

@@ -1,0 +1,47 @@
+== Overview ==
+The Outlands consist of all of the PVE areas the [[Controller]] can patrol in the game.
+
+== List of Outlands ==
+{| class="fandom-table"
+|
+[[File:Ccutrainingdeck.jpg|center|frameless|link=CCU Training Deck|CCU Training Deck]]
+|
+=== [[CCU Training Deck]] ===
+The Cybot Controllers Union ARTIC-2 training facility is the most advanced holoreality instructional complex available. Use the facilities to take a new bot through early trial combat without the risk of permanent armor damage. You will also be able to undertake a series of optional instructional courses to improve your combat control skills.
+|-
+|[[File:Vincenttest.jpg|center|frameless|link=Vicent Test]]
+|
+=== [[Vincent Test]] ===
+Test Vincent.
+|-
+|[[File:Personalsquadviewer.jpg|center|frameless|link=Personal Squad Viewer]]
+|
+=== [[Personal Squad Viewer]] ===
+View your squad setup and personal statistics here.
+|-
+|[[File:Riconnenschallenge.jpg|center|frameless]]
+|
+=== [[Riconnen's Challenge]] ===
+The SatCom corporation is proud to present the latest and greatest in spectator warfare - Riconnen's Challenge.
+Open to all able and willing warriors, the rules are simple. Survive.
+Stand your ground in the Duel Ring against single opponents or dare to enter Sudden Death - Riconnen's ultimate challenge where you only get one chance to prove your worth.
+Time your challenges carefully though for the first to win will reap all the benefits.
+|-
+|[[File:Vulcoreplain.jpg|center|frameless|link=Vulcore Plain]]
+|
+=== [[Vulcore Plain]] ===
+Once the site of the now infamous "Magma" weapons testing range, the Vulcore plain is two million square miles of some of the most hazardous terrain on earth. The test complex lies somewhere in the centre of the massive, and now constantly active volcanic field. Dangers such as energy storms, military test mines and magma guysers are now commonly encountered. Both the isolation and hazardous terrain makes Vulcore a popular location for renegade squads and in more recent times gangs of Scaven hunters.
+|-
+|[[File:Talsianwarfront.jpg|center|frameless|link=Talsian Warfront]]
+|
+=== [[Talsian Warfront]] ===
+As part of a their ongoing campaign to wipe out all Cybot technology, the Federates have declared war on their once allies, the southern Corporate States. The Talsian wastelands, which is the natural divider between the two nations, is the site for the majority of conflict.
+Given their recent heavy losses, the CyCorps military is paying mercenary fees to any CCU independant Controller who wishes to enlist in the fight against their nation's enemy.
+|-
+|[[File:Gammasector.jpg|center|frameless|link=Gamma Sector]]
+|
+=== [[Gamma Sector]] ===
+The Gamma Sector is a dangerous and remote location in the Talsia Warfront that is inhabited by a variety of factions that use this land to conduct their businesses. Recently an advanced and powerful faction known as the Praetorians established mining colonies in this area in search of a very rare and unique type of meteorite iron, that is used in their technology. They are constantly attacking all the other factions and anyone who ventures near their mines to protect their valuable assets. 
+
+It is said that Gamma Sector is the best place to find unique materials and technology items, but is extremely dangerous. Only the most powerful and courageous controllers venture into this sector in search of the greatest technology and rewards in existence; but most of them die.
+|}

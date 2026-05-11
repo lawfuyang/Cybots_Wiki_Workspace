@@ -1,0 +1,9 @@
+{{Module|image1=File:Module2.jpg|cost=25000 credits|weight=25|required_tech_level=20|utility_module=no|requirement=none|energy_use=25|energy_drain_deflection=15%|defensive_merit=7500}}
+
+== Overview ==
+An EM Pulse Emitter generate periodic magnetic pulses that disperse incoming energy drain effects from enemy units.
+
+== Where to Acquire ==
+The EM Pulse Emitter can be bought in the workshop or found in caves, vaults, and bot remains in [[Vulcore]].
+[[Category:Modules (Useable)]]
+[[Category:Modules]]

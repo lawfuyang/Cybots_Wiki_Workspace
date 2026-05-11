@@ -1,0 +1,9 @@
+{{Module|image1=File:Module1.jpg|cost=10000 credits|weight=15|required_tech_level=15|utility_module=no|requirement=none|energy_use=35|speed=15%|firing_rate=10%|armor_deflection=8%|defensive_merit=5000}}
+
+== Overview ==
+Magnetic Actuators augment the existing mechanical systems to allow increased mobility as well as introducing a defensive routine to minimize physical damage.
+
+== Where to Acquire ==
+The Magnetic Actuator can be bought in the workshop or found in caves, vaults, and bot remains in [[Vulcore]].
+[[Category:Modules (Useable)]]
+[[Category:Modules]]

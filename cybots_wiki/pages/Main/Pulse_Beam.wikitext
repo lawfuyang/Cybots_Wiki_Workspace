@@ -1,0 +1,10 @@
+{{Weapon|image1=File:pulsebeam.jpg|caption-image1=Magnetic Pulse|weapon-information=Weapon Information|cost=  33750 credits|weight=32|required_tech_level=87|technology_required=none|shield_damage=150|armor_piercing=0|energy_drain=300|damage_radius=3|accuracy=50|shots_per_turn=1.0|energy_per_shot=75|max_targets_per_turn=1|offensive_merit=40500}}
+
+== Overview ==
+This weapon fires a concentrated Pulse Beam capable of causing significant disruption to energy and shield systems within a small area.
+
+== Where to Acquire ==
+The Pulse Beam can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Magnetic Pulse)]]
+[[Category:Weapons]]

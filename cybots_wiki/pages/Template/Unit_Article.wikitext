@@ -1,0 +1,54 @@
+== Overview ==
+<!-- Provide a brief summary of the unit, including its role, strengths, and weaknesses. -->
+
+== Stats and Abilities ==
+=== Base Attributes ===
+* **Payload:** <!-- 275 -->
+* **Armor:** <!-- 150 -->
+* **Accuracy Adjusted:** <!-- 15% -->
+* **Speed:** <!-- 70 -->
+* **Critical Hit Chance:** <!-- 5% -->
+* **Damage Adjusted:** <!-- Value -->
+* **Defensive Merit:** <!-- Value -->
+
+=== Slots ===
+* **Weapon Slots:** <!-- Value -->
+* **Module Slots:** <!-- Value -->
+* **Shield Slots:** <!-- Value -->
+
+=== Hidden Attributes ===
+* **Damage Boost:** <!-- Value or N/A -->
+* **Drain Boost:** <!-- Value or N/A -->
+
+=== Unique Stats ===
+<!-- Only include if the unit has them -->
+* **Shield Projection:** <!-- Value or N/A -->
+* **Module Uplink:** <!-- Value or N/A -->
+* **Energy Distribution/Share:** <!-- Value or N/A -->
+* **Energy Induction:** <!-- Value or N/A -->
+
+=== Technology Requirements ===
+* **Chassis Type:** <!-- Wheeler/Walker/Etc -->
+* **Chassis Cost:** <!-- Cost -->
+* **Technology Required:** <!-- Prerequisite Technology -->
+
+== Combat Strategy ==
+<!-- How to use this unit effectively in battle, strengths and weaknesses against certain enemies, and recommended upgrades. -->
+
+== Trivia ==
+<!-- Any interesting lore, references, or fun facts about this unit. -->
+
+== See Also ==
+* [[List of Cybot Units]]
+* [[Technology Tree]]
+* [[Battle Strategies]]
+
+[[Category: Unit Type]]
+<noinclude>
+<templatedata>
+{
+	"params": {},
+	"description": "Template for Unit Articles"
+}
+</templatedata>
+</noinclude>

@@ -1,0 +1,8 @@
+{{Template:Shield|image1=File:plasmaidt.jpg|cost=165000 credits|weight=150|required_tech_level=200|additional requirements=Plasma Technology|primary_level=3000|energy_use=150|recharge_rate=150|defensive_merit=75000}}
+== Overview ==
+The Plasma IDT is the second class of bot-equippable Plasma Shield projector. The design combines three standard [[Plasma (Shield)|Plasma Shield]] units into a combined unit that allows for an enhanced overlapping shield layer.
+
+== Where to Acquire ==
+The Plasma IDT can be bought in the workshop after acquiring [[Plasma Technology]].
+[[Category:Shields (Useable)]]
+[[Category:Shields]]

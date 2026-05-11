@@ -1,0 +1,10 @@
+{{Weapon|image1=File:pulsestreamer.jpg|caption-image1=Magnetic Pulse|weapon-information=Weapon Information|cost=  56250 credits|weight=96|required_tech_level=154|technology_required=none|shield_damage=250|armor_piercing=0|energy_drain=500|damage_radius=3|accuracy=50|shots_per_turn=1.0|energy_per_shot=125|max_targets_per_turn=1|offensive_merit=67500}}
+
+== Overview ==
+Generating a broad and continuous spectrum stream of ions, the Rc14 Pulse Streamer can disrupt several enemy power centers at once.
+
+== Where to Acquire ==
+The Pulse Streamer can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Magnetic Pulse)]]
+[[Category:Weapons]]

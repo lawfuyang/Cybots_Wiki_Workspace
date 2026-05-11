@@ -1,0 +1,10 @@
+{{Weapon|image1=File:argon_quad.jpg|caption-image1=Laser|weapon-information=Weapon Information|cost=  16500 credits|weight=15|required_tech_level=35|technology_required=none|shield_damage=200|armor_piercing=120|energy_drain=0|damage_radius=1|accuracy=70|shots_per_turn=1.0|energy_per_shot=80|max_targets_per_turn=3|offensive_merit=19800}}
+
+== Overview ==
+A powerful coupling of four standard [[Argon Laser|Argon Lasers]] merged into a singular slot bracing. The resulting projectile from this weapon has the power of four argon lasers all in one shot.
+
+== Where to Acquire ==
+The Baron Laser can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Lasers)]]
+[[Category:Weapons]]

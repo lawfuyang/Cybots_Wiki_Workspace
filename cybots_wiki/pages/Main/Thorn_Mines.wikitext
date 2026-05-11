@@ -1,0 +1,10 @@
+{{Weapon|image1=File:thornmines.jpg|caption-image1=Mines|weapon-information=Weapon Information|cost=8437 credits|weight=5|required_tech_level=11|technology_required=none|shield_damage=10|armor_piercing=10|energy_drain=0|damage_radius=4|accuracy=25|shots_per_turn=3.0|energy_per_shot=2|max_targets_per_turn=4|offensive_merit=10125}}
+
+== Overview ==
+Several dozen of these small magnetic [[:Category:Weapons (Mines)|mines]] are shot and scattered across the battle field where they remain hidden until an enemy unit passes nearby. When an enemy comes within range the Thorns fly towards their target and detonate on impact.
+
+== Where to Acquire ==
+Thorn Mines can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Mines)]]
+[[Category:Weapons]]

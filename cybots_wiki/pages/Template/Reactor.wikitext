@@ -1,0 +1,107 @@
+<includeonly>
+<infobox>
+  <title source="title1">
+    <default>{{PAGENAME}}</default>
+  </title>
+  <image source="image1">
+    <caption source="caption-image1"/>
+  </image>
+  <group>
+    <header source="reactor_information">Reactor Information</header>
+    <data source="cost">
+      <label>Cost</label>
+    </data>
+    <data source="weight">
+      <label>Weight</label>
+    </data>
+    <data source="required_tech_level">
+      <label>Required Tech Level</label>
+    </data>
+    <data source="other_requirements">
+      <label>Other Requirements</label>
+    </data>
+    <data source="max_energy_level">
+      <label>Max Energy Level</label>
+    </data>
+    <data source="recharge_rate">
+      <label>Recharge Rate</label>
+    </data>
+    <data source="defensive_merit">
+      <label>Defensive Merit</label>
+    </data>
+  </group>
+</infobox>
+</includeonly>
+<noinclude>
+Example usage:
+{{Reactor
+  | title1=Example
+  | image1=Example.jpg
+  | caption-image1=Example
+  | reactor_information=Example
+  | cost=Example
+  | weight=Example
+  | required_tech_level=Example
+  | other_requirements=Example
+  | max_energy_level=Example
+  | recharge_rate=Example
+  | defensive_merit=Example}}
+<pre>
+{{Reactor
+  | title1=Example
+  | image1=Example.jpg
+  | caption-image1=Example
+  | reactor_information=Example
+  | cost=Example
+  | weight=Example
+  | required_tech_level=Example
+  | other_requirements=Example
+  | max_energy_level=Example
+  | recharge_rate=Example
+  | defensive_merit=Example}}
+</pre>
+<templatedata>
+{
+	"params": {
+		"title1": {
+			"suggested": true
+		},
+		"image1": {
+			"suggested": true
+		},
+		"caption-image1": {
+			"suggested": true
+		},
+		"reactor_information": {
+			"suggested": true
+		},
+		"cost": {
+			"suggested": true
+		},
+		"weight": {
+			"suggested": true
+		},
+		"required_tech_level": {
+			"suggested": true
+		},
+		"other_requirements": {
+			"suggested": true,
+			"suggestedvalues": [
+				"none",
+				"Magma Technology"
+			]
+		},
+		"max_energy_level": {
+			"suggested": true
+		},
+		"recharge_rate": {
+			"suggested": true
+		},
+		"defensive_merit": {
+			"suggested": true
+		}
+	},
+	"sets": []
+}
+</templatedata>
+</noinclude>

@@ -1,0 +1,11 @@
+{{Weapon|image1=File:Plasmaturbocannon.jpg|caption-image1=Cannon (Radius)|weapon-information=Weapon Information|cost=  154912 credits|weight=200|required_tech_level=450|technology_required=Plasma Technology|shield_damage=675|armor_piercing=450|energy_drain=0|damage_radius=2|accuracy=60|shots_per_turn=1.75|energy_per_shot=150|max_targets_per_turn=1|offensive_merit=185895}}
+
+== Overview ==
+The Plasma Turbo-Cannon is the heaviest version of [[Plasma Cannon]] available to Controllers. High capacity dual plasma chambers and a cyclic magnetic launcher allow this weapon to fire plasma at a very rapid rate. It is however extremely heavy.
+
+== Where to Acquire ==
+The Plasma Turbo-Cannon can be bought in the workshop after acquiring [[Plasma Technology]].
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Cannon (Radius))]]
+[[Category:Weapons (Plasma Technology)]]
+[[Category:Weapons]]

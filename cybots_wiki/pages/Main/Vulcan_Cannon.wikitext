@@ -1,0 +1,10 @@
+{{Weapon|image1=File:vulcancannon.jpg|caption-image1=Light Armor Piercing|weapon-information=Weapon Information|cost=  28800 credits|weight=24|required_tech_level=72|technology_required=none|shield_damage=8|armor_piercing=60|energy_drain=0|damage_radius=1|accuracy=70|shots_per_turn=6.0|energy_per_shot=8|max_targets_per_turn=10|offensive_merit=34560}}
+
+== Overview ==
+The Vulcan Cannon unleashes a hail of high velocity rounds causing significant damage to targets with light armor deflection. Like all [[:Category:Weapons (Light Armor Piercing)|LAP class weapons]] the Vulcan lacks shield penetrative power.
+
+== Where to Acquire ==
+The Vulcan Cannon can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Light Armor Piercing)]]
+[[Category:Weapons]]

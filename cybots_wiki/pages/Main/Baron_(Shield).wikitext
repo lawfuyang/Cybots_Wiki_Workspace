@@ -1,0 +1,8 @@
+{{Template:Shield|image1=File:Baronshield.jpg|cost=11000 credits|weight=10|required_tech_level=1|additional requirements=none|primary_level=200|energy_use=20|recharge_rate=20|defensive_merit=5000}}
+== Overview ==
+Bulk Shield The Baron (mushroom) class shield generator provides a basic energy barrier offering protection against light weapons fire.
+
+== Where to Acquire ==
+The Baron Shield can be bought in the workshop, or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Shields (Useable)]]
+[[Category:Shields]]

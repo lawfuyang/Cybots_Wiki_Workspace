@@ -1,0 +1,9 @@
+{{Reactor|image1=File:ionflux.jpg|cost=15000 credits|other_requirements=none|weight=30|required_tech_level=10|max_energy_level=500|recharge_rate=200|defensive_merit=1500}}
+== Overview ==
+The Ion Flux reactor is another in the lighter [[Ion|Ion reactor]] series. Its advantage over other Ion reactors is its amazing recharge speed.
+
+== Where to Acquire ==
+The Ion Flux Reactor can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+
+[[Category:Reactors (Useable)]]
+[[Category:Reactors]]

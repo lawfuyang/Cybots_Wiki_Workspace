@@ -1,0 +1,50 @@
+{{Unit_New
+| image1=File:Centurion.jpg
+| unit_type=Mercenary
+| faction=Mercenary Guild
+| chassis_type=Spider
+| weapon_slots=2
+| module_slots=1
+| shield_slots=2
+| reactor_slots=1
+| payload=225
+| armor=250
+| speed=45
+| critical_hit_chance=none
+| accuracy_adjusted=none
+| damage_adjusted=none
+| damage_boost=none
+| drain_boost=115%
+| shield_projection=none
+| module_uplink=none
+| energy_distribution_/_energy_share=65%
+| energy_induction=100%
+}}
+
+== Overview ==
+The Centurion is a high-tier assault-class [[Reaper]] mercenary from the [[Mercenary Guild]]. With balanced mobility and high energy drain capacity, it’s suited for frontal engagements and lightning operations.
+
+== Equipment ==
+<gallery widths="100">
+File:Syphon1.jpg|link=EM_Syphon|[[EM Syphon|Weapon: EM Syphon]]
+File:Syphon1.jpg|link=EM_Syphon|[[EM Syphon|Weapon: EM Syphon]]
+File:Baronshield.jpg|link=Baron_(Shield)|[[Baron (Shield)|Shield: Baron]]
+File:Baronshield.jpg|link=Baron_(Shield)|[[Baron (Shield)|Shield: Baron]]
+File:Ionflux.jpg|link=Ion_Flux|[[Ion Flux|Reactor: Ion Flux]]
+</gallery>
+
+== Faction ==
+[[Mercenary Guild]]
+
+== Location ==
+The Centurion can be hired from the [[Outpost|Mercenary Guild Outpost]] in [[Vulcore]] for 10 mercreds.
+
+== Combat Strategy ==
+
+
+== See also ==
+[[:Category:Mercenaries (Vulcore)|Mercenaries (Vulcore)]]
+
+[[Category:Mercenaries (Vulcore)]]
+[[Category:Mercenaries]]
+[[Category:Mercenaries (Mercenary Guild)]]

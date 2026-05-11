@@ -1,0 +1,10 @@
+{{Weapon|image1=File:thor.jpg|caption-image1=Mortar|weapon-information=Weapon Information|cost=  37500 credits|weight=80|required_tech_level=98|technology_required=none|shield_damage=600|armor_piercing=200|energy_drain=0|damage_radius=3|accuracy=45|shots_per_turn=0.5|energy_per_shot=200|max_targets_per_turn=1|offensive_merit=45000}}
+
+== Overview ==
+Name after the god of Thunder, this weapon acts no differently. This weapon packs quite a punch and can devastate groups of enemies in a single blast. Quite literally 'Thor' will shake its target to the core.
+
+== Where to Acquire ==
+The Thor can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Mortars)]]
+[[Category:Weapons]]

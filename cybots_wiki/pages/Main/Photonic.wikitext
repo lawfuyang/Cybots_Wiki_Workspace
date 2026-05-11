@@ -1,0 +1,8 @@
+{{Template:Shield|image1=File:photonic.jpg|cost=33000 credits|weight=35|required_tech_level=30|additional requirements=none|primary_level=600|energy_use=60|recharge_rate=50|defensive_merit=15000}}
+== Overview ==
+The Photonic Shields use a deeper field, making them inherently better against explosive blasts and laser penetration than the Baron series shields.
+
+== Where to Acquire ==
+The Photonic Shield can be bought in the workshop, or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Shields (Useable)]]
+[[Category:Shields]]

@@ -1,0 +1,193 @@
+<includeonly>
+<infobox>
+  <title source="title1">
+    <default>{{PAGENAME}}</default>
+  </title>
+  <image source="image1">
+    <caption source="caption-image1"/>
+  </image>
+  <group>
+    <header source="weapon-information">Weapon Information</header>
+    <data source="cost">
+      <label>Cost</label>
+    </data>
+    <data source="weight">
+      <label>Weight</label>
+    </data>
+    <data source="required_tech_level">
+      <label>Required Tech Level</label>
+    </data>
+    <data source="technology_required">
+      <label>Technology Required</label>
+    </data>
+    <data source="shield_damage">
+      <label>Shield Damage</label>
+    </data>
+    <data source="armor_piercing">
+      <label>Armor Piercing</label>
+    </data>
+    <data source="energy_drain">
+      <label>Energy Drain</label>
+    </data>
+    <data source="damage_radius">
+      <label>Damage Radius</label>
+    </data>
+    <data source="accuracy">
+      <label>Accuracy</label>
+    </data>
+    <data source="shots_per_turn">
+      <label>Shots Per Turn</label>
+    </data>
+    <data source="energy_per_shot">
+      <label>Energy Per Shot</label>
+    </data>
+    <data source="max_targets_per_turn">
+      <label>Max Targets Per Turn</label>
+    </data>
+    <data source="offensive_merit">
+      <label>Offensive Merit</label>
+    </data>
+  </group>
+</infobox>
+</includeonly>
+<noinclude>
+Example usage:
+{{Weapon
+  | title1=Example
+  | image1=Example.jpg
+  | caption-image1=Example
+  | weapon_type=Example
+  | weight=Example
+  | required_tech_level=Example
+  | technology_required=Example
+  | shield_damage=Example
+  | armor_piercing=Example
+  | energy_drain=Example
+  | damage_radius=Example
+  | accuracy=Example
+  | shots_per_turn=Example
+  | energy_per_shot=Example
+  | max_targets_per_turn=Example
+  | offensive_merit=Example}}
+<pre>
+{{Weapon
+  | title1=Example
+  | image1=Example.jpg
+  | caption-image1=Example
+  | weapon_type=Example
+  | weight=Example
+  | required_tech_level=Example
+  | technology_required=Example
+  | shield_damage=Example
+  | armor_piercing=Example
+  | energy_drain=Example
+  | damage_radius=Example
+  | accuracy=Example
+  | shots_per_turn=Example
+  | energy_per_shot=Example
+  | max_targets_per_turn=Example
+  | offensive_merit=Example}}
+</pre>
+<templatedata>
+{
+	"params": {
+		"title1": {
+			"suggested": true
+		},
+		"image1": {
+			"suggested": true
+		},
+		"caption-image1": {
+			"suggested": true,
+			"suggestedvalues": [
+				"Laser",
+				"Power Disruptor",
+				"Mines",
+				"Light Armor Piercing",
+				"Shield Disruptor",
+				"Magnetic Pulse",
+				"Cannon",
+				"Rocket Pack",
+				"Mortar",
+				"Cannon (Radius)",
+				"Multi-Launch Rocket Pack",
+				"Superweapon",
+				"Clusterbomb",
+				"Special Weapon",
+				"Armor Piercing"
+			]
+		},
+		"weight": {
+			"suggested": true
+		},
+		"required_tech_level": {
+			"suggested": true,
+			"type": "number"
+		},
+		"technology_required": {
+			"suggested": true,
+			"suggestedvalues": [
+				"none",
+				"Magma Technology",
+				"Radial Laser Technology",
+				"Storm Technology",
+				"Plasma Technology"
+			]
+		},
+		"shield_damage": {
+			"suggested": true
+		},
+		"armor_piercing": {
+			"suggested": true
+		},
+		"energy_drain": {
+			"suggested": true
+		},
+		"damage_radius": {
+			"suggested": true
+		},
+		"accuracy": {
+			"suggested": true
+		},
+		"shots_per_turn": {
+			"suggested": true
+		},
+		"energy_per_shot": {
+			"suggested": true
+		},
+		"max_targets_per_turn": {
+			"suggested": true
+		},
+		"offensive_merit": {
+			"suggested": true
+		},
+		"cost": {},
+		"weapon-information": {
+			"type": "wiki-page-name",
+			"autovalue": "Weapon Information",
+			"suggested": true
+		}
+	},
+	"sets": [],
+	"paramOrder": [
+		"title1",
+		"image1",
+		"caption-image1",
+		"weapon-information",
+		"cost",
+		"weight",
+		"required_tech_level",
+		"technology_required",
+		"shield_damage",
+		"armor_piercing",
+		"energy_drain",
+		"damage_radius",
+		"accuracy",
+		"shots_per_turn",
+		"energy_per_shot",
+		"max_targets_per_turn",
+		"offensive_merit"
+	]
+}
+</templatedata>
+</noinclude>

@@ -1,0 +1,10 @@
+{{Weapon|image1=File:heavyshielddisruptor.jpg|caption-image1=Shield Disruptor|weapon-information=Weapon Information|cost=  18750 credits|weight=10|required_tech_level=42|technology_required=none|shield_damage=500|armor_piercing=0|energy_drain=0|damage_radius=1|accuracy=75|shots_per_turn=1.0|energy_per_shot=40|max_targets_per_turn=1|offensive_merit=22500}}
+
+== Overview ==
+The Vidian Industries Heavy Shield Disruptor was designed to counter the use of heavier shielding technologies and deflective capabilities.
+
+== Where to Acquire ==
+The Heavy Shield Disruptor can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Shield Disruptors)]]
+[[Category:Weapons]]

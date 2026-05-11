@@ -1,0 +1,362 @@
+<includeonly>
+<infobox>
+  <title source="title1">
+    <default>{{PAGENAME}}</default>
+  </title>
+  <image source="image1">
+    <caption source="caption-image1"/>
+  </image>
+  <group>
+    <header source="unit_information">Unit Information</header>
+    <data source="unit_type">
+      <label>Unit Type</label>
+    </data>
+    <data source="faction">
+      <label>Faction</label>
+    </data>
+    <data source="chassis_type">
+      <label>Chassis Type</label>
+    </data>
+    <data source="chassis_cost">
+      <label>Chassis Cost</label>
+    </data>
+    <data source="technology_required">
+      <label>Technology Required</label>
+    </data>
+    <data source="other_requirements">
+      <label>Other Requirements</label>
+    </data>
+  </group>
+  <group>
+    <header source="slots">Slots</header>
+    <data source="weapon_slots">
+      <label>Weapon Slots</label>
+    </data>
+    <data source="module_slots">
+      <label>Module Slots</label>
+    </data>
+    <data source="shield_slots">
+      <label>Shield Slots</label>
+    </data>
+    <data source="reactor_slots">
+      <label>Reactor Slots</label>
+    </data>
+  </group>
+  <group>
+    <header source="starting_tech_levels">Starting Tech Levels</header>
+    <data source="weapon_tech">
+      <label>Weapon Tech</label>
+    </data>
+    <data source="shield_tech">
+      <label>Shield Tech</label>
+    </data>
+    <data source="module_tech">
+      <label>Module Tech</label>
+    </data>
+    <data source="reactor_tech">
+      <label>Reactor Tech</label>
+    </data>
+  </group>
+  <group>
+    <header source="base_stats">Base Stats</header>
+    <data source="payload">
+      <label>Payload</label>
+    </data>
+    <data source="armor">
+      <label>Armor</label>
+    </data>
+    <data source="speed">
+      <label>Speed</label>
+    </data>
+    <data source="critical_hit_chance">
+      <label>Critical Hit Chance</label>
+    </data>
+    <data source="accuracy_adjusted">
+      <label>Accuracy Adjusted</label>
+    </data>
+    <data source="damage_adjusted">
+      <label>Damage Adjusted</label>
+    </data>
+    <data source="defensive_merit">
+      <label>Defensive Merit</label>
+    </data>
+  </group>
+  <group>
+    <header source="unique_stats">Unique Stats</header>
+    <data source="shield_projection">
+      <label>Shield Projection</label>
+    </data>
+    <data source="module_uplink">
+      <label>Module Uplink</label>
+    </data>
+    <data source="energy_distribution_/_energy_share">
+      <label>Energy Distribution / Energy Share</label>
+    </data>
+    <data source="energy_induction">
+      <label>Energy Induction</label>
+    </data>
+  </group>
+  <group>
+    <header source="hidden_stats">Hidden Stats</header>
+    <data source="damage_boost">
+      <label>Damage Boost</label>
+    </data>
+    <data source="drain_boost">
+      <label>Drain Boost</label>
+    </data>
+  </group>
+</infobox>
+</includeonly>
+<noinclude>
+Example usage:
+{{Unit New
+  | title1=Example
+  | image1=Example.jpg
+  | caption-image1=Example
+  | unit_information=Example
+  | unit_type=Example
+  | faction=Example
+  | chassis_type=Example
+  | chassis_cost=Example
+  | row1=Example
+  | slots=Example
+  | weapon_slots=Example
+  | module_slots=Example
+  | shield_slots=Example
+  | reactor_slots=Example
+  | starting_tech_levels=Example
+  | weapon_tech=Example
+  | shield_tech=Example
+  | module_tech=Example
+  | reactor_tech=Example
+  | base_stats=Example
+  | payload=Example
+  | armor=Example
+  | speed=Example
+  | critical_hit_chance=Example
+  | accuracy_adjusted=Example
+  | damage_adjusted=Example
+  | defensive_merit=Example
+  | unique_stats=Example
+  | shield_projection=Example
+  | module_uplink=Example
+  | energy_distribution_/_energy_share=Example
+  | energy_induction=Example
+  | hidden_stats=Example
+  | damage_boost=Example
+  | drain_boost=Example}}
+<pre>
+{{Unit New
+  | title1=Example
+  | image1=Example.jpg
+  | caption-image1=Example
+  | unit_information=Example
+  | unit_type=Example
+  | faction=Example
+  | chassis_type=Example
+  | chassis_cost=Example
+  | row1=Example
+  | slots=Example
+  | weapon_slots=Example
+  | module_slots=Example
+  | shield_slots=Example
+  | reactor_slots=Example
+  | starting_tech_levels=Example
+  | weapon_tech=Example
+  | shield_tech=Example
+  | module_tech=Example
+  | reactor_tech=Example
+  | base_stats=Example
+  | payload=Example
+  | armor=Example
+  | speed=Example
+  | critical_hit_chance=Example
+  | accuracy_adjusted=Example
+  | damage_adjusted=Example
+  | defensive_merit=Example
+  | unique_stats=Example
+  | shield_projection=Example
+  | module_uplink=Example
+  | energy_distribution_/_energy_share=Example
+  | energy_induction=Example
+  | hidden_stats=Example
+  | damage_boost=Example
+  | drain_boost=Example}}
+</pre>
+<templatedata>
+{
+	"params": {
+		"title1": {
+			"suggested": true
+		},
+		"image1": {
+			"suggested": true
+		},
+		"caption-image1": {
+			"suggested": true
+		},
+		"unit_information": {
+			"suggested": true
+		},
+		"unit_type": {
+			"suggested": true,
+			"suggestedvalues": [
+				"Cybot",
+				"Enemy",
+				"Ally",
+				"Mercenary"
+			]
+		},
+		"faction": {
+			"suggestedvalues": [
+				"CyCorps",
+				"Enemy AI",
+				"Scaven",
+				"Rogue Cybots",
+				"Federates",
+				"Pirates",
+				"Master Controllers (MCs)",
+				"Fallen",
+				"Angels",
+				"Guerillas",
+				"Arena Masters",
+				"Horus",
+				"ExFeds",
+				"Praetorians",
+				"Flaming Cybots",
+				"Exbots"
+			],
+			"suggested": true
+		},
+		"chassis_type": {
+			"suggested": true
+		},
+		"chassis_cost": {
+			"suggested": true
+		},
+		"slots": {
+			"suggested": true
+		},
+		"weapon_slots": {
+			"suggested": true
+		},
+		"module_slots": {
+			"suggested": true
+		},
+		"shield_slots": {
+			"suggested": true
+		},
+		"reactor_slots": {
+			"suggested": true,
+			"autovalue": "1"
+		},
+		"starting_tech_levels": {
+			"suggested": true
+		},
+		"weapon_tech": {
+			"suggested": true
+		},
+		"shield_tech": {
+			"suggested": true
+		},
+		"module_tech": {
+			"suggested": true
+		},
+		"reactor_tech": {
+			"suggested": true
+		},
+		"base_stats": {
+			"suggested": true
+		},
+		"payload": {
+			"suggested": true
+		},
+		"armor": {
+			"suggested": true
+		},
+		"speed": {
+			"suggested": true
+		},
+		"critical_hit_chance": {
+			"suggested": true
+		},
+		"accuracy_adjusted": {
+			"suggested": true
+		},
+		"damage_adjusted": {
+			"suggested": true
+		},
+		"defensive_merit": {
+			"suggested": true
+		},
+		"unique_stats": {
+			"suggested": true
+		},
+		"shield_projection": {
+			"suggested": true
+		},
+		"module_uplink": {
+			"suggested": true
+		},
+		"energy_distribution_/_energy_share": {
+			"suggested": true
+		},
+		"energy_induction": {
+			"suggested": true
+		},
+		"hidden_stats": {
+			"suggested": true
+		},
+		"damage_boost": {
+			"suggested": true
+		},
+		"drain_boost": {
+			"suggested": true
+		},
+		"technology_required": {
+			"suggested": true
+		},
+		"other_requirements": {}
+	},
+	"sets": [],
+	"paramOrder": [
+		"title1",
+		"image1",
+		"caption-image1",
+		"unit_information",
+		"unit_type",
+		"faction",
+		"chassis_type",
+		"chassis_cost",
+		"technology_required",
+		"other_requirements",
+		"slots",
+		"weapon_slots",
+		"module_slots",
+		"shield_slots",
+		"reactor_slots",
+		"starting_tech_levels",
+		"weapon_tech",
+		"shield_tech",
+		"module_tech",
+		"reactor_tech",
+		"base_stats",
+		"payload",
+		"armor",
+		"speed",
+		"critical_hit_chance",
+		"accuracy_adjusted",
+		"damage_adjusted",
+		"defensive_merit",
+		"unique_stats",
+		"shield_projection",
+		"module_uplink",
+		"energy_distribution_/_energy_share",
+		"energy_induction",
+		"hidden_stats",
+		"damage_boost",
+		"drain_boost"
+	]
+}
+</templatedata>
+</noinclude>

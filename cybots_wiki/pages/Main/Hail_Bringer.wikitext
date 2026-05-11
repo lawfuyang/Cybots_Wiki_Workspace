@@ -1,0 +1,11 @@
+{{Weapon|image1=File:stormbringer.jpg|caption-image1=Multi-Launch Rocket Pack|weapon-information=Weapon Information|cost=  147637 credits|weight=250|required_tech_level=428|technology_required=Storm Technology|shield_damage=250|armor_piercing=2500|energy_drain=0|damage_radius=2|accuracy=25|shots_per_turn=0.5|energy_per_shot=350|max_targets_per_turn=1|offensive_merit=177165}}
+
+== Overview ==
+The VR20 high-density "Hail Bringer" is the sister weapon of the "[[Storm Bringer]]" and is designed to annihilate unshielded enemies with a single salvo.
+
+== Where to Acquire ==
+The Hail Bringer can be bought in the workshop after acquiring [[Storm Technology]].
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Multi-Launch Rocket Pack)]]
+[[Category:Weapons (Storm Technology)]]
+[[Category:Weapons]]

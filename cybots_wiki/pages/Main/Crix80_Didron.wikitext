@@ -1,0 +1,9 @@
+{{Reactor|image1=File:crix80didron.jpg|cost=found<br>81666 credit value|other_requirements=none|weight=80|required_tech_level=0|max_energy_level=1000|recharge_rate=650|defensive_merit=2500}}
+== Overview ==
+A powerful Federate reactor that, unlike most Federate equipment, is compact enough to be equipped to some Cybot chassis.
+
+== Where to Acquire ==
+The Crix80 Didron Reactor can be found in the storage bunker of [[Firebase (Talsia)|Firebases]] in the [[Alpha Sector]] of the [[Talsia|Talsian Warfront]].
+
+[[Category:Reactors (Useable)]]
+[[Category:Reactors]]

@@ -1,0 +1,14 @@
+{{Unit New|image1=[[File:enhancedreaper.jpg]]|unit_type=Cybot (Useable)|faction=none|chassis_type=Spider|chassis_cost=none|technology_required=none|other_requirements=Complete Enhanced Reaper Quest|weapon_slots=2|module_slots=2|shield_slots=2|reactor_slots=1|weapon_tech=308|shield_tech=1|module_tech=50|reactor_tech=56|payload=1000|armor=800|speed=100|critical_hit_chance=25%|accuracy_adjusted=100%|damage_adjusted=none|defensive_merit=95500|shield_projection=none|module_uplink=none|energy_distribution_/_energy_share=100%|energy_induction=100%|damage_boost=none|drain_boost=250%}}
+
+== Overview ==
+
+The Enhanced Reaper can be acquired from by completing the [[Enhanced Reaper Quest]] in [[Gamma]].
+
+Sells for 30480 credits.
+
+== Combat Strategy ==
+
+== See also ==
+[[:Category:Chassis (Useable)|Chassis (Useable)]]
+[[Category:Chassis (Useable)]]
+[[Category:Chassis]]

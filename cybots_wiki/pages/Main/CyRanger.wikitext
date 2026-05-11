@@ -1,0 +1,14 @@
+{{Unit New|image1=[[File:cyranger.jpg]]|unit_type=Cybot (Useable)|faction=none|chassis_type=Wheeler|chassis_cost=20000000 credits|technology_required=none|other_requirements=none|weapon_slots=1|module_slots=2|shield_slots=1|reactor_slots=1|weapon_tech=298|shield_tech=15|module_tech=15|reactor_tech=56|payload=125|armor=900|speed=125|critical_hit_chance=50%|accuracy_adjusted=35%|damage_adjusted=|defensive_merit=9250|shield_projection=none|module_uplink=none|energy_distribution_/_energy_share=none|energy_induction=none|damage_boost=200%|drain_boost=none}}
+
+== Overview ==
+
+The CyRanger can be acquired from the [[Chassis Trader]] in the [[North East Quadrant]] in [[Gamma]].
+
+Sells for 18000 credits.
+
+== Combat Strategy ==
+
+== See also ==
+[[:Category:Chassis (Useable)|Chassis (Useable)]]
+[[Category:Chassis (Useable)]]
+[[Category:Chassis]]

@@ -1,0 +1,1059 @@
+This is a list of all weapons useable by the Controller.
+{| class="sortable fandom-table"
+|+Weapons (Useable by Controller)
+!
+!Weapon
+!Weapon Type
+!Cost
+!Weight
+!Required Tech Level
+!Other Requirements
+!Shield Damage
+!Armor Piercing
+!Energy Drain
+!Damage Radius
+!Accuracy
+!Shots Per Turn
+!Energy Per Shot
+!Max Targets Per Turn
+!Offensive Merit
+|-
+|[[File:Stunlaser.jpg|50x50px|link=Stun Laser]]
+|[[Stun Laser]]
+|Laser
+|found
+|5
+|0
+|none
+|20
+|10
+|20
+|1
+|75
+|1
+|5
+|
+|2700
+|-
+|[[File:Argonlaser.jpg|50x50px|link=Argon Laser]]
+|[[Argon Laser]]
+|Laser
+|4125 credits
+|3
+|0
+|none
+|50
+|30
+|0
+|1
+|85
+|1.0
+|20
+|3
+|4950
+|-
+|[[File:Syphon1.jpg|50x50px|link=EM Syphon]]
+|[[EM Syphon]]
+|Power Disruptor
+|7500 credits
+|5
+|8
+|none
+|0
+|0
+|200
+|1
+|80
+|1.0
+|50
+|1
+|9000
+|-
+|[[File:Baronlaser.jpg|50x50px|link=Baron Laser]]
+|[[Baron Laser]]
+|Laser
+|8250 credits
+|6
+|10
+|none
+|100
+|60
+|0
+|1
+|80
+|1.0
+|40
+|3
+|9900
+|-
+|[[File:Thornmines.jpg|50x50px|link=Thorn Mines]]
+|[[Thorn Mines]]
+|Mines
+|8437 credits
+|5
+|11
+|none
+|10
+|10
+|0
+|4
+|25
+|3.0
+|2
+|4
+|10125
+|-
+|[[File:20mmautocannon.jpg|50x50px|link=20mm Auto Cannon]]
+|[[20mm Auto Cannon]]
+|Light Armor Piercing
+|9450 credits
+|6
+|14
+|none
+|5
+|40
+|0
+|1
+|80
+|3.0
+|4
+|1
+|11340
+|-
+|[[File:Shielddisruptor.jpg|50x50px|link=Shield Disruptor]]
+|[[Shield Disruptor]]
+|Shield Disruptor
+|9375 credits
+|5
+|14
+|none
+|250
+|0
+|0
+|1
+|80
+|1.0
+|20
+|1
+|11250
+|-
+|[[File:Avenger.jpg|50x50px|link=Avenger]]
+|[[Avenger]]
+|Cannon
+|12187 credits
+|15
+|22
+|none
+|25
+|350
+|0
+|1
+|70
+|0.45
+|50
+|1
+|14625
+|-
+|[[File:Lr100rocketpack.jpg|50x50px|link=LR100 Rocket Pack]]
+|[[LR100 Rocket Pack]]
+|Rocket Pack
+|12937 credits
+|25
+|24
+|none
+|50
+|90
+|0
+|2
+|70
+|1.0
+|20
+|3
+|15525
+|-
+|[[File:Syphonmkii.jpg|50x50px|link=Syphon MKII]]
+|[[Syphon MKII]]
+|Power Disruptor
+|15000 credits
+|10
+|31
+|none
+|0
+|0
+|400
+|1
+|75
+|1.0
+|100
+|1
+|18000
+|-
+|[[File:Argon quad.jpg|50x50px|link=Quad Argon Lasers]]
+|[[Quad Argon Lasers]]
+|Laser
+|16500 credits
+|15
+|35
+|none
+|200
+|120
+|0
+|1
+|70
+|1.0
+|80
+|3
+|19800
+|-
+|[[File:G33.jpg|50x50px|link=G33 Launcher]]
+|[[G33 Launcher]]
+|Magnetic Pulse
+|16800 credits
+|8
+|36
+|none
+|75
+|0
+|150
+|3
+|50
+|1.0
+|25
+|1
+|20160
+|-
+|[[File:Heavyshielddisruptor.jpg|50x50px|link=Heavy Shield Disruptor]]
+|[[Heavy Shield Disruptor]]
+|Shield Disruptor
+|18750 credits
+|10
+|42
+|none
+|500
+|0
+|0
+|1
+|75
+|1.0
+|40
+|1
+|22500
+|-
+|[[File:20mmmanifold.jpg|50x50px|link=20mm Manifold]]
+|[[20mm Manifold]]
+|Light Armor Piercing
+|18900 credits
+|12
+|42
+|none
+|5
+|40
+|0
+|1
+|75
+|6.0
+|4
+|10
+|22680
+|-
+|[[File:Punisher.jpg|50x50px|link=Punisher]]
+|[[Punisher]]
+|Mortar
+|18750 credits
+|40
+|42
+|none
+|300
+|100
+|0
+|3
+|50
+|0.5
+|150
+|1
+|22500
+|-
+|[[File:Syphonelite.jpg|50x50px|link=Syphon Elite]]
+|[[Syphon Elite]]
+|Power Disruptor
+|22500 credits
+|20
+|53
+|none
+|0
+|0
+|600
+|1
+|70
+|1.0
+|150
+|1
+|27000
+|-
+|[[File:Shockmines.jpg|50x50px|link=Shock Mines]]
+|[[Shock Mines]]
+|Mines
+|24187 credits
+|20
+|58
+|none
+|40
+|23
+|0
+|4
+|20
+|3.0
+|6
+|4
+|29025
+|-
+|[[File:Shardcannon.jpg|50x50px|link=Shard Cannon]]
+|[[Shard Cannon]]
+|Cannon
+|24750 credits
+|30
+|60
+|none
+|50
+|800
+|0
+|1
+|75
+|0.4
+|100
+|1
+|29700
+|-
+|[[File:Mr100rocketpack.jpg|50x50px|link=MR100 Rocket Pack]]
+|[[MR100 Rocket Pack]]
+|Rocket Pack
+|25875 credits
+|50
+|63
+|none
+|100
+|180
+|0
+|2
+|65
+|1.0
+|40
+|3
+|31050
+|-
+|[[File:Shielddisplacer.jpg|50x50px|link=Shield Displacer]]
+|[[Shield Displacer]]
+|Shield Disruptor
+|28125 credits
+|20
+|70
+|none
+|750
+|0
+|0
+|1
+|70
+|1.0
+|70
+|1
+|33750
+|-
+|[[File:Vulcancannon.jpg|50x50px|link=Vulcan Cannon]]
+|[[Vulcan Cannon]]
+|Light Armor Piercing
+|28800 credits
+|24
+|72
+|none
+|8
+|60
+|0
+|1
+|70
+|6.0
+|8
+|10
+|34560
+|-
+|[[File:Syphonicdisruptor.jpg|50x50px|link=Syphonic Disruptor]]
+|[[Syphonic Disruptor]]
+|Power Disruptor
+|30000 credits
+|40
+|76
+|none
+|0
+|0
+|800
+|1
+|65
+|1.0
+|200
+|1
+|36000
+|-
+|[[File:Baronbattery.jpg|50x50px|link=Baron Battery]]
+|[[Baron Battery]]
+|Laser
+|32250 credits
+|35
+|82
+|none
+|320
+|270
+|0
+|1
+|70
+|1.0
+|160
+|3
+|38700
+|-
+|[[File:Phoenixlaser.jpg|50x50px|link=Phoenix Laser]]
+|[[Phoenix Laser]]
+|Laser
+|33000 credits
+|50
+|85
+|[[Magma Technology]]
+|400
+|240
+|0
+|1
+|70
+|1.0
+|160
+|1
+|39600
+|-
+|[[File:Pulsebeam.jpg|50x50px|link=Pulse Beam]]
+|[[Pulse Beam]]
+|Magnetic Pulse
+|33750 credits
+|32
+|87
+|none
+|150
+|0
+|300
+|3
+|50
+|1.0
+|75
+|1
+|40500
+|-
+|[[File:Magmacannon.jpg|50x50px|link=Magma Cannon]]
+|[[Magma Cannon]]
+|Cannon (Radius)
+|36562 credits
+|40
+|95
+|[[Magma Technology]]
+|250
+|200
+|0
+|2
+|75
+|1.0
+|50
+|2
+|43875
+|-
+|[[File:Magmamines.jpg|50x50px|link=Magma Mines]]
+|[[Magma Mines]]
+|Mines
+|36562 credits
+|10
+|95
+|[[Magma Technology]]
+|60
+|35
+|0
+|4
+|25
+|3.0
+|4
+|4
+|43875
+|-
+|[[File:Thor.jpg|50x50px|link=Thor]]
+|[[Thor]]
+|Mortar
+|37500 credits
+|80
+|98
+|none
+|600
+|200
+|0
+|3
+|45
+|0.5
+|200
+|1
+|45000
+|-
+|[[File:Shattercannon.jpg|50x50px|link=Shatter Cannon]]
+|[[Shatter Cannon]]
+|Cannon
+|43275 credits
+|60
+|115
+|none
+|100
+|1600
+|0
+|1
+|70
+|0.35
+|150
+|1
+|51930
+|-
+|[[File:Syphonimmobiliser.jpg|50x50px|link=Syphon Immobiliser]]
+|[[Syphon Immobiliser]]
+|Power Disruptor
+|45000 credits
+|80
+|121
+|none
+|0
+|0
+|1200
+|1
+|60
+|1.0
+|250
+|1
+|54000
+|-
+|[[File:Heavyshielddisplacer.jpg|50x50px|link=Heavy Shield Displacer]]
+|[[Heavy Shield Displacer]]
+|Shield Disruptor
+|46875 credits
+|40
+|126
+|none
+|1250
+|0
+|0
+|1
+|65
+|1.0
+|90
+|1
+|56250
+|-
+|[[File:Hr100rocketpack.jpg|50x50px|link=HR100 Rocket Pack]]
+|[[HR100 Rocket Pack]]
+|Rocket Pack
+|51750 credits
+|100
+|141
+|none
+|200
+|360
+|0
+|2
+|60
+|1.0
+|80
+|3
+|62100
+|-
+|[[File:Plasmamines.jpg|50x50px|link=Plasma Mines]]
+|[[Plasma Mines]]
+|Mines
+|51750 credits
+|40
+|141
+|[[Plasma Technology]]
+|85
+|50
+|0
+|4
+|20
+|3.0
+|8
+|4
+|62100
+|-
+|[[File:Fireblade.jpg|50x50px|link=Fire Blade]]
+|[[Fire Blade]]
+|Light Armor Piercing
+|53550 credits
+|48
+|146
+|none
+|15
+|350
+|0
+|1
+|65
+|2.0
+|8
+|10
+|64260
+|-
+|[[File:Cycliclaser.jpg|50x50px|link=Cyclic Laser]]
+|[[Cyclic Laser]]
+|Laser
+|56250 credits
+|48
+|154
+|[[Radial Laser Technology]]
+|350
+|200
+|0
+|1
+|70
+|2.0
+|175
+|4
+|67500
+|-
+|[[File:Pulsestreamer.jpg|50x50px|link=Pulse Streamer]]
+|[[Pulse Streamer]]
+|Magnetic Pulse
+|56250 credits
+|96
+|154
+|none
+|250
+|500
+|0
+|3
+|50
+|1.0
+|125
+|1
+|67500
+|-
+|[[File:Goodsamaritan.jpg|50x50px|link=Good Samaritan]]
+|[[Good Samaritan]]
+|Mortar
+|56250 credits
+|160
+|154
+|none
+|500
+|300
+|0
+|3
+|40
+|0.5
+|250
+|1
+|67500
+|-
+|[[File:Plasmacannon.jpg|50x50px|link=Plasma Cannon]]
+|[[Plasma Cannon]]
+|Cannon (Radius)
+|59062 credits
+|100
+|163
+|[[Plasma Technology]]
+|450
+|300
+|0
+|2
+|65
+|1.0
+|100
+|1
+|70875
+|-
+|[[File:Railgun.jpg|50x50px|link=Rail-Gun]]
+|[[Rail-Gun]]
+|Cannon
+|74250 credits
+|120
+|208
+|none
+|200
+|3200
+|0
+|1
+|65
+|0.3
+|200
+|1
+|89100
+|-
+|[[File:Shieldneutraliser.jpg|50x50px|link=Shield Neutraliser]]
+|[[Shield Neutraliser]]
+|Shield Disruptor
+|75000 credits
+|80
+|211
+|none
+|2000
+|0
+|0
+|1
+|60
+|1.0
+|150
+|1
+|90000
+|-
+|[[File:Advancedcycliclaser.jpg|50x50px|link=Advanced Cyclic Laser]]
+|[[Advanced Cyclic Laser]]
+|Laser
+|78750 credits
+|72
+|222
+|[[Radial Laser Technology]]
+|500
+|275
+|0
+|1
+|70
+|2.0
+|250
+|4
+|94500
+|-
+|[[File:Magnatron.jpg|50x50px|link=Magnatron]]
+|[[Magnatron]]
+|Magnetic Pulse
+|78750 credits
+|160
+|222
+|none
+|350
+|0
+|700
+|3
+|45
+|1.0
+|175
+|1
+|94500
+|-
+|[[File:Morningstar.jpg|50x50px|link=Morning Star]]
+|[[Morning Star]]
+|Multi-Launch Rocket Pack
+|80550 credits
+|125
+|227
+|[[Magma Technology]]
+|450
+|300
+|25
+|3
+|35
+|1.0
+|20
+|3
+|96660
+|-
+|[[File:Plasmaautocannon.jpg|50x50px|link=Plasma Auto-Cannon]]
+|[[Plasma Auto-Cannon]]
+|Cannon (Radius)
+|88537 credits
+|150
+|251
+|[[Plasma Technology]]
+|675
+|450
+|0
+|2
+|65
+|1.0
+|150
+|1
+|106245
+|-
+|[[File:Advancedcycliclaser.jpg|50x50px|link=Turbo Laser]]
+|[[Turbo Laser]]
+|Laser
+|101250 credits
+|96
+|289
+|[[Radial Laser Technology]]
+|650
+|350
+|0
+|1
+|70
+|2.0
+|325
+|4
+|121500
+|-
+|[[File:Hrxrocketpack.jpg|50x50px|link=HR X Rocket Pack]]
+|[[HR X Rocket Pack]]
+|Rocket Pack
+|103500 credits
+|200
+|296
+|none
+|400
+|720
+|0
+|2
+|55
+|1.0
+|160
+|3
+|124200
+|-
+|[[File:Fireblade.jpg|50x50px|link=Phalanx]]
+|[[Phalanx]]
+|Armor Piercing
+|108000 credits
+|96
+|310
+|none
+|20
+|350
+|0
+|1
+|60
+|4.0
+|8
+|10
+|129600
+|-
+|[[File:Stormbringer.jpg|50x50px|link=Storm Bringer]]
+|[[Storm Bringer]]
+|Multi-Launch Rocket Pack
+|112500 credits
+|250
+|323
+|[[Storm Weapon Technology]]
+|3500
+|250
+|0
+|2
+|25
+|0.5
+|400
+|3
+|135000
+|-
+|[[File:Stormbringer.jpg|50x50px|link=Hail Bringer]]
+|[[Hail Bringer]]
+|Multi-Launch Rocket Pack
+|147637 credits
+|250
+|428
+|[[Storm Weapon Technology]]
+|250
+|2500
+|0
+|2
+|25
+|0.5
+|350
+|1
+|177165
+|-
+|[[File:Plasmaturbocannon.jpg|50x50px|link=Plasma Turbo-Cannon]]
+|[[Plasma Turbo-Cannon]]
+|Cannon (Radius)
+|154912 credits
+|200
+|450
+|[[Plasma Technology]]
+|675
+|450
+|0
+|2
+|60
+|1.75
+|150
+|1
+|185895
+|-
+|[[File:Thermaldawn.jpg|50x50px|link=Thermal Dawn]]
+|[[Thermal Dawn]]
+|Superweapon
+|500 accolades
+|100
+|182
+|none
+|1000
+|500
+|0
+|4
+|100
+|0.35
+|400
+|
+|78705
+|-
+|[[File:Thermaldawn.jpg|50x50px|link=Riot Gun]]
+|[[Riot Gun]]
+|Superweapon
+|750 accolades
+|200
+|281
+|none
+|1500
+|750
+|0
+|4
+|100
+|0.35
+|600
+|
+|118080
+|-
+|[[File:Obliterator.jpg|50x50px|link=Obliterator]]
+|[[Obliterator]]
+|Superweapon
+|1000 accolades
+|250
+|379
+|none
+|2000
+|1000
+|0
+|4
+|100
+|0.35
+|800
+|
+|157455
+|-
+|[[File:Obliterator.jpg|50x50px|link=Ravager]]
+|[[Ravager]]
+|Superweapon
+|20000 accolades
+|500
+|674
+|none
+|3000
+|1750
+|500
+|4
+|100
+|0.35
+|650
+|
+|275580
+|-
+|[[File:Syphon1.jpg|50x50px|link=Radial Laser]]
+|[[Radial Laser]]
+|Special Weapon
+|found
+|75
+|31
+|none
+|75
+|30
+|0
+|1
+|65
+|3
+|20
+|
+|18090
+|-
+|[[File:Syphon1.jpg|50x50px|link=Heavy Radial Laser]]
+|[[Heavy Radial Laser]]
+|Special Weapon
+|found
+|100
+|76
+|none
+|75
+|30
+|0
+|1
+|65
+|6
+|20
+|
+|36180
+|-
+|[[File:Rayden.jpg|50x50px|link=Rayden]]
+|[[Rayden]]
+|Special Weapon
+|10000 accolades;
+found
+|200
+|305
+|none;
+[[Union of Service]]
+|0
+|0
+|3250
+|4
+|100
+|0.35
+|500
+|
+|127935
+|-
+|[[File:Clusterbombs.jpg|50x50px|link=Cluster Bombs]]
+|[[Cluster Bombs]]
+|Clusterbomb
+|250 mirons
+|1000
+|850
+|none
+|3500
+|500
+|750
+|6
+|?
+|0.15
+|1500
+|
+|200000
+|-
+|[[File:Pulserockets.jpg|50x50px|link=Pulse Rockets]]
+|[[Pulse Rockets]]
+|Multi-Launch Rocket Pack
+|300 mirons
+|400
+|450
+|none
+|1500
+|500
+|800
+|2
+|?
+|0.3
+|1000
+|3
+|200000
+|-
+|[[File:Peacemakercannon.jpg|50x50px|link=Peace Maker Cannon]]
+|[[Peace Maker Cannon]]
+|Special Weapon
+|quest reward
+|350
+|1000
+|none
+|4750
+|2000
+|0
+|5
+|100
+|0.25
+|1000
+|
+|550000
+|-
+|[[File:Pmcgold.jpg|50x50px|link=Peace Maker Cannon (Special Edition)]]
+|[[Peace Maker Cannon (Special Edition)]]
+|Special Weapon
+|quest reward
+|350
+|1000
+|none
+|4950
+|2025
+|0
+|5
+|100
+|0.25
+|950
+|1
+|550000
+|}

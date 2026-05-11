@@ -1,0 +1,10 @@
+{{Module|image1=File:Module4.jpg|cost=15000 credits|weight=15|required_tech_level=15|utility_module=yes|requirement=none|energy_use=40|defensive_merit=0}}
+
+== Overview ==
+The ComWave Scanner is another [[:Category:Modules (Utility)|passive non combat device]]. It is designed to hack into computer databases, bring down security firewalls and to give total access to sensitive information.
+
+== Where to Acquire ==
+The ComWave Scanner can be bought in the workshop or found in caves, vaults, and bot remains in [[Vulcore]].
+[[Category:Modules (Useable)]]
+[[Category:Modules (Utility)]]
+[[Category:Modules]]

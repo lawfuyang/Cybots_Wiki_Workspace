@@ -1,0 +1,8 @@
+{{Template:Shield|image1=File:argon400.jpg|cost=66000 credits|weight=70|required_tech_level=100|additional requirements=none|primary_level=1200|energy_use=120|recharge_rate=200|defensive_merit=30000}}
+== Overview ==
+With the success of the [[Argon (Shield)|Argon]], the Argon 400 was made as an upgrade to address several weaknesses. This newer version uses an overlapping projection technique to strengthen the layer.
+
+== Where to Acquire ==
+The Argon 400 can be bought in the workshop, or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Shields (Useable)]]
+[[Category:Shields]]

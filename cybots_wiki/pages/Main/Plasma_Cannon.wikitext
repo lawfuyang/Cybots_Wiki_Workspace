@@ -1,0 +1,11 @@
+{{Weapon|image1=File:Plasmacannon.jpg|caption-image1=Cannon (Radius)|weapon-information=Weapon Information|cost=  59062 credits|weight=100|required_tech_level=163|technology_required=Plasma Technology|shield_damage=450|armor_piercing=300|energy_drain=0|damage_radius=2|accuracy=65|shots_per_turn=1.0|energy_per_shot=100|max_targets_per_turn=1|offensive_merit=70875}}
+
+== Overview ==
+Combining sub-atomic superheating of alloys into a spongy goo and a supersonic magnetic rail launching mechanism, the Federates have managed to couple together a basic Plasma weapon capable of devouring shields and consuming the armor beneath.
+
+== Where to Acquire ==
+The Plasma Cannon can be bought in the workshop after acquiring [[Plasma Technology]].
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Cannon (Radius))]]
+[[Category:Weapons (Plasma Technology)]]
+[[Category:Weapons]]

@@ -1,0 +1,10 @@
+{{Weapon|image1=File:Thermaldawn.jpg|caption-image1=Superweapon|weapon-information=Weapon Information|cost=  500 accolades <br>65587 credits value|weight=100|required_tech_level=182|technology_required=none|shield_damage=1000|armor_piercing=500|energy_drain=0|damage_radius=4|accuracy=100|shots_per_turn=0.35|energy_per_shot=400|max_targets_per_turn=?|offensive_merit=78705}}
+
+== Overview ==
+Purchase From [[Accolades Exchange]] In [[Talsian Warfront]] or find in [[Sulphur|SULPHUR]] after defeating [[Annihilators]].
+
+== Where to Acquire ==
+The Thermal Dawn superweapon can be bought from the accolade exchanger in the Talsian Warfront, or found after defeating Annihilators in Sulphur.
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Superweapons)]]
+[[Category:Weapons]]

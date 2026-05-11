@@ -1,0 +1,10 @@
+{{Weapon|image1=File:hr100rocketpack.jpg|caption-image1=Rocket Pack|weapon-information=Weapon Information|cost=  51750 credits|weight=100|required_tech_level=141|technology_required=none|shield_damage=200|armor_piercing=360|energy_drain=0|damage_radius=2|accuracy=60|shots_per_turn=1.0|energy_per_shot=80|max_targets_per_turn=3|offensive_merit=62100}}
+
+== Overview ==
+Without any considerations for weight, the HR100 carries an armament of Thunderhead rockets.
+
+== Where to Acquire ==
+The HR100 Rocket Pack can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Rocket Packs)]]
+[[Category:Weapons]]

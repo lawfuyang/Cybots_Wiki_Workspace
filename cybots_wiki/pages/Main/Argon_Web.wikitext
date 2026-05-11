@@ -1,0 +1,8 @@
+{{Template:Shield|image1=File:argonweb.jpg|cost=82500 credits|weight=100|required_tech_level=150|additional requirements=none|primary_level=1500|energy_use=150|recharge_rate=300|defensive_merit=37500}}
+== Overview ==
+The Argon Web is one of the most powerful shielding system to date. All but the strongest of weapons are repelled by its shielding.
+
+== Where to Acquire ==
+The Argon Web can be bought in the workshop, or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Shields (Useable)]]
+[[Category:Shields]]

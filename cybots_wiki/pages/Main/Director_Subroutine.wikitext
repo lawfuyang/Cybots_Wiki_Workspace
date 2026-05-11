@@ -1,0 +1,9 @@
+{{Module|image1=File:Module3.jpg|cost=75000 credits|weight=60|required_tech_level=60|utility_module=no|requirement=none|energy_use=300|speed=|critical_hit_chance=1%|accuracy=15%|firing_rate=15%|shield_deflection=5%|armor_deflection=|energy_efficiency=10%|energy_drain_deflection=15%|defensive_merit=40000}}
+
+== Overview ==
+Director Subroutines provide enhanced programming to a bots core control systems giving it enhancements in almost all areas including bounty payments from combat encounters.
+
+== Where to Acquire ==
+The Director Subroutine can be bought in the workshop.
+[[Category:Modules (Useable)]]
+[[Category:Modules]]

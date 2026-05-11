@@ -1,0 +1,9 @@
+{{Module|image1=File:Module3.jpg|cost=50000 credits|weight=75|required_tech_level=50|utility_module=no|requirement=none|energy_use=150|shield_deflection=12%|defensive_merit=25000}}
+
+== Overview ==
+The ADVI Deflection Grid is one of the most significant defensive enhancements available. Whilst difficult to keep powered up, the grid is capable of deflecting energy weapons damage to shields.
+
+== Where to Acquire ==
+The Deflection Grid can be bought in the workshop or found in caves, vaults, and bot remains in [[Vulcore]].
+[[Category:Modules (Useable)]]
+[[Category:Modules]]

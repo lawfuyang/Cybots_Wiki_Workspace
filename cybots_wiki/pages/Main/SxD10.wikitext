@@ -1,0 +1,9 @@
+{{Template:Shield|image1=File:sxd10.jpg|cost=275000 credit value|weight=50|required_tech_level=15|additional requirements=Found in Gamma|primary_level=5000|energy_use=150|recharge_rate=850|defensive_merit=70000}}
+== Overview ==
+The SxD10 is the highest level of protection utilizing Scaven technology. It generates a shielding field that is almost impossible to penetrate, while improving upon the efficiency of the SxD8, taking it above and beyond any other defensive device.
+
+== Where to Acquire ==
+The SxD10 can only be found once per reset in Horus Temples in the North East quadrant of Gamma.
+[[Category:Shields (Useable)]]
+[[Category:Shields (Special)]]
+[[Category:Shields]]

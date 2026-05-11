@@ -1,0 +1,8 @@
+{{Template:Shield|image1=File:plasma.jpg|cost=55000 credits|weight=100|required_tech_level=65|additional requirements=Plasma Technology|primary_level=1000|energy_use=50|recharge_rate=50|defensive_merit=25000}}
+== Overview ==
+The Plasma Shield provides very strong protection but a slow recharge rate. The power to strength ration is also impressive, however the weight of this shield restricts its use to larger bot chassis.
+
+== Where to Acquire ==
+The Plasma Shield can be bought in the workshop after acquiring [[Plasma Technology]].
+[[Category:Shields (Useable)]]
+[[Category:Shields]]

@@ -1,0 +1,10 @@
+{{Reactor|image1=File:quantum.jpg|cost=750 mirons|other_requirements=none|weight=150|required_tech_level=45|max_energy_level=10000|recharge_rate=2000|defensive_merit=12000}}
+== Overview ==
+The Pneumatron reactor is a special reactor that can be obtained as a gift from the Guerillas after achieving an alignment of 300 or by defeating 50 warships and receiving the Star of Talsia. 
+
+== Where to Acquire ==
+The Pneumatron Reactor can be awarded to the Controller in Talsia by the Guerillas after achieved an alignment of 300 or by defeating 50 warships and receiving the Star of Talsia. It can also be bought from the South East market in Gamma.
+
+[[Category:Reactors (Useable)]]
+[[Category:Reactors (Special)]]
+[[Category:Reactors]]

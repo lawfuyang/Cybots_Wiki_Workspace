@@ -1,0 +1,10 @@
+{{Weapon|image1=File:syphonimmobiliser.jpg|caption-image1=Power Disruptor|weapon-information=Weapon Information|cost=  45000 credits|weight=80|required_tech_level=121|technology_required=none|shield_damage=0|armor_piercing=0|energy_drain=1200|damage_radius=1|accuracy=60|shots_per_turn=1.0|energy_per_shot=250|max_targets_per_turn=1|offensive_merit=54000}}
+
+== Overview ==
+The Syphon Immobiliser is a heavy duty [[:Category:Weapons (Power Disruptors)|draining weapon]]. Its awesome power is designed to sap the energy from enemy bots, tanks and warships.
+
+== Where to Acquire ==
+The Syphon Immobiliser can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Power Disruptors)]]
+[[Category:Weapons]]

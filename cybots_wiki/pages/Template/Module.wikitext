@@ -1,0 +1,197 @@
+<includeonly>
+<infobox>
+  <title source="title1">
+    <default>{{PAGENAME}}</default>
+  </title>
+  <image source="image1">
+    <caption source="caption-image1"/>
+  </image>
+  <group>
+    <header source="header1">Module Information</header>
+    <data source="cost">
+      <label>Cost</label>
+    </data>
+    <data source="weight">
+      <label>Weight</label>
+    </data>
+    <data source="required_tech_level">
+      <label>Required Tech Level</label>
+    </data>
+    <data source="utility_module">
+      <label>Utility Module</label>
+    </data>
+    <data source="requirement">
+      <label>Requirement</label>
+    </data>
+    <data source="energy_use">
+      <label>Energy Use</label>
+    </data>
+    <data source="speed">
+      <label>Speed</label>
+    </data>
+    <data source="critical_hit_chance">
+      <label>Critical Hit Chance</label>
+    </data>
+    <data source="accuracy">
+      <label>Accuracy</label>
+    </data>
+    <data source="firing_rate">
+      <label>Firing Rate</label>
+    </data>
+    <data source="shield_deflection">
+      <label>Shield Deflection</label>
+    </data>
+    <data source="armor_deflection">
+      <label>Armor Deflection</label>
+    </data>
+    <data source="energy_efficiency">
+      <label>Energy Efficiency</label>
+    </data>
+    <data source="energy_drain_deflection">
+      <label>Energy Drain Deflection</label>
+    </data>
+    <data source="bounty_enhanced">
+      <label>Bounty Enhanced</label>
+    </data>
+    <data source="experience_enhanced">
+      <label>Experience Enhanced</label>
+    </data>
+    <data source="defensive_merit">
+      <label>Defensive Merit</label>
+    </data>
+  </group>
+</infobox>
+</includeonly>
+<noinclude>
+Example usage:
+{{Module
+  | title1=Example
+  | image1=Example.jpg
+  | caption-image1=Example
+  | cost=Example
+  | weight=Example
+  | required_tech_level=Example
+  | utility_module=Example
+  | requirement=Example
+  | energy_use=Example
+  | speed=Example
+  | critical_hit_chance=Example
+  | accuracy=Example
+  | firing_rate=Example
+  | shield_deflection=Example
+  | armor_deflection=Example
+  | energy_efficiency=Example
+  | energy_drain_deflection=Example
+  | bounty_enhanced=Example
+  | experience_enhanced=Example
+  | defensive_merit=Example}}
+<pre>
+{{Module
+  | title1=Example
+  | image1=Example.jpg
+  | caption-image1=Example
+  | cost=Example
+  | weight=Example
+  | required_tech_level=Example
+  | utility_module=Example
+  | requirement=Example
+  | energy_use=Example
+  | speed=Example
+  | critical_hit_chance=Example
+  | accuracy=Example
+  | firing_rate=Example
+  | shield_deflection=Example
+  | armor_deflection=Example
+  | energy_efficiency=Example
+  | energy_drain_deflection=Example
+  | bounty_enhanced=Example
+  | experience_enhanced=Example
+  | defensive_merit=Example}}
+</pre>
+<templatedata>
+{
+	"params": {
+		"title1": {
+			"suggested": true,
+			"type": "wiki-page-name"
+		},
+		"image1": {
+			"suggested": true
+		},
+		"cost": {
+			"suggested": true
+		},
+		"weight": {
+			"suggested": true
+		},
+		"required_tech_level": {
+			"suggested": true
+		},
+		"utility_module": {
+			"suggested": true
+		},
+		"requirement": {
+			"suggested": true
+		},
+		"energy_use": {
+			"suggested": true
+		},
+		"speed": {
+			"suggested": true
+		},
+		"critical_hit_chance": {
+			"suggested": true
+		},
+		"accuracy": {
+			"suggested": true
+		},
+		"firing_rate": {
+			"suggested": true
+		},
+		"shield_deflection": {
+			"suggested": true
+		},
+		"armor_deflection": {
+			"suggested": true
+		},
+		"energy_efficiency": {
+			"suggested": true
+		},
+		"energy_drain_deflection": {
+			"suggested": true
+		},
+		"bounty_enhanced": {
+			"suggested": true
+		},
+		"experience_enhanced": {
+			"suggested": true
+		},
+		"defensive_merit": {
+			"suggested": true
+		}
+	},
+	"sets": [],
+	"paramOrder": [
+		"title1",
+		"image1",
+		"cost",
+		"weight",
+		"required_tech_level",
+		"utility_module",
+		"requirement",
+		"energy_use",
+		"speed",
+		"critical_hit_chance",
+		"accuracy",
+		"firing_rate",
+		"shield_deflection",
+		"armor_deflection",
+		"energy_efficiency",
+		"energy_drain_deflection",
+		"bounty_enhanced",
+		"experience_enhanced",
+		"defensive_merit"
+	]
+}
+</templatedata>
+</noinclude>

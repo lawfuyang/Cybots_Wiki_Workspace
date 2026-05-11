@@ -1,0 +1,9 @@
+{{Module|image1=File:Module1.jpg|cost=6000 credits|weight=5|required_tech_level=1|utility_module=no|requirement=none|energy_use=20|energy_efficiency=20%|defensive_merit=2500}}
+
+== Overview ==
+Adds phase modulation to the power transfer systems resulting in a more efficient use of energy.
+
+== Where to Acquire ==
+The Phase Modulator can be bought in the workshop or found in caves, vaults, and bot remains in [[Vulcore]].
+[[Category:Modules (Useable)]]
+[[Category:Modules]]

@@ -1,0 +1,9 @@
+{{Template:Shield|image1=File:Baronreflective.jpg|cost=16500 credits|weight=15|required_tech_level=5|additional requirements=none|primary_level=300|energy_use=30|recharge_rate=30|defensive_merit=7500}}
+== Overview ==
+
+Offering more deflection power than the standard [[Baron Shield]], the Baron Reflective will sustain more damage but will require longer recharge times.
+
+== Where to Acquire ==
+The Baron Reflective Shield can be bought in the workshop, or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Shields (Useable)]]
+[[Category:Shields]]

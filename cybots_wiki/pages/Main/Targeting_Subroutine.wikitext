@@ -1,0 +1,9 @@
+{{Module|image1=File:Module1.jpg|cost=7500 credits|weight=15|required_tech_level=10|utility_module=no|requirement=none|energy_use=30|critical_hit_chance=3%|accuracy=15%|defensive_merit=3000}}
+
+== Overview ==
+The Targeting Subroutine enhances a bots offensive ability by increasing accuracy and the chance to inflict critical hits.
+
+== Where to Acquire ==
+The Targeting Subroutine can be bought in the workshop or found in caves, vaults, and bot remains in [[Vulcore]].
+[[Category:Modules (Useable)]]
+[[Category:Modules]]

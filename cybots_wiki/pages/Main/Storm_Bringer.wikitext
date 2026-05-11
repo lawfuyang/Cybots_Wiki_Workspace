@@ -1,0 +1,11 @@
+{{Weapon|image1=File:stormbringer.jpg|caption-image1=Multi-Launch Rocket Pack|weapon-information=Weapon Information|cost=  112500 credits|weight=250|required_tech_level=323|technology_required=Storm Technology|shield_damage=3500|armor_piercing=250|energy_drain=0|damage_radius=2|accuracy=25|shots_per_turn=0.5|energy_per_shot=400|max_targets_per_turn=3|offensive_merit=135000}}
+
+== Overview ==
+The VR10 high-density "Storm Bringer" rains down shield death over a wide area.
+
+== Where to Acquire ==
+The Storm Bringer can be bought in the workshop after acquiring [[Storm Technology]].
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Multi-Launch Rocket Pack)]]
+[[Category:Weapons (Storm Technology)]]
+[[Category:Weapons]]

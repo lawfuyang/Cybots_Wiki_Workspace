@@ -1,0 +1,11 @@
+{{Weapon|image1=File:phoenixlaser.jpg|caption-image1=Laser|weapon-information=Weapon Information|cost=  33000 credits|weight=50|required_tech_level=85|technology_required=Magma Technology|shield_damage=400|armor_piercing=240|energy_drain=0|damage_radius=1|accuracy=70|shots_per_turn=1.0|energy_per_shot=160|max_targets_per_turn=1|offensive_merit=39600}}
+
+== Overview ==
+The Phoenix Laser is the most powerful single chambered [[:Category:Weapons (Lasers)|laser]] available to cybots. It out performs the [[Baron Battery]] when dealing with deflections.
+
+== Where to Acquire ==
+The Phoenix Laser can be bought in the workshop after obtaining [[Magma Technology]].
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Lasers)]]
+[[Category:Weapons (Magma Technology)]]
+[[Category:Weapons]]

@@ -1,0 +1,10 @@
+{{Weapon|image1=File:Obliterator.jpg|caption-image1=Superweapon|weapon-information=Weapon Information|cost=  20000 accolades <br>229650 credits value|weight=500|required_tech_level=674|technology_required=none|shield_damage=3000|armor_piercing=1750|energy_drain=500|damage_radius=4|accuracy=100|shots_per_turn=0.35|energy_per_shot=650|max_targets_per_turn=?|offensive_merit=275580}}
+
+== Overview ==
+
+A more powerful version of the [[Obliterator]], the Ravager hits enemies so hard it even drains their reactors.
+== Where to Acquire ==
+The Ravager superweapon can be acquired from the vault of [[TRAFs]] in the [[Talsian Warfront]], as well as purchased from the market in the [[North West Quadrant]] of [[Gamma]].
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Superweapons)]]
+[[Category:Weapons]]

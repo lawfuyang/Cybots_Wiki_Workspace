@@ -1,0 +1,10 @@
+{{Weapon|image1=File:shielddisruptor.jpg|caption-image1=Shield Disruptor|weapon-information=Weapon Information|cost=9375 credits|weight=5|required_tech_level=14|technology_required=none|shield_damage=250|armor_piercing=0|energy_drain=0|damage_radius=1|accuracy=80|shots_per_turn=1.0|energy_per_shot=20|max_targets_per_turn=1|offensive_merit=11250}}
+
+== Overview ==
+Shield Disruptors fire waves of energy which neutralize shields. In combination with [[:Category:Weapons (Light Armor Piercing)|armor piercing weapons]] such as Auto Cannons, [[:Category:Weapons (Shield Disruptors)|Shield Disruptors]] can prove quite effective.
+
+== Where to Acquire ==
+The Shield Disruptor can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Shield Disruptors)]]
+[[Category:Weapons]]

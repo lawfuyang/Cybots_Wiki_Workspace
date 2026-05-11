@@ -1,0 +1,53 @@
+{{Unit_New
+| image1=File:Praetor.jpg
+| unit_type=Mercenary
+| faction=Mercenary Guild
+| chassis_type=Quadra
+| weapon_slots=4
+| module_slots=1
+| shield_slots=0
+| reactor_slots=1
+| starting_tech_levels=Yes
+| weapon_tech=10
+| shield_tech=1
+| module_tech=25
+| reactor_tech=10
+| payload=550
+| armor=800
+| speed=70
+| critical_hit_chance=none
+|accuracy_adjusted=none|damage_adjusted=none| damage_boost=none
+| drain_boost=none
+| shield_projection=none
+| module_uplink=none
+| energy_distribution_/_energy_share=none
+| energy_induction=none
+}}
+
+== Overview ==
+The Praetor is a high-tier walker-class mercenary from the [[Mercenary Guild]], built on the [[Marauder]] chassis. With powerful armaments, it excels in early game engagements where durability and suppression are key.
+
+== Equipment ==
+<gallery widths="100">
+File:G33.jpg|link=G33 Launcher|[[G33 Launcher|Weapon: G33 Launcher]]
+File:Baronlaser.jpg|link=Baron Laser|[[Baron Laser|Weapon: Baron Laser]]
+File:20mmautocannon.jpg|link=20mm Auto Cannon|[[20mm Auto Cannon|Weapon: 20mm Auto Cannon]]
+File:Shielddisruptor.jpg|link=Shield Disruptor|[[Shield Disruptor|Module: Shield Disruptor]]
+File:Ionflux.jpg|link=Ion Flux|[[Ion Flux|Reactor: Ion Flux]]
+</gallery>
+
+== Faction ==
+[[Mercenary Guild]]
+
+== Location ==
+The Praetor can be hired from the [[Outpost|Mercenary Guild Outpost]] in [[Vulcore]] for 12 mercreds.
+
+== Combat Strategy ==
+A devastating frontline siege unit, the Praetor combines sustained firepower with shield disruption to crack through enemy defenses. Though it lacks personal shielding, its raw durability and power make it a reliable anchor for any squad.
+
+== See also ==
+[[:Category:Mercenaries (Vulcore)|Mercenaries (Vulcore)]]
+
+[[Category:Mercenaries (Vulcore)]]
+[[Category:Mercenaries]]
+[[Category:Mercenaries (Mercenary Guild)]]

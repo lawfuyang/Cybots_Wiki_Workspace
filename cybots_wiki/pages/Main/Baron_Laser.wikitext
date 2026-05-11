@@ -1,0 +1,10 @@
+{{Weapon|image1=File:baronlaser.jpg|caption-image1=Laser|weapon-information=Weapon Information|cost=8250 credits|weight=6|required_tech_level=10|technology_required=none|shield_damage=100|armor_piercing=60|energy_drain=0|damage_radius=1|accuracy=80|shots_per_turn=1.0|energy_per_shot=40|max_targets_per_turn=3|offensive_merit=9900}}
+
+== Overview ==
+The big brother to [[Argon Laser|Argon]], the Baron ultra-light laser can cause significant all round damage to targets.
+
+== Where to Acquire ==
+The Baron Laser can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Lasers)]]
+[[Category:Weapons]]

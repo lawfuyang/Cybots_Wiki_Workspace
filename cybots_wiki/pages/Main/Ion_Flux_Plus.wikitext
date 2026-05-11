@@ -1,0 +1,9 @@
+{{Reactor|image1=File:ionfluxplus.jpg|cost=22816 credits|other_requirements=none|weight=35|required_tech_level=15|max_energy_level=600|recharge_rate=250|defensive_merit=1850}}
+== Overview ==
+The Ion Flux Plus is the largest Ion reactor with over double the effectiveness of the standard [[Ion|Ion reactor]].
+
+== Where to Acquire ==
+The Ion Flux Plus Reactor can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+
+[[Category:Reactors (Useable)]]
+[[Category:Reactors]]

@@ -1,0 +1,8 @@
+{{Template:Shield|image1=File:photonicsphere.jpg|cost=49500 credits|weight=50|required_tech_level=60|additional requirements=none|primary_level=900|energy_use=100|recharge_rate=90|defensive_merit=22500}}
+== Overview ==
+The Photonic Sphere uses a 360 degree projection giving it a much higher defense rating. However its weight and power usage can be a drain.
+
+== Where to Acquire ==
+The Photonic Sphere can be bought in the workshop, or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Shields (Useable)]]
+[[Category:Shields]]

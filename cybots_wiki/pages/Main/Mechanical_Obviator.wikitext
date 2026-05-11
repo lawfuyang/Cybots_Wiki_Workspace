@@ -1,0 +1,9 @@
+{{Module|image1=File:Module3.jpg|cost=50000 credits|weight=40|required_tech_level=40|utility_module=no|requirement=none|energy_use=50|speed=30%|firing_rate=10%|armor_deflection=16%|defensive_merit=15000}}
+
+== Overview ==
+The Mechanical Obviator boosts hydro-servo performance by an amazing degree. The result is increased mobility and hull damage prevention.
+
+== Where to Acquire ==
+The Mechanical Obviator can be bought in the workshop or found in caves, vaults, and bot remains in [[Vulcore]].
+[[Category:Modules (Useable)]]
+[[Category:Modules]]

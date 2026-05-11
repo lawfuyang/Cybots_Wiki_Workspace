@@ -1,0 +1,10 @@
+{{Weapon|image1=File:mr100rocketpack.jpg|caption-image1=Rocket Pack|weapon-information=Weapon Information|cost=  25875 credits|weight=50|required_tech_level=63|technology_required=none|shield_damage=100|armor_piercing=180|energy_drain=0|damage_radius=2|accuracy=65|shots_per_turn=1.0|energy_per_shot=40|max_targets_per_turn=3|offensive_merit=31050}}
+
+== Overview ==
+The standard multi-launch rocket pack, the MR100 can inflict serious damage to multiple targets on the battlefield.
+
+== Where to Acquire ==
+The MR100 Rocket Pack can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Rocket Packs)]]
+[[Category:Weapons]]

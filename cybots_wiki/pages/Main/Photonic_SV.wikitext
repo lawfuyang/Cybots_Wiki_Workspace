@@ -1,0 +1,8 @@
+{{Template:Shield|image1=File:photonicsv.jpg|cost=38500 credits|weight=40|required_tech_level=40|additional requirements=none|primary_level=700|energy_use=70|recharge_rate=50|defensive_merit=17500}}
+== Overview ==
+The Photonic SV adds an extra layer to the shields depth making it more resistant to hits. It also comes with a rather attractive stand to sit it on.
+
+== Where to Acquire ==
+The Photonic SV Shield can be bought in the workshop, or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Shields (Useable)]]
+[[Category:Shields]]

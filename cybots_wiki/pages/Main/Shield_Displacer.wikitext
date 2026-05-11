@@ -1,0 +1,10 @@
+{{Weapon|image1=File:shielddisplacer.jpg|caption-image1=Shield Disruptor|weapon-information=Weapon Information|cost=  28125 credits|weight=20|required_tech_level=70|technology_required=none|shield_damage=750|armor_piercing=0|energy_drain=0|damage_radius=1|accuracy=70|shots_per_turn=1.0|energy_per_shot=70|max_targets_per_turn=1|offensive_merit=33750}}
+
+== Overview ==
+The Vidian Industries Shield Displacer uses a new technology to set it above and beyond the performance of the standard [[:Category:Weapons (Shield Disruptors)|shield disruptor]] series.
+
+== Where to Acquire ==
+The Shield Displacer can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Shield Disruptors)]]
+[[Category:Weapons]]

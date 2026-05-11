@@ -1,0 +1,9 @@
+{{Module|image1=File:Module2.jpg|cost=15000 credits|weight=20|required_tech_level=20|utility_module=no|requirement=none|energy_use=50|shield_deflection=6%|defensive_merit=10000}}
+
+== Overview ==
+The Titan Deflector significantly increases shield effectiveness by dynamically changing the angle of the shield projector to match incoming fire.
+
+== Where to Acquire ==
+The Titan Deflector can be bought in the workshop or found in caves, vaults, and bot remains in [[Vulcore]].
+[[Category:Modules (Useable)]]
+[[Category:Modules]]

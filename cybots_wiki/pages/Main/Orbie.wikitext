@@ -1,0 +1,51 @@
+{{Unit_New
+| image1=File:Orbie.jpg
+| unit_type=Mercenary
+| faction=Mercenary Guild
+| chassis_type=Hover
+| weapon_slots=1
+| module_slots=3
+| shield_slots=1
+| reactor_slots=1
+| payload=100
+| armor=75
+| speed=80
+| critical_hit_chance=1%
+| accuracy_adjusted=none
+| damage_adjusted=none
+| damage_boost=none
+| drain_boost=none
+| shield_projection=none
+| module_uplink=none
+| energy_distribution_/_energy_share=none
+| energy_induction=none
+}}
+
+== Overview ==
+The Orbie is an all-around utility [[Orbiter|Orbiter]] mercenary from the [[Mercenary Guild]]. It carries several modules and instruments to compliment a combat squad in the field.
+
+== Equipment ==
+<gallery widths="100">
+File:thornmines.jpg|link=Thorn Mines|[[Thorn Mines|Weapon: Thorn Mines]]
+File:module4.jpg|link=Security Countermand|[[Security Countermand|Module: Security Countermand]]
+File:module4.jpg|link=ComWave Scanner|[[ComWave Scanner|Module: ComWave Scanner]]
+File:module4.jpg|link=Anomaly Detector|[[Anomaly Detector|Module: Anomaly Detector]]
+File:Baronshield.jpg|link=Baron_(Shield)|[[Baron (Shield)|Shield: Baron]]
+File:Ionflux.jpg|link=Ion_Flux|[[Ion Flux|Reactor: Ion Flux]]
+</gallery>
+
+== Faction ==
+[[Mercenary Guild]]
+
+== Location ==
+The Orbie can be hired from the [[Outpost|Mercenary Guild Outpost]] in [[Vulcore]] for 12 mercreds.
+
+== Combat Strategy ==
+Having an Orbiter chassis allows the Controller to recover then repair any armor damage while patrolling. There are also several locations that have alternative potential outcomes when an Orbiter is present in the squad.
+
+== See also ==
+[[:Category:Mercenaries (Vulcore)|Mercenaries (Vulcore)]]
+
+[[Category:Mercenaries (Vulcore)]]
+[[Category:Mercenaries]]
+[[Category:Mercenaries (Mercenary Guild)]]

@@ -1,0 +1,8 @@
+{{Template:Shield|image1=File:plasmaanamorph.jpg|cost=330000 credits|weight=200|required_tech_level=250|additional requirements=Plasma Technology|primary_level=6000|energy_use=300|recharge_rate=300|defensive_merit=150000}}
+== Overview ==
+An amazingly powerful shield, the Anamorph Plasma Shield is second to none in shield protection and deflective capability. Unfortunately at 200kg, it will be limited to only the strongest or heavily upgraded chassis classes.
+
+== Where to Acquire ==
+The Plasma Anamorph can be bought in the workshop after acquiring [[Plasma Technology]].
+[[Category:Shields (Useable)]]
+[[Category:Shields]]

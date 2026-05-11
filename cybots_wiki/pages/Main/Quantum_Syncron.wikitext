@@ -1,0 +1,9 @@
+{{Reactor|image1=File:quantumsyncron.jpg|cost=240000 credits|other_requirements=none|weight=120|required_tech_level=50|max_energy_level=6000|recharge_rate=0|defensive_merit=6000}}
+== Overview ==
+The Quantum Syncron utilizes the 'multiverse' to store amazing levels of stored power in an alternative space dimensions. Like all [[Quantum|Quantum reactors]] the charging process is provided externally and the purpose of the reactor is to provide unequalled deflection against power attacks.
+
+== Where to Acquire ==
+The Quantum Syncron Reactor can be bought in the workshop or found in caves, vaults, and bot remains in Vulcore.
+
+[[Category:Reactors (Useable)]]
+[[Category:Reactors]]

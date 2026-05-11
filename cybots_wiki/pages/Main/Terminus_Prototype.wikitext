@@ -1,0 +1,11 @@
+{{Unit New|image1=[[File:terminus.jpg]]|unit_type=Cybot (Useable)|faction=none|chassis_type=Spider|chassis_cost=150000000 credits|technology_required=none|other_requirements=none|weapon_slots=8|module_slots=3|shield_slots=4|reactor_slots=1|weapon_tech=1000|shield_tech=252|module_tech=110|reactor_tech=102|payload=5500|armor=1200|speed=300|critical_hit_chance=50%|accuracy_adjusted=100%|damage_adjusted=|defensive_merit=500000|shield_projection=200%|module_uplink=100%|energy_distribution_/_energy_share=100%|energy_induction=100%|damage_boost=225%|drain_boost=200%}}
+
+== Overview ==
+
+The Terminus Prototype can be acquired from the [[Chassis Trader]] in the [[North East Quadrant]] in [[Gamma]].
+== Combat Strategy ==
+
+== See also ==
+[[:Category:Chassis (Useable)|Chassis (Useable)]]
+[[Category:Chassis (Useable)]]
+[[Category:Chassis]]

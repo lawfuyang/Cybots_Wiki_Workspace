@@ -1,0 +1,11 @@
+{{Weapon|image1=File:magmamines.jpg|caption-image1=Mines|weapon-information=Weapon Information|cost=  36562 credits|weight=10|required_tech_level=95|technology_required=Magma Technology|shield_damage=60|armor_piercing=35|energy_drain=0|damage_radius=4|accuracy=25|shots_per_turn=3.0|energy_per_shot=4|max_targets_per_turn=4|offensive_merit=43875}}
+
+== Overview ==
+These [[:Category:Weapons (Mines)|mines]] are filled with the same volatile magma gas cocktail found in the powerful [[Morning Star]] weapon. Triggering one mine usually sets of a chain reaction.
+
+== Where to Acquire ==
+Magma Mines can be bought in the workshop after obtaining [[Magma Technology]].
+[[Category:Weapons (Useable)]]
+[[Category:Weapons (Mines)]]
+[[Category:Weapons (Magma Technology)]]
+[[Category:Weapons]]

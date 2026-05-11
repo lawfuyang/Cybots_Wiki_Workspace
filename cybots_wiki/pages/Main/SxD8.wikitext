@@ -1,0 +1,9 @@
+{{Template:Shield|image1=File:sxd8.jpg|cost=165000 credit value<br>250 mercreds|weight=60|required_tech_level=35|additional requirements=Open Scaven Ziggurat<br>Purchase in Gamma|primary_level=3000|energy_use=25|recharge_rate=200|defensive_merit=50000}}
+== Overview ==
+The SxD8 is a Scaven shield ring normally used to protect Scaven Matriarchs. It offers the same level of protection as the [[Plasma IDT|Plasma IDT shield]]. Despite Scaven technology utilizing relatively low tech parts, the SxD8 is highly energy efficient and recharges more effectively than its plasma shield counterpart. 
+
+== Where to Acquire ==
+The SxD8 can be acquired once all four runes have been found and brought to the Ziggurat in Scaven Territory in Vulcore, or purchased in at the Horus Market in the North East quadrant of Gamma.
+[[Category:Shields (Useable)]]
+[[Category:Shields (Special)]]
+[[Category:Shields]]

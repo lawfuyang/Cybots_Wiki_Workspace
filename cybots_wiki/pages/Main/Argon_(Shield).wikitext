@@ -1,0 +1,8 @@
+{{Template:Shield|image1=File:argon.jpg|cost=55000 credits|weight=60|required_tech_level=80|additional requirements=none|primary_level=1000|energy_use=100|recharge_rate=200|defensive_merit=25000}}
+== Overview ==
+The Argon shield projector is a disc shaped system that offers excellent, fast regenerating defense layering.
+
+== Where to Acquire ==
+The Argon Shield can be bought in the workshop, or found in caves, vaults, and bot remains in Vulcore.
+[[Category:Shields (Useable)]]
+[[Category:Shields]]
