@@ -1042,7 +1042,7 @@ return {
                 ["Unit Type"] = "Cybot (Useable)",
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Spider",
-                ["Chassis Cost"] = { value = 150000000, unit = "credits" },
+                ["Chassis Cost"] = { value = 750, unit = "Lava Diamonds" },
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
@@ -1066,8 +1066,8 @@ return {
                 ["Defensive Merit"] = 500000,
             },
             ["Unique Stats"] = {
-                ["Shield Projection"] = { value = 200, unit = "%" },
-                ["Module Uplink"] = { value = 100, unit = "%" },
+                ["Shield Projection"] = nil,
+                ["Module Uplink"] = nil,
                 ["Energy Distribution / Energy Share"] = { value = 100, unit = "%" },
                 ["Energy Induction"] = { value = 100, unit = "%" },
             },
