@@ -2,6 +2,9 @@
 local helper = require('Module:DataTableHelper')
 
 local ok, DATA = pcall(function() return mw.loadData('Module:Chassis/data') end)
+if not ok or type(DATA) ~= 'table' then
+    ok, DATA = pcall(function() return mw.loadData('Module:Chassis_data') end)
+end
 if not ok or type(DATA) ~= 'table' then DATA = nil end
 
 function p.get(frame)
@@ -15,6 +18,8 @@ function p.get(frame)
     if prop and (prop == 'image' or prop == 'image1' or prop == 'file') then
         local filename = entry.image1 or entry.image
         if not filename then return '' end
+        -- Return raw filename if raw=1 is specified (for use in infobox image tags)
+        if args.raw then return tostring(filename) end
         local size = args.size or args.imageSize or '60px'
         return '[[File:' .. tostring(filename) .. '|' .. tostring(size) .. ']]'
     end

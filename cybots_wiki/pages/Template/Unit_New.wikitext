@@ -1,213 +1,221 @@
-<includeonly>
-<infobox>
+<includeonly><infobox>
   <title source="title1">
-    <default>{{PAGENAME}}</default>
+    <default>{{#invoke:Chassis|get|{{PAGENAME}}|prop=title}}</default>
   </title>
   <image source="image1">
-    <caption source="caption-image1"/>
+    <default>[[File:{{#invoke:Chassis|get|{{PAGENAME}}|prop=image|raw=1}}|frameless|60px]]</default>
   </image>
+
   <group>
-    <header source="unit_information">Unit Information</header>
+    <header>Unit Information</header>
     <data source="unit_type">
       <label>Unit Type</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Unit Information|key=Unit Type}}</default>
     </data>
     <data source="faction">
       <label>Faction</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Unit Information|key=Faction}}</default>
     </data>
     <data source="chassis_type">
       <label>Chassis Type</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Unit Information|key=Chassis Type}}</default>
     </data>
     <data source="chassis_cost">
       <label>Chassis Cost</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Unit Information|key=Chassis Cost}}</default>
     </data>
     <data source="technology_required">
       <label>Technology Required</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Unit Information|key=Requirements}}</default>
     </data>
     <data source="other_requirements">
       <label>Other Requirements</label>
+      <default>{{{other_requirements|}}}</default>
     </data>
   </group>
+
   <group>
-    <header source="slots">Slots</header>
+    <header>Slots</header>
     <data source="weapon_slots">
       <label>Weapon Slots</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Slots|key=Weapon Slots}}</default>
     </data>
     <data source="module_slots">
       <label>Module Slots</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Slots|key=Module Slots}}</default>
     </data>
     <data source="shield_slots">
       <label>Shield Slots</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Slots|key=Shield Slots}}</default>
     </data>
     <data source="reactor_slots">
       <label>Reactor Slots</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Slots|key=Reactor Slots}}</default>
     </data>
   </group>
+
   <group>
-    <header source="starting_tech_levels">Starting Tech Levels</header>
+    <header>Starting Tech Levels</header>
     <data source="weapon_tech">
       <label>Weapon Tech</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Starting Tech Levels|key=Weapon Tech}}</default>
     </data>
     <data source="shield_tech">
       <label>Shield Tech</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Starting Tech Levels|key=Shield Tech}}</default>
     </data>
     <data source="module_tech">
       <label>Module Tech</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Starting Tech Levels|key=Module Tech}}</default>
     </data>
     <data source="reactor_tech">
       <label>Reactor Tech</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Starting Tech Levels|key=Reactor Tech}}</default>
     </data>
   </group>
+
   <group>
-    <header source="base_stats">Base Stats</header>
+    <header>Base Stats</header>
     <data source="payload">
       <label>Payload</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Base Stats|key=Payload}}</default>
     </data>
     <data source="armor">
       <label>Armor</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Base Stats|key=Armor}}</default>
     </data>
     <data source="speed">
       <label>Speed</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Base Stats|key=Speed}}</default>
     </data>
     <data source="critical_hit_chance">
       <label>Critical Hit Chance</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Base Stats|key=Critical Hit Chance}}</default>
     </data>
     <data source="accuracy_adjusted">
       <label>Accuracy Adjusted</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Base Stats|key=Accuracy Adjusted}}</default>
     </data>
     <data source="damage_adjusted">
       <label>Damage Adjusted</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Base Stats|key=Damage Adjusted}}</default>
     </data>
     <data source="defensive_merit">
       <label>Defensive Merit</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Base Stats|key=Defensive Merit}}</default>
     </data>
   </group>
+
   <group>
-    <header source="unique_stats">Unique Stats</header>
+    <header>Unique Stats</header>
     <data source="shield_projection">
       <label>Shield Projection</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Unique Stats|key=Shield Projection}}</default>
     </data>
     <data source="module_uplink">
       <label>Module Uplink</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Unique Stats|key=Module Uplink}}</default>
     </data>
     <data source="energy_distribution_/_energy_share">
       <label>Energy Distribution / Energy Share</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Unique Stats|key=Energy Distribution / Energy Share}}</default>
     </data>
     <data source="energy_induction">
       <label>Energy Induction</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Unique Stats|key=Energy Induction}}</default>
     </data>
   </group>
+
   <group>
-    <header source="hidden_stats">Hidden Stats</header>
+    <header>Hidden Stats</header>
     <data source="damage_boost">
       <label>Damage Boost</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Hidden Stats|key=Damage Boost}}</default>
     </data>
     <data source="drain_boost">
       <label>Drain Boost</label>
+      <default>{{#invoke:Chassis|get|{{PAGENAME}}|section=Hidden Stats|key=Drain Boost}}</default>
     </data>
   </group>
-</infobox>
-</includeonly>
+</infobox></includeonly>
 <noinclude>
-Example usage:
-{{Unit New
-  | title1=Example
-  | image1=Example.jpg
-  | caption-image1=Example
-  | unit_information=Example
-  | unit_type=Example
-  | faction=Example
-  | chassis_type=Example
-  | chassis_cost=Example
-  | row1=Example
-  | slots=Example
-  | weapon_slots=Example
-  | module_slots=Example
-  | shield_slots=Example
-  | reactor_slots=Example
-  | starting_tech_levels=Example
-  | weapon_tech=Example
-  | shield_tech=Example
-  | module_tech=Example
-  | reactor_tech=Example
-  | base_stats=Example
-  | payload=Example
-  | armor=Example
-  | speed=Example
-  | critical_hit_chance=Example
-  | accuracy_adjusted=Example
-  | damage_adjusted=Example
-  | defensive_merit=Example
-  | unique_stats=Example
-  | shield_projection=Example
-  | module_uplink=Example
-  | energy_distribution_/_energy_share=Example
-  | energy_induction=Example
-  | hidden_stats=Example
-  | damage_boost=Example
-  | drain_boost=Example}}
+== Unit New Template ==
+
+This template renders an infobox for unit/chassis pages. It automatically loads data from [[Module:Chassis_data]] based on the page name.
+
+=== Automatic Data Loading ===
+
+When used as <code><nowiki>{{Unit New}}</nowiki></code>, the template automatically queries [[Module:Chassis_data]] using <code><nowiki>{{PAGENAME}}</nowiki></code> as the lookup key.
+
+=== Manual Override (Backward Compatible) ===
+
+All parameters can be manually specified to override the automatic data:
+
 <pre>
 {{Unit New
-  | title1=Example
-  | image1=Example.jpg
-  | caption-image1=Example
-  | unit_information=Example
-  | unit_type=Example
-  | faction=Example
-  | chassis_type=Example
-  | chassis_cost=Example
-  | row1=Example
-  | slots=Example
-  | weapon_slots=Example
-  | module_slots=Example
-  | shield_slots=Example
-  | reactor_slots=Example
-  | starting_tech_levels=Example
-  | weapon_tech=Example
-  | shield_tech=Example
-  | module_tech=Example
-  | reactor_tech=Example
-  | base_stats=Example
-  | payload=Example
-  | armor=Example
-  | speed=Example
-  | critical_hit_chance=Example
-  | accuracy_adjusted=Example
-  | damage_adjusted=Example
-  | defensive_merit=Example
-  | unique_stats=Example
-  | shield_projection=Example
-  | module_uplink=Example
-  | energy_distribution_/_energy_share=Example
-  | energy_induction=Example
-  | hidden_stats=Example
-  | damage_boost=Example
-  | drain_boost=Example}}
+  | title1 = Example
+  | image1 = Example.jpg
+  | unit_type = Example
+  | faction = Example
+  | chassis_type = Example
+  | chassis_cost = Example
+  | technology_required = Example
+  | other_requirements = Example
+  | weapon_slots = Example
+  | module_slots = Example
+  | shield_slots = Example
+  | reactor_slots = Example
+  | weapon_tech = Example
+  | shield_tech = Example
+  | module_tech = Example
+  | reactor_tech = Example
+  | payload = Example
+  | armor = Example
+  | speed = Example
+  | critical_hit_chance = Example
+  | accuracy_adjusted = Example
+  | damage_adjusted = Example
+  | defensive_merit = Example
+  | shield_projection = Example
+  | module_uplink = Example
+  | energy_distribution_/_energy_share = Example
+  | energy_induction = Example
+  | damage_boost = Example
+  | drain_boost = Example
+}}
 </pre>
+
 <templatedata>
 {
 	"params": {
 		"title1": {
-			"suggested": true
+			"label": "Title",
+			"description": "Title of the infobox. Defaults to PAGENAME if not specified. Used to query Chassis module data.",
+			"type": "string"
 		},
 		"image1": {
-			"suggested": true
+			"label": "Image",
+			"description": "Image filename (e.g., 'bulwark.jpg'). Automatically loaded from Chassis module based on PAGENAME, or specify manually to override.",
+			"type": "wiki-file-name"
 		},
 		"caption-image1": {
-			"suggested": true
-		},
-		"unit_information": {
-			"suggested": true
+			"label": "Image Caption",
+			"description": "Image caption",
+			"type": "string"
 		},
 		"unit_type": {
-			"suggested": true,
+			"label": "Unit Type",
 			"suggestedvalues": [
-				"Cybot",
+				"Cybot (Useable)",
 				"Enemy",
 				"Ally",
 				"Mercenary"
-			]
+			],
+			"description": "Type of unit. Automatically loaded from Chassis module, or specify manually to override.",
+			"type": "string"
 		},
 		"faction": {
+			"label": "Faction",
 			"suggestedvalues": [
 				"CyCorps",
 				"Enemy AI",
@@ -226,137 +234,144 @@ Example usage:
 				"Flaming Cybots",
 				"Exbots"
 			],
-			"suggested": true
+			"description": "Faction the unit belongs to. Automatically loaded from Chassis module, or specify manually to override.",
+			"type": "string"
 		},
 		"chassis_type": {
-			"suggested": true
+			"label": "Chassis Type",
+			"suggestedvalues": [
+				"Spider",
+				"Tracker",
+				"Quadra",
+				"Hover",
+				"Wheeler",
+				"Walker"
+			],
+			"description": "Chassis type (e.g., Spider, Tracker, etc.). Automatically loaded from Chassis module.",
+			"type": "string"
 		},
 		"chassis_cost": {
-			"suggested": true
-		},
-		"slots": {
-			"suggested": true
-		},
-		"weapon_slots": {
-			"suggested": true
-		},
-		"module_slots": {
-			"suggested": true
-		},
-		"shield_slots": {
-			"suggested": true
-		},
-		"reactor_slots": {
-			"suggested": true,
-			"autovalue": "1"
-		},
-		"starting_tech_levels": {
-			"suggested": true
-		},
-		"weapon_tech": {
-			"suggested": true
-		},
-		"shield_tech": {
-			"suggested": true
-		},
-		"module_tech": {
-			"suggested": true
-		},
-		"reactor_tech": {
-			"suggested": true
-		},
-		"base_stats": {
-			"suggested": true
-		},
-		"payload": {
-			"suggested": true
-		},
-		"armor": {
-			"suggested": true
-		},
-		"speed": {
-			"suggested": true
-		},
-		"critical_hit_chance": {
-			"suggested": true
-		},
-		"accuracy_adjusted": {
-			"suggested": true
-		},
-		"damage_adjusted": {
-			"suggested": true
-		},
-		"defensive_merit": {
-			"suggested": true
-		},
-		"unique_stats": {
-			"suggested": true
-		},
-		"shield_projection": {
-			"suggested": true
-		},
-		"module_uplink": {
-			"suggested": true
-		},
-		"energy_distribution_/_energy_share": {
-			"suggested": true
-		},
-		"energy_induction": {
-			"suggested": true
-		},
-		"hidden_stats": {
-			"suggested": true
-		},
-		"damage_boost": {
-			"suggested": true
-		},
-		"drain_boost": {
-			"suggested": true
+			"label": "Chassis Cost",
+			"description": "Cost to purchase this chassis. Automatically loaded from Chassis module.",
+			"type": "string"
 		},
 		"technology_required": {
-			"suggested": true
+			"label": "Technology Required",
+			"description": "Technology required to unlock. Automatically loaded from Chassis module.",
+			"type": "string"
 		},
-		"other_requirements": {}
+		"other_requirements": {
+			"label": "Other Requirements",
+			"description": "Other requirements (not in Chassis module data, must be specified manually).",
+			"type": "string"
+		},
+		"weapon_slots": {
+			"label": "Weapon Slots",
+			"description": "Number of weapon slots. Automatically loaded from Chassis module.",
+			"type": "number"
+		},
+		"module_slots": {
+			"label": "Module Slots",
+			"description": "Number of module slots. Automatically loaded from Chassis module.",
+			"type": "number"
+		},
+		"shield_slots": {
+			"label": "Shield Slots",
+			"description": "Number of shield slots. Automatically loaded from Chassis module.",
+			"type": "number"
+		},
+		"reactor_slots": {
+			"label": "Reactor Slots",
+			"description": "Number of reactor slots. Automatically loaded from Chassis module.",
+			"type": "number"
+		},
+		"weapon_tech": {
+			"label": "Weapon Tech",
+			"description": "Starting weapon tech level. Automatically loaded from Chassis module.",
+			"type": "number"
+		},
+		"shield_tech": {
+			"label": "Shield Tech",
+			"description": "Starting shield tech level. Automatically loaded from Chassis module.",
+			"type": "number"
+		},
+		"module_tech": {
+			"label": "Module Tech",
+			"description": "Starting module tech level. Automatically loaded from Chassis module.",
+			"type": "number"
+		},
+		"reactor_tech": {
+			"label": "Reactor Tech",
+			"description": "Starting reactor tech level. Automatically loaded from Chassis module.",
+			"type": "number"
+		},
+		"payload": {
+			"label": "Payload",
+			"description": "Payload capacity. Automatically loaded from Chassis module.",
+			"type": "number"
+		},
+		"armor": {
+			"label": "Armor",
+			"description": "Armor value. Automatically loaded from Chassis module.",
+			"type": "number"
+		},
+		"speed": {
+			"label": "Speed",
+			"description": "Speed value. Automatically loaded from Chassis module.",
+			"type": "number"
+		},
+		"critical_hit_chance": {
+			"label": "Critical Hit Chance",
+			"description": "Critical hit chance. Automatically loaded from Chassis module.",
+			"type": "string"
+		},
+		"accuracy_adjusted": {
+			"label": "Accuracy Adjusted",
+			"description": "Accuracy adjusted value. Automatically loaded from Chassis module.",
+			"type": "string"
+		},
+		"damage_adjusted": {
+			"label": "Damage Adjusted",
+			"description": "Damage adjusted value. Automatically loaded from Chassis module.",
+			"type": "string"
+		},
+		"defensive_merit": {
+			"label": "Defensive Merit",
+			"description": "Defensive merit value. Automatically loaded from Chassis module.",
+			"type": "number"
+		},
+		"shield_projection": {
+			"label": "Shield Projection",
+			"description": "Shield projection value. Automatically loaded from Chassis module.",
+			"type": "string"
+		},
+		"module_uplink": {
+			"label": "Module Uplink",
+			"description": "Module uplink value. Automatically loaded from Chassis module.",
+			"type": "string"
+		},
+		"energy_distribution_/_energy_share": {
+			"label": "Energy Distribution / Energy Share",
+			"description": "Energy Distribution / Energy Share value. Automatically loaded from Chassis module.",
+			"type": "string"
+		},
+		"energy_induction": {
+			"label": "Energy Induction",
+			"description": "Energy induction value. Automatically loaded from Chassis module.",
+			"type": "string"
+		},
+		"damage_boost": {
+			"label": "Damage Boost",
+			"description": "Damage boost value. Automatically loaded from Chassis module.",
+			"type": "string"
+		},
+		"drain_boost": {
+			"label": "Drain Boost",
+			"description": "Drain boost value. Automatically loaded from Chassis module.",
+			"type": "string"
+		}
 	},
-	"sets": [],
-	"paramOrder": [
-		"title1",
-		"image1",
-		"caption-image1",
-		"unit_information",
-		"unit_type",
-		"faction",
-		"chassis_type",
-		"chassis_cost",
-		"technology_required",
-		"other_requirements",
-		"slots",
-		"weapon_slots",
-		"module_slots",
-		"shield_slots",
-		"reactor_slots",
-		"starting_tech_levels",
-		"weapon_tech",
-		"shield_tech",
-		"module_tech",
-		"reactor_tech",
-		"base_stats",
-		"payload",
-		"armor",
-		"speed",
-		"critical_hit_chance",
-		"accuracy_adjusted",
-		"damage_adjusted",
-		"defensive_merit",
-		"unique_stats",
-		"shield_projection",
-		"module_uplink",
-		"energy_distribution_/_energy_share",
-		"energy_induction",
-		"hidden_stats",
-		"damage_boost",
-		"drain_boost"
-	]
+	"description": "Infobox template for unit/chassis pages. Automatically loads data from Module:Chassis based on page name. Manual parameters override automatic data for backward compatibility."
 }
 </templatedata>
 </noinclude>

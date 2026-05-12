@@ -1,0 +1,7 @@
+-- Module:Unit_New
+-- The Unit New infobox is rendered entirely by Template:Unit_New using
+-- Portable Infobox XML. Data is fetched directly via Module:Chassis.
+-- This module is reserved for future use.
+
+local p = {}
+return p
