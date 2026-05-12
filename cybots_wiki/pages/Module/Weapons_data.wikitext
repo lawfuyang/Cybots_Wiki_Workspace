@@ -1356,7 +1356,7 @@ return {
     {
         title = "Radial Laser",
         url = "https://cybots.fandom.com/wiki/Radial_Laser",
-        image1 = "Syphon1.jpg",
+        image1 = "fed_vulcan1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = "found",
@@ -1381,7 +1381,7 @@ return {
     {
         title = "Heavy Radial Laser",
         url = "https://cybots.fandom.com/wiki/Heavy_Radial_Laser",
-        image1 = "Syphon1.jpg",
+        image1 = "fed_vulcan1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = "found",

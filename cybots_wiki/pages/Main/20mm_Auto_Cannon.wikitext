@@ -1,4 +1,4 @@
-{{Weapon|image1=File:20mmautocannon.jpg|caption-image1=Light Armor Piercing|weapon-information=Weapon Information|cost=9450 credits|weight=6|required_tech_level=14|technology_required=none|shield_damage=5|armor_piercing=40|energy_drain=0|damage_radius=1|accuracy=80|shots_per_turn=3.0|energy_per_shot=4|max_targets_per_turn=10|offensive_merit=11340}}
+{{Weapon}}
 
 == Overview ==
 The standard 20mm Automatic Cannon fires bursts of high velocity rounds causing significant damage to unshielded, lightly armored targets.

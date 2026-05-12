@@ -1,4 +1,4 @@
-{{Weapon|image1=File:hrxrocketpack.jpg|caption-image1=Rocket Pack|weapon-information=Weapon Information|cost=  103500 credits|weight=200|required_tech_level=296|technology_required=none|shield_damage=400|armor_piercing=720|energy_drain=0|damage_radius=2|accuracy=55|shots_per_turn=1.0|energy_per_shot=160|max_targets_per_turn=3|offensive_merit=124200}}
+{{Weapon}}
 
 == Overview ==
 The HR-X is a standard HR100 fitted with the high devastation 'X' class warhead rockets.

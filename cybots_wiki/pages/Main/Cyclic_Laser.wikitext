@@ -1,4 +1,4 @@
-{{Weapon|image1=File:cycliclaser.jpg|caption-image1=Laser|weapon-information=Weapon Information|cost=  56250 credits|weight=48|required_tech_level=154|technology_required=Radial Laser Technology|shield_damage=350|armor_piercing=200|energy_drain=0|damage_radius=1|accuracy=70|shots_per_turn=2.0|energy_per_shot=175|max_targets_per_turn=4|offensive_merit=67500}}
+{{Weapon}}
 
 == Overview ==
 The Cyclic Laser design allows a faster cool down time for laser projectors, the design also offers a new dimension in damage infliction by increasing the firing rate beyond that of the [[Quad Argon Lasers|Quad Argon]] system. The downside to this high fire rate is a large energy usage.

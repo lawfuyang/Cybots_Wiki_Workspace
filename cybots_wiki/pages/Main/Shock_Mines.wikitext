@@ -1,4 +1,4 @@
-{{Weapon|image1=File:shockmines.jpg|caption-image1=Mines|weapon-information=Weapon Information|cost=  25875 credits|weight=50|required_tech_level=63|technology_required=none|shield_damage=100|armor_piercing=180|energy_drain=0|damage_radius=2|accuracy=65|shots_per_turn=1.0|energy_per_shot=40|max_targets_per_turn=3|offensive_merit=31050}}
+{{Weapon}}
 
 == Overview ==
 Shock Mines are powerful explosive charges that are placed on the ground. Because of their low hit chance they are best used with bots that have enhanced targeting AI. They are also most effective when used against large numbers of enemy units.

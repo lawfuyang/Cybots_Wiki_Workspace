@@ -1,4 +1,4 @@
-{{Weapon|image1=File:lr100rocketpack.jpg|caption-image1=Rocket Pack|weapon-information=Weapon Information|cost=  12937 credits|weight=25|required_tech_level=24|technology_required=none|shield_damage=50|armor_piercing=90|energy_drain=0|damage_radius=2|accuracy=70|shots_per_turn=1.0|energy_per_shot=20|max_targets_per_turn=3|offensive_merit=15525}}
+{{Weapon}}
 
 == Overview ==
 The multi-launch Light Rocket pack is able to cause reasonable damage to multiple targets by firing of a salvo of rockets that rain down over a small area.

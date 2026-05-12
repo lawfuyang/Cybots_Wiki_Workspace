@@ -1,4 +1,4 @@
-{{Weapon|image1=File:shieldneutraliser.jpg|caption-image1=Shield Disruptor|weapon-information=Weapon Information|cost=  75000 credits|weight=80|required_tech_level=211|technology_required=none|shield_damage=2000|armor_piercing=0|energy_drain=0|damage_radius=1|accuracy=60|shots_per_turn=1.0|energy_per_shot=150|max_targets_per_turn=1|offensive_merit=90000}}
+{{Weapon}}
 
 == Overview ==
 The "Puncher" class Shield Neutraliser uses a netronic wave to cause massive amounts of damage to enemy shields.

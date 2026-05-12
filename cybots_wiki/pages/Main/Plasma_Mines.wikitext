@@ -1,4 +1,4 @@
-{{Weapon|image1=File:Plasmamines.jpg|caption-image1=Mines|weapon-information=Weapon Information|cost=  51750 credits|weight=40|required_tech_level=141|technology_required=Plasma Technology|shield_damage=85|armor_piercing=50|energy_drain=0|damage_radius=4|accuracy=20|shots_per_turn=3.0|energy_per_shot=8|max_targets_per_turn=4|offensive_merit=62100}}
+{{Weapon}}
 
 == Overview ==
 Plasma Mines are powerful explosive charges that are placed on the ground. Because of their low hit chance they are best used with bots that have enhanced targeting AI. They are also most effective when used against large numbers of enemy units.

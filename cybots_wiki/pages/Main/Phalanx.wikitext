@@ -1,4 +1,4 @@
-{{Weapon|image1=File:baronlaser.jpg|caption-image1=Armor Piercing|weapon-information=Weapon Information|cost=  108000 credits|weight=96|required_tech_level=310|technology_required=none|shield_damage=20|armor_piercing=350|energy_drain=0|damage_radius=1|accuracy=60|shots_per_turn=4.0|energy_per_shot=8|max_targets_per_turn=10|offensive_merit=129600}}
+{{Weapon}}
 
 == Overview ==
 The Phalanx uses the same barrel array technology as the [[Fire Blade]] with an improved rate of fire.

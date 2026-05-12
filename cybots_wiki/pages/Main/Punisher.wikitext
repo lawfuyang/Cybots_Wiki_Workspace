@@ -1,4 +1,4 @@
-{{Weapon|image1=File:punisher.jpg|caption-image1=Mortar|weapon-information=Heavy Shield Disruptor|cost=  18750 credits|weight=40|required_tech_level=42|technology_required=none|shield_damage=300|armor_piercing=100|energy_drain=0|damage_radius=3|accuracy=50|shots_per_turn=0.5|energy_per_shot=150|max_targets_per_turn=1|offensive_merit=22500}}
+{{Weapon}}
 
 == Overview ==
 The 'Punisher' class mortar fires high explosive 'Chaos' charges that do damage to a wide area (up to five targets). Like most [[:Category:Weapons (Mortars)|mortars]] it fires at a high angle, making it inaccurate against mobile or small targets, but ideal for concentrated formations.

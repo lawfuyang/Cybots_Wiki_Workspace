@@ -15,6 +15,7 @@ function p.get(frame)
     if prop and (prop == 'image' or prop == 'image1' or prop == 'file') then
         local filename = entry.image1 or entry.image
         if not filename then return '' end
+        if args.raw then return tostring(filename) end
         local size = args.size or args.imageSize or '60px'
         return '[[File:' .. tostring(filename) .. '|' .. tostring(size) .. ']]'
     end
@@ -30,7 +31,7 @@ end
 
 function p.generateTable(frame)
     local data = DATA or helper.loadData('Module:Weapons/data', 'Module:Weapons_data')
-    
+
     local cols = {
         { title = 'Image', section = nil, key = 'image' },
         { title = 'Name', section = nil, key = 'name' },
@@ -49,13 +50,8 @@ function p.generateTable(frame)
         { title = 'Max Targets Per Turn', section = 'Properties', key = 'Max Targets Per Turn' },
         { title = 'Offensive Merit', section = 'Properties', key = 'Offensive Merit' },
     }
-    
-    return helper.generateTable(data, 'Weapon', cols, 'Could not load data module. Check Module:Weapons/data or Module:Weapons_data exists.')
-end
 
-function p.testData(frame)
-    local data = DATA or helper.loadData('Module:Weapons/data', 'Module:Weapons_data')
-    return helper.testData(data, 'Module:Weapons/data')
+    return helper.generateTable(data, 'Weapon', cols, 'Could not load data module. Check Module:Weapons/data or Module:Weapons_data exists.')
 end
 
 return p

@@ -1,4 +1,4 @@
-{{Weapon|image1=File:Argonlaser.jpg|caption-image1=Laser|weapon-information=Weapon Information|cost=4125 credits|weight=3|required_tech_level=0|technology_required=none|shield_damage=50|armor_piercing=30|energy_drain=0|damage_radius=1|accuracy=85|shots_per_turn=1.0|energy_per_shot=20|max_targets_per_turn=3|offensive_merit=4950}}
+{{Weapon}}
 
 == Overview ==
 The assault oriented Argon Laser uses a high density light beam to literally burn through its target. Like all Lasers, the weapon does relatively good levels of both shield and armor damage with a high degree of accuracy.

@@ -1,4 +1,4 @@
-{{Weapon|image1=File:morningstar.jpg|caption-image1=Multi-Launch Rocket Pack|weapon-information=Weapon Information|cost=  80550 credits|weight=125|required_tech_level=227|technology_required=Magma Technology|shield_damage=450|armor_piercing=300|energy_drain=25|damage_radius=3|accuracy=35|shots_per_turn=1.0|energy_per_shot=20|max_targets_per_turn=3|offensive_merit=96660}}
+{{Weapon}}
 
 == Overview ==
 The Morning Star is a launch system for mini Magmatic rockets. On impact the explosive cocktail erupts into a splattering of super heated liquid, giving off a fantastic fireworks show as well as melting any targets within range.

@@ -4,100 +4,120 @@
     <default>{{PAGENAME}}</default>
   </title>
   <image source="image1">
+    <default>[[File:{{#invoke:Weapons|get|{{PAGENAME}}|prop=image1|raw=1}}|frameless|60px]]</default>
     <caption source="caption-image1"/>
   </image>
   <group>
-    <header source="weapon-information">Weapon Information</header>
+    <header>Weapon Information</header>
     <data source="cost">
       <label>Cost</label>
+      <default>{{#invoke:Weapons|get|{{PAGENAME}}|section=Unit Information|key=Cost}}</default>
     </data>
     <data source="weight">
       <label>Weight</label>
+      <default>{{#invoke:Weapons|get|{{PAGENAME}}|section=Properties|key=Weight}}</default>
     </data>
     <data source="required_tech_level">
       <label>Required Tech Level</label>
+      <default>{{#invoke:Weapons|get|{{PAGENAME}}|section=Properties|key=Required Tech Level}}</default>
     </data>
     <data source="technology_required">
       <label>Technology Required</label>
+      <default>{{#invoke:Weapons|get|{{PAGENAME}}|section=Unit Information|key=Other Requirements}}</default>
     </data>
     <data source="shield_damage">
       <label>Shield Damage</label>
+      <default>{{#invoke:Weapons|get|{{PAGENAME}}|section=Properties|key=Shield Damage}}</default>
     </data>
     <data source="armor_piercing">
       <label>Armor Piercing</label>
+      <default>{{#invoke:Weapons|get|{{PAGENAME}}|section=Properties|key=Armor Piercing}}</default>
     </data>
     <data source="energy_drain">
       <label>Energy Drain</label>
+      <default>{{#invoke:Weapons|get|{{PAGENAME}}|section=Properties|key=Energy Drain}}</default>
     </data>
     <data source="damage_radius">
       <label>Damage Radius</label>
+      <default>{{#invoke:Weapons|get|{{PAGENAME}}|section=Properties|key=Damage Radius}}</default>
     </data>
     <data source="accuracy">
       <label>Accuracy</label>
+      <default>{{#invoke:Weapons|get|{{PAGENAME}}|section=Properties|key=Accuracy}}</default>
     </data>
     <data source="shots_per_turn">
       <label>Shots Per Turn</label>
+      <default>{{#invoke:Weapons|get|{{PAGENAME}}|section=Properties|key=Shots Per Turn}}</default>
     </data>
     <data source="energy_per_shot">
       <label>Energy Per Shot</label>
+      <default>{{#invoke:Weapons|get|{{PAGENAME}}|section=Properties|key=Energy Per Shot}}</default>
     </data>
     <data source="max_targets_per_turn">
       <label>Max Targets Per Turn</label>
+      <default>{{#invoke:Weapons|get|{{PAGENAME}}|section=Properties|key=Max Targets Per Turn}}</default>
     </data>
     <data source="offensive_merit">
       <label>Offensive Merit</label>
+      <default>{{#invoke:Weapons|get|{{PAGENAME}}|section=Properties|key=Offensive Merit}}</default>
     </data>
   </group>
 </infobox>
 </includeonly>
 <noinclude>
-Example usage:
-{{Weapon
-  | title1=Example
-  | image1=Example.jpg
-  | caption-image1=Example
-  | weapon_type=Example
-  | weight=Example
-  | required_tech_level=Example
-  | technology_required=Example
-  | shield_damage=Example
-  | armor_piercing=Example
-  | energy_drain=Example
-  | damage_radius=Example
-  | accuracy=Example
-  | shots_per_turn=Example
-  | energy_per_shot=Example
-  | max_targets_per_turn=Example
-  | offensive_merit=Example}}
+== Weapon Template ==
+
+This template renders an infobox for weapon pages. It automatically loads data from [[Module:Weapons_data]] based on the page name.
+
+=== Automatic Data Loading ===
+
+When used as <code><nowiki>{{Weapon}}</nowiki></code>, the template automatically queries [[Module:Weapons_data]] using <code><nowiki>{{PAGENAME}}</nowiki></code> as the lookup key. No parameters are required on weapon pages that exist in the data module.
+
+=== Manual Override (Backward Compatible) ===
+
+All parameters can be manually specified to override the automatic data:
+
 <pre>
 {{Weapon
-  | title1=Example
-  | image1=Example.jpg
-  | caption-image1=Example
-  | weapon_type=Example
-  | weight=Example
-  | required_tech_level=Example
-  | technology_required=Example
-  | shield_damage=Example
-  | armor_piercing=Example
-  | energy_drain=Example
-  | damage_radius=Example
-  | accuracy=Example
-  | shots_per_turn=Example
-  | energy_per_shot=Example
-  | max_targets_per_turn=Example
-  | offensive_merit=Example}}
+  | title1 = Example
+  | image1 = Example.jpg
+  | caption-image1 = Example
+  | cost = Example
+  | weight = Example
+  | required_tech_level = Example
+  | technology_required = Example
+  | shield_damage = Example
+  | armor_piercing = Example
+  | energy_drain = Example
+  | damage_radius = Example
+  | accuracy = Example
+  | shots_per_turn = Example
+  | energy_per_shot = Example
+  | max_targets_per_turn = Example
+  | offensive_merit = Example
+}}
 </pre>
+
 <templatedata>
 {
+	"description": "Infobox template for weapon pages. Automatically loads data from Module:Weapons_data based on page name. Manual parameters override automatic data for backward compatibility.",
 	"params": {
 		"title1": {
+			"label": "Title",
+			"description": "Title of the infobox. Defaults to PAGENAME.",
+			"type": "string",
 			"suggested": true
 		},
 		"image1": {
+			"label": "Image",
+			"description": "Image filename. Automatically loaded from Weapons data module, or specify manually to override.",
+			"type": "wiki-file-name",
 			"suggested": true
 		},
 		"caption-image1": {
+			"label": "Image Caption",
+			"description": "Image caption (typically the weapon type).",
+			"type": "string",
 			"suggested": true,
 			"suggestedvalues": [
 				"Laser",
@@ -117,14 +137,28 @@ Example usage:
 				"Armor Piercing"
 			]
 		},
+		"cost": {
+			"label": "Cost",
+			"description": "Cost to purchase. Automatically loaded from Weapons data module, or specify manually to override.",
+			"type": "string",
+			"suggested": true
+		},
 		"weight": {
+			"label": "Weight",
+			"description": "Weight value. Automatically loaded from Weapons data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		},
 		"required_tech_level": {
-			"suggested": true,
-			"type": "number"
+			"label": "Required Tech Level",
+			"description": "Tech level required to use. Automatically loaded from Weapons data module, or specify manually to override.",
+			"type": "number",
+			"suggested": true
 		},
 		"technology_required": {
+			"label": "Technology Required",
+			"description": "Special technology required (e.g. Magma Technology). Automatically loaded from Weapons data module, or specify manually to override.",
+			"type": "string",
 			"suggested": true,
 			"suggestedvalues": [
 				"none",
@@ -135,36 +169,57 @@ Example usage:
 			]
 		},
 		"shield_damage": {
+			"label": "Shield Damage",
+			"description": "Shield damage value. Automatically loaded from Weapons data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		},
 		"armor_piercing": {
+			"label": "Armor Piercing",
+			"description": "Armor piercing value. Automatically loaded from Weapons data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		},
 		"energy_drain": {
+			"label": "Energy Drain",
+			"description": "Energy drain value. Automatically loaded from Weapons data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		},
 		"damage_radius": {
+			"label": "Damage Radius",
+			"description": "Damage radius value. Automatically loaded from Weapons data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		},
 		"accuracy": {
+			"label": "Accuracy",
+			"description": "Accuracy percentage. Automatically loaded from Weapons data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		},
 		"shots_per_turn": {
+			"label": "Shots Per Turn",
+			"description": "Number of shots per turn. Automatically loaded from Weapons data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		},
 		"energy_per_shot": {
+			"label": "Energy Per Shot",
+			"description": "Energy consumed per shot. Automatically loaded from Weapons data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		},
 		"max_targets_per_turn": {
+			"label": "Max Targets Per Turn",
+			"description": "Maximum targets per turn. Automatically loaded from Weapons data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		},
 		"offensive_merit": {
-			"suggested": true
-		},
-		"cost": {},
-		"weapon-information": {
-			"type": "wiki-page-name",
-			"autovalue": "Weapon Information",
+			"label": "Offensive Merit",
+			"description": "Offensive merit value. Automatically loaded from Weapons data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		}
 	},
@@ -173,7 +228,6 @@ Example usage:
 		"title1",
 		"image1",
 		"caption-image1",
-		"weapon-information",
 		"cost",
 		"weight",
 		"required_tech_level",

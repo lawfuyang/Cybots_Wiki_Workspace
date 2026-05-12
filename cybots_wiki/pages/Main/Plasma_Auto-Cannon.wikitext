@@ -1,4 +1,4 @@
-{{Weapon|image1=File:Plasmaautocannon.jpg|caption-image1=Cannon (Radius)|weapon-information=Weapon Information|cost=  88537 credits|weight=150|required_tech_level=251|technology_required=Plasma Technology|shield_damage=675|armor_piercing=450|energy_drain=0|damage_radius=2|accuracy=65|shots_per_turn=1.0|energy_per_shot=150|max_targets_per_turn=1|offensive_merit=106245}}
+{{Weapon}}
 
 == Overview ==
 A higher powered version of the Talsian [[Plasma Cannon]] featuring an additional plasma chamber and extruded magnetic launcher.

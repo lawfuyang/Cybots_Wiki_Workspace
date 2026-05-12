@@ -1,4 +1,4 @@
-{{Weapon|image1=File:Syphon1.jpg|caption-image1=Power Disruptor|weapon-information=Weapon Information|cost=7500 credits|weight=5|required_tech_level=8|technology_required=none|shield_damage=0|armor_piercing=0|energy_drain=200|damage_radius=1|accuracy=80|shots_per_turn=1.0|energy_per_shot=50|max_targets_per_turn=1|offensive_merit=9000}}
+{{Weapon}}
 
 == Overview ==
 Using an EM induction wave, the Syphon is capable of causing significant energy loss to an enemy. Shields or armor are ineffective at stopping the drain.

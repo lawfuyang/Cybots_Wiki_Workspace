@@ -1,4 +1,4 @@
-{{Weapon|image1=File:Thermaldawn.jpg|caption-image1=Superweapon|weapon-information=Weapon Information|cost=  750 accolades <br>98400 credits value|weight=200|required_tech_level=281|technology_required=none|shield_damage=1500|armor_piercing=750|energy_drain=0|damage_radius=4|accuracy=100|shots_per_turn=0.35|energy_per_shot=600|max_targets_per_turn=?|offensive_merit=118080}}
+{{Weapon}}
 
 == Overview ==
 Purchase From [[Accolades Exchange]] In [[Talsian Warfront]] or find in [[Sulphur|SULPHUR]] after defeating [[Annihilators]].

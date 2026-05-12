@@ -1,4 +1,4 @@
-{{Weapon|image1=File:Pmcgold.jpg|caption-image1=Special Weapon|weapon-information=Weapon Information|cost=1000 credit value|weight=350|required_tech_level=1000|technology_required=none|shield_damage=4950|armor_piercing=2025|energy_drain=0|damage_radius=5|accuracy=100|shots_per_turn=0.25|energy_per_shot=950|max_targets_per_turn=1|offensive_merit=550000}}
+{{Weapon}}
 
 == Overview ==
 A unique all gold variant of the [[Peace Maker Cannon]] with enhanced stats.

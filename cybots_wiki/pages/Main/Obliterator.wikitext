@@ -1,4 +1,4 @@
-{{Weapon|image1=File:Obliterator.jpg|caption-image1=Superweapon|weapon-information=Weapon Information|cost=  1000 accolades <br>131212 credits value|weight=250|required_tech_level=379|technology_required=none|shield_damage=2000|armor_piercing=1000|energy_drain=0|damage_radius=4|accuracy=100|shots_per_turn=0.35|energy_per_shot=800|max_targets_per_turn=?|offensive_merit=157455}}
+{{Weapon}}
 
 == Overview ==
 Purchase From [[Accolades Exchange]] In [[Talsian Warfront]].
