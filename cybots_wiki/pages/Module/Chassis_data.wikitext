@@ -1214,4 +1214,49 @@ return {
             },
         },
     },
+    {
+        title = "Raven",
+        url = "https://cybots.fandom.com/wiki/Raven",
+        image1 = "raven.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Unit Type"] = "Cybot (Useable)",
+                ["Faction"] = nil,
+                ["Chassis Type"] = "Tracker",
+                ["Chassis Cost"] = nil,
+                ["Requirements"] = "Praetorian Research Lab Schematics",
+            },
+            ["Slots"] = {
+                ["Weapon Slots"] = 2,
+                ["Module Slots"] = 5,
+                ["Shield Slots"] = 4,
+                ["Reactor Slots"] = 1,
+            },
+            ["Starting Tech Levels"] = {
+                ["Weapon Tech"] = 147,
+                ["Shield Tech"] = 252,
+                ["Module Tech"] = 15,
+                ["Reactor Tech"] = 102,
+            },
+            ["Base Stats"] = {
+                ["Payload"] = 2000,
+                ["Armor"] = 300,
+                ["Speed"] = 5,
+                ["Critical Hit Chance"] = nil,
+                ["Accuracy Adjusted"] = { value = -50, unit = "%" },
+                ["Damage Adjusted"] = nil,
+                ["Defensive Merit"] = "?",
+            },
+            ["Unique Stats"] = {
+                ["Shield Projection"] = { value = 150, unit = "%" },
+                ["Module Uplink"] = nil,
+                ["Energy Distribution / Energy Share"] = nil,
+                ["Energy Induction"] = nil,
+            },
+            ["Hidden Stats"] = {
+                ["Damage Boost"] = { value = -50, unit = "%" },
+                ["Drain Boost"] = nil,
+            },
+        },
+    },
 }
