@@ -1,4 +1,4 @@
-{{Unit New|image1=File:marauder.jpg|unit_type=Cybot (Useable)|faction=none|chassis_type=Quadra|chassis_cost=158200 credits|technology_required=none|other_requirements=none|weapon_slots=5|module_slots=0|shield_slots=0|reactor_slots=1|weapon_tech=16|shield_tech=1|module_tech=1|reactor_tech=11|payload=550|armor=800|speed=40|critical_hit_chance=1%|accuracy_adjusted=35%|damage_adjusted=10%|defensive_merit=20800|shield_projection=none|module_uplink=none|energy_distribution_/_energy_share=none|energy_induction=none|damage_boost=none|drain_boost=none}}
+{{Unit New}}
 
 == Overview ==
 The Marauder class quadra chassis is a formidable offensive platform. Multiple weapon slots and exceptional armour make it the greatest power available to controllers. The Marauder towers over other bots and as a result can inflict more damage with better aim. All of this firepower however comes at the cost of shields and speed.

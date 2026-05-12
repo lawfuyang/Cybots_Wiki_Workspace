@@ -1,4 +1,4 @@
-{{Unit New|image1=[[File:flamingorbiter.jpg]]|unit_type=Cybot (Useable)|faction=none|chassis_type=Hover|chassis_cost=350 mirons|technology_required=none|other_requirements=none|weapon_slots=1|module_slots=4|shield_slots=1|reactor_slots=1|weapon_tech=1|shield_tech=1|module_tech=11|reactor_tech=1|payload=400|armor=400|speed=130|critical_hit_chance=40%|accuracy_adjusted=0%|damage_adjusted=none|defensive_merit=4750|shield_projection=none|module_uplink=none|energy_distribution_/_energy_share=none|energy_induction=none|damage_boost=none|drain_boost=150% verify}}
+{{Unit New}}
 
 == Overview ==
 

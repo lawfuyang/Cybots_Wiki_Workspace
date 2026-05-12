@@ -1,4 +1,4 @@
-{{Unit New|image1=File:crusader.jpg|unit_type=Cybot (Useable)|faction=none|chassis_type=Tracker|chassis_cost=300480 credits|technology_required=Crusader Technology|other_requirements=none|weapon_slots=1|module_slots=2|shield_slots=4|reactor_slots=1|weapon_tech=21|shield_tech=11|module_tech=11|reactor_tech=16|payload=800|armor=525|speed=25|critical_hit_chance=1%|accuracy_adjusted=25%|damage_adjusted=200%|defensive_merit=94870|shield_projection=none|module_uplink=none|energy_distribution_/_energy_share=none|energy_induction=none|damage_boost=none|drain_boost=none}}
+{{Unit New}}
 
 == Overview ==
 The Crusader class bot is a self sufficient standalone class of bot. Although the turret can hold only one weapon, it is designed to maximize damage and accuracy, every shot fired is the equivalent to a critical hit. The Crusader also boasts four shield slots and heavy armor, making it possibly the most durable bot after the [[Leviathan]].

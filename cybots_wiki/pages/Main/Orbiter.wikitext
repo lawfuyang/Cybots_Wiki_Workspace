@@ -1,4 +1,4 @@
-{{Unit New|image1=File:orbital.jpg|unit_type=Cybot (Useable)|faction=none|chassis_type=Hover|chassis_cost=45750 credits|technology_required=none|other_requirements=none|weapon_slots=1|module_slots=4|shield_slots=1|reactor_slots=1|weapon_tech=6|shield_tech=1|module_tech=11|reactor_tech=5|payload=180|armor=120|speed=80|critical_hit_chance=1%|accuracy_adjusted=none|damage_adjusted=none|defensive_merit=4550|shield_projection=none|module_uplink=none|energy_distribution_/_energy_share=none|energy_induction=none|damage_boost=none|drain_boost=none}}
+{{Unit New}}
 
 == Overview ==
 The Orbiter class utility bot is unique because it is designed primarily as a maintenance unit. It lacks the combat power of other bots and is limited due to its low payload and hit points. The power of the orbiter comes from it's module slots and the ability to repair damage in the outlands. During the quiet periods between travel and combat, the Orbiter can be used to repair lost hit points by selecting the 'Recover' option.

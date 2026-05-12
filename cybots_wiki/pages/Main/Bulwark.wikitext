@@ -1,4 +1,4 @@
-{{Unit New|image1=File:bulwark.jpg|unit_type=Cybot (Useable)|faction=none|chassis_type=Spider|chassis_cost=140200 credits|technology_required=Bulwark Technology|other_requirements=none|weapon_slots=4|module_slots=2|shield_slots=2|reactor_slots=1|weapon_tech=21|shield_tech=6|module_tech=11|reactor_tech=16|payload=600|armor=650|speed=40|critical_hit_chance=1%|accuracy_adjusted=5%|damage_adjusted=5%|defensive_merit=16300|shield_projection=20%|module_uplink=none|energy_distribution_/_energy_share=none|energy_induction=none|damage_boost=none|drain_boost=none}}
+{{Unit New}}
 
 == Overview ==
 The Bulwark is an unusual hybrid design, created by renegade artificial intelligence to combat the CCU in the Vulcore plains. The Bulwark offers shielding abilities similar to a Sentinel, merged with a powerful weapons platform. You have been lucky enough to recreate the technology yourself.

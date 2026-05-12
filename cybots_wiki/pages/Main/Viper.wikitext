@@ -1,4 +1,4 @@
-{{Unit New|image1=[[File:viper.jpg]]|unit_type=Cybot (Useable)|faction=none|chassis_type=Hover|chassis_cost=75000000 credits|technology_required=none|other_requirements=none|weapon_slots=4|module_slots=1|shield_slots=2|reactor_slots=1|weapon_tech=650|shield_tech=252|module_tech=110|reactor_tech=102|payload=1000|armor=1000|speed=225|critical_hit_chance=1%|accuracy_adjusted=100%|damage_adjusted=none|defensive_merit=75000|shield_projection=100%|module_uplink=none|energy_distribution_/_energy_share=none|energy_induction=none|damage_boost=none|drain_boost=125%}}
+{{Unit New}}
 
 == Overview ==
 

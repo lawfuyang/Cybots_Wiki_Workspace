@@ -1,4 +1,4 @@
-{{Unit New|image1=File:reaper.jpg|unit_type=Cybot (Useable)|faction=none|chassis_type=Spider|chassis_cost=76200 credits|technology_required=none|other_requirements=none|weapon_slots=2|module_slots=1|shield_slots=2|reactor_slots=1|weapon_tech=11|shield_tech=1|module_tech=1|reactor_tech=6|payload=225|armor=300|speed=55|critical_hit_chance=1%|accuracy_adjusted=none|damage_adjusted=none|defensive_merit=12800|shield_projection=none|module_uplink=none|energy_distribution_/_energy_share=50%|energy_induction=100%|damage_boost=none|drain_boost=150%}}
+{{Unit New}}
 
 == Overview ==
 The Reaper class spider chassis is a lighter chassis with good speed and the special ability to steal reactor power when equipped with energy draining weapons. Drained energy is induced (absorbed) into a specialized hull and added to its own energy levels allowing them to effectively live off the energy of other bots. This ability does not end there however, for the Reaper can also distribute excess energy to fellow squad members, boosting their energy levels.

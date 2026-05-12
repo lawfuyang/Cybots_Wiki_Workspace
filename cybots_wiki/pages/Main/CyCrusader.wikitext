@@ -1,4 +1,4 @@
-{{Unit New|image1=[[File:cycrusader.jpg]]|unit_type=Cybot (Useable)|faction=none|chassis_type=Tracker|chassis_cost=500 mirons|technology_required=none|other_requirements=none|weapon_slots=2|module_slots=3|shield_slots=4|reactor_slots=1|weapon_tech=21|shield_tech=11|module_tech=11|reactor_tech=16|payload=800|armor=800|speed=40|critical_hit_chance=20%|accuracy_adjusted=35%|damage_adjusted=none|defensive_merit=85000|shield_projection=none|module_uplink=none|energy_distribution_/_energy_share=none|energy_induction=none|damage_boost=250%|drain_boost=none}}
+{{Unit New}}
 
 == Overview ==
 
