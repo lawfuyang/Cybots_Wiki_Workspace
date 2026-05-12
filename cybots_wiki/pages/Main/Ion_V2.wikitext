@@ -1,4 +1,4 @@
-{{Reactor|image1=File:ionv2.jpg|cost=8816 credits|other_requirements=none|weight=25|required_tech_level=5|max_energy_level=400|recharge_rate=150|defensive_merit=1150}}
+{{Reactor}}
 == Overview ==
 The Ion V2 is a modified base version [[Ion|Ion reactor]].
 It was designed to enhance the power reserve, and manages to do so well.

@@ -1,4 +1,4 @@
-{{Reactor|image1=File:cobalthydron.jpg|cost=220416 credits|other_requirements=none|weight=150|required_tech_level=50|max_energy_level=2000|recharge_rate=750|defensive_merit=5750}}
+{{Reactor}}
 == Overview ==
 The Cobalt Hydron reactor offers extra recharge over the [[Hydron Core Mk. II|Core Mk. II]].
 

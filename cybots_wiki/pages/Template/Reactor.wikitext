@@ -4,87 +4,113 @@
     <default>{{PAGENAME}}</default>
   </title>
   <image source="image1">
+    <default>[[File:{{#invoke:Reactors|get|{{PAGENAME}}|prop=image1|raw=1}}|frameless|60px]]</default>
     <caption source="caption-image1"/>
   </image>
   <group>
-    <header source="reactor_information">Reactor Information</header>
+    <header>Reactor Information</header>
     <data source="cost">
       <label>Cost</label>
+      <default>{{#invoke:Reactors|get|{{PAGENAME}}|section=Unit Information|key=Cost}}</default>
     </data>
     <data source="weight">
       <label>Weight</label>
+      <default>{{#invoke:Reactors|get|{{PAGENAME}}|section=Unit Information|key=Weight}}</default>
     </data>
     <data source="required_tech_level">
       <label>Required Tech Level</label>
+      <default>{{#invoke:Reactors|get|{{PAGENAME}}|section=Unit Information|key=Required Tech Level}}</default>
     </data>
     <data source="other_requirements">
       <label>Other Requirements</label>
+      <default>{{#invoke:Reactors|get|{{PAGENAME}}|section=Unit Information|key=Other Requirements}}</default>
     </data>
     <data source="max_energy_level">
       <label>Max Energy Level</label>
+      <default>{{#invoke:Reactors|get|{{PAGENAME}}|section=Properties|key=Max Energy Level}}</default>
     </data>
     <data source="recharge_rate">
       <label>Recharge Rate</label>
+      <default>{{#invoke:Reactors|get|{{PAGENAME}}|section=Properties|key=Recharge Rate}}</default>
     </data>
     <data source="defensive_merit">
       <label>Defensive Merit</label>
+      <default>{{#invoke:Reactors|get|{{PAGENAME}}|section=Properties|key=Defensive Merit}}</default>
     </data>
   </group>
 </infobox>
 </includeonly>
 <noinclude>
-Example usage:
-{{Reactor
-  | title1=Example
-  | image1=Example.jpg
-  | caption-image1=Example
-  | reactor_information=Example
-  | cost=Example
-  | weight=Example
-  | required_tech_level=Example
-  | other_requirements=Example
-  | max_energy_level=Example
-  | recharge_rate=Example
-  | defensive_merit=Example}}
+== Reactor Template ==
+
+This template renders an infobox for reactor pages. It automatically loads data from [[Module:Reactors_data]] based on the page name.
+
+=== Automatic Data Loading ===
+
+When used as <code><nowiki>{{Reactor}}</nowiki></code>, the template automatically queries [[Module:Reactors_data]] using <code><nowiki>{{PAGENAME}}</nowiki></code> as the lookup key. No parameters are required on reactor pages that exist in the data module.
+
+=== Manual Override (Backward Compatible) ===
+
+All parameters can be manually specified to override the automatic data:
+
 <pre>
 {{Reactor
-  | title1=Example
-  | image1=Example.jpg
-  | caption-image1=Example
-  | reactor_information=Example
-  | cost=Example
-  | weight=Example
-  | required_tech_level=Example
-  | other_requirements=Example
-  | max_energy_level=Example
-  | recharge_rate=Example
-  | defensive_merit=Example}}
+  | title1 = Example
+  | image1 = Example.jpg
+  | caption-image1 = Example
+  | cost = Example
+  | weight = Example
+  | required_tech_level = Example
+  | other_requirements = Example
+  | max_energy_level = Example
+  | recharge_rate = Example
+  | defensive_merit = Example
+}}
 </pre>
+
 <templatedata>
 {
 	"params": {
 		"title1": {
+			"label": "Title",
+			"description": "Title of the infobox. Defaults to PAGENAME.",
+			"type": "string",
 			"suggested": true
 		},
 		"image1": {
+			"label": "Image",
+			"description": "Image filename. Automatically loaded from Reactors data module, or specify manually to override.",
+			"type": "wiki-file-name",
 			"suggested": true
 		},
 		"caption-image1": {
-			"suggested": true
-		},
-		"reactor_information": {
+			"label": "Image Caption",
+			"description": "Image caption.",
+			"type": "string",
 			"suggested": true
 		},
 		"cost": {
+			"label": "Cost",
+			"description": "Cost to purchase. Automatically loaded from Reactors data module, or specify manually to override.",
+			"type": "string",
 			"suggested": true
 		},
 		"weight": {
+			"label": "Weight",
+			"description": "Weight value. Automatically loaded from Reactors data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		},
 		"required_tech_level": {
+			"label": "Required Tech Level",
+			"description": "Tech level required to use. Automatically loaded from Reactors data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		},
 		"other_requirements": {
+			"label": "Other Requirements",
+			"description": "Other requirements (e.g. Magma Technology). Automatically loaded from Reactors data module, or specify manually to override.",
+			"type": "string",
 			"suggested": true,
 			"suggestedvalues": [
 				"none",
@@ -92,15 +118,25 @@ Example usage:
 			]
 		},
 		"max_energy_level": {
+			"label": "Max Energy Level",
+			"description": "Maximum energy level. Automatically loaded from Reactors data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		},
 		"recharge_rate": {
+			"label": "Recharge Rate",
+			"description": "Energy recharge rate. Automatically loaded from Reactors data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		},
 		"defensive_merit": {
+			"label": "Defensive Merit",
+			"description": "Defensive merit value. Automatically loaded from Reactors data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		}
 	},
+	"description": "Infobox template for reactor pages. Automatically loads data from Module:Reactors_data based on page name. Manual parameters override automatic data for backward compatibility.",
 	"sets": []
 }
 </templatedata>

@@ -1,4 +1,4 @@
-{{Reactor|image1=File:magmaticpyroclast.jpg|cost=1041666 credits|other_requirements=Magma Technology|weight=250|required_tech_level=100|max_energy_level=5000|recharge_rate=1500|defensive_merit=12500}}
+{{Reactor}}
 == Overview ==
 The Pyroclast is another reactor which uses the magmatic principle. Unlike the standard [[Magmatic|Magmatic Reactor]] this version is absolutely massive.
 

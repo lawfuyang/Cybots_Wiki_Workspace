@@ -1,4 +1,4 @@
-{{Reactor|image1=File:ion.jpg|cost=4266 credits|other_requirements=none|weight=20|required_tech_level=1|max_energy_level=300|recharge_rate=100|defensive_merit=800}}
+{{Reactor}}
 == Overview ==
 
 The standard model Ion reactor is a small unit good for generating the power needed for the lighter bot classes.

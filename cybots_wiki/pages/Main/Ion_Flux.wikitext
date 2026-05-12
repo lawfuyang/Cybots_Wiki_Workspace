@@ -1,4 +1,4 @@
-{{Reactor|image1=File:ionflux.jpg|cost=15000 credits|other_requirements=none|weight=30|required_tech_level=10|max_energy_level=500|recharge_rate=200|defensive_merit=1500}}
+{{Reactor}}
 == Overview ==
 The Ion Flux reactor is another in the lighter [[Ion|Ion reactor]] series. Its advantage over other Ion reactors is its amazing recharge speed.
 

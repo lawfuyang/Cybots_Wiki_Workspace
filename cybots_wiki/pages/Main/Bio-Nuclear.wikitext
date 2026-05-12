@@ -1,4 +1,4 @@
-{{Reactor|image1=File:bionuclear.jpg|cost=60000 credits|other_requirements=none|weight=70|required_tech_level=30|max_energy_level=1000|recharge_rate=400|defensive_merit=3000}}
+{{Reactor}}
 == Overview ==
 Using a radioactive microscopic lifeform which reproduces within the reactors waste system, the Bio-Nuclear reactor is an environmentally safe form of nuclear reactor. The energy output is extremely impressive.
 

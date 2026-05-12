@@ -1,4 +1,4 @@
-{{Reactor|image1=File:quantum.jpg|cost=60000 credits|other_requirements=none|weight=60|required_tech_level=25|max_energy_level=3000|recharge_rate=0|defensive_merit=3000}}
+{{Reactor}}
 == Overview ==
 The "Quantum" class series of reactors are designed to store enormous amounts of charged power. When used with energy deflection modules, the deflection amount is extremely effective however the reactor can only be recharged through external sources such as [[Reaper|Reapers]] or time in the workshop.
 

@@ -1,4 +1,4 @@
-{{Reactor|image1=File:crix80didron.jpg|cost=found<br>81666 credit value|other_requirements=none|weight=80|required_tech_level=0|max_energy_level=1000|recharge_rate=650|defensive_merit=2500}}
+{{Reactor}}
 == Overview ==
 A powerful Federate reactor that, unlike most Federate equipment, is compact enough to be equipped to some Cybot chassis.
 

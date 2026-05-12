@@ -1,4 +1,4 @@
-{{Reactor|image1=File:hydroncore.jpg|cost=93750 credits|other_requirements=none|weight=100|required_tech_level=40|max_energy_level=1500|recharge_rate=450|defensive_merit=3750}}
+{{Reactor}}
 == Overview ==
 The Hydron Core is the standard Hydron reactor. The Hydron system creates enormous amounts of power, but each reactor must be encased within a shell of Dion to absorb the pressure of the reaction thus making these devices extremely heavy.
 

@@ -1,4 +1,4 @@
-{{Reactor|image1=File:ionfluxplus.jpg|cost=22816 credits|other_requirements=none|weight=35|required_tech_level=15|max_energy_level=600|recharge_rate=250|defensive_merit=1850}}
+{{Reactor}}
 == Overview ==
 The Ion Flux Plus is the largest Ion reactor with over double the effectiveness of the standard [[Ion|Ion reactor]].
 

@@ -1,4 +1,4 @@
-{{Reactor|image1=File:magmatic.jpg|cost=260416 credits|other_requirements=Magma Technology|weight=80|required_tech_level=55|max_energy_level=2500|recharge_rate=750|defensive_merit=6250}}
+{{Reactor}}
 == Overview ==
 Using the same reactive power as seen in the [[Magma Cannon]] and [[Morning Star]], the powerful Magmatic reactor offers a lighter weight, high end power source.
 

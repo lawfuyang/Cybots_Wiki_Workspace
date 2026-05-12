@@ -1,4 +1,4 @@
-{{Reactor|image1=File:hydroplasmonic.jpg|cost=found|other_requirements=none|weight=400|required_tech_level=50|max_energy_level=15000|recharge_rate=5000|defensive_merit=12000}}
+{{Reactor}}
 == Overview ==
 The Hydroplasmonic Reactor is a special reactor that can be obtained as a reward for defeating the [[Carnutum Arena Masters]].
 

@@ -1,4 +1,4 @@
-{{Reactor|image1=File:tribolthydron.jpg|cost=426666 credits|other_requirements=none|weight=200|required_tech_level=60|max_energy_level=3000|recharge_rate=1000|defensive_merit=8000}}
+{{Reactor}}
 == Overview ==
 The colossal Tribolt reactor is an experimental device that merges three [[Hydron Core|Hydron Reactors]] into one. There isn't actually a sane reason to ever use one of these.
 

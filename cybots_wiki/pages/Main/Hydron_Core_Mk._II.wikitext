@@ -1,4 +1,4 @@
-{{Reactor|image1=File:hydroncoremkii.jpg|cost=120416 credits|other_requirements=none|weight=120|required_tech_level=45|max_energy_level=1750|recharge_rate=500|defensive_merit=4250}}
+{{Reactor}}
 == Overview ==
 The Hydron Core Mk. II is designed for those who require vast amounts of reserve power and less need for immediate recharging.
 
