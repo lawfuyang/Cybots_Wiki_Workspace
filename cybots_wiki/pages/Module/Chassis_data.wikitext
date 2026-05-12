@@ -193,7 +193,7 @@ return {
                 ["Faction"] = nil,
                 ["Chassis Type"] = "Tracker",
                 ["Chassis Cost"] = nil,
-                ["Requirements"] = "Defeat the Master Controllers"
+                ["Requirements"] = "Defeat the Master Controllers",
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 2,
