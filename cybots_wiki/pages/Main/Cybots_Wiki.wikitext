@@ -22,23 +22,23 @@ However you won't win just by having tons of cash — in the end the winner is d
 <div style="display:flex; flex-wrap:wrap; gap:0.8em; justify-content:center; margin-top:0.6em;">
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
-[[File:Bionuclear.jpg|80px|link=Reactors]]<br/>[[Reactors]]
+[[File:Quadra.png|120px|link=Chassis]]<br/>[[Chassis]]
 </div>
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
-[[File:Baronbattery.jpg|80px|link=Weapons]]<br/>[[Weapons]]
+[[File:Bionuclear.jpg|120px|link=Reactors]]<br/>[[Reactors]]
 </div>
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
-[[File:Module2.jpg|80px|link=Modules]]<br/>[[Modules]]
+[[File:Railgun.jpg|120px|link=Weapons]]<br/>[[Weapons]]
 </div>
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
-[[File:Argonarray.jpg|80px|link=Shields]]<br/>[[Shields]]
+[[File:Module2.jpg|120px|link=Modules]]<br/>[[Modules]]
 </div>
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
-[[File:Reaper.jpg|80px|link=Chassis]]<br/>[[Chassis]]
+[[File:Photonicsphere.jpg|120px|link=Shields]]<br/>[[Shields]]
 </div>
 
 </div>
@@ -52,35 +52,35 @@ However you won't win just by having tons of cash — in the end the winner is d
 <div style="display:flex; flex-wrap:wrap; gap:0.8em; justify-content:center; margin-top:0.6em;">
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
-[[File:Module1.jpg|80px|link=Workshops]]<br/>[[Workshops]]
+[[File:Cycarrier hanger1.jpg|120px|link=Workshops]]<br/>[[Workshops]]
 </div>
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
-[[File:Marauder.jpg|80px|link=Enemies]]<br/>[[Enemies]]
+[[File:Battle4.jpg|120px|link=Enemies]]<br/>[[Enemies]]
 </div>
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
-[[File:Pmcgold.jpg|80px|link=Battle Merit]]<br/>[[Battle Merit]]
+[[File:Console1.jpg|120px|link=Battle Merit]]<br/>[[Battle Merit]]
 </div>
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
-[[File:Punisher.jpg|80px|link=Combat]]<br/>[[Combat]]
+[[File:Battle.jpg|120px|link=Combat]]<br/>[[Combat]]
 </div>
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
-[[File:Warthog.jpg|80px|link=Chassis Characteristics]]<br/>[[Chassis Characteristics]]
+[[File:Trainer bot1.jpg|120px|link=Chassis Characteristics]]<br/>[[Chassis Characteristics]]
 </div>
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
-[[File:Brain.jpg|80px|link=AI/Experience Levels]]<br/>[[AI/Experience Levels]]
+[[File:Console1.jpg|120px|link=AI/Experience Levels]]<br/>[[AI/Experience Levels]]
 </div>
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
-[[File:Orbital.jpg|80px|link=Veteran Points]]<br/>[[Veteran Points]]
+[[File:Console1.jpg|120px|link=Veteran Points]]<br/>[[Veteran Points]]
 </div>
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
-[[File:Nuclear.jpg|80px|link=Mining Operations]]<br/>[[Mining Operations]]
+[[File:Bm-mineops-disabled.jpg|120px|link=Mining Operations]]<br/>[[Mining Operations]]
 </div>
 
 </div>
@@ -94,27 +94,27 @@ However you won't win just by having tons of cash — in the end the winner is d
 <div style="display:flex; flex-wrap:wrap; gap:0.8em; justify-content:center; margin-top:0.6em;">
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
-[[File:Terminus.jpg|80px|link=Riconnen's Challenge]]<br/>[[Riconnen's Challenge]]
+[[File:Trainer_bot1.jpg|120px|link=Riconnen's Challenge]]<br/>[[Riconnen's Challenge]]
 </div>
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
-[[File:Overseer.jpg|80px|link=Personal Squad Viewer]]<br/>[[Personal Squad Viewer]]
+[[File:Trainer door2.jpg|120px|link=Personal Squad Viewer]]<br/>[[Personal Squad Viewer]]
 </div>
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
-[[File:Sentinel.jpg|80px|link=CCU Training Deck]]<br/>[[CCU Training Deck]]
+[[File:Trainer instructor2.jpg|120px|link=CCU Training Deck]]<br/>[[CCU Training Deck]]
 </div>
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
-[[File:Magmatic.jpg|80px|link=Vulcore Plain]]<br/>[[Vulcore Plain]]
+[[File:Lavaflow.jpg|120px|link=Vulcore Plain]]<br/>[[Vulcore Plain]]
 </div>
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
-[[File:Crusader.jpg|80px|link=Talsia Warfront]]<br/>[[Talsia Warfront]]
+[[File:Tintro.jpg|120px|link=Talsia Warfront]]<br/>[[Talsia Warfront]]
 </div>
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
-[[File:Ionflux.jpg|80px|link=Gamma Sector]]<br/>[[Gamma Sector]]
+[[File:Gammaintro.jpg|120px|link=Gamma Sector]]<br/>[[Gamma Sector]]
 </div>
 
 </div>
