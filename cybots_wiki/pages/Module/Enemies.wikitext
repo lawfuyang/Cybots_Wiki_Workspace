@@ -1,0 +1,227 @@
+local p = {}
+
+-- ── Load enemy data ──────────────────────────────────────────────────────────
+local ok, DATA = pcall(function() return mw.loadData('Module:Enemies/data') end)
+if not ok or type(DATA) ~= 'table' then
+    ok, DATA = pcall(function() return mw.loadData('Module:Enemies_data') end)
+end
+if not ok or type(DATA) ~= 'table' then DATA = nil end
+
+-- ── Load equipment data modules for image lookups ────────────────────────────
+local function loadMod(primary, fallback)
+    local ok2, d = pcall(function() return mw.loadData(primary) end)
+    if ok2 and type(d) == 'table' then return d end
+    if fallback then
+        ok2, d = pcall(function() return mw.loadData(fallback) end)
+        if ok2 and type(d) == 'table' then return d end
+    end
+    return nil
+end
+
+local CHASSIS_DATA  = loadMod('Module:Chassis/data',  'Module:Chassis_data')
+local REACTOR_DATA  = loadMod('Module:Reactors/data', 'Module:Reactors_data')
+local SHIELD_DATA   = loadMod('Module:Shields/data',  'Module:Shields_data')
+local WEAPON_DATA   = loadMod('Module:Weapons/data',  'Module:Weapons_data')
+local MODULE_DATA   = loadMod('Module:Modules/data',  'Module:Modules_data')
+
+-- ── Build title → image1 lookup from an array-style data module ──────────────
+local function buildImageMap(dataModule)
+    local map = {}
+    if not dataModule then return map end
+    for _, entry in pairs(dataModule) do
+        if type(entry) == 'table' and entry.title and entry.image1 then
+            -- Store under exact title
+            map[entry.title] = entry.image1
+            -- Also store under a normalised lowercase key for fuzzy matching
+            map[entry.title:lower()] = entry.image1
+        end
+    end
+    return map
+end
+
+local CHASSIS_IMG = buildImageMap(CHASSIS_DATA)
+local REACTOR_IMG = buildImageMap(REACTOR_DATA)
+local SHIELD_IMG  = buildImageMap(SHIELD_DATA)
+local WEAPON_IMG  = buildImageMap(WEAPON_DATA)
+local MODULE_IMG  = buildImageMap(MODULE_DATA)
+
+-- ── Image lookup helpers ──────────────────────────────────────────────────────
+-- Try exact title, then lowercase, then common shield alias variants
+local function lookupImage(map, name)
+    if not name then return nil end
+    if map[name] then return map[name] end
+    local lower = name:lower()
+    if map[lower] then return map[lower] end
+    -- Shield alias: "Baron" → "Baron (Shield)"
+    local withShield = name .. ' (Shield)'
+    if map[withShield] then return map[withShield] end
+    if map[withShield:lower()] then return map[withShield:lower()] end
+    return nil
+end
+
+-- ── Render a [[File:...]] wiki tag ───────────────────────────────────────────
+local function fileTag(filename, size, link)
+    if not filename then return '' end
+    size = size or '40px'
+    local tag = '[[File:' .. filename .. '|' .. size
+    if link then tag = tag .. '|link=' .. link end
+    tag = tag .. ']]'
+    return tag
+end
+
+-- ── Render an equipment item: small image (linked) + text link ───────────────
+-- imageMap  : the lookup table for this equipment type
+-- item      : { name=..., url=... }
+-- Returns a string like:  [[File:x.jpg|30px|link=URL]] [URL Name]
+local function fmtItemWithImage(imageMap, item)
+    if not item then return '—' end
+    local name = item.name or ''
+    local url  = item.url  or ''
+    local img  = lookupImage(imageMap, name)
+
+    local imgPart  = ''
+    local textPart = name ~= '' and ('[' .. url .. ' ' .. name .. ']') or name
+
+    if img and img ~= '' then
+        -- [external_url [[File:img|size|link=]]] makes the image itself a clickable
+        -- external link. link= (empty) suppresses the default file-page link.
+        if url ~= '' then
+            imgPart = '[' .. url .. ' [[File:' .. img .. '|30px|link=]]]'
+        else
+            imgPart = '[[File:' .. img .. '|30px]]'
+        end
+        return imgPart .. ' ' .. textPart
+    end
+    return textPart
+end
+
+-- ── Safe list length (works on mw.loadData frozen tables) ────────────────────
+local function listLen(t)
+    if not t then return 0 end
+    local n = 0
+    for _ in ipairs(t) do n = n + 1 end
+    return n
+end
+
+-- ── Format a list of equipment items with images, deduplicating with ×N ──────
+local function fmtList(imageMap, list)
+    if not list or listLen(list) == 0 then return '—' end
+    -- Deduplicate while preserving order
+    local seen  = {}
+    local order = {}
+    for _, item in ipairs(list) do
+        local key = item.name or tostring(item)
+        if seen[key] then
+            seen[key].count = seen[key].count + 1
+        else
+            seen[key] = { item = item, count = 1 }
+            table.insert(order, key)
+        end
+    end
+    local parts = {}
+    for _, key in ipairs(order) do
+        local entry = seen[key]
+        local rendered = fmtItemWithImage(imageMap, entry.item)
+        if entry.count > 1 then
+            rendered = rendered .. ' <small>×' .. entry.count .. '</small>'
+        end
+        table.insert(parts, rendered)
+    end
+    return table.concat(parts, '<br/>')
+end
+
+-- ── Chassis image column: look up from Chassis_data, fall back to guessing ───
+local function chassisImageCell(chassis)
+    if not chassis or not chassis.name then return '—' end
+    local img = lookupImage(CHASSIS_IMG, chassis.name)
+    local url = chassis.url or ''
+    if img and img ~= '' then
+        -- [external_url [[File:img|size|link=]]] makes the image a clickable external link
+        if url ~= '' then
+            return '[' .. url .. ' [[File:' .. img .. '|60px|link=]]]'
+        end
+        return '[[File:' .. img .. '|60px]]'
+    end
+    -- Fallback: guess filename from chassis name
+    local guess = chassis.name:gsub(' ', '_') .. '.png'
+    if url ~= '' then
+        return '[' .. url .. ' [[File:' .. guess .. '|60px|link=]]]'
+    end
+    return '[[File:' .. guess .. '|60px]]'
+end
+
+-- ── Main table generator ──────────────────────────────────────────────────────
+function p.generateTable(frame)
+    local data = DATA
+    if not data then
+        local ok2, d = pcall(function() return mw.loadData('Module:Enemies/data') end)
+        if not ok2 or type(d) ~= 'table' then
+            ok2, d = pcall(function() return mw.loadData('Module:Enemies_data') end)
+        end
+        if ok2 and type(d) == 'table' then data = d end
+    end
+
+    if not data or type(data) ~= 'table' then
+        return 'Error: Could not load data module. Check Module:Enemies/data or Module:Enemies_data exists.'
+    end
+
+    -- Count entries safely
+    local count = 0
+    for _ in pairs(data) do count = count + 1 end
+    if count == 0 then
+        return 'Error: Data module is empty.'
+    end
+
+    local out = {}
+    table.insert(out, '{| class="wikitable sortable" style="width:100%;"')
+    table.insert(out, '|+ Enemies overview')
+    table.insert(out, '|-')
+    table.insert(out, '! Image !! Name !! Chassis !! Reactor !! Shields !! Weapons !! Modules')
+
+    for _, entry in ipairs(data) do
+        if entry and entry.title then
+            local nameCell
+            if entry.url and entry.url ~= '' then
+                nameCell = '[' .. entry.url .. ' ' .. entry.title .. ']'
+            else
+                nameCell = entry.title
+            end
+
+            local imageCell   = chassisImageCell(entry.chassis)
+            local chassisCell = fmtItemWithImage(CHASSIS_IMG, entry.chassis)
+            local reactorCell = entry.reactor and fmtItemWithImage(REACTOR_IMG, entry.reactor) or '—'
+            local shieldsCell = fmtList(SHIELD_IMG,  entry.shields)
+            local weaponsCell = fmtList(WEAPON_IMG,  entry.weapons)
+            local modulesCell = fmtList(MODULE_IMG,  entry.modules)
+
+            table.insert(out, '|-')
+            table.insert(out, '| style="text-align:center;" | ' .. imageCell)
+            table.insert(out, '| ' .. nameCell)
+            table.insert(out, '| ' .. chassisCell)
+            table.insert(out, '| ' .. reactorCell)
+            table.insert(out, '| ' .. shieldsCell)
+            table.insert(out, '| ' .. weaponsCell)
+            table.insert(out, '| ' .. modulesCell)
+        end
+    end
+
+    table.insert(out, '|}')
+    return table.concat(out, '\n')
+end
+
+function p.testData(frame)
+    local data = DATA
+    if data and type(data) == 'table' then
+        local n = 0
+        for _ in ipairs(data) do n = n + 1 end
+        if n > 0 then
+            return 'SUCCESS: Loaded ' .. n .. ' entries from Module:Enemies_data'
+        end
+        local kn = 0
+        for _ in pairs(data) do kn = kn + 1 end
+        return 'PARTIAL: Module loaded with ' .. kn .. ' entries (keyed table)'
+    end
+    return 'ERROR: Could not load Module:Enemies_data'
+end
+
+return p
