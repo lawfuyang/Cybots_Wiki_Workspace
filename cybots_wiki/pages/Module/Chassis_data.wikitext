@@ -2252,7 +2252,7 @@ return {
     {
         title = "CyCorps Marauder",
         url = "https://cybots.fandom.com/wiki/CyCorps_Marauder",
-        image1 = "cycorps_marauder.png",
+        image1 = "Cymarauder.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
