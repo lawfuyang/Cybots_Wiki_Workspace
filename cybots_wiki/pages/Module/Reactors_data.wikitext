@@ -363,4 +363,238 @@ return {
             },
         },
     },
+    {
+        title = "Power Cell",
+        url = "https://cybots.fandom.com/wiki/Power_Cell",
+        image1 = nil,
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = nil,
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 200,
+                ["Recharge Rate"] = 50,
+                ["Defensive Merit"] = 450,
+            },
+        },
+    },
+    {
+        title = "Energy Cell",
+        url = "https://cybots.fandom.com/wiki/Energy_Cell",
+        image1 = nil,
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = nil,
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 500,
+                ["Recharge Rate"] = 200,
+                ["Defensive Merit"] = 1000,
+            },
+        },
+    },
+    {
+        title = "Ultra Energy Cell",
+        url = "https://cybots.fandom.com/wiki/Ultra_Energy_Cell",
+        image1 = nil,
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = nil,
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 1000,
+                ["Recharge Rate"] = 250,
+                ["Defensive Merit"] = 2250,
+            },
+        },
+    },
+    {
+        title = "250rc Powerplant",
+        url = "https://cybots.fandom.com/wiki/250rc_Powerplant",
+        image1 = nil,
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = nil,
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 3500,
+                ["Recharge Rate"] = 250,
+                ["Defensive Merit"] = 4750,
+            },
+        },
+    },
+    {
+        title = "Power Receptor",
+        url = "https://cybots.fandom.com/wiki/Power_Receptor",
+        image1 = nil,
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = nil,
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 5000,
+                ["Recharge Rate"] = 0,
+                ["Defensive Merit"] = 5000,
+            },
+        },
+    },
+    {
+        title = "500rc Powerplant",
+        url = "https://cybots.fandom.com/wiki/500rc_Powerplant",
+        image1 = nil,
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = nil,
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 5000,
+                ["Recharge Rate"] = 500,
+                ["Defensive Merit"] = 7500,
+            },
+        },
+    },
+    {
+        title = "Crix90 Quadron",
+        url = "https://cybots.fandom.com/wiki/Crix90_Quadron",
+        image1 = nil,
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = nil,
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 10000,
+                ["Recharge Rate"] = 800,
+                ["Defensive Merit"] = 14000,
+            },
+        },
+    },
+    {
+        title = "Power Reservoir",
+        url = "https://cybots.fandom.com/wiki/Power_Reservoir",
+        image1 = nil,
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = nil,
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 20000,
+                ["Recharge Rate"] = 0,
+                ["Defensive Merit"] = 20000,
+            },
+        },
+    },
+    {
+        title = "1500rc Powerplant",
+        url = "https://cybots.fandom.com/wiki/1500rc_Powerplant",
+        image1 = nil,
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = nil,
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 20000,
+                ["Recharge Rate"] = 1500,
+                ["Defensive Merit"] = 27500,
+            },
+        },
+    },
+    {
+        title = "3000rc Powerplant",
+        url = "https://cybots.fandom.com/wiki/3000rc_Powerplant",
+        image1 = nil,
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = nil,
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 40000,
+                ["Recharge Rate"] = 3000,
+                ["Defensive Merit"] = 55000,
+            },
+        },
+    },
+    {
+        title = "Super Tank Core",
+        url = "https://cybots.fandom.com/wiki/Super_Tank_Core",
+        image1 = nil,
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = nil,
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 25000,
+                ["Recharge Rate"] = 10000,
+                ["Defensive Merit"] = 75000,
+            },
+        },
+    },
+    {
+        title = "Vessel Core",
+        url = "https://cybots.fandom.com/wiki/Vessel_Core",
+        image1 = nil,
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = nil,
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 500000,
+                ["Recharge Rate"] = 10000,
+                ["Defensive Merit"] = 550000,
+            },
+        },
+    },
+    {
+        title = "Disabled Reactor",
+        url = "https://cybots.fandom.com/wiki/Disabled_Reactor",
+        image1 = nil,
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = nil,
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 500,
+                ["Recharge Rate"] = 0,
+                ["Defensive Merit"] = 500,
+            },
+        },
+    },
 }
