@@ -2207,7 +2207,7 @@ return {
     {
         title = "CyCorps Ranger",
         url = "https://cybots.fandom.com/wiki/CyCorps_Ranger",
-        image1 = nil,
+        image1 = "Cyranger.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -2297,7 +2297,7 @@ return {
     {
         title = "CyCorps Orbiter",
         url = "https://cybots.fandom.com/wiki/CyCorps_Orbiter",
-        image1 = nil,
+        image1 = "Cyorbiter.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -2432,7 +2432,7 @@ return {
     {
         title = "CyCorps Valadin",
         url = "https://cybots.fandom.com/wiki/CyCorps_Valadin",
-        image1 = nil,
+        image1 = "Cyvaladin.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -2477,7 +2477,7 @@ return {
     {
         title = "CyCorps Reaper",
         url = "https://cybots.fandom.com/wiki/CyCorps_Reaper",
-        image1 = nil,
+        image1 = "Cycorps reaper.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
