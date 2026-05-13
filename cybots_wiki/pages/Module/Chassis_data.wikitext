@@ -2342,7 +2342,7 @@ return {
     {
         title = "CyCorps Leviathan",
         url = "https://cybots.fandom.com/wiki/CyCorps_Leviathan",
-        image1 = "cycorps_leviathan.png",
+        image1 = "cycorps_leviathan.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -2612,7 +2612,7 @@ return {
     {
         title = "Jet Bike",
         url = "https://cybots.fandom.com/wiki/Jet_Bike",
-        image1 = "jetbike.png",
+        image1 = "jetbike.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
