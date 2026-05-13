@@ -1531,7 +1531,7 @@ return {
     {
         title = "Pistol",
         url = "https://cybots.fandom.com/wiki/Pistol",
-        image1 = nil,
+        image1 = "Pistol.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1556,7 +1556,7 @@ return {
     {
         title = "V6 Plasma Pistol",
         url = "https://cybots.fandom.com/wiki/V6_Plasma_Pistol",
-        image1 = nil,
+        image1 = "inf_plasma.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1581,7 +1581,7 @@ return {
     {
         title = "Sub-Machine Gun",
         url = "https://cybots.fandom.com/wiki/Sub-Machine_Gun",
-        image1 = nil,
+        image1 = "Submachinegun.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1606,7 +1606,7 @@ return {
     {
         title = "Hand Grenades",
         url = "https://cybots.fandom.com/wiki/Hand_Grenades",
-        image1 = nil,
+        image1 = "Handgrenades.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1631,7 +1631,7 @@ return {
     {
         title = "Anti-Bot Rocket",
         url = "https://cybots.fandom.com/wiki/Anti-Bot_Rocket",
-        image1 = nil,
+        image1 = "nil",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1781,7 +1781,7 @@ return {
     {
         title = "Fragmentation Grenade",
         url = "https://cybots.fandom.com/wiki/Fragmentation_Grenade",
-        image1 = nil,
+        image1 = "Handgrenades.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1981,7 +1981,7 @@ return {
     {
         title = "Assault Cannon",
         url = "https://cybots.fandom.com/wiki/Assault_Cannon",
-        image1 = nil,
+        image1 = "fed_tankgun1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2006,7 +2006,7 @@ return {
     {
         title = "Tastron Bazooka",
         url = "https://cybots.fandom.com/wiki/Tastron_Bazooka",
-        image1 = nil,
+        image1 = "inf_bazooka.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2031,7 +2031,7 @@ return {
     {
         title = "85mm Mortar",
         url = "https://cybots.fandom.com/wiki/85mm_Mortar",
-        image1 = nil,
+        image1 = "inf_mortar.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2056,7 +2056,7 @@ return {
     {
         title = "FTG 100",
         url = "https://cybots.fandom.com/wiki/FTG_100",
-        image1 = nil,
+        image1 = "fed_tankgun1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2081,7 +2081,7 @@ return {
     {
         title = "Ram Cannon",
         url = "https://cybots.fandom.com/wiki/Ram_Cannon",
-        image1 = nil,
+        image1 = "tripodgun.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2106,7 +2106,7 @@ return {
     {
         title = "Heavy Assault Cannon",
         url = "https://cybots.fandom.com/wiki/Heavy_Assault_Cannon",
-        image1 = nil,
+        image1 = "fed_tankgun1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2131,7 +2131,7 @@ return {
     {
         title = "TrueG Issue I",
         url = "https://cybots.fandom.com/wiki/TrueG_Issue_I",
-        image1 = nil,
+        image1 = "inf_vulcan2.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2156,7 +2156,7 @@ return {
     {
         title = "Syphonic Array",
         url = "https://cybots.fandom.com/wiki/Syphonic_Array",
-        image1 = nil,
+        image1 = "Rayden.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2181,7 +2181,7 @@ return {
     {
         title = "Hellion Bazooka",
         url = "https://cybots.fandom.com/wiki/Hellion_Bazooka",
-        image1 = nil,
+        image1 = "inf_bazooka.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2206,7 +2206,7 @@ return {
     {
         title = "FTG 120",
         url = "https://cybots.fandom.com/wiki/FTG_120",
-        image1 = nil,
+        image1 = "fed_tankgun1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2231,7 +2231,7 @@ return {
     {
         title = "Deck Gun",
         url = "https://cybots.fandom.com/wiki/Deck_Gun",
-        image1 = nil,
+        image1 = "destroyer_gun1.png",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2256,7 +2256,7 @@ return {
     {
         title = "Battering Cannon",
         url = "https://cybots.fandom.com/wiki/Battering_Cannon",
-        image1 = nil,
+        image1 = "tripodgun.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2281,7 +2281,7 @@ return {
     {
         title = "AP22 Assault Cannon",
         url = "https://cybots.fandom.com/wiki/AP22_Assault_Cannon",
-        image1 = nil,
+        image1 = "fed_tankgun1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2306,7 +2306,7 @@ return {
     {
         title = "Induction Device",
         url = "https://cybots.fandom.com/wiki/Induction_Device",
-        image1 = nil,
+        image1 = "Rayden.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2331,7 +2331,7 @@ return {
     {
         title = "FTG 150",
         url = "https://cybots.fandom.com/wiki/FTG_150",
-        image1 = nil,
+        image1 = "fed_tankgun1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2356,7 +2356,7 @@ return {
     {
         title = "Siege Blaster",
         url = "https://cybots.fandom.com/wiki/Siege_Blaster",
-        image1 = nil,
+        image1 = "fed_siegegun.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2381,7 +2381,7 @@ return {
     {
         title = "Ion Charged Rocket Pack",
         url = "https://cybots.fandom.com/wiki/Ion_Charged_Rocket_Pack",
-        image1 = nil,
+        image1 = "fed_rockets1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2406,7 +2406,7 @@ return {
     {
         title = "Devastator Cannon",
         url = "https://cybots.fandom.com/wiki/Devastator_Cannon",
-        image1 = nil,
+        image1 = "carriergun.png",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2431,7 +2431,7 @@ return {
     {
         title = "Siege Gun",
         url = "https://cybots.fandom.com/wiki/Siege_Gun",
-        image1 = nil,
+        image1 = "fed_siegegun.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2456,7 +2456,7 @@ return {
     {
         title = "Psiotron Repeater",
         url = "https://cybots.fandom.com/wiki/Psiotron_Repeater",
-        image1 = nil,
+        image1 = "Shardcannon.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2481,7 +2481,7 @@ return {
     {
         title = "Heavy Deck Gun",
         url = "https://cybots.fandom.com/wiki/Heavy_Deck_Gun",
-        image1 = nil,
+        image1 = "destroyer_gun1.png",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2531,7 +2531,7 @@ return {
     {
         title = "Pulse Rocket Pack",
         url = "https://cybots.fandom.com/wiki/Pulse_Rocket_Pack",
-        image1 = nil,
+        image1 = "fed_rockets1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2581,7 +2581,7 @@ return {
     {
         title = "SD70 Rocket Pack",
         url = "https://cybots.fandom.com/wiki/SD70_Rocket_Pack",
-        image1 = nil,
+        image1 = "fed_rockets1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2631,7 +2631,7 @@ return {
     {
         title = "Disruptor Siege Gun",
         url = "https://cybots.fandom.com/wiki/Disruptor_Siege_Gun",
-        image1 = nil,
+        image1 = "fed_siegegun.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2656,7 +2656,7 @@ return {
     {
         title = "Vibro Cannon",
         url = "https://cybots.fandom.com/wiki/Vibro_Cannon",
-        image1 = nil,
+        image1 = "carriergun.png",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2681,7 +2681,7 @@ return {
     {
         title = "Vibro Devastator",
         url = "https://cybots.fandom.com/wiki/Vibro_Devastator",
-        image1 = nil,
+        image1 = "carriergun.png",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2706,7 +2706,7 @@ return {
     {
         title = "Damostater",
         url = "https://cybots.fandom.com/wiki/Damostater",
-        image1 = nil,
+        image1 = "Shardcannon.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
