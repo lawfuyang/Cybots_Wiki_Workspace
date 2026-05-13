@@ -1,37 +1,149 @@
 <mainpage-leftcolumn-start />
-<div style="text-align: center; font-size: x-large; padding: 1em;">'''Welcome to the {{SITENAME}}!'''</div>
+<div style="text-align: center; font-size: xx-large; padding: 0.6em 1em 0.2em; font-weight: bold; letter-spacing: 1px;">Welcome to the {{SITENAME}}!</div>
+<div style="text-align: center; color: #888; font-size: small; margin-bottom: 1.2em;">Your complete guide to the world of Cybernetic Warrior Bots</div>
 
-Cybots: The Game of Cybernetic Galdiators
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  ABOUT                                                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div style="background:#1a1a2e; border:1px solid #3a3a5c; border-radius:6px; padding:1em 1.4em; margin-bottom:1.2em;">
+== About ==
+Cybots is a game of strategy played where you, the Controller, must purchase and then configure a range of Cybernetic Warrior Bots in readiness for battle. A game of Cybots is played over a set period of time. Check the '''Time Till Reset''' on the sidebar menu for how much time is remaining before the game restarts. During this time period all Controllers compete to obtain the most '''Battle Experience Points (Exp)'''. Battle Experience is earnt only by achieving victory in combat. At any point in time you can check the top scoring Controllers using the '''Scoreboard''' (also located in the side bar).
 
+To win battles and survive the Outlands you must configure your bots using a range of equipment options purchased using a limited amount of cash.
 
+However you won't win just by having tons of cash — in the end the winner is decided by Battle Exp. In other words, cash is the means by which you can compete, but in the end it's how well your bots do in battle that counts.
+</div>
 
-We're a collaborative community website about {{topic}} that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. Click the "ADD NEW PAGE" or "EDIT" button at the top of any page to get started! 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  EQUIPMENT                                                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div style="background:#1a1a2e; border:1px solid #3a3a5c; border-radius:6px; padding:1em 1.4em; margin-bottom:1.2em;">
+== Equipment ==
+<div style="display:flex; flex-wrap:wrap; gap:0.8em; justify-content:center; margin-top:0.6em;">
 
-==Important articles==
-<gallery position="center" captionalign="center" navigation="true">
-File:Bionuclear.jpg|link=Reactors|[[Reactors]]
-File:Baronbattery.jpg|link=Weapons|[[Weapons]]
-File:Module2.jpg|link=Modules|[[Modules]]
-File:Argonarray.jpg|link=Shields|[[Shields]]
-File:Reaper.jpg|link=Chassis|[[Chassis]]
-</gallery>
-<!-- The gallery above works well for individual articles, but it would also be good to have another below it that points to important Category: pages. -->
+<div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
+[[File:Bionuclear.jpg|80px|link=Reactors]]<br/>[[Reactors]]
+</div>
+
+<div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
+[[File:Baronbattery.jpg|80px|link=Weapons]]<br/>[[Weapons]]
+</div>
+
+<div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
+[[File:Module2.jpg|80px|link=Modules]]<br/>[[Modules]]
+</div>
+
+<div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
+[[File:Argonarray.jpg|80px|link=Shields]]<br/>[[Shields]]
+</div>
+
+<div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
+[[File:Reaper.jpg|80px|link=Chassis]]<br/>[[Chassis]]
+</div>
+
+</div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  GAMEPLAY                                                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div style="background:#1a1a2e; border:1px solid #3a3a5c; border-radius:6px; padding:1em 1.4em; margin-bottom:1.2em;">
+== Gameplay ==
+<div style="display:flex; flex-wrap:wrap; gap:0.8em; justify-content:center; margin-top:0.6em;">
+
+<div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
+[[File:Module1.jpg|80px|link=Workshops]]<br/>[[Workshops]]
+</div>
+
+<div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
+[[File:Marauder.jpg|80px|link=Enemies]]<br/>[[Enemies]]
+</div>
+
+<div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
+[[File:Pmcgold.jpg|80px|link=Battle Merit]]<br/>[[Battle Merit]]
+</div>
+
+<div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
+[[File:Punisher.jpg|80px|link=Combat]]<br/>[[Combat]]
+</div>
+
+<div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
+[[File:Warthog.jpg|80px|link=Chassis Characteristics]]<br/>[[Chassis Characteristics]]
+</div>
+
+<div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
+[[File:Brain.jpg|80px|link=AI/Experience Levels]]<br/>[[AI/Experience Levels]]
+</div>
+
+<div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
+[[File:Orbital.jpg|80px|link=Veteran Points]]<br/>[[Veteran Points]]
+</div>
+
+<div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
+[[File:Nuclear.jpg|80px|link=Mining Operations]]<br/>[[Mining Operations]]
+</div>
+
+</div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  OUTLANDS                                                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div style="background:#1a1a2e; border:1px solid #3a3a5c; border-radius:6px; padding:1em 1.4em; margin-bottom:1.2em;">
+== Outlands ==
+<div style="display:flex; flex-wrap:wrap; gap:0.8em; justify-content:center; margin-top:0.6em;">
+
+<div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
+[[File:Terminus.jpg|80px|link=Riconnen's Challenge]]<br/>[[Riconnen's Challenge]]
+</div>
+
+<div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
+[[File:Overseer.jpg|80px|link=Personal Squad Viewer]]<br/>[[Personal Squad Viewer]]
+</div>
+
+<div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
+[[File:Sentinel.jpg|80px|link=CCU Training Deck]]<br/>[[CCU Training Deck]]
+</div>
+
+<div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
+[[File:Magmatic.jpg|80px|link=Vulcore Plain]]<br/>[[Vulcore Plain]]
+</div>
+
+<div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
+[[File:Crusader.jpg|80px|link=Talsia Warfront]]<br/>[[Talsia Warfront]]
+</div>
+
+<div style="flex:1 1 120px; max-width:150px; text-align:center; background:#0d0d1f; border:1px solid #3a3a5c; border-radius:6px; padding:0.6em;">
+[[File:Ionflux.jpg|80px|link=Gamma Sector]]<br/>[[Gamma Sector]]
+</div>
+
+</div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  TWO-COLUMN ROW: GUIDES + USEFUL LINKS                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div style="display:flex; flex-wrap:wrap; gap:1em; margin-bottom:1.2em;">
+
+<!-- GUIDES -->
+<div style="flex:1 1 220px; background:#1a1a2e; border:1px solid #3a3a5c; border-radius:6px; padding:1em 1.4em;">
+== Guides ==
+<ul style="margin-top:0.4em; line-height:2em;">
+<li>[[Vulcore Guide]]</li>
+<li>[[Talsia Guide]]</li>
+<li>[[Gamma Guide]]</li>
+</ul>
+</div>
+
+<!-- USEFUL LINKS -->
+<div style="flex:1 1 220px; background:#1a1a2e; border:1px solid #3a3a5c; border-radius:6px; padding:1em 1.4em;">
+== Useful Links ==
+<ul style="margin-top:0.4em; line-height:2em;">
+<li>🌐 [https://playcybots.com/ Website]</li>
+<li>💬 [https://discord.gg/uqvEFuUnYP Discord]</li>
+<li>❤️ [https://www.patreon.com/u243625 Patreon]</li>
+</ul>
+</div>
+
+</div>
 <mainpage-endcolumn />
-
-<mainpage-rightcolumn-start />
-''Need help building out this community?''
-
-*[[Project:Wiki rules|Rules of this wiki]]
-*[[w:c:community:Help:Getting Started|Getting Started]]
-*[[w:c:community:Help:Contributing|How to Contribute]]
-*[[w:c:community:Help:Community Management|Managing your new community]]
-*[[w:c:community:Help:Contents|Guides]]
-*[[w:c:community:Help:Index|All Help articles]]
-
-You can also be part of the larger Fandom family of communities. Visit [[w:c:community|Fandom's Community Central]]!
-
-
-
-''Community Founders'': Write a good and paragraph-length description for your welcome section about your topic. Let your readers know what your topic is about and add some general information about it. Then you should visit [[Special:AdminDashboard|the admin dashboard for more tips]]. 
-<mainpage-endcolumn />
-[[Category:{{SITENAME}}]]
