@@ -4,108 +4,146 @@
     <default>{{PAGENAME}}</default>
   </title>
   <image source="image1">
+    <default>[[File:{{#invoke:Shields|get|{{PAGENAME}}|prop=image1|raw=1}}|frameless|60px]]</default>
     <caption source="caption-image1"/>
   </image>
   <group>
-    <header source="shield_information">Shield Information</header>
+    <header>Shield Information</header>
     <data source="cost">
       <label>Cost</label>
+      <default>{{#invoke:Shields|get|{{PAGENAME}}|section=Unit Information|key=Cost}}</default>
     </data>
     <data source="weight">
       <label>Weight</label>
+      <default>{{#invoke:Shields|get|{{PAGENAME}}|section=Unit Information|key=Weight}}</default>
     </data>
     <data source="required_tech_level">
       <label>Required Tech Level</label>
+      <default>{{#invoke:Shields|get|{{PAGENAME}}|section=Unit Information|key=Required Tech Level}}</default>
     </data>
     <data source="additional_requirements">
       <label>Additional Requirements</label>
+      <default>{{#invoke:Shields|get|{{PAGENAME}}|section=Unit Information|key=Other Requirements}}</default>
     </data>
     <data source="primary_level">
       <label>Primary Level</label>
+      <default>{{#invoke:Shields|get|{{PAGENAME}}|section=Properties|key=Primary Level}}</default>
     </data>
     <data source="energy_use">
       <label>Energy Use</label>
+      <default>{{#invoke:Shields|get|{{PAGENAME}}|section=Properties|key=Energy Use}}</default>
     </data>
     <data source="recharge_rate">
       <label>Recharge Rate</label>
+      <default>{{#invoke:Shields|get|{{PAGENAME}}|section=Properties|key=Recharge Rate}}</default>
     </data>
     <data source="defensive_merit">
       <label>Defensive Merit</label>
+      <default>{{#invoke:Shields|get|{{PAGENAME}}|section=Properties|key=Defensive Merit}}</default>
     </data>
   </group>
 </infobox>
 </includeonly>
 <noinclude>
-Example usage:
-{{Shield
-  | title1=Example
-  | image1=Example.jpg
-  | caption-image1=Example
-  | shield_information=Example
-  | cost=Example
-  | weight=Example
-  | required_tech_level=Example
-  | additional_requirements=Example
-  | primary_level=Example
-  | energy_use=Example
-  | recharge_rate=Example
-  | defensive_merit=Example}}
+== Shield Template ==
+
+This template renders an infobox for shield pages. It automatically loads data from [[Module:Shields_data]] based on the page name.
+
+=== Automatic Data Loading ===
+
+When used as <code><nowiki>{{Shield}}</nowiki></code>, the template automatically queries [[Module:Shields_data]] using <code><nowiki>{{PAGENAME}}</nowiki></code> as the lookup key. No parameters are required on shield pages that exist in the data module.
+
+=== Manual Override (Backward Compatible) ===
+
+All parameters can be manually specified to override the automatic data:
+
 <pre>
 {{Shield
-  | title1=Example
-  | image1=Example.jpg
-  | caption-image1=Example
-  | shield_information=Example
-  | cost=Example
-  | weight=Example
-  | required_tech_level=Example
-  | additional_requirements=Example
-  | primary_level=Example
-  | energy_use=Example
-  | recharge_rate=Example
-  | defensive_merit=Example}}
+  | title1 = Example
+  | image1 = Example.jpg
+  | caption-image1 = Example
+  | cost = Example
+  | weight = Example
+  | required_tech_level = Example
+  | additional_requirements = Example
+  | primary_level = Example
+  | energy_use = Example
+  | recharge_rate = Example
+  | defensive_merit = Example
+}}
 </pre>
+
 <templatedata>
 {
+	"description": "Infobox template for shield pages. Automatically loads data from Module:Shields_data based on page name. Manual parameters override automatic data for backward compatibility.",
 	"params": {
 		"title1": {
+			"label": "Title",
+			"description": "Title of the infobox. Defaults to PAGENAME.",
+			"type": "string",
 			"suggested": true
 		},
 		"image1": {
+			"label": "Image",
+			"description": "Image filename. Automatically loaded from Shields data module, or specify manually to override.",
+			"type": "wiki-file-name",
 			"suggested": true
 		},
 		"caption-image1": {
-			"suggested": true
-		},
-		"shield_information": {
+			"label": "Image Caption",
+			"type": "string",
 			"suggested": true
 		},
 		"cost": {
+			"label": "Cost",
+			"description": "Cost to purchase. Automatically loaded from Shields data module, or specify manually to override.",
+			"type": "string",
 			"suggested": true
 		},
 		"weight": {
+			"label": "Weight",
+			"description": "Weight value. Automatically loaded from Shields data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		},
 		"required_tech_level": {
+			"label": "Required Tech Level",
+			"description": "Tech level required to use. Automatically loaded from Shields data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		},
-		"primary_level": {
-			"suggested": true
-		},
-		"energy_use": {
-			"suggested": true
-		},
-		"recharge_rate": {
-			"suggested": true
-		},
-		"defensive_merit": {
-			"suggested": true
-		},
-		"additional requirements": {
+		"additional_requirements": {
+			"label": "Additional Requirements",
+			"description": "Additional requirements (e.g. Plasma Technology). Automatically loaded from Shields data module, or specify manually to override.",
+			"type": "string",
+			"suggested": true,
 			"suggestedvalues": [
 				"none",
 				"Plasma Technology"
-			],
+			]
+		},
+		"primary_level": {
+			"label": "Primary Level",
+			"description": "Primary shield level. Automatically loaded from Shields data module, or specify manually to override.",
+			"type": "number",
+			"suggested": true
+		},
+		"energy_use": {
+			"label": "Energy Use",
+			"description": "Energy consumed. Automatically loaded from Shields data module, or specify manually to override.",
+			"type": "number",
+			"suggested": true
+		},
+		"recharge_rate": {
+			"label": "Recharge Rate",
+			"description": "Shield recharge rate. Automatically loaded from Shields data module, or specify manually to override.",
+			"type": "number",
+			"suggested": true
+		},
+		"defensive_merit": {
+			"label": "Defensive Merit",
+			"description": "Defensive merit value. Automatically loaded from Shields data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		}
 	},
@@ -114,11 +152,10 @@ Example usage:
 		"title1",
 		"image1",
 		"caption-image1",
-		"shield_information",
 		"cost",
 		"weight",
 		"required_tech_level",
-		"additional requirements",
+		"additional_requirements",
 		"primary_level",
 		"energy_use",
 		"recharge_rate",

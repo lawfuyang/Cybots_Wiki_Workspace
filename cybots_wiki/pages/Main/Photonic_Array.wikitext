@@ -1,4 +1,4 @@
-{{Template:Shield|image1=File:photonicarray.jpg|cost=found<br>82500 credit value|weight=80|required_tech_level=135|additional requirements=none|primary_level=1500|energy_use=150|recharge_rate=75|defensive_merit=37500}}
+{{Template:Shield}}
 == Overview ==
 A powerful Federate shield that, unlike most Federate equipment, is compact enough to be equipped to some Cybot chassis.
 

@@ -1,4 +1,4 @@
-{{Template:Shield|image1=File:baronimpulse.jpg|cost=22000 credits|weight=20|required_tech_level=10|additional requirements=none|primary_level=400|energy_use=40|recharge_rate=40|defensive_merit=10000}}
+{{Shield}}
 == Overview ==
 The Baron Impulse provides a powerful recharge speed for shield regeneration over its predecessor.
 

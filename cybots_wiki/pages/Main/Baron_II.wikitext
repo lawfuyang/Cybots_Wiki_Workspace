@@ -1,4 +1,4 @@
-{{Template:Shield|image1=File:baronii.jpg|cost=27500 credits|weight=25|required_tech_level=15|additional requirements=none|primary_level=500|energy_use=50|recharge_rate=50|defensive_merit=12500}}
+{{Shield}}
 == Overview ==
 The Baron II is the strongest deflector of its type. It still wont do much to stop a heavy blast, but it is definitely a step up. Unfortunately the Baron II uses extra power and is quite a bit heavier then the standard Baron.
 

@@ -1,4 +1,4 @@
-{{Template:Shield|image1=File:photonicdv.jpg|cost=41250 credits|weight=45|required_tech_level=50|additional requirements=none|primary_level=750|energy_use=75|recharge_rate=100|defensive_merit=18750}}
+{{Template:Shield}}
 == Overview ==
 The Photonic DV uses a deep set energy grid to provide adequate protection with a very fast recharge. Like the [[Photonic SV Shield|SV]], this model also comes with an attractive stand.
 
