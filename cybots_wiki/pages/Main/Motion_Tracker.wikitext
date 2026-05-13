@@ -1,4 +1,4 @@
-{{Module|image1=File:Motiontracker.jpg|cost=5000 credits|weight=10|required_tech_level=1|utility_module=yes|requirement=none|energy_use=25|defensive_merit=0}}
+{{Module}}
 
 == Overview ==
 The Motion Tracker is a [[:Category:Modules (Utility)|passive module]] that detects and identifies potential targets by their movements and energy signatures. A squad equipped with a Motion Tracker can detect more enemy targets as well as receiving protection from surprise attacks and ambushes.

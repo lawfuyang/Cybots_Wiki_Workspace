@@ -1,4 +1,4 @@
-{{Module|image1=File:Module2.jpg|cost=50000 credits|weight=25|required_tech_level=20|utility_module=no|requirement=none|energy_use=50|energy_efficiency=50%|defensive_merit=10000}}
+{{Module}}
 
 == Overview ==
 The Flux Channel module provides better energy use and management by reducing the loss of neutrons through energy byways.

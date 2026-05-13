@@ -4,169 +4,241 @@
     <default>{{PAGENAME}}</default>
   </title>
   <image source="image1">
+    <default>[[File:{{#invoke:Modules|get|{{PAGENAME}}|prop=image1|raw=1}}|frameless|60px]]</default>
     <caption source="caption-image1"/>
   </image>
   <group>
-    <header source="header1">Module Information</header>
+    <header>Module Information</header>
     <data source="cost">
       <label>Cost</label>
+      <default>{{#invoke:Modules|get|{{PAGENAME}}|section=Unit Information|key=Cost}}</default>
     </data>
     <data source="weight">
       <label>Weight</label>
+      <default>{{#invoke:Modules|get|{{PAGENAME}}|section=Properties|key=Weight}}</default>
     </data>
     <data source="required_tech_level">
       <label>Required Tech Level</label>
+      <default>{{#invoke:Modules|get|{{PAGENAME}}|section=Properties|key=Required Tech Level}}</default>
     </data>
     <data source="utility_module">
       <label>Utility Module</label>
+      <default>{{#invoke:Modules|get|{{PAGENAME}}|section=Unit Information|key=Module Type}}</default>
     </data>
     <data source="requirement">
       <label>Requirement</label>
+      <default>{{#invoke:Modules|get|{{PAGENAME}}|section=Unit Information|key=Other Requirements}}</default>
     </data>
     <data source="energy_use">
       <label>Energy Use</label>
+      <default>{{#invoke:Modules|get|{{PAGENAME}}|section=Properties|key=Energy Use}}</default>
     </data>
     <data source="speed">
       <label>Speed</label>
+      <default>{{#invoke:Modules|get|{{PAGENAME}}|section=Properties|key=Speed}}</default>
     </data>
     <data source="critical_hit_chance">
       <label>Critical Hit Chance</label>
+      <default>{{#invoke:Modules|get|{{PAGENAME}}|section=Properties|key=Critical Hit Chance}}</default>
     </data>
     <data source="accuracy">
       <label>Accuracy</label>
+      <default>{{#invoke:Modules|get|{{PAGENAME}}|section=Properties|key=Accuracy}}</default>
     </data>
     <data source="firing_rate">
       <label>Firing Rate</label>
+      <default>{{#invoke:Modules|get|{{PAGENAME}}|section=Properties|key=Firing Rate}}</default>
     </data>
     <data source="shield_deflection">
       <label>Shield Deflection</label>
+      <default>{{#invoke:Modules|get|{{PAGENAME}}|section=Properties|key=Shield Deflection}}</default>
     </data>
     <data source="armor_deflection">
       <label>Armor Deflection</label>
+      <default>{{#invoke:Modules|get|{{PAGENAME}}|section=Properties|key=Armor Deflection}}</default>
     </data>
     <data source="energy_efficiency">
       <label>Energy Efficiency</label>
+      <default>{{#invoke:Modules|get|{{PAGENAME}}|section=Properties|key=Energy Efficiency}}</default>
     </data>
     <data source="energy_drain_deflection">
       <label>Energy Drain Deflection</label>
+      <default>{{#invoke:Modules|get|{{PAGENAME}}|section=Properties|key=Energy Drain Deflection}}</default>
     </data>
     <data source="bounty_enhanced">
       <label>Bounty Enhanced</label>
+      <default>{{#invoke:Modules|get|{{PAGENAME}}|section=Properties|key=Bounty Enhanced}}</default>
     </data>
     <data source="experience_enhanced">
       <label>Experience Enhanced</label>
+      <default>{{#invoke:Modules|get|{{PAGENAME}}|section=Properties|key=Experience Enhanced}}</default>
     </data>
     <data source="defensive_merit">
       <label>Defensive Merit</label>
+      <default>{{#invoke:Modules|get|{{PAGENAME}}|section=Properties|key=Defensive Merit}}</default>
     </data>
   </group>
 </infobox>
 </includeonly>
 <noinclude>
-Example usage:
-{{Module
-  | title1=Example
-  | image1=Example.jpg
-  | caption-image1=Example
-  | cost=Example
-  | weight=Example
-  | required_tech_level=Example
-  | utility_module=Example
-  | requirement=Example
-  | energy_use=Example
-  | speed=Example
-  | critical_hit_chance=Example
-  | accuracy=Example
-  | firing_rate=Example
-  | shield_deflection=Example
-  | armor_deflection=Example
-  | energy_efficiency=Example
-  | energy_drain_deflection=Example
-  | bounty_enhanced=Example
-  | experience_enhanced=Example
-  | defensive_merit=Example}}
+== Module Template ==
+
+This template renders an infobox for module pages. It automatically loads data from [[Module:Modules_data]] based on the page name.
+
+=== Automatic Data Loading ===
+
+When used as <code><nowiki>{{Module}}</nowiki></code>, the template automatically queries [[Module:Modules_data]] using <code><nowiki>{{PAGENAME}}</nowiki></code> as the lookup key. No parameters are required on module pages that exist in the data module.
+
+=== Manual Override (Backward Compatible) ===
+
+All parameters can be manually specified to override the automatic data:
+
 <pre>
 {{Module
-  | title1=Example
-  | image1=Example.jpg
-  | caption-image1=Example
-  | cost=Example
-  | weight=Example
-  | required_tech_level=Example
-  | utility_module=Example
-  | requirement=Example
-  | energy_use=Example
-  | speed=Example
-  | critical_hit_chance=Example
-  | accuracy=Example
-  | firing_rate=Example
-  | shield_deflection=Example
-  | armor_deflection=Example
-  | energy_efficiency=Example
-  | energy_drain_deflection=Example
-  | bounty_enhanced=Example
-  | experience_enhanced=Example
-  | defensive_merit=Example}}
+  | title1 = Example
+  | image1 = Example.jpg
+  | caption-image1 = Example
+  | cost = Example
+  | weight = Example
+  | required_tech_level = Example
+  | utility_module = Example
+  | requirement = Example
+  | energy_use = Example
+  | speed = Example
+  | critical_hit_chance = Example
+  | accuracy = Example
+  | firing_rate = Example
+  | shield_deflection = Example
+  | armor_deflection = Example
+  | energy_efficiency = Example
+  | energy_drain_deflection = Example
+  | bounty_enhanced = Example
+  | experience_enhanced = Example
+  | defensive_merit = Example
+}}
 </pre>
+
 <templatedata>
 {
+	"description": "Infobox template for module pages. Automatically loads data from Module:Modules_data based on page name. Manual parameters override automatic data for backward compatibility.",
 	"params": {
 		"title1": {
-			"suggested": true,
-			"type": "wiki-page-name"
+			"label": "Title",
+			"description": "Title of the infobox. Defaults to PAGENAME.",
+			"type": "string",
+			"suggested": true
 		},
 		"image1": {
+			"label": "Image",
+			"description": "Image filename. Automatically loaded from Modules data module, or specify manually to override.",
+			"type": "wiki-file-name",
+			"suggested": true
+		},
+		"caption-image1": {
+			"label": "Image Caption",
+			"type": "string",
 			"suggested": true
 		},
 		"cost": {
+			"label": "Cost",
+			"description": "Cost to purchase. Automatically loaded from Modules data module, or specify manually to override.",
+			"type": "string",
 			"suggested": true
 		},
 		"weight": {
+			"label": "Weight",
+			"description": "Weight value. Automatically loaded from Modules data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		},
 		"required_tech_level": {
+			"label": "Required Tech Level",
+			"description": "Tech level required to use. Automatically loaded from Modules data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		},
 		"utility_module": {
+			"label": "Utility Module",
+			"description": "Module type (Combat/Utility). Automatically loaded from Modules data module, or specify manually to override.",
+			"type": "string",
 			"suggested": true
 		},
 		"requirement": {
+			"label": "Requirement",
+			"description": "Other requirements. Automatically loaded from Modules data module, or specify manually to override.",
+			"type": "string",
 			"suggested": true
 		},
 		"energy_use": {
+			"label": "Energy Use",
+			"description": "Energy consumed. Automatically loaded from Modules data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		},
 		"speed": {
+			"label": "Speed",
+			"description": "Speed bonus. Automatically loaded from Modules data module, or specify manually to override.",
+			"type": "string",
 			"suggested": true
 		},
 		"critical_hit_chance": {
+			"label": "Critical Hit Chance",
+			"description": "Critical hit chance bonus. Automatically loaded from Modules data module, or specify manually to override.",
+			"type": "string",
 			"suggested": true
 		},
 		"accuracy": {
+			"label": "Accuracy",
+			"description": "Accuracy bonus. Automatically loaded from Modules data module, or specify manually to override.",
+			"type": "string",
 			"suggested": true
 		},
 		"firing_rate": {
+			"label": "Firing Rate",
+			"description": "Firing rate bonus. Automatically loaded from Modules data module, or specify manually to override.",
+			"type": "string",
 			"suggested": true
 		},
 		"shield_deflection": {
+			"label": "Shield Deflection",
+			"description": "Shield deflection bonus. Automatically loaded from Modules data module, or specify manually to override.",
+			"type": "string",
 			"suggested": true
 		},
 		"armor_deflection": {
+			"label": "Armor Deflection",
+			"description": "Armor deflection bonus. Automatically loaded from Modules data module, or specify manually to override.",
+			"type": "string",
 			"suggested": true
 		},
 		"energy_efficiency": {
+			"label": "Energy Efficiency",
+			"description": "Energy efficiency bonus. Automatically loaded from Modules data module, or specify manually to override.",
+			"type": "string",
 			"suggested": true
 		},
 		"energy_drain_deflection": {
+			"label": "Energy Drain Deflection",
+			"description": "Energy drain deflection bonus. Automatically loaded from Modules data module, or specify manually to override.",
+			"type": "string",
 			"suggested": true
 		},
 		"bounty_enhanced": {
+			"label": "Bounty Enhanced",
+			"description": "Bounty enhancement bonus. Automatically loaded from Modules data module, or specify manually to override.",
+			"type": "string",
 			"suggested": true
 		},
 		"experience_enhanced": {
+			"label": "Experience Enhanced",
+			"description": "Experience enhancement bonus. Automatically loaded from Modules data module, or specify manually to override.",
+			"type": "string",
 			"suggested": true
 		},
 		"defensive_merit": {
+			"label": "Defensive Merit",
+			"description": "Defensive merit value. Automatically loaded from Modules data module, or specify manually to override.",
+			"type": "number",
 			"suggested": true
 		}
 	},
@@ -174,6 +246,7 @@ Example usage:
 	"paramOrder": [
 		"title1",
 		"image1",
+		"caption-image1",
 		"cost",
 		"weight",
 		"required_tech_level",

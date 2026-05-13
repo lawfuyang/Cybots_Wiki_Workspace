@@ -1,4 +1,4 @@
-{{Module|image1=File:Module3.jpg|cost=150000 credits|weight=80|required_tech_level=70|utility_module=no|requirement=none|energy_use=300|speed=20%|critical_hit_chance=2%|accuracy=20%|firing_rate=20%|shield_deflection=|armor_deflection=5%|energy_efficiency=15%|energy_drain_deflection=|defensive_merit=70000}}
+{{Module}}
 
 == Overview ==
 The Core Overdrive greatly enhances all mechanical system operations.

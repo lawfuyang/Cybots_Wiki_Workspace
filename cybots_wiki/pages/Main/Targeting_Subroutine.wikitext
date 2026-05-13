@@ -1,4 +1,4 @@
-{{Module|image1=File:Module1.jpg|cost=7500 credits|weight=15|required_tech_level=10|utility_module=no|requirement=none|energy_use=30|critical_hit_chance=3%|accuracy=15%|defensive_merit=3000}}
+{{Module}}
 
 == Overview ==
 The Targeting Subroutine enhances a bots offensive ability by increasing accuracy and the chance to inflict critical hits.

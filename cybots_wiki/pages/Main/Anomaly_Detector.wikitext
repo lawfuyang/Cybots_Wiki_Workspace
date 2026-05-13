@@ -1,4 +1,4 @@
-{{Module|image1=File:Module4.jpg|cost=10000 credits|weight=10|required_tech_level=5|utility_module=yes|requirement=none|energy_use=20|defensive_merit=0}}
+{{Module}}
 
 == Overview ==
 The Anomaly Detector is another [[:Category:Modules (Utility)|passive module]]. It allows squads to detect anomalous features in the surrounding terrain such as [[Firewells]] and [[Bases]] with more ease.

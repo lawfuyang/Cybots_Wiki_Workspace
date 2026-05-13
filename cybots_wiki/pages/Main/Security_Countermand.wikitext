@@ -1,4 +1,4 @@
-{{Module|image1=File:Module4.jpg|cost=10000 credits|weight=20|required_tech_level=10|utility_module=yes|requirement=none|energy_use=25|defensive_merit=0}}
+{{Module}}
 
 == Overview ==
 The Security Countermand is a [[:Category:Modules (Utility)|non combat module]] that can be used to override electronic security devices. It is a favorite amongst thieves and special forces.

@@ -1,4 +1,4 @@
-{{Module|image1=File:Module3.jpg|cost=50000 credits|weight=75|required_tech_level=50|utility_module=no|requirement=none|energy_use=50|energy_drain_deflection=30%|defensive_merit=20000}}
+{{Module}}
 
 == Overview ==
 An EM Wave Emitter generate a constant stream of magnetic resonance waves almost completely dispersing any incoming energy drain effects.

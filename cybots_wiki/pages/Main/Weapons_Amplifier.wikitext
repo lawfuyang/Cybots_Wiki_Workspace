@@ -1,4 +1,4 @@
-{{Module|image1=File:Module3.jpg|cost=80000 credits|weight=75|required_tech_level=65|utility_module=no|requirement=none|energy_use=350|speed=|firing_rate=50%|armor_deflection=|defensive_merit=40000}}
+{{Module}}
 
 == Overview ==
 The Weapons Amplifier takes over firing control of all weapons and pushes them to their limit. With the powerful effects of this module come the risks of core overheat and weapons malfunction.

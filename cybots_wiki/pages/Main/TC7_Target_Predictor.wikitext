@@ -1,4 +1,4 @@
-{{Module|image1=File:Module2.jpg|cost=25000 credits|weight=35|required_tech_level=30|utility_module=no|requirement=none|energy_use=75|critical_hit_chance=5%|accuracy=30%|defensive_merit=10000}}
+{{Module}}
 
 == Overview ==
 This module enhances accuracy to a certain degree through the use of a three dimensional prediction grid. Known weak areas on targets are also exploited with this device, giving a higher chance to cause a critical hit.

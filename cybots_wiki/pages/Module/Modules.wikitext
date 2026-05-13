@@ -15,6 +15,7 @@ function p.get(frame)
     if prop and (prop == 'image' or prop == 'image1' or prop == 'file') then
         local filename = entry.image1 or entry.image
         if not filename then return '' end
+        if args.raw then return tostring(filename) end
         local size = args.size or args.imageSize or '60px'
         return '[[File:' .. tostring(filename) .. '|' .. tostring(size) .. ']]'
     end
@@ -30,7 +31,7 @@ end
 
 function p.generateTable(frame)
     local data = DATA or helper.loadData('Module:Modules/data', 'Module:Modules_data')
-    
+
     local cols = {
         { title = 'Image', section = nil, key = 'image' },
         { title = 'Name', section = nil, key = 'name' },
@@ -52,13 +53,8 @@ function p.generateTable(frame)
         { title = 'Experience Enhanced', section = 'Properties', key = 'Experience Enhanced' },
         { title = 'Defensive Merit', section = 'Properties', key = 'Defensive Merit' },
     }
-    
-    return helper.generateTable(data, 'Module', cols, 'Could not load data module. Check Module:Modules/data or Module:Modules_data exists.')
-end
 
-function p.testData(frame)
-    local data = DATA or helper.loadData('Module:Modules/data', 'Module:Modules_data')
-    return helper.testData(data, 'Module:Modules/data')
+    return helper.generateTable(data, 'Module', cols, 'Could not load data module. Check Module:Modules/data or Module:Modules_data exists.')
 end
 
 return p
