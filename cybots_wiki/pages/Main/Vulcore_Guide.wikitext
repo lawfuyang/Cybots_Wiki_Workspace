@@ -56,7 +56,7 @@ When a Controller withdraws from a battle, it costs '''KCharge'''. The cost of w
 
 '''Key notes:'''
 * Withdraw from Watchtowers or easy battles — not from dangerous squads
-* When fighting normal squads for Withdraw training: kill dangerous units (Knights, Champions), then withdraw all except one bot (e.g., [[Overseer|Zodiac]]), then withdraw the last bot too
+* When fighting normal squads for Withdraw training: kill dangerous units (Knights, Champions), then withdraw all except one bot (e.g., [[Zodiac]]), then withdraw the last bot too
 
 === Withdraw in Combat ===
 During combat, the '''Withdraw''' option removes a bot from the battle. Strategic use:
@@ -174,7 +174,7 @@ Leave patrol when you have ~47 spare Mercreds and ~485k–500k cash.
 |-
 | Mercreds (spare) || 55
 |-
-| Cash || 1,400,000
+| Cash || 1,200,000–1,400,000
 |-
 | Technology || Bulwark Tech
 |-
@@ -194,11 +194,11 @@ Leave patrol when you have ~47 spare Mercreds and ~485k–500k cash.
 # Avoid normal patrols unless you have 3× EXP or more (need many Crowns)
 # '''Demand tribute from Scaven Farms/Workers then kill them''' → −7 alignment each
 # Withdraw from 4–5 teams before fighting Matriarchs (to be safe)
-# When fighting normal squads: kill dangerous units (Knights, Champions), then withdraw all except Zodiac, then withdraw Zodiac too
+# When fighting normal squads: kill dangerous units (Knights, Champions), then withdraw all except [[Zodiac]], then withdraw Zodiac too
 # Matriarchs now have 200 HP — can be defeated; withdraw if Deflector Coil shield not drained by first turn
 # When Reapers are Level 6 with 20k XP until Level 7, and you have 28 Crowns (enough for 275 Mercreds): deliver Crowns
 # Buy '''Storm Shield''' at Outpost; re-enter Scaven for new mercs; train Withdraw; leave
-# Get Greed from Fallen; farm Tag Droids and Azra to 1.4M cash
+# Get Greed from Fallen; farm Tag Droids and Azra to 1.2–1.4M cash
 # Enter Plateaus when not under Greed; hunt Bulwark squads (need 10 defeats for Bul Tech)
 # In Plateau: do Mining Bases and Renegade Bases — consoles contain Bul segments
 # If Greed runs out at 750k+ cash and no new Greed available: do Azra before Plateaus in Lava Fields
@@ -214,7 +214,7 @@ Leave patrol when you have ~47 spare Mercreds and ~485k–500k cash.
 | text   = Some strategies skip [[Bulwark Technology]] entirely. This saves KC and time but means you enter Patrol 3. If you're comfortable with your [[Reaper]] squad's strength, skipping Bul Tech is a valid choice.
 }}
 ==== End of Patrol 2 ====
-Leave with Bulwark Tech and 1.4M cash.
+Leave with Bulwark Tech and 1.2–1.4M cash.
 
 ---
 
@@ -254,11 +254,11 @@ Upgrade Bulwark: 26 Weapon Tech
 |-
 | Reactor || Ion V2
 |-
-| Module || T-Sub
+| Module || [[Targeting Subroutine]]
 |-
 | Shield || Storm Shield
 |-
-| Module || Comm Wave Scanner
+| Module || [[ComWave Scanner]]
 |}
 Upgrade Overseer: 5 Reactor Tech, 17 Module Tech
 
@@ -274,7 +274,7 @@ Upgrade Overseer: 5 Reactor Tech, 17 Module Tech
 |-
 | Weapon || Pulse Beam (equip FIRST — uses least energy)
 |-
-| Weapon || Syphon Disrupter
+| Weapon || [[Syphonic Disruptor]]
 |-
 | Shield (×2) || Baron Shield
 |-
@@ -290,11 +290,11 @@ Upgrade Overseer: 5 Reactor Tech, 17 Module Tech
 |-
 | Mercreds (spare) || 55
 |-
-| Cash || 4,500,000–5,000,000
+| Cash || 4,200,000–4,800,000
 |-
 | Technology || Magma Tech (semi-optional)
 |-
-| Alignment || −100 minimum (for next patrol)
+| Alignment || −100 minimum; aim for −175 (two Fallen runs)
 |}
 
 ==== Strategy ====
@@ -313,10 +313,10 @@ Upgrade Overseer: 5 Reactor Tech, 17 Module Tech
 # '''Must have −100 alignment spare after this patrol''' — don't take too many Fallen coords (each costs 10 alignment)
 # In Lava Fields: kill Phoenix squads for Magma segments; leave when Azra is done (with or without Greed)
 # Don't break a leg getting Magma Tech — it's semi-optional
-# Leave patrol when you have Magma Tech (if possible) and 4.5–5M cash
+# Leave patrol when you have Magma Tech (if possible) and 4.2–4.8M cash
 
 ==== End of Patrol 3 ====
-Leave with 4.5M+ cash, Reapers Level 9+, −100 alignment spare, and Magma Tech if possible.
+Leave with 4.2–4.8M cash, Reapers Level 9+, −100 alignment spare (ideally −175 after two Fallen runs), and Magma Tech if possible.
 
 ---
 
@@ -547,7 +547,7 @@ Replace one Reaper with Crusader; replace one Reaper with Cysentinel.
 |-
 | Weapon || Shatter Cannon
 |-
-| Shield (×2) || T-Sub
+| Shield (×2) || [[Targeting Subroutine]]
 |-
 | Shield (×2) || Baron Reflective Shield
 |}
@@ -600,7 +600,7 @@ Replace one Reaper with Crusader; replace one Reaper with Cysentinel.
 |-
 | Shield || Storm Shield
 |-
-| Module || Comm Wave Scanner
+| Module || [[ComWave Scanner]]
 |-
 | Weapon || Magnetic Actuator
 |}
