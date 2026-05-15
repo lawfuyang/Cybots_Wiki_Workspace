@@ -9,11 +9,6 @@ The Outlands consist of all of the PVE areas the [[Controller]] can patrol in th
 === [[CCU Training Deck]] ===
 The Cybot Controllers Union ARTIC-2 training facility is the most advanced holoreality instructional complex available. Use the facilities to take a new bot through early trial combat without the risk of permanent armor damage. You will also be able to undertake a series of optional instructional courses to improve your combat control skills.
 |-
-|[[File:Vincenttest.jpg|center|frameless|link=Vicent Test]]
-|
-=== [[Vincent Test]] ===
-Test Vincent.
-|-
 |[[File:Personalsquadviewer.jpg|center|frameless|link=Personal Squad Viewer]]
 |
 === [[Personal Squad Viewer]] ===
