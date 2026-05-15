@@ -345,4 +345,61 @@ return {
             },
         },
     },
+    {
+        title = "Shield Vest",
+        url = "https://cybots.fandom.com/wiki/Shield_Vest",
+        image1 = "vest1.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = nil,
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 200,
+                ["Energy Use"] = 10,
+                ["Recharge Rate"] = 20,
+                ["Defensive Merit"] = 5000,
+            },
+        },
+    },
+    {
+        title = "Heavy Shield Vest",
+        url = "https://cybots.fandom.com/wiki/Heavy_Shield_Vest",
+        image1 = "vest1.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = nil,
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 400,
+                ["Energy Use"] = 10,
+                ["Recharge Rate"] = 20,
+                ["Defensive Merit"] = 10000,
+            },
+        },
+    },
+    {
+        title = "True Guard Shield Vest",
+        url = "https://cybots.fandom.com/wiki/True_Guard_Shield_Vest",
+        image1 = "vest2.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = nil,
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 800,
+                ["Energy Use"] = 20,
+                ["Recharge Rate"] = 250,
+                ["Defensive Merit"] = 20000,
+            },
+        },
+    },
 }

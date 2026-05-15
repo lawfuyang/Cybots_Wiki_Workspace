@@ -19,7 +19,7 @@ return {
                 ["Weapon Slots"] = 4,
                 ["Module Slots"] = 2,
                 ["Shield Slots"] = 2,
-                ["ReacWtor Slots"] = 1,
+                ["Reactor Slots"] = 1,
             },
             ["Starting Tech Levels"] = {
                 ["Weapon Tech"] = 21,

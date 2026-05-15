@@ -143,8 +143,8 @@ return {
         modules = {},
     },
     {
-        title = "Scaen Grenadiers",
-        url = url("Scaen_Grenadiers"),
+        title = "Scaven Grenadiers",
+        url = url("Scaven_Grenadiers"),
         chassis = { name = "Scaven Gang", url = url("Scaven_Gang") },
         reactor = nil,
         shields = {},

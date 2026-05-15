@@ -580,6 +580,24 @@ return {
         },
     },
     {
+        title = "1000rc Powerplant",
+        url = "https://cybots.fandom.com/wiki/1000rc_Powerplant",
+        image1 = nil,
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = nil,
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 20000,
+                ["Recharge Rate"] = 1000,
+                ["Defensive Merit"] = 25000,
+            },
+        },
+    },
+    {
         title = "Disabled Reactor",
         url = "https://cybots.fandom.com/wiki/Disabled_Reactor",
         image1 = nil,
