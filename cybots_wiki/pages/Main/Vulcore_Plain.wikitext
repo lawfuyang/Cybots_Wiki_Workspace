@@ -1,9 +1,17 @@
-[[File:Vulcoreplain.jpg|center|frameless|800px]]
+[[File:Vulcoreplain.jpg|center|frameless|1200px]]
 
 == Overview ==
 The '''Vulcore Plain''' (also referred to simply as '''Vulcore''') is the primary patrol zone for [[Controller|Controllers]] in the early-to-mid game. Once the site of the now-infamous "Magma" weapons testing range, the Vulcore Plain is two million square miles of some of the most hazardous terrain on earth. The test complex lies somewhere in the centre of the massive, and now constantly active volcanic field. Dangers such as energy storms, military test mines, and magma geysers are commonly encountered. Both the isolation and hazardous terrain make Vulcore a popular location for renegade squads and, in more recent times, gangs of [[Scaven]] hunters.
 
 Vulcore is the first major outland zone available to Controllers and serves as the primary source of [[Mercreds]], [[Crowns]], [[Technology]] segments, and early [[Battle Merit]].
+
+<gallery widths="160" heights="120">
+File:Vulcoreplain.jpg|The Vulcore Plain
+File:Scavenboss.jpg|[[Scaven Boss]] — Scaven merc commander
+File:Bulwark.jpg|[[Bulwark]] chassis — unlocked via Bulwark Technology
+File:Crusader.jpg|[[Crusader]] chassis — unlocked via Crusader Technology
+File:Terminus.jpg|[[Terminus]] — the most feared bot in Vulcore
+</gallery>
 
 == Theme ==
 Vulcore is a volcanic wasteland environment defined by:
@@ -30,7 +38,7 @@ The open patrol area of Vulcore. Contains the majority of standard enemy encount
 * '''Renegade Workshops''' — Can be attacked directly or by luring sentries out first.
 * '''Farms''' — Scaven worker farms. Can demand tribute, attack workers (gains negative alignment), or leave.
 * '''Distress Calls''' — Trapped squads that can be freed (gains positive alignment) or destroyed.
-* '''Tag Droids''' — Fast Orbiter-chassis enemies carrying a [[Credit Bank]] module. Intercepting and defeating them yields bonus credits. A primary source of cash on patrol.
+* '''[[Tag Droid|Tag Droids]]''' — Fast [[Orbiter]]-chassis enemies carrying a [[Credit Bank]] module. Intercepting and defeating them yields bonus credits. A primary source of cash on patrol.
 * '''Consoles''' — Can be opened for rewards, but opening them can replace an active cash multiplier (Greed/Enrichment) with a standard 10x multiplier — avoid if you have Greed/Enrichment active.
 
 === Scaven Territory ===
@@ -43,10 +51,21 @@ A distinct sub-zone entered from the main Vulcore plain via Scaven Totems. Scave
 ** Upon completion, the Scaven may repair one bot (Ion Bath) and offer: Scaven Mercs, XP multiplier, Coordinates, or buy positive alignment (very expensive).
 * '''Scaven Burial Mounds''' — Can be investigated. May contain Crowns or Construction Notes (CN), but looting them grants negative alignment.
 * '''Scaven Forts''' — Fortified Scaven positions. Attacking them risks encountering [[Malevolent Matriarch|Malevolent Matriarchs]] at higher BM.
-* '''Scaven Ziggurat''' — A massive ancient structure. Requires all four [[Runes]] equipped on squad bots to open. Rewards the unique [[SxD8]] shield (once per reset).
+* '''[[Scaven Ziggurat]]''' — A massive ancient structure. Requires all four [[Runes]] equipped on squad bots to open. Rewards the unique [[SxD8]] shield (once per reset).
 * '''Sun Ritual''' — A special event in Scaven Territory (also found on the plain). Scaven Matriarchs perform a ritual around a glowing rune stone. Defeating them yields the [[Sun Rune]] and 4 Crowns. Best attempted at low BM to face only 1 Matriarch.
 * '''Ice Queen''' — A special Matriarch variant found in Scaven Settlements highlighted in blue by an [[Anomaly Detector]]. Defeating her yields the [[Ice Rune]] and 1 Crown. Has 200 armour. Can only be fought once.
 * '''Scaven Mercs''' — Hired by completing a Scaven mission. Follow the squad everywhere in Vulcore but prevent entry to Mercenary Outposts (must be dropped first). Can be taken out of Scaven Territory, making the squad very powerful in normal Vulcore. Attacking multiple settlements turns them hostile until you return to your workshop.
+
+<gallery widths="160" heights="120">
+File:Scavenboss.jpg|[[Scaven Boss]]
+File:Scavengrenadiers.jpg|[[Scaven Grenadiers]]
+File:Scavenshielders.jpg|[[Scaven Shielders]]
+File:Icyrune.jpg|[[Ice Rune]]
+File:Solarrune.jpg|[[Sun Rune]]
+File:Lunarrune.jpg|[[Moon Rune]]
+File:Fieryrune.jpg|[[Fire Rune]]
+File:Sxd8.jpg|[[SxD8]] shield
+</gallery>
 
 '''Important:''' Scaven mercs provide the squad with significant bonuses to speed, fire rate, accuracy, and a small amount of shielding/deflection via the Scaven Boss unit.
 
@@ -54,14 +73,14 @@ A distinct sub-zone entered from the main Vulcore plain via Scaven Totems. Scave
 A dangerous sub-zone accessible from the main Vulcore plain. The Lava Fields are the location of [[Azra's Arena]] and [[Fallen]] encounters.
 
 '''Key features:'''
-* '''Azra's Arena''' — A tournament found within the Lava Fields. Offers two options:
-** '''To the Tournament''' — 6 rounds of increasingly difficult combat. Winning yields significant cash prizes. Only one Azra tournament per Lava Field visit — leave immediately after winning if farming cash.
-** '''Master Controllers''' — A special high-difficulty battle against the [[Master Controllers]] squad. Defeating them rewards a unique CyBot (CySeer or CySentinel). Requires significant preparation (see [[Master Controllers]] section).
-* '''Fallen Encounter''' — A random encounter in the Lava Fields (requires negative alignment). The Fallen offer:
-** '''Greed''' — 10x cash multiplier. Costs 20 Mercreds and alignment. Equivalent to Enrichment for negative-align players.
+* '''[[Azra's Arena]]''' — A tournament found within the Lava Fields. Offers two options:
+** '''To the Tournament''' — 6 rounds of increasingly difficult combat. Winning yields cash prizes scaled to the player's squad BM. Only one Azra tournament per Lava Field visit — leave immediately after winning if farming cash.
+** '''[[Master Controllers]]''' — A special high-difficulty battle against the Master Controllers squad. Defeating them rewards a unique CyBot ([[CySeer]] or [[CySentinel]]). Requires significant preparation (see [[Master Controllers]] section).
+* '''[[Fallen]] Encounter''' — A random encounter in the Lava Fields (requires negative alignment). The Fallen offer:
+** '''[[Greed]]''' — 10x cash multiplier. Costs 20 Mercreds and alignment. Equivalent to Enrichment for negative-align players.
 ** '''Coords - Azra''' — Coordinates to Azra's Arena (bypasses searching).
-** '''Imps''' — 3 Orbiter-chassis bots with 3x TC7 Target Predictor and Baron Battery each. Fast, high critical hit chance, but defensively weak.
-** '''Dark Union''' — 2 Demon (Bulwark), 2 Fiend (Overseer), and either 1 Baal or 1 Beelzebub (Leviathan) join the squad. Grants +180% fire rate, 12% critical hit chance, and ~1000 projected shield. Comes with a curse: every step without fighting or finding something drains cash and XP, growing with each step.
+** '''Imps''' — 3 [[Orbiter]]-chassis bots with 3x [[TC7 Target Predictor]] and [[Baron Battery]] each. Fast, high critical hit chance, but defensively weak.
+** '''Dark Union''' — 2 Demon ([[Bulwark]]), 2 Fiend ([[Overseer]]), and either 1 Baal or 1 Beelzebub ([[Leviathan]]) join the squad. Grants +180% fire rate, 12% critical hit chance, and ~1000 projected shield. Comes with a curse: every step without fighting or finding something drains cash and XP, growing with each step.
 * '''Lava Damage''' — Moving through certain areas of the Lava Fields can cause damage to the squad.
 * '''Firewells''' — Found in the Lava Fields (and occasionally elsewhere). Can be activated for rewards including database access, AI boosts, and rune discovery. Activating an unstable Firewell is risky. Requires an [[Orbiter]] to safely use the access shaft. The [[Fire Rune]] can be found in Firewells (and Magma Labs).
 
@@ -93,45 +112,51 @@ A high-danger sub-zone that becomes accessible after defeating the [[Master Cont
 === Scaven ===
 An insectoid/tribal faction native to Vulcore. The Scaven are the most numerous faction on the plain and range from weak militia to powerful matriarchs and fortified armies.
 
+<gallery widths="120" heights="100">
+File:Scavengrenadiers.jpg|[[Scaven Grenadiers]]
+File:Scavenshielders.jpg|[[Scaven Shielders]]
+File:Scavenboss.jpg|[[Scaven Boss]]
+</gallery>
+
 '''Unit types encountered:'''
 {| class="fandom-table"
 ! Unit !! Chassis !! Notes
 |-
-| Scaven Militia || Scaven Gang || Sub-Machine Gun, Pistol
+| [[Scaven Militia]] || Scaven Gang || [[Sub-Machine Gun]], [[Pistol]]
 |-
-| Scaven Bandits || Scaven Gang || Sub-Machine Gun x2, Hand Grenades
+| [[Scaven Bandits]] || Scaven Gang || [[Sub-Machine Gun]] x2, [[Hand Grenades]]
 |-
-| Scaven Grenadiers || Scaven Gang || Hand Grenades x2, Sub-Machine Gun
+| [[Scaven Grenadiers]] || Scaven Gang || [[Hand Grenades]] x2, [[Sub-Machine Gun]]
 |-
-| Scaven Partisans || Scaven Gang || Assault Rifle, Sub-Machine Gun x2
+| [[Scaven Partisans]] || Scaven Gang || [[Assault Rifle]], [[Sub-Machine Gun]] x2
 |-
-| Scaven Fighters || Scaven Gang || Hand Grenades, Assault Rifle x2
+| [[Scaven Fighters]] || Scaven Gang || [[Hand Grenades]], [[Assault Rifle]] x2
 |-
-| Scaven Shielders || Scaven Shielders || Baron Shield x2, Pistol x2; Power Cell reactor
+| [[Scaven Shielders]] || Scaven Shielders || [[Baron (Shield)|Baron]] x2, [[Pistol]] x2; Power Cell reactor
 |-
-| Scaven Heavy Shield || Scaven Shielders || Photonic SV x2, Sub-Machine Gun x2; Energy Cell reactor
+| [[Scaven Heavy Shield]] || Scaven Shielders || [[Photonic SV]] x2, [[Sub-Machine Gun]] x2; Energy Cell reactor
 |-
-| Scaven Shield Matrix || Scaven Shielders || Argon x2, Assault Rifle x2; Ultra Energy Cell reactor
+| [[Scaven Shield Matrix]] || Scaven Shielders || [[Argon (Shield)|Argon]] x2, [[Assault Rifle]] x2; Ultra Energy Cell reactor
 |-
-| Scaven Warriors || Scaven Strike Gang || Hand Grenades, Sub-Machine Gun, Assault Rifle, Anti-Bot Rockets x3
+| [[Scaven Warriors]] || Scaven Strike Gang || [[Hand Grenades]], [[Sub-Machine Gun]], [[Assault Rifle]], Anti-Bot Rockets x3
 |-
-| Scaven Champions || Scaven Strike Gang || Anti-Bot Rocket x5, Sub-Machine Gun
+| [[Scaven Champions]] || Scaven Strike Gang || Anti-Bot Rocket x5, [[Sub-Machine Gun]]
 |-
-| Scaven Knights || Scaven Strike Gang || Anti-Bot Rocket x3, Assault Rifle x3
+| [[Scaven Knights]] || Scaven Strike Gang || Anti-Bot Rocket x3, [[Assault Rifle]] x3
 |-
-| Scaven Assault Squad || Scaven Strike Gang || Rocket Launcher x3, Assault Rifle x3
+| [[Scaven Assault Squad]] || Scaven Strike Gang || Rocket Launcher x3, [[Assault Rifle]] x3
 |-
-| Scaven Boss || Scaven Commander || Pistol; Inspiration module (squad buff: speed, fire rate, accuracy)
+| [[Scaven Boss]] || Scaven Commander || [[Pistol]]; [[Inspiration]] module (squad buff: speed, fire rate, accuracy)
 |-
-| Scaven Warlord || Scaven Commander || Pistol; Leadership module
+| [[Scaven Warlord]] || Scaven Commander || [[Pistol]]; Leadership module
 |-
-| Matriarch || Scaven Queen || Pandora Box; Inspiration module
+| [[Matriarch]] || Scaven Queen || Pandora Box; [[Inspiration]] module
 |-
-| Dynast Matriarch || Scaven Queen || Pandora Box; Leadership module
+| [[Dynast Matriarch]] || Scaven Queen || Pandora Box; Leadership module
 |-
-| Malevolent Matriarch || Scaven Queen || Pandora Box x2; Tactical Genius module. Extremely dangerous.
+| [[Malevolent Matriarch]] || Scaven Queen || Pandora Box x2; Tactical Genius module. Extremely dangerous.
 |-
-| Fort Wall || Scaven Fortification || Light Wall Effect module; no weapons
+| [[Fort Wall]] || Scaven Fortification || Light Wall Effect module; no weapons
 |}
 
 '''Scaven Defences:'''
@@ -141,14 +166,14 @@ An insectoid/tribal faction native to Vulcore. The Scaven are the most numerous 
 A rogue bot faction operating across Vulcore. Renegades occupy bases, workshops, and uplink installations. They use blast walls and standard bot chassis.
 
 '''Notable Renegade units:'''
-* '''Perimeter Wall''' — Renegade Wall chassis with Light Wall Effect.
-* '''Base Wall''' — Renegade Wall chassis with Light Wall Effect and BM Adjustment.
-* '''Siege Wall''' — Renegade Blast Wall chassis with Quad Argon Lasers, Light Wall Effect, and BM Adjustment x2. Armed and dangerous.
-* '''Uplink Controller''' — Uplink Controller chassis with Bio-Nuclear reactor, Deflection Grid, Mechanical Obviator, and Weapons Amplifier modules.
-* '''BASE LORD''' — Leviathan chassis with Tribolt Hydron reactor, Argon x2 shields, EM Syphon x2, Shield Disrupter x2, Baron Laser x2, Baron Battery x2, EM Pulse Emitter, Flux Channel. The Renegade Base Commander (RBC). Defeating it yields Technology segments and significant rewards.
-* '''BATTLE LORD''' — Leviathan chassis with Tribolt Hydron reactor, Argon Web x2 shields, Heavy Shield Disruptor x2, Fire Blade x2, Pulse Beam x2, Good Samaritan, Heavy Shield Displacer, EM Wave Emitter, Flux Channel.
-* '''DREAD LORD''' — Leviathan chassis with Tribolt Hydron reactor, Argon Web x2 shields, Shield Neutraliser x2, Syphon MKII, Pulse Streamer, HR100 Rocket Pack x2, Baron Battery x2, Deflection Grid, EM Wave Emitter.
-* '''EMPEROR LORD''' — Leviathan chassis with Tribolt Hydron reactor, Argon Web x2 shields, Pulse Streamer x3, HR X Rocket Pack x5.
+* '''[[Perimeter Wall]]''' — Renegade Wall chassis with Light Wall Effect.
+* '''[[Base Wall]]''' — Renegade Wall chassis with Light Wall Effect and BM Adjustment.
+* '''[[Siege Wall]]''' — Renegade Blast Wall chassis with [[Quad Argon Lasers]], Light Wall Effect, and BM Adjustment x2. Armed and dangerous.
+* '''[[Uplink Controller]]''' — Uplink Controller chassis with [[Bio-Nuclear]] reactor, [[Deflection Grid]], [[Mechanical Obviator]], and [[Weapons Amplifier]] modules.
+* '''[[BASE LORD]]''' — [[Leviathan]] chassis with [[Tribolt Hydron]] reactor, [[Argon (Shield)|Argon]] x2 shields, [[EM Syphon]] x2, [[Shield Disruptor|Shield Disrupter]] x2, [[Baron Laser]] x2, [[Baron Battery]] x2, [[EM Pulse Emitter]], [[Flux Channel]]. The Renegade Base Commander (RBC). Defeating it yields Technology segments and significant rewards.
+* '''[[BATTLE LORD]]''' — [[Leviathan]] chassis with [[Tribolt Hydron]] reactor, [[Argon Web]] x2 shields, [[Heavy Shield Disruptor]] x2, [[Fire Blade]] x2, [[Pulse Beam]] x2, [[Good Samaritan]], [[Heavy Shield Displacer]], [[EM Wave Emitter]], [[Flux Channel]].
+* '''[[DREAD LORD]]''' — [[Leviathan]] chassis with [[Tribolt Hydron]] reactor, [[Argon Web]] x2 shields, [[Shield Neutraliser]] x2, [[Syphon MKII]], [[Pulse Streamer]], [[HR100 Rocket Pack]] x2, [[Baron Battery]] x2, [[Deflection Grid]], [[EM Wave Emitter]].
+* '''[[EMPEROR LORD]]''' — [[Leviathan]] chassis with [[Tribolt Hydron]] reactor, [[Argon Web]] x2 shields, [[Pulse Streamer]] x3, [[HR X Rocket Pack]] x5.
 
 === Fallen ===
 A mysterious and malevolent faction encountered in the Lava Fields. The Fallen are arch-enemies of the Angels and offer powerful (but costly) gifts to Controllers with negative alignment.
@@ -163,15 +188,15 @@ A mysterious and malevolent faction encountered in the Lava Fields. The Fallen a
 {| class="fandom-table"
 ! Unit !! Chassis !! HP !! Key Weapons !! Notes
 |-
-| Imp || Orbiter || 325 || Baron Battery || 3x TC7 Target Predictor; Bio-Nuclear reactor; no shields
+| [[Imp]] || [[Orbiter]] || 325 || [[Baron Battery]] || 3x [[TC7 Target Predictor]]; [[Bio-Nuclear]] reactor; no shields
 |-
-| Demon || Bulwark || 1200 || Heavy Shield Displacer, Shatter Cannon, Fire Blade x2 || Tribolt Hydron; Baron II x2; Weapons Amplifier, Core Overdrive
+| [[Demon]] || [[Bulwark]] || 1200 || [[Heavy Shield Displacer]], [[Shatter Cannon]], [[Fire Blade]] x2 || [[Tribolt Hydron]]; [[Baron II]] x2; [[Weapons Amplifier]], [[Core Overdrive]]
 |-
-| Fiend || Overseer || 350 || Baron Laser || Tribolt Hydron; Baron shield; Master Fire Director, Flux Channel, Weapons Amplifier
+| [[Fiend]] || [[Overseer]] || 350 || [[Baron Laser]] || [[Tribolt Hydron]]; [[Baron (Shield)|Baron]] shield; [[Master Fire Director]], [[Flux Channel]], [[Weapons Amplifier]]
 |-
-| Baal || Leviathan || 3000 || Heavy Shield Disruptor x2, Baron Laser x2, Avenger, 20mm Auto Cannon, Syphon Elite x2 || Tribolt Hydron; Argon x2; EM Pulse Emitter x2
+| [[Baal]] || [[Leviathan]] || 3000 || [[Heavy Shield Disruptor]] x2, [[Baron Laser]] x2, [[Avenger]], [[20mm Auto Cannon]], [[Syphon Elite]] x2 || [[Tribolt Hydron]]; [[Argon (Shield)|Argon]] x2; [[EM Pulse Emitter]] x2
 |-
-| Beelzebub || Leviathan || 3500 || Heavy Shield Displacer x2, Shatter Cannon x4, Syphon MKII, LR100 Rocket Pack || Bio-Nuclear; Argon Web x2; Flux Channel x2
+| [[Beelzebub]] || [[Leviathan]] || 3500 || [[Heavy Shield Displacer]] x2, [[Shatter Cannon]] x4, [[Syphon MKII]], [[LR100 Rocket Pack]] || [[Bio-Nuclear]]; [[Argon Web]] x2; [[Flux Channel]] x2
 |}
 
 '''Alignment requirement:''' The Fallen appear only to Controllers with negative alignment. The options available depend on alignment level:
@@ -192,9 +217,9 @@ A mysterious benevolent faction encountered in the Lava Fields. The Angels are a
 {| class="fandom-table"
 ! Unit !! Chassis !! HP !! Key Weapons !! Notes
 |-
-| Angel || Sentinel || 450 || Pulse Beam || Tribolt Hydron; Argon Web x1; Projected Shield 4500
+| [[Angel]] || [[Sentinel]] || 450 || [[Pulse Beam]] || [[Tribolt Hydron]]; [[Argon Web]] x1; Projected Shield 4500
 |-
-| Arch Angel || Bulwark || — || Thermal Dawn, HR100 Rocket Pack, Baron Battery || Magmatic reactor; Argon + Argon Array; Titan Deflector x2
+| [[Arch Angel]] || [[Bulwark]] || — || [[Thermal Dawn]], [[HR100 Rocket Pack]], [[Baron Battery]] || [[Magmatic]] reactor; [[Argon (Shield)|Argon]] + [[Argon Array]]; [[Titan Deflector]] x2
 |}
 
 '''Alignment requirement:'''
@@ -216,50 +241,63 @@ A mysterious benevolent faction encountered in the Lava Fields. The Angels are a
 === Magma Enemies ===
 Magma-type enemies are found primarily in the Sulphur Fields and Canyons. They use fire-based weapons ([[Magma Cannon]], [[Phoenix Laser]], [[Morning Star]]) and drop [[Magma Technology]] segments.
 
+<gallery widths="120" heights="100">
+File:Magmacannon.jpg|[[Magma Cannon]]
+File:Phoenixlaser.jpg|[[Phoenix Laser]]
+File:Morningstar.jpg|[[Morning Star]]
+</gallery>
+
 {| class="fandom-table"
 ! Unit !! Chassis !! Key Weapons !! Notes
 |-
-| Flamer || Reaper || Magma Cannon x2 || Magmatic reactor; Photonic Sphere shield
+| [[Flamer]] || [[Reaper]] || [[Magma Cannon]] x2 || [[Magmatic]] reactor; [[Photonic Sphere]] shield
 |-
-| Fire Streaker || Valadin XR || Phoenix Laser x2 || Magmatic Pyroclast reactor; Photonic + Baron II shields
+| [[Fire Streaker]] || Valadin XR || [[Phoenix Laser]] x2 || [[Magmatic Pyroclast]] reactor; [[Photonic]] + [[Baron II]] shields
 |-
-| Ash || Bulwark || Magma Cannon x2 || Magmatic reactor; Photonic x2 shields
+| [[Ash]] || [[Bulwark]] || [[Magma Cannon]] x2 || [[Magmatic]] reactor; [[Photonic]] x2 shields
 |-
-| Blazer || Sentinel || Magma Cannon, Phoenix Laser || Magmatic Pyroclast reactor; Photonic Sphere x3 shields
+| [[Blazer]] || [[Sentinel]] || [[Magma Cannon]], [[Phoenix Laser]] || [[Magmatic Pyroclast]] reactor; [[Photonic Sphere]] x3 shields
 |-
-| Fire Scorchio || Overseer || Morning Star || Magmatic reactor; Argon 400 shield; Flux Channel, Titan Deflector, Magnetic Actuator
+| [[Fire Scorchio]] || [[Overseer]] || [[Morning Star]] || [[Magmatic]] reactor; [[Argon 400]] shield; [[Flux Channel]], [[Titan Deflector]], [[Magnetic Actuator]]
 |-
-| Combustus || Bulwark || Morning Star, Magma Cannon, Phoenix Laser || Magmatic Pyroclast reactor; Argon Web shield
+| [[Combustus]] || [[Bulwark]] || [[Morning Star]], [[Magma Cannon]], [[Phoenix Laser]] || [[Magmatic Pyroclast]] reactor; [[Argon Web]] shield
 |-
-| Inferno || Marauder || Magma Cannon x2, Phoenix Laser, Morning Star || Magmatic Pyroclast reactor; no shields
+| [[Inferno]] || [[Marauder]] || [[Magma Cannon]] x2, [[Phoenix Laser]], [[Morning Star]] || [[Magmatic Pyroclast]] reactor; no shields
 |-
-| Fire Crawler || Sentinel || Morning Star, Phoenix Laser || Magmatic Pyroclast reactor; Argon Web x3 shields; Titan Deflector
+| [[Fire Crawler]] || [[Sentinel]] || [[Morning Star]], [[Phoenix Laser]] || [[Magmatic Pyroclast]] reactor; [[Argon Web]] x3 shields; [[Titan Deflector]]
 |-
-| Flamberge || Bulwark || Morning Star x2, Magma Cannon || Tribolt Hydron reactor; Argon Web x2 shields; Core Overdrive
+| [[Flamberge]] || [[Bulwark]] || [[Morning Star]] x2, [[Magma Cannon]] || [[Tribolt Hydron]] reactor; [[Argon Web]] x2 shields; [[Core Overdrive]]
 |-
-| Lord Magmas || Leviathan || Morning Star x8 || Magmatic Pyroclast reactor; Argon Web x2 shields; EM Repulsor Field x2. Drops Magma + Bulwark tech segments.
+| [[Lord Magmas]] || [[Leviathan]] || [[Morning Star]] x8 || [[Magmatic Pyroclast]] reactor; [[Argon Web]] x2 shields; EM Repulsor Field x2. Drops Magma + Bulwark tech segments.
 |-
-| Fire Lord || Leviathan || Magma Cannon x4, Phoenix Laser x4 || Magmatic Pyroclast reactor; Argon Web x2 shields; EM Wave Emitter, Flux Channel
+| [[Fire Lord]] || [[Leviathan]] || [[Magma Cannon]] x4, [[Phoenix Laser]] x4 || [[Magmatic Pyroclast]] reactor; [[Argon Web]] x2 shields; [[EM Wave Emitter]], [[Flux Channel]]
 |}
 
 === Crusader-Type Enemies ===
 Found in the Sulphur Fields. Use Crusader chassis with high shields and powerful weapons.
 
+<gallery widths="120" heights="100">
+File:Crusader.jpg|[[Crusader]] chassis
+File:Thermaldawn.jpg|[[Thermal Dawn]]
+File:Punisher.jpg|[[Punisher]]
+</gallery>
+
 {| class="fandom-table"
 ! Unit !! Chassis !! Key Weapons !! Notes
 |-
-| Zeallion || Crusader || Punisher || Hydron Core Mk. II; Argon x4 shields; Targeting Subroutine, Phase Modulator
+| [[Zeallion]] || [[Crusader]] || [[Punisher]] || [[Hydron Core Mk. II]]; [[Argon (Shield)|Argon]] x4 shields; [[Targeting Subroutine]], [[Phase Modulator]]
 |-
-| Enterlon || Crusader || Baron Battery || Cobalt Hydron; Photonic SV x4 shields; EM Wave Emitter, Deflection Grid
+| [[Enterlon]] || [[Crusader]] || [[Baron Battery]] || [[Cobalt Hydron]]; [[Photonic SV]] x4 shields; [[EM Wave Emitter]], [[Deflection Grid]]
 |-
-| Mantra || Crusader || HR100 Rocket Pack || Cobalt Hydron; Argon 400 x4 shields; Titan Deflector, EM Pulse Emitter
+| [[Mantra]] || [[Crusader]] || [[HR100 Rocket Pack]] || [[Cobalt Hydron]]; [[Argon 400]] x4 shields; [[Titan Deflector]], [[EM Pulse Emitter]]
 |-
-| Manticore || Crusader || Phoenix Laser || Tribolt Hydron; Argon Web x4 shields; Weapons Amplifier, Flux Channel
+| [[Manticore]] || [[Crusader]] || [[Phoenix Laser]] || [[Tribolt Hydron]]; [[Argon Web]] x4 shields; [[Weapons Amplifier]], [[Flux Channel]]
 |-
-| Horror || Crusader || Thermal Dawn || Tribolt Hydron; Argon 400 x4 shields; Master Fire Director, EM Wave Emitter
+| [[Horror]] || [[Crusader]] || [[Thermal Dawn]] || [[Tribolt Hydron]]; [[Argon 400]] x4 shields; [[Master Fire Director]], [[EM Wave Emitter]]
 |}
 
 == Annihilators ==
+[[File:Terminus.jpg|right|200px|link=Terminus|The Terminus chassis]]
 Annihilators are powerful boss-tier enemies that appear in the [[Sulphur Fields]]. They are described as "mini Termies" — significantly stronger than standard enemies but easier than a [[Terminus]].
 
 '''Key facts:'''
@@ -272,52 +310,59 @@ Annihilators are powerful boss-tier enemies that appear in the [[Sulphur Fields]
 * Their kills and deaths are announced on CyCom
 
 '''Annihilator stats:'''
-* Chassis: Terminus
+* Chassis: [[Terminus]]
 * HP: 10,000
 * Speed: 90
 * Projected Shield: 23,760
-* Reactor: Tribolt Hydron (3000 energy)
-* Shields: Argon 400 x4 (1200 each)
-* Weapons: Shield Displacer x2, Riot Gun x2, LR100 Rocket Pack, Vulcan Cannon x2, Syphon Elite
-* Modules: Flux Channel, EM Wave Emitter
+* Reactor: [[Tribolt Hydron]] (3000 energy)
+* Shields: [[Argon 400]] x4 (1200 each)
+* Weapons: [[Shield Displacer]] x2, [[Riot Gun]] x2, [[LR100 Rocket Pack]], [[Vulcan Cannon]] x2, [[Syphon Elite]]
+* Modules: [[Flux Channel]], [[EM Wave Emitter]]
 
 '''TERMINUS (special variant):'''
-* Chassis: Terminus
+* Chassis: [[Terminus]]
 * HP: 40,000
 * Speed: 90
-* Weapons: Shield Neutraliser x2, Obliterator x2, Baron Battery x2, Fire Blade, Rail-Gun
-* Reactor: Magmatic Pyroclast (5000 energy)
+* Weapons: [[Shield Neutraliser]] x2, [[Obliterator]] x2, [[Baron Battery]] x2, [[Fire Blade]], [[Rail-Gun]]
+* Reactor: [[Magmatic Pyroclast]] (5000 energy)
 * Module: Terminus Core
-* Shield: Baron Impulse
+* Shield: [[Baron Impulse]]
 
 The Terminus is a special bot released by player actions or admins. It grows stronger with each kill it makes. Its kills and death are announced on CyCom. Requires significant drain capability to defeat.
 
 == Master Controllers ==
-The Master Controllers are an elite squad encountered at [[Azra's Arena]] in the [[Lava Fields]]. Defeating them is a major milestone in Vulcore progression and rewards the Controller with a unique CyBot (CySeer or CySentinel).
+The Master Controllers are an elite squad encountered at [[Azra's Arena]] in the [[Lava Fields]]. Defeating them is a major milestone in Vulcore progression and rewards the Controller with a unique CyBot ([[CySeer]] or [[CySentinel]]).
+
+<gallery widths="120" heights="100">
+File:Cycorps_ranger.jpg|[[CyRanger]] (Opto)
+File:Cycorps_marauder.jpg|[[CyMarauder]] (Tammygotchi)
+File:Cycorps_leviathan.jpg|[[CyCorps Leviathan]] (Crimsons)
+File:Cycorps_reaper.jpg|[[CyCorps Reaper]] (Hextra)
+</gallery>
 
 '''The Masters squad (BM: 8987K):'''
 {| class="fandom-table"
 ! Name !! Chassis !! HP !! Speed !! Key Weapons !! Reactor !! Notes
 |-
-| Opto || CyCorps Ranger || 550 || 70 || Obliterator || Tribolt Hydron || Very fast; can kill multiple bots on turn 2
+| Opto || [[CyRanger|CyCorps Ranger]] || 550 || 70 || [[Obliterator]] || [[Tribolt Hydron]] || Very fast; can kill multiple bots on turn 2
 |-
-| Tammygotchi || CyCorps Marauder || 1700 || 40 || Shield Neutraliser x2, Phalanx x2, Rail-Gun, Magnatron || Magmatic Pyroclast || Extremely powerful; priority drain target
+| Tammygotchi || [[CyMarauder|CyCorps Marauder]] || 1700 || 40 || [[Shield Neutraliser]] x2, [[Phalanx]] x2, [[Rail-Gun]], [[Magnatron]] || [[Magmatic Pyroclast]] || Extremely powerful; priority drain target
 |-
-| Berkley || CyCorps Overseer || 650 || 55 || Thorn Mines || Magmatic Pyroclast || Master Fire Director, Deflection Grid, EM Wave Emitter, Weapons Amplifier
+| Berkley || [[CyCorps Overseer]] || 650 || 55 || [[Thorn Mines]] || [[Magmatic Pyroclast]] || [[Master Fire Director]], [[Deflection Grid]], [[EM Wave Emitter]], [[Weapons Amplifier]]
 |-
-| Royi || CyCorps Orbiter || 775 || 90 || HR X Rocket Pack || Hydron Core || TC7 Target Predictor x3; Photonic DV shield
+| Royi || [[CyOrbiter|CyCorps Orbiter]] || 775 || 90 || [[HR X Rocket Pack]] || [[Hydron Core]] || [[TC7 Target Predictor]] x3; [[Photonic DV]] shield
 |-
-| Crimsons || CyCorps Leviathan || 3700 || 30 || HR100 Rocket Pack x2, Thermal Dawn, Shield Neutraliser x2, Riot Gun, Phalanx x2 || Magmatic Pyroclast || Flux Channel x2; Argon Web x2
+| Crimsons || [[CyCorps Leviathan]] || 3700 || 30 || [[HR100 Rocket Pack]] x2, [[Thermal Dawn]], [[Shield Neutraliser]] x2, [[Riot Gun]], [[Phalanx]] x2 || [[Magmatic Pyroclast]] || [[Flux Channel]] x2; [[Argon Web]] x2
 |-
-| Fridge || CyCorps Sentinel || 600 || 40 || Baron Laser x2 || Magmatic Pyroclast || Titan Deflector; Argon Web x4
+| Fridge || [[CyCorps Sentinel]] || 600 || 40 || [[Baron Laser]] x2 || [[Magmatic Pyroclast]] || [[Titan Deflector]]; [[Argon Web]] x4
 |-
-| stonehead 2 || CyCorps Valadin || 1225 || 55 || Riot Gun x2 || Tribolt Hydron || Flux Channel x2, EM Pulse Emitter; Argon Web x2
+| stonehead 2 || [[CyValadin|CyCorps Valadin]] || 1225 || 55 || [[Riot Gun]] x2 || [[Tribolt Hydron]] || [[Flux Channel]] x2, [[EM Pulse Emitter]]; [[Argon Web]] x2
 |-
-| j4f || CyCorps Sentinel || 825 || 40 || Shatter Cannon, Syphonic Disruptor || Tribolt Hydron || Targeting Subroutine; Argon Array x4
+| j4f || [[CyCorps Sentinel]] || 825 || 40 || [[Shatter Cannon]], [[Syphonic Disruptor]] || [[Tribolt Hydron]] || [[Targeting Subroutine]]; [[Argon Array]] x4
 |-
-| Sacdaddy 1357 || CyCorps Overseer || 775 || 55 || — || Magmatic Pyroclast || EM Pulse Emitter x2, Deflection Grid, Titan Deflector; Photonic Sphere
+| Sacdaddy 1357 || [[CyCorps Overseer]] || 775 || 55 || — || [[Magmatic Pyroclast]] || [[EM Pulse Emitter]] x2, [[Deflection Grid]], [[Titan Deflector]]; [[Photonic Sphere]]
 |-
-| Hextra || CyCorps Reaper || 1500 || 60 || Syphon Immobiliser x2 || Magmatic Pyroclast || TC7 Target Predictor; Argon Web x2. Can drain your bots and restore drained MC bots.
+| Hextra || [[CyCorps Reaper]] || 1500 || 60 || [[Syphon Immobiliser]] x2 || [[Magmatic Pyroclast]] || [[TC7 Target Predictor]]; [[Argon Web]] x2. Can drain your bots and restore drained MC bots.
 |}
 
 All Master Controller bots share a Projected Shield of 11,200.
@@ -349,9 +394,16 @@ Magma Technology is a progressive upgrade system unlocked by collecting Magma Se
 * Sulphur Workshops
 * Angels (Technology gift)
 
-Magma Technology unlocks the [[Magmatic]] and [[Magmatic Pyroclast]] reactors, as well as Magma-type weapons and chassis upgrades.
+Magma Technology unlocks the [[Magmatic]] and [[Magmatic Pyroclast]] reactors, as well as Magma-type weapons ([[Magma Cannon]], [[Phoenix Laser]], [[Morning Star]]) and chassis upgrades.
+
+<gallery widths="120" heights="100">
+File:Magmatic.jpg|[[Magmatic]] reactor
+File:Magmaticpyroclast.jpg|[[Magmatic Pyroclast]] reactor
+File:Magmacannon.jpg|[[Magma Cannon]]
+</gallery>
 
 === Bulwark Technology ===
+[[File:Bulwark.jpg|right|150px|link=Bulwark|Bulwark chassis]]
 Bulwark Technology unlocks the [[Bulwark]] chassis. Maximum: 10 segments.
 
 '''Sources of Bulwark Segments:'''
@@ -362,6 +414,7 @@ Bulwark Technology unlocks the [[Bulwark]] chassis. Maximum: 10 segments.
 * Angels (Technology gift)
 
 === Crusader Technology ===
+[[File:Crusader.jpg|right|150px|link=Crusader|Crusader chassis]]
 Crusader Technology unlocks the [[Crusader]] chassis. Maximum: 10 segments. Primarily obtained in the Sulphur Fields.
 
 '''Sources of Crusader Segments:'''
@@ -404,46 +457,73 @@ Mercreds are the currency used on patrol in Vulcore. They are earned and spent a
 '''Spending Mercreds (Hiring Mercs):'''
 
 ==== Assault Mercs ====
+<gallery widths="120" heights="100">
+File:Ranger.jpeg|[[Nighthawk]] ([[Ranger]])
+File:Reaper.jpg|[[Centurion]] ([[Reaper]])
+File:Marauder.jpg|[[Praetor]] ([[Marauder]])
+File:Overseer.jpg|[[Copius]] ([[Overseer]])
+</gallery>
+
 {| class="fandom-table"
 ! Merc !! Cost !! Chassis !! HP !! Key Equipment
 |-
-| Nighthawk || 3 Mercreds || Ranger || 125 || Argon Laser; Ion reactor; Baron shield; Projected Shield 360
+| [[Nighthawk]] || 3 Mercreds || [[Ranger]] || 125 || [[Argon Laser]]; [[Ion]] reactor; [[Baron (Shield)|Baron]] shield; Projected Shield 360
 |-
-| Dominator || 6 Mercreds || Valadin || 300 || 20mm Auto Cannon, Shield Disrupter; Ion Flux Plus reactor; Baron Reflective x2
+| [[Dominator]] || 6 Mercreds || [[Valadin]] || 300 || [[20mm Auto Cannon]], [[Shield Disruptor|Shield Disrupter]]; [[Ion Flux Plus]] reactor; [[Baron Reflective]] x2
 |-
-| Centurion || 10 Mercreds || Reaper || 250 || EM Syphon x2; Ion Flux reactor; Baron x2; Projected Shield 360
+| [[Centurion]] || 10 Mercreds || [[Reaper]] || 250 || [[EM Syphon]] x2; [[Ion Flux]] reactor; [[Baron (Shield)|Baron]] x2; Projected Shield 360
 |-
-| Praetor || 12 Mercreds || Marauder || 800 || G33 Launcher, Shield Disrupter, Baron Laser, 20mm Auto Cannon; Ion Flux reactor
+| [[Praetor]] || 12 Mercreds || [[Marauder]] || 800 || [[G33 Launcher]], [[Shield Disruptor|Shield Disrupter]], [[Baron Laser]], [[20mm Auto Cannon]]; [[Ion Flux]] reactor
 |-
-| Copius || 15 Mercreds || Overseer || 275 || Weapons Amplifier, Targeting Subroutine x2; Hydron Core reactor. Boosts squad accuracy and fire rate.
+| [[Copius]] || 15 Mercreds || [[Overseer]] || 275 || [[Weapons Amplifier]], [[Targeting Subroutine]] x2; [[Hydron Core]] reactor. Boosts squad accuracy and fire rate.
 |}
 
 ==== Defensive Mercs ====
+<gallery widths="120" heights="100">
+File:Sentinel.jpg|[[Dukat]] / [[Zodiac]] ([[Sentinel]])
+File:Overseer.jpg|[[Adverse]] ([[Overseer]])
+</gallery>
+
 {| class="fandom-table"
 ! Merc !! Cost !! Chassis !! HP !! Key Equipment !! Notes
 |-
-| Dukat || 10 Mercreds || Sentinel || 400 || Ion reactor; Baron Reflective x2, Baron x1; Projected Shield 1140 || Shield deflection 6%, Energy drain deflection 7%
+| [[Dukat]] || 10 Mercreds || [[Sentinel]] || 400 || [[Ion]] reactor; [[Baron Reflective]] x2, [[Baron (Shield)|Baron]] x1; Projected Shield 1140 || Shield deflection 6%, Energy drain deflection 7%
 |-
-| Adverse || 15 Mercreds || Overseer || 275 || Ion Flux Plus reactor; Titan Deflector x2, EM Pulse Emitter; Baron; Argon Laser || Shield deflection 12%, Energy drain deflection 15%
+| [[Adverse]] || 15 Mercreds || [[Overseer]] || 275 || [[Ion Flux Plus]] reactor; [[Titan Deflector]] x2, [[EM Pulse Emitter]]; [[Baron (Shield)|Baron]]; [[Argon Laser]] || Shield deflection 12%, Energy drain deflection 15%
 |-
-| Zodiac || 20 Mercreds || Sentinel || 400 || Bio-Nuclear reactor; Photonic Sphere x3; Phase Modulator || Projected Shield 900. Excellent defensive merc.
+| [[Zodiac]] || 20 Mercreds || [[Sentinel]] || 400 || [[Bio-Nuclear]] reactor; [[Photonic Sphere]] x3; [[Phase Modulator]] || Projected Shield 900. Excellent defensive merc.
 |}
 
 ==== Module Support Mercs ====
+<gallery widths="120" heights="100">
+File:Orbie.jpg|[[Orbie]] ([[Orbiter]])
+</gallery>
+
 {| class="fandom-table"
 ! Merc !! Cost !! Chassis !! HP !! Key Equipment !! Notes
 |-
-| Pulse || 5 Mercreds || Orbiter || 100 || Ion reactor; Argon Laser; Phase Modulator, Motion Tracker, Bounty Enhancer || Energy saving 20%; Projected Shield 360
+| [[Pulse]] || 5 Mercreds || [[Orbiter]] || 100 || [[Ion]] reactor; [[Argon Laser]]; [[Phase Modulator]], [[Motion Tracker]], [[Bounty Enhancer]] || Energy saving 20%; Projected Shield 360
 |-
-| Orbie || 12 Mercreds || Orbiter || 75 || Ion Flux reactor; Security Countermand, Anomaly Detector, ComWave Scanner; Thorn Mines; Baron shield || Utility merc for detecting anomalies and countermanding security
+| [[Orbie]] || 12 Mercreds || [[Orbiter]] || 75 || [[Ion Flux]] reactor; [[Security Countermand]], [[Anomaly Detector]], [[ComWave Scanner]]; [[Thorn Mines]]; [[Baron (Shield)|Baron]] shield || Utility merc for detecting anomalies and countermanding security
 |}
 
 ==== Scaven Mercs ====
 Obtained by completing a mission for a friendly [[Scaven Settlement]] in [[Scaven Territory]]. Not hired with Mercreds — earned through gameplay.
 
-* '''Scaven Boss''' — Scaven Commander chassis; Pistol weapon; Inspiration module. Provides squad-wide buffs to speed, fire rate, and accuracy.
-* '''Scaven Warlord''' — Scaven Commander chassis; Pistol weapon; Leadership module.
-* '''Scaven Assault Squad''' — Scaven Strike Gang chassis; Rocket Launcher x3, Assault Rifle x3.
+The composition and quality of Scaven Mercs scales with the player's squad BM. Higher BM squads receive more powerful Scaven units, including higher-grade Shielder variants and the Scaven Hero.
+
+<gallery widths="120" heights="100">
+File:Scavenboss.jpg|[[Scaven Boss]]
+File:Scavenshielders.jpg|[[Scaven Shielders]]
+</gallery>
+
+* '''[[Scaven Boss]]''' — Scaven Commander chassis; [[Pistol]] weapon; [[Inspiration]] module. Provides squad-wide buffs to speed, fire rate, and accuracy.
+* '''[[Scaven Warlord]]''' — Scaven Commander chassis; [[Pistol]] weapon; Leadership module.
+* '''[[Scaven Hero]]''' — A higher-grade Scaven Commander unit available at higher squad BM. Provides enhanced squad buffs.
+* '''[[Scaven Shielders]]''' (basic) — Scaven Shielders chassis; [[Baron (Shield)|Baron]] x2 shields; [[Pistol]] x2. Low-BM variant.
+* '''[[Scaven Heavy Shield]]''' — Scaven Shielders chassis; [[Photonic SV]] x2 shields; [[Sub-Machine Gun]] x2. Mid-BM variant.
+* '''[[Scaven Shield Matrix]]''' — Scaven Shielders chassis; [[Argon (Shield)|Argon]] x2 shields; [[Assault Rifle]] x2. High-BM variant.
+* '''[[Scaven Assault Squad]]''' — Scaven Strike Gang chassis; Rocket Launcher x3, [[Assault Rifle]] x3.
 * Various Scaven warrior units accompany the squad.
 
 Scaven Mercs prevent entry to Mercenary Outposts while active. Must be dropped before entering an outpost.
@@ -475,10 +555,17 @@ Crowns are deposited at Mercenary Outposts and converted to Mercreds or used for
 == Runes ==
 Four runes must be collected to unlock the [[Scaven Ziggurat]] and obtain the unique [[SxD8]] shield. Each rune is found in a specific location and requires specific equipment.
 
+<gallery widths="120" heights="100">
+File:Fieryrune.jpg|[[Fire Rune]]
+File:Solarrune.jpg|[[Sun Rune]]
+File:Icyrune.jpg|[[Ice Rune]]
+File:Lunarrune.jpg|[[Moon Rune]]
+</gallery>
+
 {| class="fandom-table"
 ! Rune !! Location !! Requirements !! Notes
 |-
-| [[Fire Rune]] (Fiery Rune) || Magma Labs (opened with Security Countermand); also Firewells || [[Security Countermand]] || Previously also found in Firewells; may no longer spawn there
+| [[Fire Rune]] (Fiery Rune) || Magma Labs (opened with [[Security Countermand]]); also Firewells || [[Security Countermand]] || Previously also found in Firewells; may no longer spawn there
 |-
 | [[Sun Rune]] (Solar Rune) || Sun Ritual on the Vulcore Plains || [[Scaven Mercs]] required || Defeat Matriarchs at the Sun Ritual; yields 4 Crowns. Best at low BM (1 Matriarch).
 |-
@@ -494,28 +581,22 @@ Four runes must be collected to unlock the [[Scaven Ziggurat]] and obtain the un
 == Farming: Credits ==
 The best sources of credits in Vulcore:
 
-* '''Tag Droids''' — Orbiter-chassis enemies with a Credit Bank module. Fast and found across the plain and Plateau. Primary credit source on patrol. Intercepting them is the main goal of Banking missions.
-* '''Azra's Arena''' — Each tournament win yields significant cash. Only 1 Azra per Lava Field — leave immediately after winning to find another field. With Greed/Enrichment active, Azra cash is multiplied 10x.
-* '''Greed / Enrichment''' — 10x cash multiplier from Fallen (negative align) or Angels (positive align). The single most important cash multiplier in the game. Avoid consoles, Plateau, and anything that might replace it with a standard 10x multiplier.
-* '''Renegade Base Commanders (BASE LORD)''' — Defeating the RBC yields good credits and Technology segments. Requires drain capability (EM Syphons recommended).
-* '''Matriarch Crowns''' — Crowns deposited at outposts convert to Mercreds/credits.
-* '''Annihilators''' — High credit yield plus superweapon drop.
+* '''[[Tag Droid|Tag Droids]]''' — [[Orbiter]]-chassis enemies with a [[Credit Bank]] module. Fast and found across the plain and Plateau. Primary credit source on patrol. Intercepting them is the main goal of Banking missions.
+* '''[[Azra's Arena]]''' — Each tournament win yields cash scaled to the player's squad BM. Only 1 Azra per Lava Field — leave immediately after winning to find another field.
+* '''[[Greed]] / [[Enrichment]]''' — 10x cash multiplier from [[Fallen]] (negative align) or [[Angels]] (positive align). The single most important cash multiplier in the game. Avoid consoles, Plateau, and anything that might replace it with a standard 10x multiplier.
+* '''EX Bots''' — Special rare enemy bots ([[EX20]], [[EX21]], [[EX22]], [[EX23]], [[EX24]]) that appear as random encounters. High credit yield per fight.
 
 '''Tips:'''
-* Use a [[Bounty Enhancer]] module (available on the Pulse merc or purchasable) to increase credit drops.
-* The Fallen's Greed gift costs 20 Mercreds + alignment but pays for itself quickly.
+* Use a [[Bounty Enhancer]] module (available on the [[Pulse]] merc or purchasable) to increase credit drops.
+* The Fallen's [[Greed]] gift costs 20 Mercreds + alignment but pays for itself quickly.
 * Avoid opening Consoles while Greed/Enrichment is active.
 
 == Farming: Experience (XP) ==
 The best sources of XP in Vulcore:
 
-* '''Sulphur Fields''' — The primary XP farming zone in Vulcore. Magma enemies, Crusader-type enemies, and Annihilators all yield high XP. Run Sulphur Fields until Enforcers appear, then return to outpost and re-enter.
-* '''Scaven Territory''' — Levelling bots in Scaven Territory is a common early-game strategy. Scaven enemies are numerous and provide steady XP. Recommended to level Reapers to AI 6–9 here before major patrol runs.
-* '''Azra's Arena''' — Each round of the tournament provides XP in addition to cash.
-* '''Renegade Bases''' — Defeating the full base (walls + RBC) provides good XP.
-* '''Angels / Fallen Encounters''' — Defeating Angel or Fallen squads provides XP.
+* '''[[Sulphur Fields]]''' — The primary XP farming zone in Vulcore. Magma enemies, Crusader-type enemies, and Annihilators all yield high XP. Run Sulphur Fields until Enforcers appear, then return to outpost and re-enter.
+* '''[[Scaven Territory]]''' — Levelling bots in Scaven Territory is a common early-game strategy. Scaven enemies are numerous and provide steady XP. Recommended to level Reapers to AI 6–9 here before major patrol runs.
 * '''XP Multipliers''' — Available at outposts or from Scaven Settlements. Stack with combat XP.
-* '''Firewells''' — Activating a Firewell can provide an AI boost (direct XP injection to a bot).
 
 '''Note:''' XP is shared among all bots in the squad. Fewer bots = more XP per bot. Levelling bots individually (e.g., sending a single bot to the CCU Training Deck) is faster for early levels.
 
@@ -534,7 +615,7 @@ A fortified position on the Plateau. Can be explored or attacked for rewards.
 A Renegade installation that can be investigated for rewards.
 
 === EX Bots ===
-Special enemy bots (EX20, EX21, EX22, EX23, EX24) that appear as rare encounters. High-value targets.
+Special enemy bots ([[EX20]], [[EX21]], [[EX22]], [[EX23]], [[EX24]]) that appear as rare encounters. High-value targets with significant credit and XP rewards.
 
 === Sealed Tombs and Vaults ===
 * '''Sealed Tomb''' — Can be blown open. May contain equipment or enemies.
