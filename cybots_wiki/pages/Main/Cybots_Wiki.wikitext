@@ -68,13 +68,6 @@ However you won't win just by having tons of cash — in the end the winner is d
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center;">
 <div style="border:0.5px solid #2a2a4c; border-radius:6px; padding:0.6em; margin-bottom:0.4em;">
-[[File:Cycarrier hanger1.jpg|120px|link=Workshops]]
-</div>
-[[Workshops]]
-</div>
-
-<div style="flex:1 1 120px; max-width:150px; text-align:center;">
-<div style="border:0.5px solid #2a2a4c; border-radius:6px; padding:0.6em; margin-bottom:0.4em;">
 [[File:Battle4.jpg|120px|link=Enemies]]
 </div>
 [[Enemies]]
