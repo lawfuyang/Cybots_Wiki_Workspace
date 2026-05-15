@@ -203,6 +203,7 @@ A mysterious and malevolent faction encountered in the Lava Fields. The Fallen a
 * −100 alignment: + Dark Union
 
 === Angels ===
+<small style="color: grey;">''(The Angels section is outdated and may no longer reflect current game behaviour. If you have up-to-date information about the Angels faction, please help update this section.)''</small>
 A mysterious benevolent faction encountered in the Lava Fields. The Angels are arch-enemies of the Fallen and offer gifts to Controllers with positive alignment.
 
 '''Encounter options (requires positive alignment):'''
@@ -210,8 +211,10 @@ A mysterious benevolent faction encountered in the Lava Fields. The Angels are a
 * '''Clan Aid''' — 10 Construction Notes (CN).
 * '''Technology''' — 1 segment each of Magma Tech, Bulwark Tech, and Crusader Tech.
 * '''Guardian Angels''' — Requires +50 alignment. Costs 25 alignment. 1–2 Angel bots join the squad for a very long time. Their shields make the squad nearly invincible.
+* '''Arch Angels (support squad)''' — Similar to the [[Fallen]]'s [[Dark Union]] gift, the Angels are known to provide [[Arch Angel]] units as a support squad that joins the Controller's squad. The exact conditions, cost, composition, and duration of this gift are not documented here. <small style="color: grey;">''(The Arch Angels support gift is not fully documented. If you know how this works (trigger conditions, alignment cost, squad composition, duration, buffs granted), please help update this section.)''</small>
 
 '''Angel unit stats:'''
+<small style="color: grey;">''(Angel unit stats below may be outdated. Please help verify and update if you have current information.)''</small>
 {| class="fandom-table"
 ! Unit !! Chassis !! HP !! Key Weapons !! Notes
 |-
@@ -219,12 +222,15 @@ A mysterious benevolent faction encountered in the Lava Fields. The Angels are a
 |-
 | [[Arch Angel]] || [[Bulwark]] || — || [[Thermal Dawn]], [[HR100 Rocket Pack]], [[Baron Battery]] || [[Magmatic]] reactor; [[Argon (Shield)|Argon]] + [[Argon Array]]; [[Titan Deflector]] x2
 |}
+<small style="color: grey;">''(The full Arch Angels support squad composition (equivalent to the Fallen's Dark Union) is not documented here. If you have details on what units are included, their stats, and any squad buffs they provide, please help update this page.)''</small>
 
 '''Alignment requirement:'''
+<small style="color: grey;">''(Alignment thresholds for Angel encounter options may be outdated. Please help verify these values.)''</small>
 * +25 alignment: Enrichment, Clan Aid, Technology
 * +50 alignment: + Guardian Angels
 
 '''Gaining positive alignment:'''
+<small style="color: grey;">''(Methods and costs for gaining positive alignment may be outdated. Please help verify and update if you have current information.)''</small>
 * Free Trapped Squads
 * Leave Scaven farmers unharmed
 * Donate to Scaven villages (250,000 cash per 1 alignment — very expensive)
@@ -390,7 +396,7 @@ Magma Technology is a progressive upgrade system unlocked by collecting Magma Se
 * Consoles
 * Renegade Base Commanders (BASE LORD)
 * Sulphur Workshops
-* Angels (Technology gift)
+* Angels (Technology gift) <small style="color: grey;">''(It is unclear whether Angels still provide Technology gifts. Please help verify.)''</small>
 
 Magma Technology unlocks the [[Magmatic]] and [[Magmatic Pyroclast]] reactors, as well as Magma-type weapons ([[Magma Cannon]], [[Phoenix Laser]], [[Morning Star]]) and chassis upgrades.
 
@@ -409,7 +415,7 @@ Bulwark Technology unlocks the [[Bulwark]] chassis. Maximum: 10 segments.
 * Consoles
 * Renegade Base Commanders
 * Sulphur Workshops
-* Angels (Technology gift)
+* Angels (Technology gift) <small style="color: grey;">''(It is unclear whether Angels still provide Technology gifts. Please help verify.)''</small>
 
 === Crusader Technology ===
 [[File:Crusader.jpg|right|150px|link=Crusader|Crusader chassis]]
@@ -417,7 +423,7 @@ Crusader Technology unlocks the [[Crusader]] chassis. Maximum: 10 segments. Prim
 
 '''Sources of Crusader Segments:'''
 * Sulphur Workshops
-* Angels (Technology gift)
+* Angels (Technology gift) <small style="color: grey;">''(It is unclear whether Angels still provide Technology gifts. Please help verify.)''</small>
 
 The Crusader is a high-HP, high-shield chassis that becomes the backbone of advanced Vulcore and Talsia squads.
 
@@ -581,7 +587,7 @@ The best sources of credits in Vulcore:
 
 * '''[[Tag Droid|Tag Droids]]''' — [[Orbiter]]-chassis enemies with a [[Credit Bank]] module. Fast and found across the plain and Plateau. Primary credit source on patrol. Intercepting them is the main goal of Banking missions.
 * '''[[Azra's Arena]]''' — Each tournament win yields cash scaled to the player's squad BM. Only 1 Azra per Lava Field — leave immediately after winning to find another field.
-* '''[[Greed]] / [[Enrichment]]''' — 10x cash multiplier from [[Fallen]] (negative align) or [[Angels]] (positive align). The single most important cash multiplier in the game. Avoid consoles, Plateau, and anything that might replace it with a standard 10x multiplier.
+* '''[[Greed]] / [[Enrichment]]''' — 10x cash multiplier from [[Fallen]] (negative align) or [[Angels]] (positive align). The single most important cash multiplier in the game. Avoid consoles, Plateau, and anything that might replace it with a standard 10x multiplier. <small style="color: grey;">''(The Angels/Enrichment mechanic may be outdated. Please help verify whether Enrichment still functions as described.)''</small>
 * '''EX Bots''' — Special rare enemy bots ([[EX20]], [[EX21]], [[EX22]], [[EX23]], [[EX24]]) that appear as random encounters. High credit yield per fight.
 
 '''Tips:'''
@@ -625,7 +631,7 @@ A special location that can be investigated for Magma Technology information and
 == See Also ==
 * [[Scaven]]
 * [[Fallen]]
-* [[Angels]]
+* [[Angels]] <small style="color: grey;">''(Angels article may be outdated. If you have current information about the Angels faction, please help update it.)''</small>
 * [[Master Controllers]]
 * [[Azra's Arena]]
 * [[Mercreds]]
