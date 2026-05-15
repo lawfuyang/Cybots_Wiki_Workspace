@@ -1,7 +1,7 @@
 {{MessageBox
 | header = This guide may be outdated.
 | text   = A newer meta involving [[Angels]] (instead of the [[Fallen]]) has emerged and may offer a more efficient progression path through Vulcore. The guide below reflects a well-established, older approach. '''If you have experience with the Angels meta or other updated strategies, please help update this page!'''
-| image  = Module3.jpg
+| image  = Fedbasedead1.jpg
 }}
 
 == Overview ==
@@ -1073,46 +1073,7 @@ A highly optimised approach focused on safety:
 
 == See Also ==
 * [[Vulcore Plain]] — main zone overview page
-* [[Talsian Warfront]]
-* [[Riconnen's Challenge]]
-* [[Scaven]]
-* [[Fallen]]
-* [[Angelic]]
-* [[Master Controllers]]
-* [[Azra's Arena]]
-* [[Bulwark]]
-* [[Crusader]]
-* [[Cysentinel]]
-* [[CyCorps Overseer]]
-* [[Reaper]]
-* [[Valadin]]
-* [[Orbiter]]
-* [[Overseer]]
-* [[Leviathan]]
-* [[Magma Technology]]
-* [[Bulwark Technology]]
-* [[Crusader Technology]]
-* [[Magmatic Pyroclast]]
-* [[Sub Nuke Reactor]]
-* [[Ion Flux Plus]]
-* [[EM Syphon]]
-* [[Syphon Immobilizer]]
-* [[Pulse Beam]]
-* [[Syphon Disrupter]]
-* [[Magnetic Actuator]]
-* [[Baron Reflective Shield]]
-* [[Storm Shield]]
-* [[Photonic Shield]]
-* [[Titan Deflector]]
-* [[Morning Star]]
-* [[Shatter Cannon]]
-* [[Magma Cannon]]
-* [[DAX Pod]]
-* [[Mechanical Obviator]]
-* [[Greed]]
-* [[Training Withdraw]]
-* [[Scaven Runes]]
-* [[Tag Droid]]
+* [[Talsia Warfront]]
 
 [[Category:Outlands]]
 [[Category:Guides]]
