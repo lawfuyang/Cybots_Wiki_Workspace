@@ -1,0 +1,1119 @@
+{{MessageBox
+| header = This guide may be outdated.
+| text   = A newer meta involving [[Angels]] (instead of the [[Fallen]]) has emerged and may offer a more efficient progression path through Vulcore. The guide below reflects a well-established, older approach. '''If you have experience with the Angels meta or other updated strategies, please help update this page!'''
+| image  = Module3.jpg
+}}
+
+== Overview ==
+
+'''[[Vulcore Plain|Vulcore]]''' is the first major [[Outlands|outland]] zone in Cybots. This guide covers the full progression path from your very first [[Valadin]] all the way to being ready for the [[Talsia Warfront]].
+
+<gallery widths="140" heights="105">
+File:Lavaflow.jpg|Lava Fields — home of [[Azra's Arena]] and the [[Fallen]]
+File:Battle7.jpg|Vulcore patrol combat
+File:Credits tagdroid.jpg|[[Tag Droid]] — primary early cash source
+File:Bulwark.jpg|[[Bulwark]] — mid-game powerhouse chassis
+File:Crusader.jpg|[[Crusader]] — late-game Vulcore chassis
+File:Cycorps sentinel.png|[[CySentinel]] — Master Controllers prize
+File:Magmatic.jpg|[[Magmatic]] — Vulcore endgame reactor
+File:Icyrune.jpg|Scaven Rune — required for the Ziggurat
+File:Spider.png|[[Reaper]] chassis — the backbone of your drain squad
+File:Hover.png|[[Overseer]] chassis — speed and fire rate support
+</gallery>
+
+{{Quote|This is a comprehensive, tried-and-true guide for Vulcore progression — albeit a very old one. It covers squad setups, loadouts, goals, and strategy for each patrol phase, as well as key mechanics, farming methods, and milestones. Treat it as a solid foundation, but be aware that the current meta may differ.}}
+
+'''What this guide covers:'''
+* [[#Training Withdraw|Training Withdraw]] — one of the most critical early mechanics
+* [[#Patrol Phases|Patrol Phases]] — step-by-step guide for Patrols 1–6, including loadouts and goals
+* [[#Important Mechanics|Important Mechanics]] — KCharge, Greed, Dark Union, BM, Crowns, and more
+* [[#Cash & Mercred Farming|Cash & Mercred Farming]] — how and where to farm at each stage
+* [[#Things to Watch Out For|Things to Watch Out For]] — dangerous enemies and situations to avoid
+* [[#Milestones|Milestones]] — key progression checkpoints
+* [[#Progression Variations|Progression Variations]] — alternative approaches from different Controllers
+* [[#Squad Compositions by Phase|Squad Compositions]] and [[#Level & XP Requirements|Level/Cash/Mercred requirements]]
+
+----
+
+== Training Withdraw ==
+
+'''Training Withdraw''' (also called '''Withdraw Training''' or simply '''Withdraw''') is one of the most important mechanics in Vulcore. It refers to the process of deliberately withdrawing from battles to reduce the '''KCharge (KC)''' cost of future withdrawals.
+
+=== What is Withdraw? ===
+When a Controller withdraws from a battle, it costs '''KCharge'''. The cost of withdrawing decreases as the Controller trains it — specifically, by withdrawing from battles repeatedly, the KC cost per withdraw drops. A fully trained Withdraw costs only '''1 KC''' to execute.
+
+=== Why is it Important? ===
+* Allows safe escape from dangerous encounters (Angels, Matriarchs with Deflector Coil, overwhelming squads)
+* Enables farming in Scaven territory without risking bot loss
+* Critical for surviving encounters that would otherwise destroy the squad
+* Allows strategic retreat from Bulwark squads, EX-series, and other dangerous enemies
+
+=== How to Train Withdraw ===
+# Enter [[Scaven]] territory via the Matriarch Mission
+# Find [[Scaven]] Watchtowers or Forts
+# Initiate battle, then immediately '''Withdraw All''' bots
+# Repeat 4–6 times until Withdraw costs only 1 KC
+
+'''Key notes:'''
+* Withdraw from Watchtowers or easy battles — not from dangerous squads
+* When fighting normal squads for Withdraw training: kill dangerous units (Knights, Champions), then withdraw all except one bot (e.g., [[Overseer|Zodiac]]), then withdraw the last bot too
+
+=== Withdraw in Combat ===
+During combat, the '''Withdraw''' option removes a bot from the battle. Strategic use:
+* Withdraw damaged bots to preserve them
+* Withdraw all bots when a battle is going badly
+* When fighting Matriarchs: if you cannot drain the Deflector Coil shield in the first turn, '''withdraw immediately'''
+* When encountering Angels: '''withdraw in one turn''' — do not let them fire
+
+== Patrol Phases ==
+
+Vulcore progression is divided into '''Patrols''' — each patrol ends when the Controller returns to the Workshop to upgrade. The following is a comprehensive guide to each patrol phase.
+
+=== Patrol 1 — The Foundation ===
+
+==== Workshop Setup ====
+* Start with a '''[[Valadin]]''' chassis (see [[Vulcore Plain]] for zone overview)
+* Outfit: Ion V2 Reactor, 1× Argon Laser
+* Go to CCU Training Center; fight lone Fleas until AI Level 1
+* Exit Training; spend 5 upgrade points on Weapon Tech
+* Replace Argon Laser with 2× Baron Laser; buy 2× Baron Shield
+* Add Phase Modulator and Motion Tracker
+
+==== Valadin Loadout (Patrol 1) ====
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || Ion V2
+|-
+| Weapon (×2) || Baron Laser
+|-
+| Shield (×2) || Baron Shield
+|-
+| Module || Phase Modulator
+|-
+| Module || Motion Tracker
+|}
+
+==== Goals ====
+{| class="wikitable"
+|-
+! Goal !! Target
+|-
+| Valadin Level || 6
+|-
+| Mercreds (spare) || 47
+|-
+| Cash || 485,000–500,000
+|-
+| Alignment || −25 (for Greed)
+|}
+
+==== Strategy ====
+'''Do Not Attack:'''
+* Angels
+* Renegade Bases
+* Scaven Forts / Watchtowers (until Withdraw is trained)
+
+'''Step-by-step:'''
+# Do not attack anything — find an Outpost first
+# In Firewells, activate them for potential Outpost coordinates
+# At the Outpost, do Tag Droid missions 4× to get 12 Mercreds; hire a '''Praetor'''
+# Do Cave Crystal missions; attack Tag Droids and cave enemies only
+# At 10 Mercreds, hire a '''Centurion'''; at 12 Mercreds, hire an '''Orbie'''
+# Take the Matriarch Mission; find a Scaven Settlement; get Scaven mercs
+# In Scaven territory: get −25 alignment; train Withdraw (5–6 times until 1 KC)
+# Only attack Scaven if you have 3× EXP multiplier (except Forts/Towers)
+# Find at least one Burial Mound with Crowns; Sun Ritual gives 4 Crowns
+# Exit Scaven; find Fallen; get Greed; farm to 485k–500k cash
+# Focus on Tag Droids and Azra; enter Plateaus after 400k cash for more Tag Droids
+# '''Withdraw from Angels in one turn'''
+# Deliver Crowns; do Cave Crystals for remaining Mercreds if needed
+
+'''Cash farming tips:'''
+* Sell Stun Lasers for 900 cash each
+* Enter Plateaus after doing Azra for additional Tag Droids
+* With Greed active, Tag Droids and Azra are the primary cash sources
+
+==== End of Patrol 1 ====
+Leave patrol when you have ~47 spare Mercreds and ~485k–500k cash.
+
+---
+
+=== Patrol 2 — Reapers & Bulwark Tech ===
+[[File:Spider.png|right|80px|Reaper chassis]]
+
+==== Workshop Upgrade ====
+* Upgrade Workshop to '''Hydraulic''' (65,000 cash)
+* Buy '''3 Reapers'''
+
+==== Reaper Loadout (Patrol 2) ====
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || Ion V2
+|-
+| Weapon (×2) || EM Syphon
+|-
+| Shield (×2) || Baron Shield
+|}
+
+'''Critical setting:''' Click each Reaper → Upgrades → scroll down → set '''Targeting Priority''' to "Most Reactor Energy" and '''Withdraw When''' to "Never Withdraw". This makes Reapers drain the highest-energy target automatically — much safer than manual targeting.
+
+==== Valadin Upgrade ====
+* Upgrade Weapon Tech to 63 (at Level 6, this uses all upgrade points)
+* Swap to: 2× MR100 Rocket Packs (keep rest from Patrol 1)
+
+==== Goals ====
+{| class="wikitable"
+|-
+! Goal !! Target
+|-
+| Reapers Level || 7 (ideally)
+|-
+| Mercreds (spare) || 55
+|-
+| Cash || 1,400,000
+|-
+| Technology || Bulwark Tech
+|-
+| Item || Storm Shield (buy before leaving Scaven)
+|}
+
+==== Strategy ====
+'''Do Not Attack:'''
+* Angels
+* Magma Teams (if they appear)
+* Matriarchs with Deflector Coil shield ring
+
+'''Step-by-step:'''
+# Find Outpost; hire '''Zodiac''', '''Orbie''', '''Copius'''
+# Do Matriarch Mission; get Scaven mercs without attacking
+# Attack Scaven Forts, Watchtowers, Burial Mounds; get EXP chips from Settlements
+# Avoid normal patrols unless you have 3× EXP or more (need many Crowns)
+# '''Demand tribute from Scaven Farms/Workers then kill them''' → −7 alignment each
+# Withdraw from 4–5 teams before fighting Matriarchs (to be safe)
+# When fighting normal squads: kill dangerous units (Knights, Champions), then withdraw all except Zodiac, then withdraw Zodiac too
+# Matriarchs now have 200 HP — can be defeated; withdraw if Deflector Coil shield not drained by first turn
+# When Reapers are Level 6 with 20k XP until Level 7, and you have 28 Crowns (enough for 275 Mercreds): deliver Crowns
+# Buy '''Storm Shield''' at Outpost; re-enter Scaven for new mercs; train Withdraw; leave
+# Get Greed from Fallen; farm Tag Droids and Azra to 1.4M cash
+# Enter Plateaus when not under Greed; hunt Bulwark squads (need 10 defeats for Bul Tech)
+# In Plateau: do Mining Bases and Renegade Bases — consoles contain Bul segments
+# If Greed runs out at 750k+ cash and no new Greed available: do Azra before Plateaus in Lava Fields
+# Leave patrol when you have Bul Tech and 1.4M cash
+
+'''Bulwark squad tips:'''
+* Do NOT auto-fight Bulwark squads — always check if you can drain them
+* Best composition: 2 Achilles + 1 Reaper → set 1 Reaper on enemy Reaper (check reactor; if <1k energy, OK), 2 Reapers on Achilles
+* If shields are getting low and the good Bulwark isn't drained/killed → withdraw
+
+{{MessageBox
+| header = Note
+| text   = Some strategies skip [[Bulwark Technology]] entirely. This saves KC and time but means you enter Patrol 3. If you're comfortable with your [[Reaper]] squad's strength, skipping Bul Tech is a valid choice.
+}}
+==== End of Patrol 2 ====
+Leave with Bulwark Tech and 1.4M cash.
+
+---
+
+=== Patrol 3 — Bulwark, Overseer & Magma ===
+[[File:Bulwark.jpg|right|80px|Bulwark chassis]]
+
+==== Workshop Upgrade ====
+* Upgrade Workshop '''twice''' to '''Tetronic''' (the 500k upgrade)
+* Buy '''1 Bulwark''' and '''1 Overseer'''
+* Put new bots in a separate squad; level to AI 1; exit
+
+==== Bulwark Loadout (Patrol 3) ====
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || Ion Flux Plus
+|-
+| Weapon || Shield Disrupter
+|-
+| Weapon (×2) || LR100 Rocket Pack
+|-
+| Weapon || Avenger
+|-
+| Shield (×2) || Baron Reflective Shield
+|-
+| Module || Security Countermand
+|-
+| Module || Anomaly Detector
+|}
+Upgrade Bulwark: 26 Weapon Tech
+
+==== Overseer Loadout (Patrol 3) ====
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || Ion V2
+|-
+| Module || T-Sub
+|-
+| Shield || Storm Shield
+|-
+| Module || Comm Wave Scanner
+|}
+Upgrade Overseer: 5 Reactor Tech, 17 Module Tech
+
+==== Reaper Upgrade (Patrol 3) ====
+* Upgrade Weapon Tech to 94 (keep Reactor at 6)
+
+==== Reaper Loadout (Patrol 3) ====
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || Ion V2
+|-
+| Weapon || Pulse Beam (equip FIRST — uses least energy)
+|-
+| Weapon || Syphon Disrupter
+|-
+| Shield (×2) || Baron Shield
+|-
+| Module || Phase Modulator
+|}
+
+==== Goals ====
+{| class="wikitable"
+|-
+! Goal !! Target
+|-
+| Reapers Level || 9 (10 optimal)
+|-
+| Mercreds (spare) || 55
+|-
+| Cash || 4,500,000–5,000,000
+|-
+| Technology || Magma Tech (semi-optional)
+|-
+| Alignment || −100 minimum (for next patrol)
+|}
+
+==== Strategy ====
+'''Do Not Attack:'''
+* Magma Fortresses (extremely dangerous)
+
+'''Step-by-step:'''
+# Find Outpost; hire '''2× Zodiac''' and '''1× Copius'''
+# Do Matriarch Mission; get Scaven mercs without attacking
+# Now attack everything in Scaven territory
+# Need −100 alignment minimum — kill Scaven Farms/Workers (lots of them!)
+# Killing Angels gives −4 alignment — if not at −100 when done with Scaven, check at end of patrol
+# Get EXP multis; wreak havoc until Reapers are ~40k XP from Level 9 or 10
+# Deliver Crowns; return to Scaven for mercs; leave for normal Vulcore
+# Find Fallen; get Greed; kill Tag Droids and do Azra
+# '''Must have −100 alignment spare after this patrol''' — don't take too many Fallen coords (each costs 10 alignment)
+# In Lava Fields: kill Phoenix squads for Magma segments; leave when Azra is done (with or without Greed)
+# Don't break a leg getting Magma Tech — it's semi-optional
+# Leave patrol when you have Magma Tech (if possible) and 4.5–5M cash
+
+==== End of Patrol 3 ====
+Leave with 4.5M+ cash, Reapers Level 9+, −100 alignment spare, and Magma Tech if possible.
+
+---
+
+=== Patrol 4 — Nanomatic Workshop & Overseers ===
+[[File:Cycorps sentinel.png|right|80px|Cysentinel — your Patrol 4 prize]]
+
+==== Workshop Upgrade ====
+* Upgrade Workshop to '''Nanomatic'''
+* '''Drop the Valadin''' — no longer needed
+* Buy '''3 Overseers''' and add to squad
+
+==== Bulwark Upgrade (Patrol 4) ====
+* Upgrade Weapon Tech to 98, Reactor to 20
+
+==== Bulwark Loadout (Patrol 4) ====
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || Sub Nuke Reactor
+|-
+| Weapon (×4) || Magma Cannon
+|-
+| Shield (×2) || Baron Reflective Shield
+|-
+| Module || Anomaly Detector
+|-
+| Module || Security Countermand
+|}
+
+==== Reaper Upgrade (Patrol 4) ====
+* Upgrade Weapon Tech to 122, Reactor to 20 (if Level 10; else keep 6 Reactor and Ion V2)
+
+==== Reaper Loadout (Patrol 4) ====
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || Sub Nuke Reactor (or Ion V2 if not Level 10)
+|-
+| Weapon (×2) || Syphon Immobilizer
+|-
+| Shield || Baron Shield
+|-
+| Module || Phase Modulator
+|}
+
+==== Overseer Loadouts (Patrol 4) ====
+'''Overseer 1 (Leveled):''' Upgrade to 34% Uplink, 22 Module Tech
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || Ion V2
+|-
+| Weapon (×2) || Magnetic Actuator
+|-
+| Shield || Titan Deflector
+|-
+| Shield || Baron Shield
+|-
+| Weapon || Argon Laser
+|}
+
+'''Overseers 2 & 3:'''
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || Ion Reactor
+|-
+| Weapon (×3) || Magnetic Actuator
+|-
+| Shield || Baron Shield
+|-
+| Weapon || Argon Laser
+|}
+
+'''Overseer 4:'''
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || Ion Reactor
+|-
+| Weapon || Magnetic Actuator
+|-
+| Shield || Storm Shield
+|-
+| Module || Comm Wave Scanner
+|-
+| Weapon || Argon Laser
+|}
+
+'''Speed check:''' With 9 Magnetic Actuators (varying uplink), you get 31% speed for the team (and 20% fire rate). Reapers must have '''over 70 speed''' — check in Personal Squad Viewer.
+
+==== Goals ====
+{| class="wikitable"
+|-
+! Goal !! Target
+|-
+| Cysentinel || Obtained (from Master Controllers)
+|-
+| Crusader Tech || Obtained
+|-
+| Cash remaining || Some after Fallen curse
+|}
+
+==== Strategy ====
+# Find Outpost; hire '''2× Zodiac''' and '''1× Adverse'''
+# Walk around normal Vulcore without attacking until you get a Fallen encounter
+# Choose '''Fallen Union''' (Dark Union) — this drains XP and cash while active
+# Find Azra (Fallen encounter can give you coords directly)
+# In Azra's Arena: take '''Challenge Master Controllers''' (not the normal cash option)
+# Defeat Master Controllers (see [[#Master Controllers|Master Controllers section]])
+# Choose '''[[Cysentinel]]''' as your prize
+#: {{MessageBox
+| header = Note
+| text   = Some strategies take the '''[[CyCorps Overseer|CyOverseer]]''' instead of the [[Cysentinel]]. The CyOverseer provides powerful support buffs and can be a strong choice if you already have good damage output. The Cysentinel is generally preferred for its shielding and survivability in [[Talsia Warfront]], but the CyOverseer is a legitimate alternative.
+}}
+# Kill some Magma Lords before being kicked out of Lava
+# Find Outpost; select '''Sulphur Anomaly'''
+# Attack everything in Sulphur except Annihilators (they can kill a bot)
+# When you find Workshops: attack them and choose Crusader segments (need 10 for Crus Tech)
+# When you get Crusader Tech: buy a Crusader immediately (costs 300,000 cash)
+# Spend excess cash on Argon Lasers (or Bounty Enhancers for efficiency)
+# Level until newest Seers are AI 10
+# Do Azra before leaving patrol
+
+'''Dangerous Sulphur enemies to drain first:'''
+* EX21–EX24: have Shield Neutralisers — must be drained
+* Manticore with 1 Shaman: fires twice and can kill a bot — drain him
+* Renegade Base Lords (anything other than normal Base Lord must be drained)
+* Horrors: dangerous Thermal Dawn weapon; without Seers fire on turn 3; with 1 Shaman fire on turn 2; with 2 Shamans fire on turn 1
+* Any squad with 2 Shamans: drain the attack bot always
+
+==== End of Patrol 4 ====
+Leave with Cysentinel, Crusader Tech, and some cash remaining.
+
+---
+
+=== Patrol 5 — Sulphur Levelling ===
+[[File:Crusader.jpg|right|80px|Crusader chassis]]
+
+==== Workshop Upgrade ====
+* Drop Valadin and Reapers
+* Give Reaper: Immob + Pulse Streamer; change Reaper targeting to '''Highest Shield Projector'''
+* Equip Cysentinel and Crusader with best weapons/shields available
+* Bump Seers to 50% Uplink, 20 Module Tech, 10 Reactor Tech
+* Move Security Countermand and Anomaly Detector to Crusaders
+* Upgrade Valadin Module to 40; buy Mechanical Obviators with remaining cash
+
+==== Goals ====
+{| class="wikitable"
+|-
+! Goal !! Target
+|-
+| Cysentinel / Crusader Level || 13 (AI 13 optimal for Alpha)
+|-
+| Mercreds (spare) || 750 (for 3 DAX Pods for Talsia)
+|-
+| Technology || Magmatic Tech (by end of patrol)
+|}
+
+==== Strategy ====
+# Hire '''2× Zodiac''' and '''1× Adverse'''
+# Get Fallen (Dark Union)
+# Level Cysentinel and Crusader in Sulphur to AI 13
+# Whenever you have 25k or 50k cash: buy a total of 10 Mechanical Obviators, 2 Flux Channels, 2 TC7 Target Predictors (helps transition to Delta/Alpha and less wasteful than Argons)
+# Make sure you have '''Magmatic Tech''' by the time you leave patrol
+# Buy '''3 DAX Pods''' when finished
+
+'''Things to avoid in Vulcore (PZF/Axed method):'''
+* Caves
+* Avoidable fights (unless farming XP with multis)
+* Canyons (only if searching for Magma with Fallen — Fallen curse does not apply in Canyons)
+* Renegade Bases (only with Fallen when searching for Magma)
+
+==== End of Patrol 5 ====
+Leave with Cysentinel/Crusader at AI 13, 750 Mercreds, and Magmatic Tech.
+
+---
+
+=== Patrol 6 — Sulphur Endgame & Pre-Talsia ===
+
+==== Workshop Upgrade ====
+Choice: Either 2 Reapers for next patrol (leave an Overseer behind) or 1 Reaper (harder but levels all bots). '''Strongly recommended: 1 Reaper.'''
+
+Replace one Reaper with Crusader; replace one Reaper with Cysentinel.
+
+==== Team Composition (Patrol 6) ====
+* 1× Reaper (Level 12+)
+* 1× Bulwark (Level 10+)
+* 4× Seer (Level 10)
+* 1× Cysentinel (Level 0)
+* 1× Crusader (Level 0)
+
+==== Reaper Upgrade (Patrol 6) ====
+* Weapon Tech: 157; Payload: 241 kg
+
+==== Reaper Loadout (Patrol 6) ====
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || Sub Nuke Reactor
+|-
+| Weapon || Syphon Immobilizer
+|-
+| Weapon || Pulse Streamer
+|-
+| Module || Phase Modulator
+|-
+| Shield || Baron Shield
+|}
+
+==== Bulwark Upgrade (Patrol 6) ====
+* Weapon Tech: 234; Reactor: 30
+
+==== Bulwark Loadout (Patrol 6) ====
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || Sub Nuke Reactor (or Ion Flux Plus if low cash)
+|-
+| Weapon (×3) || Morning Star
+|-
+| Weapon || Shatter Cannon
+|-
+| Shield (×2) || T-Sub
+|-
+| Shield (×2) || Baron Reflective Shield
+|}
+
+==== Cysentinel Loadout (Patrol 6) ====
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || Sub Nuke Reactor
+|-
+| Shield (×4) || Photonic Shield
+|-
+| Module || Motion Tracker
+|}
+
+==== Crusader Loadout (Patrol 6) ====
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || Ion Flux Plus
+|-
+| Weapon || Baron Laser
+|-
+| Module || Security Countermand
+|-
+| Module || Anomaly Detector
+|-
+| Shield || Baron Shield
+|}
+
+==== Overseer Loadouts (Patrol 6) ====
+'''2 Seers (40% Uplink, Module 17, Reactor 5):'''
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || Ion V2
+|-
+| Weapon (×3) || Magnetic Actuator
+|}
+
+'''Third Seer:'''
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || Ion V2
+|-
+| Shield || Storm Shield
+|-
+| Module || Comm Wave Scanner
+|-
+| Weapon || Magnetic Actuator
+|}
+
+'''Fourth Seer (optional — can use Reaper instead for safer team):''' 34% Uplink
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || Ion V2
+|-
+| Module || Phase Modulator
+|-
+| Module || T-Sub
+|-
+| Shield || Titan Deflector
+|}
+
+'''Fire rate check:''' 2 Seers with 3× Magnetic Actuators = 24% fire rate; last Seer = 2% more = 26% total fire rate.
+
+==== Goals ====
+{| class="wikitable"
+|-
+! Goal !! Target
+|-
+| Cysentinel Level || 10 (12 optimal for Alpha)
+|-
+| Crusader Level || 10 (12 optimal for Alpha)
+|-
+| Mercreds (spare) || 750 (for 3 DAX Pods)
+|-
+| Cash || Enough for Talsia entry
+|}
+
+==== Strategy ====
+# Find Outpost; hire '''3× Copius''' (giving 100% fire rate total)
+# Go to Sulphur; kill all squads except Annihilators
+# If Mercred count is not horribly low: buy an EXP multi to refresh current (if had it for 40+ KC; only 4× EXP or higher)
+# Level until you have 750 Mercreds (enough for 3 DAX Pods for Talsia)
+# If you reach 750 Mercreds before target levels: buy EXP multis with spare Mercreds
+# Cysentinel and Crusader at least Level 10 (Level 12 optimal for Alpha)
+# When ready: leave for Talsia, or stay in Sulphur for more XP (more XP in Talsia later)
+# If you have 800 Mercreds: buy Azra coords before leaving for extra cash
+
+'''Reactor note:''' Get 56 highest Reactor Tech for now — enough for the Magmatic Reactor (expensive but worth it).
+
+'''Alternative Patrol 6 (with Fallen):'''
+* Use Fallen (Dark Union) — allows 2 Crusaders and still kill things
+* Cash will hurt a bit; do a cash run after second Sulphur run if needed
+* Keep BM under 1.5M to avoid nasty Sulphur squads
+* Hire 2× Zodiac and 1× Adverse (20% fire rate for Fallen = 200% total; Zod and Adverse give survivability)
+* Annihilators still dangerous depending on BM — avoid if no 100-speed Reapers
+
+==== Pre-Talsia Cash Run (if needed) ====
+If cash is very low before Talsia:
+* Use Sulphur team with 3× Copius and 2 Reapers
+* Hit 2–3 Azra encounters for sufficient cash
+* Alternatively: do this after getting Plasma Tech (Crusader with Plasma Turbo-Cannon melts Vulcore bots)
+
+== Important Mechanics ==
+
+=== KCharge (KC) ===
+KCharge is the patrol timer/resource. Every action in the outlands costs KC. When KC reaches 0, the patrol ends and the Controller is returned to the Workshop. Key KC costs:
+* Moving/patrolling: 1 KC per step
+* Withdrawing from battle: variable (reduced by [[Training Withdraw|Withdraw training]])
+* Entering sub-zones: variable
+
+'''Conserve KC by:'''
+* Skipping avoidable fights when not farming
+* Training Withdraw to reduce its KC cost to 1
+* Not entering Canyons or Caves unnecessarily
+
+=== Battle Merit (BM) ===
+Battle Merit is a measure of the squad's total combat power. Higher BM means:
+* Enemies scale harder (more dangerous encounters)
+* Better rewards from Azra and other encounters
+* More dangerous Sulphur encounters (keep BM under 1.5M for early Sulphur runs)
+
+=== Greed ===
+Greed is a buff obtained from the [[Fallen]] (requires −25 alignment). It multiplies all cash bounties by '''10×''' for a limited duration (approximately 500 KC or until a console is taken).
+
+'''Rules while under Greed:'''
+* '''Never take a console''' — cash bonuses from consoles will end Greed
+* Focus on Tag Droids and Azra for maximum cash
+* Avoid Renegade Bases (consoles inside)
+* Avoid Plateaus (consoles inside) unless specifically farming Bulwark segments
+
+=== Dark Union (Fallen Union) ===
+Dark Union adds powerful [[Fallen]] bots to the squad but drains XP and cash while active. The drain grows the longer you patrol.
+
+'''Fallen bots in Dark Union:'''
+* 2× Demon
+* 2× Fiend
+* 1× Baal or 1× Beelzebub
+
+'''When to use Dark Union:'''
+* Patrol 4: Required to access Master Controllers
+* Patrol 5–6: Optional; useful for Sulphur runs with extra firepower
+
+=== Crowns ===
+Crowns are a currency obtained from Scaven Burial Mounds and the Sun Ritual. They are used to hire Scaven mercs and purchase items at the Outpost.
+
+* Sun Ritual: 4 Crowns per completion
+* Burial Mounds: variable
+* Delivering Crowns at the Outpost converts them to Mercreds (approximately 275 Mercreds per 28 Crowns)
+
+=== EXP Multipliers ===
+EXP multipliers increase the experience gained from battles. They are obtained from:
+* Scaven Settlements (EXP chips)
+* Random encounters
+* Purchased with Mercreds
+
+'''Important:''' Only attack normal Scaven squads when you have 3× EXP or more (to make the KC cost worthwhile).
+
+=== Deflector Coil ===
+A special shield ring carried by some Scaven Matriarchs. Bots with Deflector Coil cannot be drained without a critical hit. '''Always withdraw immediately''' if you cannot drain a Matriarch with Deflector Coil in the first turn.
+
+=== Shield Projection ===
+Many enemies in Vulcore use projected shields. Key points:
+* Projected shields must be depleted before armour damage can be dealt effectively
+* Draining the projector bot's reactor removes the projected shield from all squadmates
+* Prioritise draining shield projectors in combat
+
+== Cash & Mercred Farming ==
+
+=== Early Cash Farming (Patrol 1) ===
+* '''Tag Droids''' — primary source; farm with Greed active for 10× bounty
+* '''Azra's Arena''' — significant cash reward; do after getting Greed
+* '''Stun Lasers''' — sell for 900 cash each
+* '''Plateaus''' — enter after Azra for additional Tag Droids
+
+=== Mid-Game Cash Farming (Patrols 2–3) ===
+* '''Tag Droids + Greed''' — still the primary method
+* '''Azra''' — major cash injection each patrol
+* '''Lava Fields''' — Phoenix squads and Magma Lords alongside cash farming
+* '''Plateaus''' — Mining Bases and Renegade Bases for Bulwark segments + cash
+
+=== Late-Game Cash Farming (Patrols 4–6) ===
+* '''Sulphur Pits''' — high-value enemies; Renegade Workshops and Crusader segments
+* '''Azra''' — still valuable; buy Azra coords before leaving patrol if you have 800 Mercreds
+* '''Federate Transmissions''' — each gives approximately 1 shield worth of cash (33k each)
+* '''Argon Lasers''' — buy and sell for cash management
+
+=== Mercred Farming ===
+* '''Tag Droid Missions''' — 3 Mercreds per mission; do 4× for 12 Mercreds early
+* '''Cave Crystal Missions''' — reliable Mercred source throughout Vulcore
+* '''Crowns''' — deliver to Outpost for Mercreds (28 Crowns ≈ 275 Mercreds)
+* '''Scaven Settlements''' — get Mercreds from settlement rewards
+
+=== Credits (Crowns) Farming ===
+* '''Sun Ritual''' — 4 Crowns per completion; most reliable Crown source
+* '''Burial Mounds''' — variable Crowns
+* '''Scaven Settlements''' — occasional Crown rewards
+
+== Things to Watch Out For ==
+
+=== Angels ===
+* '''Always withdraw from Angels in one turn''' — they are extremely dangerous
+* Killing Angels grants −4 alignment (useful for alignment farming in Patrol 3+)
+* Never fight Angels in Patrol 1 or 2
+
+=== Matriarchs with Deflector Coil ===
+* Cannot be drained without a critical hit
+* '''Withdraw immediately''' if you cannot drain them in the first turn
+* Check the shield ring before engaging
+
+=== Magma Fortresses ===
+* Extremely dangerous — do not attack
+* Found in Lava Fields
+
+=== Annihilators ===
+* Avoid in early Sulphur runs
+* Only fight with 100+ speed Reapers and strong shielding
+* Especially dangerous when accompanied by Shamans
+
+=== EX-Series Renegades (EX21–EX24) ===
+* Have Shield Neutralisers — must be drained before they fire
+* Found in Sulphur Pits
+* Drain them in the first turn or withdraw
+
+=== Horrors ===
+* Thermal Dawn weapon — devastating
+* Fire rate depends on Shaman support:
+  * No Shaman: fire on turn 3
+  * 1 Shaman: fire on turn 2
+  * 2 Shamans: fire on turn 1
+* Drain the Horror (or the Shaman) before they can fire
+
+=== Renegade Base Lords ===
+* Normal Base Lord is harmless
+* Any other Base Lord variant must be drained
+* Check before engaging
+
+=== Consoles ===
+* '''Never take a console while under Greed''' — cash bonuses end Greed
+* Consoles in Plateaus and Renegade Bases can contain Bulwark segments
+
+=== Fallen Coords Cost ===
+* Each Fallen coord taken costs 10 alignment
+* Do not take too many coords — you need −100 alignment spare after Patrol 3
+
+=== Tag Trackers ===
+* If an enemy squad has a Reaper, retreat from Tag Trackers
+* Tag Trackers can be dangerous in early Patrol 1
+
+== Milestones ==
+
+The following are the key milestones in Vulcore progression:
+
+{| class="wikitable"
+|-
+! Milestone !! When !! Significance
+|-
+| '''Valadin Level 1''' || Training || Enables Baron Laser upgrade; first real combat capability
+|-
+| '''First Outpost Found''' || Patrol 1 || Access to missions, mercs, and items
+|-
+| '''Praetor Hired''' || Patrol 1 (12 Mercreds) || First real combat merc; enables Crystal missions
+|-
+| '''Orbie Hired''' || Patrol 1 (12 Mercreds) || Anomaly Detector; reveals Lava Fields
+|-
+| '''Scaven Mercs Obtained''' || Patrol 1 || Access to Scaven territory; enables Withdraw training
+|-
+| '''Withdraw Trained to 1 KC''' || Patrol 1 || Safe escape from any encounter
+|-
+| '''First Greed''' || Patrol 1 || 10× cash multiplier; enables fast cash farming
+|-
+| '''Valadin Level 6''' || Patrol 1 || End of Patrol 1 target; enables MR100 Rocket Packs
+|-
+| '''3 Reapers Purchased''' || Patrol 2 || Core drain squad established
+|-
+| '''Storm Shield Obtained''' || Patrol 2 || Significant defensive upgrade
+|-
+| '''Bulwark Technology''' || Patrol 2 || Unlocks Bulwark chassis
+|-
+| '''Reapers Level 7''' || Patrol 2 || Sufficient for Bulwark squad farming
+|-
+| '''Bulwark + Overseer Purchased''' || Patrol 3 || Squad diversification; Bulwark becomes primary attacker
+|-
+| '''Reapers Level 9–10''' || Patrol 3 || Sufficient for Master Controllers
+|-
+| '''Magma Technology''' || Patrol 3 || Unlocks Magma Cannon; significant damage upgrade
+|-
+| '''−100 Alignment''' || Patrol 3 || Required for Dark Union / Master Controllers
+|-
+| '''Nanomatic Workshop''' || Patrol 4 || Enables 8-bot squad
+|-
+| '''Master Controllers Defeated''' || Patrol 4 || Cysentinel obtained; major power spike
+|-
+| '''Cysentinel Obtained''' || Patrol 4 || Powerful chassis; essential for Sulphur progression
+|-
+| '''Crusader Technology''' || Patrol 4 || Unlocks Crusader chassis (300k cash)
+|-
+| '''Crusader Purchased''' || Patrol 4 || Second major chassis; complements Cysentinel
+|-
+| '''Cysentinel Level 13''' || Patrol 5 || Optimal for Talsia Alpha entry
+|-
+| '''Crusader Level 13''' || Patrol 5 || Optimal for Talsia Alpha entry
+|-
+| '''Magmatic Technology''' || Patrol 5 || Unlocks Magmatic Pyroclast reactor
+|-
+| '''750 Mercreds Saved''' || Patrol 5–6 || Enough for 3 DAX Pods in Talsia
+|-
+| '''Ready for Talsia''' || Patrol 6 || Cysentinel/Crusader Level 10–12; 750 Mercreds; Magmatic Tech
+|}
+
+== Progression Variations ==
+
+Different Controllers approach Vulcore differently. Here are the main strategic variations:
+
+=== Standard (Fallen meta — this guide) ===
+{{MessageBox
+| header = Outdated meta notice
+| text   = This variation uses the [[Fallen]] for [[Greed]] and [[Dark Union]]. A newer Angels-based meta may be more efficient — see the notice at the top of this page.
+}}
+The most well-documented approach. Focuses on:
+* Dual Baron Laser Valadin start
+* Banking missions to 12 Mercreds; retreat from Tag Trackers if enemy has a Reaper
+* Hire Praetor, Cave Crystal missions, hire Centurion and Orbie
+* 4 Crowns from Sun Ritual — no need to farm excess Mercreds before Scaven
+* Get Scaven mercs, train Withdraw, level Valadin almost to 6, get −25 alignment for Greed
+* Leave Scaven; Greed run to 500k cash; focus on Tag Droids and Azra only
+* Take Plateau after 400k cash for more Tag Droids
+
+=== Double Fallen runs ===
+A highly optimised approach focused on safety:
+* Standard dual Baron Laser Valadin start; single Argon Laser, CCU training to Level 1, sell Argon
+* Banking missions to 12 Mercreds; retreat from Tag Trackers if enemy has a Reaper
+* Hire Praetor, Cave Crystal missions, hire Centurion and Orbie
+* 4 Crowns from Sun Ritual — no excess Mercred farming needed before Scaven
+* Get Scaven mercs, train Withdraw, level Valadin almost to 6, get −25 alignment for Greed
+* Leave Scaven; Greed run to 500k cash; focus on Tag Droids and Azra only
+* Take Plateau after 400k cash for more Tag Droids
+* Workshop upgrade; buy 3 Reapers with EM Syphon; Valadin to MR100s
+* '''Set Reaper targeting to Most Reactor — very important; much safer to click Continue instead of manual targeting'''
+* Patrol 2: Hire Zodiac, Copius, Orbie; get Scaven mercs; train Withdraw; level Reapers almost to AI 7; get ~28 Crowns; get all negative alignment possible; leave Scaven; Greed to 1.2M cash; return Crowns and buy Storm Shield before leaving patrol
+* Patrol 3: Two workshop upgrades; upgrade Reapers to Pulse Beam and Syphonic Disruptor; buy 2 Seers with Comwave, Storm Shield, Anom, Sec Counter, 2 T-Subs
+* Patrol 4: Hire 2 Zodiacs and Adverse; get Fallen; MCs — take Cysent; get Magma segments; go to Sulphur; get Crus Tech; buy 2 Crusaders; spend excess cash on Argon Lasers; level until newest Seers are AI 10; Azra before leaving
+* Patrol 5: Hire 2 Zodiacs and Adverse; get Fallen; Sulphur until Cysent/Crus AI 13; buy 10 Mech Obvs, 2 Flux, 2 TC7s; make sure you have Magmatic by end; buy 3 DAX Pods
+
+== Squad Compositions by Phase ==
+
+=== Phase 1 (Patrol 1) ===
+{| class="wikitable"
+|-
+! Slot !! Bot !! Role
+|-
+| 1 || Valadin || Primary attacker
+|-
+| M1 || Praetor || Assault merc
+|-
+| M2 || Centurion || Drain merc
+|-
+| M3 || Orbie || Anomaly Detector / Lava access
+|-
+| M4 || Scaven mercs || Scaven territory access
+|}
+
+=== Phase 2 (Patrol 2) ===
+{| class="wikitable"
+|-
+! Slot !! Bot !! Role
+|-
+| 1 || Valadin (MR100s) || Secondary attacker
+|-
+| 2–4 || 3× Reaper (EM Syphon) || Primary drain squad
+|-
+| M1 || Zodiac || Speed/fire rate buff
+|-
+| M2 || Copius || Heavy assault
+|-
+| M3 || Orbie || Anomaly Detector
+|-
+| M4 || Scaven mercs || Scaven territory access
+|}
+
+=== Phase 3 (Patrol 3) ===
+{| class="wikitable"
+|-
+! Slot !! Bot !! Role
+|-
+| 1 || Valadin || Secondary attacker
+|-
+| 2–4 || 3× Reaper (Pulse Beam + Syphon Disrupter) || Drain squad
+|-
+| 5 || Bulwark || Primary attacker
+|-
+| 6 || Overseer || Support / speed buff
+|-
+| M1 || 2× Zodiac || Speed/fire rate buff
+|-
+| M2 || Copius || Heavy assault
+|}
+
+=== Phase 4 (Patrol 4 — Master Controllers) ===
+{| class="wikitable"
+|-
+! Slot !! Bot !! Role
+|-
+| 1–3 || 3× Reaper (Syphon Immob) || Primary drain
+|-
+| 4 || Bulwark (Magma Cannons) || Primary attacker
+|-
+| 5–8 || 4× Overseer (Magnetic Actuators) || Speed/fire rate buff
+|-
+| M1 || 2× Zodiac || Speed/fire rate buff
+|-
+| M2 || Adverse || Advanced support
+|}
+
+=== Phase 5 (Patrol 5–6 — Sulphur) ===
+{| class="wikitable"
+|-
+! Slot !! Bot !! Role
+|-
+| 1 || Reaper (Immob + Pulse Streamer) || Drain / shield strip
+|-
+| 2 || Bulwark (Morning Star + Shatter Cannon) || Primary attacker
+|-
+| 3 || Cysentinel (Photonic Shields) || Shield tank / support
+|-
+| 4 || Crusader || Secondary attacker
+|-
+| 5–8 || 4× Seer (Magnetic Actuators) || Speed/fire rate buff
+|-
+| M1 || 3× Copius || Heavy assault (100% fire rate total)
+|}
+
+== Level & XP Requirements ==
+
+=== Bot Level Milestones ===
+
+{| class="wikitable"
+|-
+! Bot !! Target Level !! When !! Why
+|-
+| Valadin || 1 || Training || Enables Baron Laser upgrade
+|-
+| Valadin || 6 || End of Patrol 1 || End of Patrol 1 goal; enables MR100 Rocket Packs
+|-
+| Reapers || 7 || End of Patrol 2 || Sufficient for Bulwark farming
+|-
+| Reapers || 9–10 || End of Patrol 3 || Sufficient for Master Controllers
+|-
+| Reapers || 12 || Patrol 6 || Optimal for Sulphur
+|-
+| Bulwark || 10 || Patrol 4–5 || Sufficient for Sulphur
+|-
+| Overseer (Seer) || 10 || Patrol 4–5 || Sufficient for Sulphur
+|-
+| Cysentinel || 10 || Patrol 5 || Minimum for Talsia
+|-
+| Cysentinel || 12–13 || Patrol 6 || Optimal for Talsia Alpha
+|-
+| Crusader || 10 || Patrol 5 || Minimum for Talsia
+|-
+| Crusader || 12–13 || Patrol 6 || Optimal for Talsia Alpha
+|}
+
+=== Cash Requirements by Patrol ===
+
+{| class="wikitable"
+|-
+! Patrol !! Cash Goal !! Purpose
+|-
+| Patrol 1 || 485,000–500,000 || Workshop upgrade + 3 Reapers
+|-
+| Patrol 2 || 1,400,000 || Workshop upgrade (×2 to Tetronic) + Bulwark + Overseer
+|-
+| Patrol 3 || 4,500,000–5,000,000 || Workshop upgrade to Nanomatic + 3 Overseers + Crusader
+|-
+| Patrol 4 || Variable || Crusader purchase (300k) + weapons/shields
+|-
+| Patrol 5 || Variable || Magmatic Reactor + items
+|-
+| Patrol 6 || Enough for Talsia || DAX Pods + final items
+|}
+
+=== Mercred Requirements by Patrol ===
+
+{| class="wikitable"
+|-
+! Patrol !! Mercreds (Spare) !! Purpose
+|-
+| Patrol 1 || 47 || Hire mercs for Patrol 2 (Zodiac, Copius, Orbie + Scaven)
+|-
+| Patrol 2 || 55 || Hire mercs for Patrol 3
+|-
+| Patrol 3 || 55 || Hire mercs for Patrol 4
+|-
+| Patrol 4 || Variable || Hire mercs for Patrol 5
+|-
+| Patrol 5–6 || 750 || 3× DAX Pods for Talsia
+|}
+
+== Workshop Upgrade Path ==
+
+{| class="wikitable"
+|-
+! Patrol !! Workshop Tier !! Cost !! Unlocks
+|-
+| Start || Basic || — || 1-bot squad
+|-
+| Patrol 1 → 2 || Hydraulic || 65,000 cash || 4-bot squad; buy 3 Reapers
+|-
+| Patrol 2 → 3 || Tetronic (×2 upgrades) || ~500,000 cash || 6-bot squad; buy Bulwark + Overseer
+|-
+| Patrol 3 → 4 || Nanomatic || Variable || 8-bot squad; buy 3 Overseers
+|}
+
+== See Also ==
+* [[Vulcore Plain]] — main zone overview page
+* [[Talsian Warfront]]
+* [[Riconnen's Challenge]]
+* [[Scaven]]
+* [[Fallen]]
+* [[Angelic]]
+* [[Master Controllers]]
+* [[Azra's Arena]]
+* [[Bulwark]]
+* [[Crusader]]
+* [[Cysentinel]]
+* [[CyCorps Overseer]]
+* [[Reaper]]
+* [[Valadin]]
+* [[Orbiter]]
+* [[Overseer]]
+* [[Leviathan]]
+* [[Magma Technology]]
+* [[Bulwark Technology]]
+* [[Crusader Technology]]
+* [[Magmatic Pyroclast]]
+* [[Sub Nuke Reactor]]
+* [[Ion Flux Plus]]
+* [[EM Syphon]]
+* [[Syphon Immobilizer]]
+* [[Pulse Beam]]
+* [[Syphon Disrupter]]
+* [[Magnetic Actuator]]
+* [[Baron Reflective Shield]]
+* [[Storm Shield]]
+* [[Photonic Shield]]
+* [[Titan Deflector]]
+* [[Morning Star]]
+* [[Shatter Cannon]]
+* [[Magma Cannon]]
+* [[DAX Pod]]
+* [[Mechanical Obviator]]
+* [[Greed]]
+* [[Training Withdraw]]
+* [[Scaven Runes]]
+* [[Tag Droid]]
+
+[[Category:Outlands]]
+[[Category:Guides]]
+[[Category:Vulcore]]
