@@ -11,6 +11,11 @@ File:Crusader.jpg|[[Crusader]] chassis — unlocked via Crusader Technology
 File:Terminus.jpg|[[Terminus]] — the most feared bot in Vulcore
 </gallery>
 
+== Progression Guide ==
+For a full step-by-step guide to progressing through Vulcore — including patrol phases, squad loadouts, cash and Mercred targets, Training Withdraw, and milestone checklists — see:
+
+* '''[[Vulcore Guide]]''' — Comprehensive guide covering Patrols 1–6, squad setups, farming strategies, important mechanics, and progression variations.
+
 == Theme ==
 Vulcore is a volcanic wasteland environment defined by:
 * Lava flows, sulphur pits, and unstable ground
