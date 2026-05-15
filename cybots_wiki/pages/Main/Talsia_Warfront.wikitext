@@ -1,0 +1,804 @@
+== Overview ==
+The '''Talsian Warfront''' (commonly referred to as '''Talsia''' or '''Tals''') is the second major outland zone available to [[Controller|Controllers]], accessible after establishing a foothold in [[Vulcore Plain|Vulcore]]. It is an active military theatre — a vast, contested warzone where [[CyCorps]] forces and their allied [[Legionnaires]] are locked in an ongoing conflict against the '''Federate''' military. Unlike Vulcore's open wasteland, Talsia is a structured battlefield with defined sectors, fortified positions, warships, armoured columns, and elite enemy units.
+
+Talsia is the primary source of '''Talsian Rank Points (TRP)''', '''Accolades''', and '''Mission Reward Points (MRP)''', which together drive the progression system for mid-to-late game Controllers. The zone is divided into two main sectors — '''Delta''' and '''Alpha''' — plus the '''Ruins''' area, each with escalating difficulty and rewards.
+
+<gallery widths="160" heights="120">
+File:Talsianwarfront.jpg|The Talsian Warfront
+File:Obliterator.jpg|[[Obliterator]] — purchasable with Accolades
+File:Rayden.jpg|[[Rayden Device]] — awarded at 100 missions
+File:Stormbringer.jpg|[[Storm Bringer]] — unlocked via Storm Weapons Tech
+File:Superinfantry.png|[[True Guard]] — elite Federate faction
+File:Plasmaturbocannon.jpg|[[Plasma Turbo-Cannon]] — core Alpha weapon
+File:Plasmaanamorph.jpg|[[Plasma Anamorph]] shield — unlocked via Plasma Tech
+File:Cycorps_leviathan.jpg|[[CyCorps Leviathan]] — Hydra merc chassis
+File:Cycorps_reaper.jpg|[[CyCorps Reaper]] — Basilisk merc chassis
+File:Cycorps_sentinel.jpg|[[CyCorps Sentinel]] — Eclipse/Saladin merc chassis
+File:Ylink.jpg|[[Y-Link]] module — awarded via CyCorps Commendation
+</gallery>
+
+Talsia is entered from the [[Workshop]] once the Controller meets the prerequisites. Upon entering, the Controller chooses between '''Delta Sector''' and '''Alpha Sector''' as their starting camp. Alpha Sector becomes accessible at '''750 TRP'''.
+
+== Theme ==
+The Talsian Warfront is a war-torn military environment defined by:
+* Active combat between CyCorps/Legionnaire forces and the Federate military
+* Armoured columns, infantry platoons, bunkers, fire bases, and fortified walls
+* Federate warships — Destroyers, Cruisers, and Battle Cruisers — patrolling the skies
+* Elite '''True Guard''' units defending key installations and ambushing CyCarriers
+* Talsian dust storms that sweep across the battlefield
+* Ruined cities (notably the remnants of '''Neoforina''') and contested valleys
+* Tactical Re-Arming Facilities (TRAFs) — Federate fortresses that are among the hardest encounters in the zone
+* Super Tanks — massive Federate armoured units that roam the warfront
+
+The atmosphere is one of constant attrition. Controllers must manage their [[KCharge]] carefully — many encounters can be skipped to conserve KC, and not every battle yields TRP or MRP.
+
+== Sectors / Sub-Zones ==
+
+=== Delta Sector ===
+The entry-level sector of the Talsian Warfront. Delta is the first area Controllers operate in and contains lighter Federate forces compared to Alpha. It is the primary grinding zone for Controllers building up their TRP from 0 to approximately 750–800.
+
+'''Key features:'''
+* Standard Federate infantry patrols, tank squads, bunkers, and fire bases
+* Mission outpost offering Delta-specific missions (see [[#Missions|Missions]])
+* Federate Drop Crates — supply crates dropped from aircraft; can be investigated for [[Mission Reward Points]] or set as ambushes
+* Federate Communications Relay Stations — can be destroyed or scanned for rewards
+* Valleys — optional terrain that can be entered; contain enemies and loot but are not required
+* Ruined City ('''Neoforina''') — the remnants of a destroyed city; can be explored
+* Bunkers — Federate fortified positions; attacking them yields [[Accolades]] (3 per bunker)
+* Fire Bases — heavily defended Federate launch sites; optional encounters
+* Uncrewed Tanks — abandoned Federate tanks that can be hijacked using a [[Comwave Scanner]] via an [[Overseer]]
+* Federate Armour Spotted — random tank encounters; can be attacked or avoided
+* Surrendering Troops — captured Federate soldiers; can be handed over, killed, or freed
+* Survivors — found after battles; can be taken to camp, marked, or left
+
+'''Encounters that give TRP/MRP:'''
+Missions are the primary source of TRP and MRP. In Delta, the following give TRP/MRP:
+* All mission completions (Sector Patrol, Disrupt Bombing Runs, Tank Threat, Freighter Escort, Priority Defence)
+* Bunkers (3 Accolades each)
+* Tank squads (when encountered as mission objectives)
+* Destroyers (25 Rank Points + 15 Accolades on kill)
+
+=== Alpha Sector ===
+The advanced sector of the Talsian Warfront, accessible at '''750 TRP'''. Alpha contains significantly harder Federate forces, including heavy tank formations, elite infantry, and warships. It is the primary grinding zone from ~750 TRP onward.
+
+'''Key features:'''
+* Heavy Federate armour: Main Battle Tanks, Heavy Siege Tanks, [[Ae7 Barrier Tank|Ae7 Barrier Tanks]], [[C6II Enertron|C6II Enertrons]], Amplifier Tanks, Syncron Tanks, Director Tanks, Concussion Tanks
+* Federate infantry: Heavy Infantry, Siege Blaster Squads, Grenadiers, Lieutenants, Heavy Shield Projectors, Bombardiers
+* Warships: Destroyers, Cruisers, and Battle Cruisers
+* TRAFs (Tactical Re-Arming Facilities) — see [[#TRAF|TRAF section]]
+* Super Tanks — [[Hulkram]], [[Moriartium]], [[Damostator]] (see [[#Super Tanks|Super Tanks]])
+* Carrier SOS events — [[CyCarrier]] ambushed by [[True Guard]]; can be aided for rewards
+* Crash Troopers — elite Federate jetpack infantry; appear during Blockade missions and Carrier SOS
+* Storm Troopers — fast APC-transported infantry; appear during Besieged Base missions
+* Battle Wreckage — aftermath of battles; can be investigated for components/MRP
+* Federate Response Teams — sent after the squad when operating in the area
+* Rogue Cybots — rogue bot squads encountered in Alpha
+
+'''Encounters that give TRP/MRP:'''
+* All mission completions (Reinforce Besieged Base, Chassis Recovery, Mining Facility Raid, Free Patrol, Destroy Cruiser, Blockade)
+* Destroyers (25 Rank Points + 15 Accolades)
+* Cruisers (100 Rank Points + 15 Accolades — best TRP-per-mission in the game until 18k TRP)
+* Battle Cruisers (75 Rank Points)
+* TRAFs (75 Rank Points on completion)
+* Carrier SOS (15 Accolades + experience)
+* Bunkers (3 Accolades each)
+* Communications Relay Stations (15 MRP)
+* Crash Troopers (15 Accolades)
+* Federate Jet (10 Accolades + 5000 XP)
+* Super Tanks (variable rewards — see [[#Super Tanks|Super Tanks]])
+
+'''Encounters that do NOT give TRP/MRP (can be skipped to save KC):'''
+* Standard infantry patrols (no Accolades unless mission-specific)
+* Free Patrol mission — not recommended; poor TRP/MRP ratio
+* Most random patrol encounters outside of mission objectives
+* Valleys (optional)
+
+=== Ruins (Neoforina) ===
+The remnants of the city of '''Neoforina''', accessible from the main patrol area. The Ruins are an optional exploration area.
+
+'''Key features:'''
+* Can be entered when the squad's course brings them near the ruins
+* Contains Federate forces, potential loot, and unique encounters
+* '''Storage Bunkers''' — can be opened using a [[Security Countermand]] module for rewards
+* '''Command Centers''' — Federate headquarters with database access; using a [[Comwave Scanner]] grants intelligence bonuses
+* '''Super Credit Cache''' — a Federate mercenary payment cache worth $500,000; requires a Comwave Scanner to access
+* '''Experience Bonus''' — Comwave Scanner can discover Federate tactical data, granting a x2 experience bonus
+* '''Trap Discovered''' — bases may be booby-trapped; an [[Anomaly Detector]] can detect and avoid the trap, rewarding the full base contents
+* '''Perimeter Defences''' — multi-stage base assault with walls, turrets, and interior defenders
+
+== Factions ==
+
+=== Federates ===
+The primary enemy faction in Talsia. The Federate military is a well-organised force with combined arms — infantry, armour, artillery, air support, and naval assets. They defend fixed positions, patrol the warfront, and operate warships.
+
+'''Infantry units:'''
+<gallery widths="160" heights="120">
+File:Lightinfantry.png|Heavy Infantry / Grenadiers chassis
+File:Heavyinfantry.png|Heavy Infantry chassis (alternate)
+File:Tripodgun.jpg|Siege Blaster Squad chassis
+File:Infantryshield.png|Heavy Shield Projector chassis
+File:Fed_officer1.png|Lieutenant / Bombardier chassis
+File:Mortarsquad.png|Mortar Squad chassis
+</gallery>
+* Heavy Infantry
+* Siege Blaster Squad
+* Grenadiers
+* Lieutenant (officer unit; high-priority target)
+* Heavy Shield Projector (projects shields for infantry squads)
+* Bombardier (special forces; feeds targeting data to high-altitude bombers)
+* Crash Troopers (elite jetpack infantry; very dangerous)
+* Storm Troopers ([[Storm APC]]-transported assault infantry)
+
+'''Armoured units (tanks):'''
+<gallery widths="160" heights="120">
+File:Hovertank1.png|Main Battle Tank / Cruiser Tank chassis
+File:Tank_shielder.png|[[Ae7 Barrier Tank]] / Shield Tank chassis
+File:Commstank.png|Command / Syncron / Amplifier / Director Tank chassis
+File:Tank_syphon.png|[[C6II Enertron]] — Inductor Tank chassis
+File:Tank_siege.png|Heavy Siege Tank / Concussion Tank chassis
+File:Tank_disruptor.png|Heavy Disruptor Tank chassis
+File:Fed_arty1.png|VX 88 — Artillery chassis
+File:Apc1.png|[[Storm APC]] chassis
+</gallery>
+* '''Main Battle Tank''' — core Federate tank; [[Heavy Assault Cannon]] + [[Heavy Radial Laser]]
+* '''Heavy Siege Tank''' — [[Siege Gun]]; slow fire rate but devastating
+* '''Concussion Tank''' — [[Disruptor Siege Gun]]
+* '''[[Ae7 Barrier Tank]]''' — Shield Tank with 19,200 projected shield + 4x [[Plasma Anamorph]] shields; [[Radial Laser]]; primary shielding unit
+* '''[[C6II Enertron]]''' — Inductor Tank; fires [[Induction Device]] (energy drain); primary drain threat
+* '''Amplifier Tank''' — Command Tank; carries [[Gunnery Metalink]] modules (boosts allied accuracy/fire rate)
+* '''Command Tank''' — carries [[Enhanced Optics]], [[Gunnery Metalink]], [[Omega Pathfinder]]
+* '''Syncron Tank''' — Command Tank; carries [[Multiphase Syncroniser]], [[Threat Analyser|Threat Analysers]], [[Damage Control]]
+* '''Director Tank''' — Command Tank; 42,400 projected shield; carries [[Master Fire Director]]; [[Radial Laser]]
+* '''Cruiser Tank''' — Battle Tank; [[AP22 Assault Cannon]] + [[Radial Laser]]
+* '''Heavy Disruptor Tank''' — Disruptor Tank; 2x [[Shield Neutraliser]] + [[Heavy Radial Laser]]
+* '''Deflector Tank''' — Shield Tank; [[Plasma]] shields
+* '''Screening Tank''' — Shield Tank; 42,400 projected shield + 4x [[Plasma]] shields
+* '''Shield Tank''' — Shield Tank; 25,200 projected shield + 2x [[Plasma IDT]] shields; [[Radial Laser]]
+* '''VX 88''' — Artillery; [[Siege Gun]]; 57,600 projected shield
+* '''[[Storm APC]]''' — transports Storm Troopers
+* '''Cortex Tank''' — [[True Guard]] variant; provides deflection and fire rate bonuses (TG version of [[Overseer]]/[[Seer]])
+
+'''Turrets and defences:'''
+<gallery widths="160" heights="120">
+File:Turret3.png|PR600 Launcher chassis
+File:Turret1.png|Rhino / Sabretooth / Lion chassis
+File:Turret8.png|SR180 Receptor — heavy drain turret chassis
+File:Turret_controldeck.png|Uplink Command chassis
+File:Fedwall1.png|Reinforced Wall / Fortress Wall chassis
+File:Destroyer_gun1.png|Heavy Gun Turret chassis
+</gallery>
+* PR600 Launcher — standard turret
+* FGSI Turret — shield-damaging and draining turret
+* SR180 Receptor — heavy drain turret; very dangerous; cannot be targeted until [[Uplink Command|Uplink Commands]]/[[Reinforced Wall]] are destroyed
+* Uplink Command — projects 9,000 shield each; must be drained/destroyed first
+* Reinforced Wall — provides drain deflection to all units behind it; must be killed (not just drained) before SR180s can be targeted
+* Rhino — heavy turret unit
+* Lion — turret unit
+* Sabretooth — turret unit
+* Heavy Gun Turret — warship-class turret
+* Devastator Battery — warship-class battery
+
+'''Warships:'''
+* '''[[Destroyer]]''' — Bridge + Destroyer Hull + 2x Shield Generator + 12x Heavy Gun Turret; reward: 25 Rank Points + 15 Accolades
+* '''[[Cruiser]]''' — Bridge + Cruiser Hull + 6x Shield Generator + 3x Devastator Battery; reward: 100 Rank Points + 15 Accolades; best TRP mission until 18k TRP cap
+* '''[[Battle Cruiser]]''' — massive warship; multi-stage encounter; reward: 75 Rank Points; requires significant preparation
+
+=== True Guard ===
+<gallery widths="160" heights="120">
+File:Superinfantry.png|[[True Guard]] / Crash Troopers chassis
+File:Tank_manium.png|[[Storm Bringer]] — True Guard tank chassis
+File:Tank_manium2.png|Cortex Tank chassis — True Guard command unit
+File:Tank_manium2.png|Manium Firespray chassis
+File:Superinfantry.png|[[True Guard]] unit
+File:Stormbringer.jpg|[[Storm Bringer]] — True Guard tank weapon
+File:Plasmaanamorph.jpg|[[Plasma Anamorph]] — True Guard shielding
+</gallery>
+An elite Federate faction encountered in Alpha Sector, TRAFs, and Carrier SOS events. True Guard units are among the most dangerous enemies in Talsia.
+
+'''Units:'''
+* '''[[True Guard]]''' — elite infantry; deal ~6,000 damage with crits (frequent); very high crit rate
+* '''True Guard Shielding''' — projects large shields for the True Guard formation; must be drained to neutralise
+* '''Manium Firespray''' — True Guard support unit; deals ~6,000 damage with crits
+* '''[[Storm Bringer]]''' — True Guard tank variant; deals ~10,500 damage with crits; less frequent crits than infantry
+* '''Cortex Tank''' — True Guard [[Overseer]]/[[Seer]] equivalent; provides deflection, fire rate, and energy bonuses
+* '''General Vangould''' — a named True Guard Field Marshal; encountered during [[Carrier SOS]] events; his tank escapes before destruction but the battle still counts as a victory
+
+'''True Guard Shielding''' units project massive shields. They must be drained (not killed) to neutralise the True Guard formation. Up to 3 True Guard Shielding units can appear at high BM (10M+).
+
+=== CyCorps / Legionnaires ===
+<gallery widths="160" heights="120">
+File:Cycorps_sentinel.jpg|[[CyCorps Sentinel]] — Eclipse merc chassis
+File:Cycorps_marauder.jpg|[[CyCorps Marauder]] — Typhoon/Argus merc chassis
+File:Cycorps_overseer.jpg|[[CyCorps Overseer]] — Remus/Ghengis merc chassis
+File:Cycorps_ranger.jpg|[[CyCorps Ranger]] — Pursuer/Engager merc chassis
+File:Cycorps_valadin.jpg|[[CyCorps Valadin]] — Valance merc chassis
+File:Cyorbiter.jpg|[[CyCorps Orbiter]] — Mechoid/Opticon merc chassis
+</gallery>
+Allied factions. [[CyCorps]] provides mercenary support units and satellite uplinks. The [[Legionnaires]] are the allied ground force whose survival is the objective of several missions. Missions that benefit the Legionnaires ([[#Blockade|Blockade]], [[#Reinforce Besieged Base|Reinforce Besieged Base]]) award enhanced completion bonuses (+55 Rank Points, +65 Accolades).
+
+== Missions ==
+
+Missions are the primary source of TRP, Accolades, and MRP in Talsia. They are accepted at the Mission Briefing in either Delta or Alpha Sector. Each mission completion awards a base amount of TRP and Accolades, plus converts accumulated MRP into experience and credits.
+
+'''Mission Reward Points (MRP)''' are earned during patrol from battles, bunkers, relay stations, and other encounters. At mission completion, all accumulated MRP are converted into experience and credits. The conversion rate scales with TRP (up to the 18,000 TRP cap) and BM (up to ~14M BM).
+
+=== Delta Sector Missions ===
+
+{| class="wikitable"
+|-
+! Mission !! TRP Reward !! Accolades !! Notes
+|-
+| '''Sector Patrol''' || ~20 || ~25 || Patrol and rendezvous with all Outposts.
+|-
+| '''Disrupt Bombing Runs''' || ~45 || ~75 || Destroy all Federate Bombardiers. Motion Tracker helps detect targets. Best Delta mission for Accolades.
+|-
+| '''Tank Threat''' || ~40 || ~35 || Destroy required number of Tank Squads within time limit. CySat weapons satellite bonus available. Motion Tracker helps.
+|-
+| '''Freighter Escort''' || ~20 || ~25 || Escort Colonite Freighters to mining outpost and back. Defend against ambushes.
+|-
+| '''Priority Defence''' || ~40 || ~35 || Defend an Aerial Defence Matrix Installation (ADMI) against Federate Operation Skyfall. Bonus: Experience x2.
+|}
+
+=== Alpha Sector Missions ===
+
+{| class="wikitable"
+|-
+! Mission !! TRP Reward !! Accolades !! Notes
+|-
+| '''Reinforce Besieged Base''' || +55 || +65 || Hold an Uplink Base until CyCarrier Zeus arrives. Legionnaire bonus applies. Max 2 support units.
+|-
+| '''Chassis Recovery''' || +20 || +25 || Escort CyFreighter and recover 5+ chassis. Easiest Alpha mission. Max 4 support units.
+|-
+| '''Mining Facility Raid''' || +45 || +75 || Raid Federate Colonite facility; steal 5+ tons. Max 4 support units.
+|-
+| '''Free Patrol''' || variable || variable || Open patrol; bonus MRP and Accolades from victories. Max 2 support units.
+|-
+| '''Destroy Cruiser''' || +100 || +15 || Destroy a Federate Cruiser. Best TRP-per-mission until 18k TRP cap. CyCorps Sentinel support bonus. Max 6 support units.
+|-
+| '''Blockade''' || +55 || +65 || Prevent Federate reinforcements from reaching their destination. Legionnaire bonus applies. Reaper units slow reinforcements. Max 4 support units.
+|}
+
+'''Note on Cruiser missions:''' The Destroy Cruiser mission awards 100 TRP — the highest of any single mission. Do not change this mission unless past 18k TRP. It is the best mission for TRP accumulation.
+
+'''Note on Free Patrol:''' Not recommended for TRP/MRP farming. Only useful for quick Accolades or MRP if needed.
+
+== Mercenary Outpost ==
+
+The Talsia Mercenary Outpost offers CyCorps support units for hire using '''Accolades'''. Mercs are hired before starting a mission and accompany the squad for the duration.
+
+=== Available Mercs ===
+<gallery widths="160" heights="120">
+File:Cycorps_reaper.jpg|[[CyCorps Reaper]] — Basilisk (35 Accolades)
+File:Cycorps_sentinel.jpg|[[CyCorps Sentinel]] — Eclipse (50 Accolades)
+File:Cycorps_marauder.jpg|[[CyCorps Marauder]] — Typhoon (60 Accolades)
+File:Cycorps_overseer.jpg|[[CyCorps Overseer]] — Remus (75 Accolades)
+File:Cycorps_leviathan.jpg|[[CyCorps Leviathan]] — Hydra (100 Accolades)
+File:Cyorbiter.jpg|[[CyCorps Orbiter]] — Mechoid (10 Accolades)
+File:Cycorps_ranger.jpg|[[CyCorps Ranger]] — Pursuer (35 Accolades)
+File:Cycorps_valadin.jpg|[[CyCorps Valadin]] — Valance (20 Accolades)
+</gallery>
+
+{| class="wikitable"
+|-
+! Merc !! Chassis !! Cost (Accolades) !! Notes
+|-
+| '''Mechoid''' || [[CyCorps Orbiter]] || 10 || [[Photonic]] shield; [[Security Countermand]] + [[Anomaly Detector]] modules; 10% crit, 10% accuracy, 20% energy saving
+|-
+| '''Valance''' || [[CyCorps Valadin]] || 20 || Light support unit
+|-
+| '''Pursuer''' || [[CyCorps Ranger]] || 35 || Projected shield; [[HR X Rocket Pack]]; [[Weapons Amplifier]]; [[Cobalt Hydron]] reactor; [[Argon]] shield
+|-
+| '''Basilisk''' || [[CyCorps Reaper]] || 35 || 2x [[Syphonic Immobilizer|Immobilizer]] (drain); key for draining [[True Guard Shielding]] and [[Uplink Command|Uplink Commands]]. Recommended for TRAFs and Cruiser missions.
+|-
+| '''Eclipse''' || [[CyCorps Sentinel]] || 50 || 1,600 projected shielding; useful for shield defence
+|-
+| '''Typhoon''' || [[CyCorps Marauder]] || 60 || [[Bio-Nuclear]] reactor; [[TC7 Target Predictor]]; [[Syphon Elite]] + [[MR100 Rocket Pack|MR100 Rocket Packs]] + [[Shatter Cannon]]; heavy attacker
+|-
+| '''Remus''' || [[CyCorps Overseer]] || 75 || [[Hydron Core]]; [[Flux Channel]] + [[Deflection Grid]] + [[EM Pulse Emitter]]; [[Argon Laser]]; [[Targeting Subroutine]]; provides 9 shield deflection + 11 drain deflection
+|-
+| '''Hydra''' || [[CyCorps Leviathan]] || 100 || [[Tribolt Hydron]]; [[Shield Neutraliser]] + [[Thor]] + 3x [[Baron Battery]] + 2x [[HR100 Rocket Pack|HR100 Rocket Packs]] + [[Shatter Cannon]]; 2x [[Photonic]] shields; [[Weapons Amplifier]] + [[Magnetic Actuator]]; heavy attacker/drainer
+|-
+| '''CySat AS''' || Satellite || 200 || Satellite uplink; Particle Stream weapon (100% accuracy, 0.9 shots/turn); [[Bio-Nuclear]] reactor
+|-
+| '''CySat EM''' || Satellite || 200 || Satellite uplink; Ion Beam weapon (100% accuracy, 0.9 shots/turn); [[Bio-Nuclear]] reactor
+|}
+
+'''Additional mercs available at higher Accolade counts out in the field:'''
+{| class="wikitable"
+|-
+! Merc !! Chassis !! Notes
+|-
+| '''Opticon''' || [[CyCorps Orbiter]] || [[Bio-Nuclear]]; [[Photonic]] shield; 2x [[Deflection Grid]] + [[Flux Channel]]; [[Baron Laser]]
+|-
+| '''Argus''' || [[CyCorps Marauder]] || [[Tribolt Hydron]]; 3,000 projected shield; 2x [[Shield Neutraliser]] + 2x [[Magnatron]] + 2x [[HR100 Rocket Pack|HR100 Rocket Packs]]; [[Mechanical Obviator]]
+|-
+| '''Engager''' || [[CyCorps Ranger]] || [[Cobalt Hydron]]; Projected shield; [[HR X Rocket Pack]]; [[Weapons Amplifier]]; [[Argon]] shield
+|-
+| '''Ghengis''' || [[CyCorps Overseer]] || [[Cobalt Hydron]]; 3,000 projected shield; [[Flux Channel]] + [[Targeting Subroutine]]; [[Argon Web]] shield; [[G33 Launcher]]; 2x [[Weapons Amplifier]]
+|-
+| '''Saladin''' || [[CyCorps Sentinel]] || [[Tribolt Hydron]]; 3,000 projected shield; [[Heavy Shield Disruptor]] + [[20mm Manifold]]; 4x [[Argon Web]] shields; [[Deflection Grid]]
+|}
+
+'''Recommendations:'''
+* '''Basilisk''' is essential for TRAFs and Cruiser missions — its [[Syphonic Immobilizer|Immobilizer]] drain ability targets shield projectors automatically when squad targeting is set to "Highest Shield Projector"
+* '''Remus''' provides valuable drain deflection (11%) and shield deflection (9%) — useful for surviving [[SR180 Receptor]] drain turrets
+* '''Eclipse''' provides 1,600 projected shielding — useful for shield-heavy encounters
+* '''Hydra''' is the most powerful combat merc but costs 100 Accolades per mission
+* Only hire mercs when needed — generally only in Alpha Sector
+
+=== Items for Sale ===
+<gallery widths="160" heights="120">
+File:Obliterator.jpg|[[Obliterator]] — 1,000 Accolades
+File:Plasmaturbocannon.jpg|[[Plasma Turbo-Cannon]] — unlocked via Plasma Tech
+File:Stormbringer.jpg|[[Storm Bringer]] — unlocked via Storm Weapons Tech
+</gallery>
+The Accolade Exchanger at the base services offers items purchasable with Accolades:
+
+{| class="wikitable"
+|-
+! Item !! Cost (Accolades) !! Notes
+|-
+| '''[[Plasma Technology|Plasma Tech]]''' || 2,250 || Unlocks Plasma weapons technology ([[Plasma Cannon]], [[Plasma Auto-Cannon]], [[Plasma Turbo-Cannon]], [[Plasma Anamorph]] shields, etc.)
+|-
+| '''[[Storm Weapons Technology|Storm Weapons Tech]]''' || 2,250 || Unlocks Storm weapons technology ([[Storm Bringer]], [[Hail Bringer]], etc.)
+|-
+| '''[[Obliterator]]''' || 1,000 || Powerful weapon; can be purchased multiple times. Best bought after Plasma Tech, then 1–2 Obliterators, then Storm Tech.
+|}
+
+== Talsian Rank Points (TRP) ==
+
+'''Talsian Rank Points (TRP)''' are the primary progression metric in Talsia. They are earned from:
+* Mission completions (primary source)
+* Destroying Destroyers (+25 TRP)
+* Destroying Cruisers (+100 TRP)
+* Completing TRAFs (+75 TRP)
+* Battle Cruiser victories (+75 TRP)
+
+TRP determines the Controller's '''Talsian Rank''' and unlocks awards, new chassis, and increased rewards.
+
+=== TRP Cap at 18,000 ===
+At '''18,000 TRP''', the experience and credits earned per MRP conversion reach their maximum value (~7,500 XP per MRP at max BM). Beyond 18,000 TRP, additional TRP no longer increases the MRP conversion rate. This means:
+* Controllers at 18k+ TRP can abort unwanted missions (costs −50 TRP and Accolades) without significant penalty
+* Mining Facility Raid and Blockade become the best missions (highest MRP yield)
+* Chassis Recovery and Reinforce Besieged Base can be aborted (recover + abort) — no need to exit and re-enter patrol
+* All patrol encounters can be attacked freely (1–2 KC each at high BM)
+* TRAFs are no longer necessary for TRP farming
+
+=== Raven Chassis Unlock at 18,000 TRP ===
+<gallery widths="160" heights="120">
+File:Raven.png|[[Raven]] — advanced chassis unlocked at high TRP
+</gallery>
+Upon reaching '''18,000 TRP''', the new '''Raven''' chassis is unlocked. This is a significant milestone reward for Controllers who have invested heavily in Talsia progression.
+
+== Mission Reward Points (MRP) ==
+
+'''Mission Reward Points (MRP)''' are accumulated during patrol from:
+* Battle victories (variable MRP per battle)
+* Bunker destructions (5 MRP per bunker)
+* Communications Relay destructions (15 MRP)
+* Federate Drop Crate investigations (4 MRP for destroying supplies)
+* Chassis recoveries (5 Accolades per chassis + MRP)
+* Various other encounters
+
+At mission completion, all accumulated MRP are converted into experience and credits. The formula scales with:
+* '''TRP''' — higher TRP = more XP per MRP (caps at 18,000 TRP)
+* '''BM (Battle Merit)''' — higher BM = more XP per MRP (caps at ~14M BM)
+
+At maximum TRP (18k) and high BM (~30M), a single mission can yield 1–2 million XP and $1–2M credits from MRP conversion alone.
+
+== Accolades ==
+
+'''Accolades''' are the secondary currency of Talsia, earned from:
+* Mission completions (variable per mission type)
+* Bunker destructions (3 Accolades per bunker)
+* Crash Trooper defeats (15 Accolades)
+* Destroyer kills (15 Accolades)
+* Federate Jet kills (10 Accolades)
+* Carrier SOS victories (15 Accolades)
+* Various patrol encounters
+
+Accolades are spent on:
+* Hiring mercenaries (see [[#Mercenary Outpost|Mercenary Outpost]])
+* Purchasing Technology segments (Plasma Tech, Storm Weapons Tech — 2,250 each)
+* Purchasing Obliterators (1,000 each)
+* Purchasing super weapons (see [[#Accolade Shop|Accolade Shop]])
+
+== Talsian Rank Awards ==
+<gallery widths="160" heights="120">
+File:Leviathan.jpg|[[Leviathan]] — awarded at 3,200 TRP (Order of the Regiment)
+File:Rayden.jpg|[[Rayden Device]] — awarded at 100 missions (Union of Service)
+File:Ylink.jpg|[[Y-Link]] module — awarded via CyCorps Commendation
+File:Module3.jpg[[Advanced Master Fire Director]] module — awarded at 200 missions w/ 90%+ success rate (Master of Talsia)
+</gallery>
+Talsian Rank Awards are milestone achievements earned by reaching specific TRP thresholds or completing specific objectives. Each award grants a merit bar and a unique reward.
+
+{| class="wikitable"
+|-
+! Award !! Requirement !! Reward
+|-
+| '''Order of Merit''' || Achieve 800 TRP (rank: Endurion) || Merit bar + '''500 [[Accolades]]'''
+|-
+| '''Crimsons Cross''' || Achieve 1,600 TRP (rank: Field Director) || Merit bar + '''[[Radial Laser]]''' weapon set
+|-
+| '''Order of the Regiment''' || Achieve 3,200 TRP (rank: Battle Marshal) || Merit bar + '''[[Leviathan]]''' class super bot (issued to workshop — ensure workshop has space)
+|-
+| '''CyCorps Commendation''' || 75%+ mission success rate with 50+ completed missions (originally listed as 75 missions) || Merit bar + access to '''[[Y-Link]]''' module (calls in [[Y-Bot]] orbital strike with [[Plasma Beam]], 90% accuracy, 1 shot/turn)
+|-
+| '''Star of Talsia''' || Destroy 50 or more warships || Merit bar + '''[[Pneumatron Reactor]]''' (experimental; 10,000 energy — virtually undrainable)
+|-
+| '''Union of Service''' || Complete 100 missions || Merit bar + '''[[Rayden Device]]''' super weapon (draining super weapon)
+|-
+| '''Order of the CyLegion''' || 90%+ mission success rate with 150+ completed missions || Merit bar + [[Y-Link]] upgraded to '''[[MKII Y-Bot]]''' ([[Tribolt Hydron]] reactor, 3,000 energy, 2x [[Plasma Beam]], 108 speed)
+|-
+| '''Master of Talsia''' || Complete 200 missions with 90%+ success rate || Merit bar + access to '''[[Advanced Master Fire Director]] (AMFD)''' module
+|}
+
+'''Notes on awards:'''
+* The '''[[Pneumatron Reactor]]''' (Star of Talsia) is one of the most valuable rewards — its 10,000 energy makes the [[CySentinel]] virtually immune to energy drain
+* The '''[[Rayden Device]]''' (Union of Service) is a powerful draining super weapon; equip on [[Leviathan]] for maximum drain output
+* The '''[[Advanced Master Fire Director|AMFD]]''' (Master of Talsia) is the endgame module for maximising fire rate and critical hit chance on [[Seer|Seers]]
+* The '''[[Leviathan]]''' (Order of the Regiment) is the first super-chassis available in Talsia; ensure workshop space before claiming
+* The '''[[Y-Link]]''' module (CyCorps Commendation) provides an orbital strike bot that fires automatically each turn
+
+== Technologies ==
+
+Talsia offers two unique technology segments purchasable with Accolades from the Accolade Exchanger:
+
+=== Plasma Technology ===
+<gallery widths="160" heights="120">
+File:Plasmacannon.jpg|[[Plasma Cannon]]
+File:Plasmaautocannon.jpg|[[Plasma Auto-Cannon]]
+File:Plasmaturbocannon.jpg|[[Plasma Turbo-Cannon]]
+File:Plasmaanamorph.jpg|[[Plasma Anamorph]] shield
+File:Plasmaidt.jpg|[[Plasma IDT]] shield
+File:Plasmamines.jpg|[[Plasma Mines]]
+</gallery>
+* '''Cost:''' 2,250 Accolades
+* '''Available through:''' Purchase at Accolade Exchanger; also obtainable by killing multiple Super Tanks
+* '''Unlocks:''' Plasma-type weapons and shields
+** [[Plasma Cannon]]
+** [[Plasma Auto-Cannon]]
+** [[Plasma Turbo-Cannon]] (PTC) — primary Alpha Sector weapon
+** [[Plasma Anamorph]] shield — high-capacity projected shield
+** [[Plasma IDT]] shield
+** [[Plasma Mines]]
+* '''Recommended purchase order:''' Buy Plasma Tech first, before Storm Tech or Obliterators
+
+=== Storm Weapons Technology ===
+<gallery widths="160" heights="120">
+File:Stormbringer.jpg|[[Storm Bringer]]
+</gallery>
+* '''Cost:''' 2,250 Accolades
+* '''Available through:''' Purchase at Accolade Exchanger; also obtainable by multiple acts of disobeying orders
+* '''Unlocks:''' Storm-type weapons
+** [[Storm Bringer]] — powerful shield-damaging weapon
+** [[Hail Bringer]] — powerful armour-damaging weapon
+* '''Recommended purchase order:''' Buy after Plasma Tech and 1–2 Obliterators
+
+== TRAF (Tactical Re-Arming Facility) ==
+
+A '''TRAF''' (Tactical Re-Arming Facility) is a heavily fortified Federate installation found in Talsia. TRAFs are multi-round encounters — the hardest repeatable challenge in the zone — and reward '''75 Talsian Rank Points''' upon completion.
+
+TRAFs are discovered via an '''Incoming Transmission''' event ordering their destruction, or by stumbling upon them during patrol ('''TRAF Located''' event).
+
+=== TRAF Structure ===
+TRAFs consist of 4 rounds of escalating difficulty:
+
+'''Round 1 — Outer Turrets:'''
+* Typically: 1–3 Uplink Towers, 2–4 PR600 Turrets, 3–6 other turrets (exact count depends on BM)
+* Uplink Commands project 9,000 shield each with heavy armour and shield deflection
+* Rhinos deal ~5,000 damage (15,000 with crits — uncommon)
+* FGSI Turrets deal shield damage and drain; they stop operating when Uplink Commands are destroyed
+* '''Strategy note:''' Drain both Uplink Commands first, then kill them. FGSI Turrets become inactive after Uplink Commands are destroyed.
+
+'''Round 2 — Wall Turrets / Forward Wall:'''
+* Typically: 1 Reinforced Wall, 2–3 Rhinos, 1–3 Uplink Towers, 1–2 SR180 Receptors
+* The '''Reinforced Wall''' provides drain deflection to all units behind it — SR180 turrets and Uplink Commands cannot be drained until the wall is killed (not just drained)
+* SR180 Receptors are heavy drain turrets that crit frequently
+* '''Critical note:''' The Reinforced Wall is very hard to kill without a high-crit [[Obliterator]] on a Crusader. The wall's deflection must be broken first.
+
+'''Round 3 — Inner Wall:'''
+* Same as Round 2 but with additional tanks
+* Tanks are not significantly more dangerous than Round 2 — use the same approach
+
+'''Round 4 — True Guard (Final Round):'''
+* True Guard units, Manium Firesprays, Cortex Tanks, Storm Bringer tanks, SR180 Receptors
+* True Guard and Manium Firesprays deal ~6,000 damage with crits (frequent)
+* Storm Bringer tanks deal ~10,500 damage with crits (less frequent)
+* Up to 3 True Guard Shielding units at high BM (10M+)
+* '''Do not stop or recover before this round''' — doing so triggers another Round 3 equivalent
+* Cortex Tanks are the True Guard version of Seers — they provide deflection, fire rate, and energy bonuses
+
+'''TRAF Reward:'''
+* '''75 Talsian Rank Points'''
+* Chance to receive the '''Ravager''' super weapon (see [[#Ravager|Ravager]])
+
+=== The Ravager ===
+<gallery widths="160" heights="120">
+File:Obliterator.jpg|[[Ravager]] — Ravager Superweapon
+</gallery>
+The '''[[Ravager]]''' is a rare super weapon that can drop as a reward from completing a TRAF. It is considered one of the best weapons in the game:
+* '''3,000 shield damage'''
+* '''1,750 armour damage'''
+* '''500 energy drain'''
+* Weight: 500 kg (requires 676+ weapon tech on [[Crusader]] to equip; high payload needed)
+* Equipped on [[Crusader]] alongside [[Tribolt Hydron]] reactor and [[Master Fire Director|MFDs]] for maximum effect
+
+== Super Tanks ==
+<gallery widths="160" heights="120">
+File:Tank_super.png|[[Super_Heavy_Tank]] — Super Heavy Tank
+</gallery>
+Super Tanks are massive Federate armoured units that roam the Talsian Warfront. They are tracked by PL-Scans and can be attacked or avoided. Each has unique rewards.
+
+=== Hulkram ===
+* '''HP:''' 175,000
+* '''Chassis:''' Super Heavy Tank
+* '''Weapons:''' Damostater (70% accuracy, 0.2 shots/turn), [[Induction Device]] (drain, 90% accuracy), 4x [[Shield Neutraliser]], 2x [[Phalanx]]
+* '''Shields:''' 4x [[Plasma Anamorph]] (6,000 each)
+* '''Reactor:''' Super Tank Core (25,000 energy)
+* '''Modules:''' Advanced Computer Systems, [[Voltage Conveyer]]
+* '''Reward:''' 50,000 Experience Points
+* '''Sighting text:''' "We are tracking the Hulkram Controller, she is moving slowly through the area and appears to have no escort."
+
+=== Moriartium ===
+* '''HP:''' 190,000
+* '''Chassis:''' Super Heavy Tank
+* '''Weapons:''' 2x Syphonic Array (drain, 90% accuracy), 4x Assault Cannon, [[AP22 Assault Cannon]], Damostater
+* '''Shields:''' 4x [[Plasma Anamorph]] (6,000 each)
+* '''Reactor:''' Super Tank Core (25,000 energy)
+* '''Modules:''' Advanced Computer Systems, [[Enhanced Optics]]
+* '''Reward:''' 500 [[Accolades]]
+* '''Sighting text:''' "We are tracking the Moriartium Controller, she is moving slowly through the area and appears to have no escort."
+
+=== Damostator ===
+* '''HP:''' 185,000
+* '''Chassis:''' Super Heavy Tank
+* '''Weapons:''' Damostater, 2x [[Plasma Auto-Cannon]], 3x [[Plasma Turbo-Cannon]], 2x SD70 Rocket Pack
+* '''Shields:''' 4x [[Plasma Anamorph]] (6,000 each)
+* '''Reactor:''' Super Tank Core (25,000 energy)
+* '''Modules:''' Advanced Computer Systems, [[Gunnery Metalink]], 2x [[Enhanced Optics]]
+* '''Reward:''' 10 Plasma Design Segments + Experience x2 bonus
+* '''Sighting text:''' "We are tracking the Damostator Controller, she is moving slowly through the area and appears to have no escort."
+* '''Note:''' Killing the Damostator grants an Experience x2 bonus for the battle.
+
+== Notable Warships ==
+<gallery widths="160" heights="120">
+File:Destroyer_hull.png|[[Cruiser_Hull]] — warship hull
+File:Destroyer_bridge.png|[[Battlecruiser_Deck]] - Battlecruiser Deck
+File:Carriergun.png|[[Devastator_Battery]] - Devastator Battery
+File:Destroyer_gun1.png|[[Gun_Turret]] - Gun Turret
+File:Destroyer_shield1.png|[[Shield_Generator]] - Shield Generator
+</gallery>
+
+=== Destroyer ===
+A Federate warship encountered in both Delta and Alpha Sectors. Destroyers are spotted on the horizon and can be attacked or avoided.
+
+* '''Composition:''' Bridge + Destroyer Hull + 2x Shield Generator + 12x Heavy Gun Turret
+* '''Reward:''' 25 [[Talsian Rank Points|Rank Points]] + 15 [[Accolades]]
+* '''Encounter:''' "Controller, a Destroyer has been spotted on the horizon. What are our orders?"
+* '''Note:''' Destroyers fire barrages before the squad can close to attack range, dealing pre-battle damage
+
+=== Cruiser ===
+A Federate Cruiser that has broken off from the main fleet. The primary target of the '''Destroy Cruiser''' mission.
+
+* '''Composition:''' Bridge + Cruiser Hull + 6x Shield Generator + 3x Devastator Battery
+* '''Reward:''' 100 [[Talsian Rank Points|Rank Points]] + 15 [[Accolades]] (mission completion)
+* '''Mission:''' "A Federate Cruiser has broken off from a main fleet and is vulnerable to attack. Destroy it."
+* '''Note:''' Best TRP-per-mission in the game until the 18k TRP cap. Do not change this mission when available.
+
+=== Battle Cruiser ===
+A massive Federate warship — one of the most dangerous encounters in Talsia. Battle Cruisers are spotted by long-range radar and can be avoided or engaged.
+
+* '''Reward:''' 75 [[Talsian Rank Points|Rank Points]]
+* '''Encounter:''' "Warning! Long range radar has picked up a gigantic federate warship. Although not many have been encountered, we are led to believe it may be a Battle Cruiser."
+* '''Structure:''' Multi-stage encounter — long-range bombardment phase, then direct engagement
+* '''Note:''' Requires significant preparation (25,200+ projected shields, high drain deflection). At endgame, all-attack the Battle Cruiser hull for a quick kill.
+
+== Carrier SOS ==
+<gallery widths="160" heights="120">
+File:Cycarrier_hull.png
+</gallery>
+The '''Carrier SOS''' is a random event in Alpha Sector where a CyCarrier is ambushed by True Guard forces.
+
+* '''Trigger:''' "Incoming Transmission: Carrier SOS — Emergency Transmission: [[True Guard]] ambush. [[CyCarrier]] in your vicinity requesting immediate assistance. Send help ASAP."
+* '''Choices:''' AID CYCARRIER | IGNORE
+* '''Reward for aiding:''' 15 [[Accolades]] + experience + potential encounter with [[General Vangould]]
+* '''[[General Vangould]]:''' A named [[True Guard]] Field Marshal who commands the ambush force. His tank escapes before destruction, but the battle is still won. Defeating his forces yields additional rewards.
+* '''Note:''' Carrier SOS is a good source of [[Accolades]] and experience. The [[True Guard]] forces are dangerous — ensure adequate shielding and drain deflection before engaging.
+
+== Unique Encounters ==
+
+=== Federate Drop Crate ===
+Federate supply crates dropped from aircraft. Can be investigated for rewards.
+* '''Choices:''' IGNORE CRATE | INVESTIGATE
+* If investigated: DESTROY CRATE (4 MRP) | SET AMBUSH (ambush the Federates who come to collect it)
+* If the crate is empty: "Looks like the Feds beat us to it Controller."
+* If the crate contains a Repair Kit: can be used for one-time repairs to Federate tanks/bots
+
+=== Uncrewed Tanks ===
+Abandoned Federate tanks discovered during patrol.
+* '''Choices:''' ATTEMPT HIJACK | LEAVE
+* Requires a [[Comwave Scanner]] (via [[Overseer]]) to hijack
+* Success: "Uplink Successful — We have hijacked a Federate tank and have linked it to your uplink channel through our [[Overseer]]."
+
+=== Surrendering Troops ===
+Remaining Federate soldiers who surrender after a base is captured.
+* '''Choices:''' HAND PRISONERS OVER | KILL PRISONERS | SET PRISONERS FREE
+* Handing over prisoners: 30 MRP reward from CyCorps
+
+=== Dust Storm ===
+A Talsian dust storm sweeps over the squad's position.
+* Causes temporary communications loss
+* May cause minor damage and energy disruption ("Light Damage")
+* Passes harmlessly in most cases
+
+=== Valley Entrance ===
+An optional terrain feature — a valley with relatively undisturbed terrain.
+* '''Choices:''' NO | YES
+* Contains enemies and potential loot
+* Not required for missions; can be skipped to save KC
+
+=== Ruined City (Neoforina) ===
+The remnants of the city of Neoforina.
+* '''Choices:''' NO | YES
+* Contains Federate forces, storage bunkers, command centers, and potential loot
+* Storage Bunkers require a [[Security Countermand]] module to open
+* Command Centers with a [[Comwave Scanner]] grant database access and intelligence bonuses
+
+=== Battle Wreckage ===
+Signs of a recent battle discovered during patrol.
+* '''Choices:''' IGNORE WRECKAGE | INVESTIGATE WRECKAGE
+* May contain components worth MRP, or nothing ("Most of the wreckage has been disintegrated by heavy weapons fire")
+
+=== Airstrike ===
+A Federate Goshawk ground attack aircraft targets the squad.
+* Sophisticated sensors make it hard to avoid
+* Defeating it rewards 10 Accolades + 5,000 experience
+
+=== Service Squad ===
+A passing CyCorps service squad inspects the squad for battle damage.
+* Makes repairs and provides a temporary AI boost
+
+=== Experience Boost ===
+CyCorps transmission granting a bonus multiplier to experience earnings.
+
+=== Super Credit Cache ===
+A Federate mercenary payment cache discovered using a Comwave Scanner.
+* Rewards: $500,000
+
+== Encounters: TRP/MRP Summary ==
+
+{| class="wikitable"
+|-
+! Encounter !! Gives TRP? !! Gives MRP/Accolades? !! Skip to save KC?
+|-
+| Mission completion || Yes || Yes (MRP conversion) || No
+|-
+| Destroy Cruiser mission || Yes (+100 TRP) || Yes (+15 Accolades) || No — best TRP mission
+|-
+| Destroy Destroyer || Yes (+25 TRP) || Yes (+15 Accolades) || Optional
+|-
+| Battle Cruiser || Yes (+75 TRP) || Yes || Optional (hard encounter)
+|-
+| TRAF completion || Yes (+75 TRP) || Yes || Optional (very hard)
+|-
+| Bunker || No || Yes (+3 Accolades, +5 MRP) || No — easy Accolades
+|-
+| Communications Relay || No || Yes (+15 MRP) || No — easy MRP
+|-
+| Crash Troopers || No || Yes (+15 Accolades) || Optional
+|-
+| Carrier SOS || No || Yes (+15 Accolades) || Optional
+|-
+| Federate Jet || No || Yes (+10 Accolades) || Optional
+|-
+| Standard infantry patrol || No || No || '''Yes — skip to save KC'''
+|-
+| Sector Patrol mission || Yes (~20 TRP) || Yes || '''Yes'''
+|-
+| Free Patrol mission || Variable || Variable || '''Yes — poor TRP/MRP ratio'''
+|-
+| Valley || No || Possible || '''Yes — optional'''
+|-
+| Dust Storm || No || No || N/A (automatic)
+|-
+| Drop Crate || No || Yes (+4 MRP) || Optional
+|-
+| Battle Wreckage || No || Yes (small) || Optional
+|}
+
+== Accolade Shop ==
+<gallery widths="160" heights="120">
+File:Obliterator.jpg|[[Obliterator]] — 1,000 Accolades each
+File:Plasmaturbocannon.jpg|[[Plasma Turbo-Cannon]] — Plasma Tech unlock
+File:Stormbringer.jpg|[[Storm Bringer]] — Storm Weapons Tech unlock
+File:Cycorps_reaper.jpg|[[CyCorps Reaper]] — Basilisk (35 Accolades)
+File:Cycorps_leviathan.jpg|[[CyCorps Leviathan]] — Hydra (100 Accolades)
+</gallery>
+The Accolade Exchanger at the base services allows Controllers to spend Accolades on:
+
+{| class="wikitable"
+|-
+! Item !! Cost !! Type !! Notes
+|-
+| '''[[Plasma Technology|Plasma Tech]]''' || 2,250 Accolades || Technology || Unlocks [[Plasma Cannon|Plasma]] weapons and shields. Buy first.
+|-
+| '''[[Storm Weapons Technology|Storm Weapons Tech]]''' || 2,250 Accolades || Technology || Unlocks [[Storm Bringer]] and [[Hail Bringer]]. Buy after Plasma + 1–2 Oblits.
+|-
+| '''[[Obliterator]]''' || 1,000 Accolades || Weapon || Powerful weapon; can be purchased multiple times. Buy 1–2 before Storm Tech, then buy more at endgame.
+|-
+| '''Mechoid''' (merc) || 10 Accolades || Mercenary || CyCorps Orbiter support unit
+|-
+| '''Valance''' (merc) || 20 Accolades || Mercenary || CyCorps Valadin support unit
+|-
+| '''Pursuer''' (merc) || 35 Accolades || Mercenary || CyCorps Ranger support unit
+|-
+| '''Basilisk''' (merc) || 35 Accolades || Mercenary || CyCorps Reaper; essential drain merc
+|-
+| '''Eclipse''' (merc) || 50 Accolades || Mercenary || CyCorps Sentinel; 1,600 projected shielding
+|-
+| '''Typhoon''' (merc) || 60 Accolades || Mercenary || CyCorps Marauder; heavy attacker
+|-
+| '''Remus''' (merc) || 75 Accolades || Mercenary || CyCorps Overseer; drain + shield deflection
+|-
+| '''Hydra''' (merc) || 100 Accolades || Mercenary || CyCorps Leviathan; heavy attacker/drainer
+|-
+| '''CySat AS''' (merc) || 200 Accolades || Satellite Uplink || Particle Stream; 100% accuracy
+|-
+| '''CySat EM''' (merc) || 200 Accolades || Satellite Uplink || Ion Beam; 100% accuracy
+|}
+
+'''Recommended purchase order:'''
+# Plasma Tech (2,250 Accolades) — at ~800 TRP / Order of Merit
+# 1–2 Obliterators (1,000 each) — after Plasma Tech
+# Storm Weapons Tech (2,250 Accolades) — after Obliterators
+# Additional Obliterators — at endgame (buy as many as Accolades allow)
+
+== Typical Enemy Compositions ==
+
+The following are representative enemy squad compositions encountered in Talsia at high BM (~30M):
+
+'''Infantry squads:'''
+* 4–5x Heavy Infantry, 3–6x Siege Blaster Squad, 2–5x Heavy Shield Projector, 2–4x Grenadiers, 1–2x Lieutenant
+
+'''Tank squads (common):'''
+* 6–8x Main Battle Tank, 2x C6II Enertron, 1–2x Ae7 Barrier Tank, 1–2x Amplifier Tank, 1–2x Command Tank, 1–2x Syncron Tank, 1–2x Heavy Siege Tank
+
+'''Tank squads (shield-heavy):'''
+* 2–4x Syncron Tank, 2–3x Ae7 Barrier Tank, 2–3x Main Battle Tank
+
+'''Bombardier squads:'''
+* 4x Bombardier, 2x Heavy Infantry, 4x Heavy Shield Projector, 1x Lieutenant
+
+'''Guerrilla/Recon squads:'''
+* 10x Carrion, 5x Heavy Reconoiter
+
+'''TRAF Round 1:'''
+* 2x Uplink Command, 10x PR600 Launcher
+
+'''TRAF Round 2:'''
+* 1x Reinforced Wall, 8x Rhino, 3x Uplink Command, 3x SR180 Receptor
+
+'''TRAF Round 3:'''
+* 1x Reinforced Wall, 6x Rhino, 3–4x Heavy Siege Tank, 2x Uplink Command, 4x SR180 Receptor
+
+'''TRAF Round 4 (True Guard):'''
+* 3x True Guard Shielding, 5x Manium Firespray, 3x Cortex Tank, 3x True Guard, 4x Storm Bringer, 2x SR180 Receptor
+
+'''Warship (Destroyer):'''
+* 12x Heavy Gun Turret, 1x Bridge, 1x Destroyer Hull, 2x Shield Generator
+
+'''Warship (Cruiser):'''
+* 3x Devastator Battery, 1x Bridge, 5x Heavy Gun Turret, 1x Cruiser Hull, 6x Shield Generator
+
+== See Also ==
+* [[Vulcore Plain]]
+* [[Mercenary Outpost]]
+* [[Obliterator]]
+* [[Rayden Device]]
+* [[Ravager]]
+* [[Pneumatron Reactor]]
+* [[True Guard]]
+* [[Federates]]
+* [[Legionnaires]]
+* [[CyCorps]]
