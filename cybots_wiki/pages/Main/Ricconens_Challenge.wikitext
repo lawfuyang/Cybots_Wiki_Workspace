@@ -1,0 +1,714 @@
+== Overview ==
+'''Riconnen's Challenge''' (also referred to as '''Rico's Challenge''' or simply '''Rico''') is a special [[Outlands|outland]] combat arena presented by the '''SatCom Corporation'''. It is a spectator warfare event open to all [[Controller|Controllers]] and consists of two distinct challenge modes: the '''Duel''' and '''Sudden Death'''.
+
+Unlike the open-world patrol zones of [[Vulcore Plain|Vulcore]] and the [[Talsian Warfront|Talsian Warfront]], Riconnen's Challenge is a structured arena event — Controllers enter a series of pre-set combat rounds against named opponents. The rules are simple: '''survive'''.
+
+<gallery widths="160" heights="120">
+File:Trainer bot1.jpg|Riconnen's Challenge — the Duel Ring
+File:Riconnenschallenge.jpg|Riconnen's Challenge arena entrance
+File:Cycorps leviathan.jpg|[[CyCorps Leviathan]] — Sudden Death grand prize
+File:Cycorps valadin.jpg|[[CyCorps Valadin]] — Storm, Duel Round 5 opponent
+File:Cycorps marauder.jpg|[[CyCorps Marauder]] — Gibbo, Duel Round 3 opponent
+File:Bulwark.jpg|[[Bulwark]] — Seraph, Duel Round 2 opponent
+File:Crusader.jpg|[[Crusader]] — Zulu, Duel Round 3 opponent
+File:Cycorps sentinel.jpg|[[Sentinel]] — Kraken, Duel Round 4 opponent
+File:Superinfantry.png|[[True Guard]] — SD8 final boss faction
+File:Scavenboss.jpg|[[Scaven Boss]] — SD1 Matriarch's guard
+</gallery>
+{{Quote|The SatCom corporation is proud to present the latest and greatest in spectator warfare — Riconnen's Challenge. Open to all able and willing warriors, the rules are simple. Survive. Stand your ground in the Duel Ring against single opponents or dare to enter Sudden Death — Riconnen's ultimate challenge where you only get one chance to prove your worth. Time your challenges carefully though, for the first to win will reap all the benefits.}}
+
+== The Duel ==
+
+=== Rules ===
+* '''One bot only''' — no squad support.
+* There is '''no BM restriction'''; any bot may enter regardless of Battle Merit.
+* Each Controller can only '''win the Duel once'''.
+* Once a player has won the Duel, prize earnings for subsequent winners decrease based on the total number of preceding winners.
+* '''5 rounds''' must be completed to win.
+
+=== Prize ===
+The '''first Controller''' to win the Duel is awarded:
+* '''$1,000,000''' credits
+* '''1,000,000''' experience points (also awarded to the bot)
+
+The first recorded Duel champion was '''Sturmovik'''.
+
+=== Duel Rounds ===
+
+==== Round 1 — Variant A: Marnal Pict ====
+[[File:Scavenboss.jpg|right|120px|Marnal Pict — Scaven Commander]]
+{{Quote|Your first duel will be against '''Marnal Pict''', a [[Scaven]] warrior and personal bodyguard to the Matriarch Mons'Heyek. Marnal duels with his favourite modified T-11 'hand cannon' and uses anti-shield grenades where needed. Wearing shielded body armour he is also well protected against most light and medium weaponry.}}
+
+{| class="fandom-table"
+! Faction !! BM !! Chassis !! HP !! Speed
+|-
+| Clan Vire || 279K || Scaven Commander || 375 || 60
+|}
+
+'''Loadout:'''
+{| class="fandom-table"
+! Slot !! Item !! Key Stats
+|-
+| Shield || Shielded Armour || [[File:Vest2.jpg|32px]] Primary: 2500, no energy cost
+|-
+| Weapon || T11 Hand Cannon || [[File:Inf pistol.jpg|32px]] 2.5 shots/turn, 100 shield / 80 armour dmg, 90% accuracy
+|-
+| Weapon || Distruptor Grenade || [[File:Inf grenade1.jpg|32px]] 0.4 shots/turn, 500 shield dmg (radius 2), 40% accuracy
+|-
+| Module || Tactical Genius || [[File:Brain.jpg|32px]] +12% shield deflect, +10% armour deflect, +30% accuracy, +75% fire rate
+|}
+
+==== Round 1 — Variant B: The Prophet ====
+[[File:Orbie.jpg|right|120px|The Prophet — Renegade Orbiter]]
+{{Quote|Your first duel will be against '''The Prophet''', a Renegade [[Orbiter]] attached to the '''Cyrix Collective'''. CCU records list the Prophet's original Controller as the veteran mooX.}}
+
+{| class="fandom-table"
+! Faction !! BM !! Chassis !! HP !! Speed
+|-
+| Cyrix Collective || 195K || [[Orbiter]] || 450 || 80
+|}
+
+'''Loadout:'''
+{| class="fandom-table"
+! Slot !! Item !! Key Stats
+|-
+| Reactor || [[Cobalt Hydron]] || [[File:Cobalthydron.jpg|32px]] 2000 energy, 750 recharge
+|-
+| Shield || [[Argon Web]] || [[File:Argonweb.jpg|32px]] Primary: 1500, 150 energy use, 300 recharge
+|-
+| Weapon || [[Good Samaritan]] || 0.5 shots/turn, 900 shield / 300 armour dmg (radius 3), 40% accuracy
+|-
+| Module || [[Weapons Amplifier]] || [[File:Module3.jpg|32px]] +50% fire rate
+|-
+| Module || [[Mechanical Obviator]] || [[File:Module3.jpg|32px]] +16% armour deflect, +10% fire rate, +30% speed
+|-
+| Module || [[Flux Channel]] || [[File:Module2.jpg|32px]] +50% energy saving
+|}
+
+==== Round 1 — Variant C: Valdor ====
+[[File:Valadin.jpg|right|120px|Valdor — CCU Valadin]]
+{{Quote|Your first duel will be against '''Valdor''', a veteran CCU [[Valadin]] famous for its sharp shooting avenger cannon and advanced module tech level.}}
+
+{| class="fandom-table"
+! Faction !! BM !! Chassis !! HP !! Speed
+|-
+| CCU || 234K || [[Valadin]] || 400 || 50
+|}
+
+'''Loadout:'''
+{| class="fandom-table"
+! Slot !! Item !! Key Stats
+|-
+| Reactor || [[Nuclear]] || 900 energy, 350 recharge
+|-
+| Shield || [[Baron II]] || Primary: 500 (×2 slots)
+|-
+| Weapon || [[Heavy Shield Disruptor]] || [[File:Generic3.jpg|32px]] 1.0 shots/turn, 500 shield dmg, 75% accuracy
+|-
+| Weapon || [[Avenger]] || 0.45 shots/turn, 350 armour dmg, 70% accuracy
+|-
+| Module || Master Fire Director || [[File:Module3.jpg|32px]] +25% accuracy, +40% fire rate, +8% crit
+|-
+| Module || [[Flux Channel]] || [[File:Module2.jpg|32px]] +50% energy saving
+|}
+
+==== Round 2 — Variant A: Black Hornet ====
+[[File:Reaper.jpg|right|120px|Black Hornet — Renegade Reaper]]
+{{Quote|Your next round you see you fighting '''Black Hornet''', a rogue [[Reaper]] with no known affiliation. It has been known to disable opponents in a single shot, leaving them at the mercy of four baron lasers.}}
+
+{| class="fandom-table"
+! Faction !! BM !! Chassis !! HP !! Speed
+|-
+| Renegade || 193K || [[Reaper]] || 750 || 62
+|}
+
+'''Loadout:'''
+{| class="fandom-table"
+! Slot !! Item !! Key Stats
+|-
+| Reactor || [[Tribolt Hydron]] || [[File:Tribolthydron.jpg|32px]] 3000 energy, 1000 recharge
+|-
+| Shield || [[Argon (Shield)|Argon]] (×2) || Primary: 1000 each, 100 energy use, 200 recharge
+|-
+| Weapon || [[Baron Battery]] || [[File:Baron quad.jpg|32px]] 1.0 shots/turn, 320 shield / 270 armour dmg, 70% accuracy
+|-
+| Weapon || [[Syphonic Disruptor]] || [[File:Syphonicdisruptor.jpg|32px]] 1.0 shots/turn, 800 energy drain, 65% accuracy
+|-
+| Module || [[EM Wave Emitter]] || [[File:Module3.jpg|32px]] +30% energy drain deflection
+|}
+
+==== Round 2 — Variant B: Sergeant Slaughter ====
+[[File:Fed officer1.png|right|120px|Sergeant Slaughter — Federate Officer]]
+{{Quote|Your next round you see you fighting '''Sergeant Slaughter''', a ruthless madman of a Federate Officer who was dishonourably discharged and disgraced. His name was given to him by his soldiers after he led a massacre against the civilian population of the rebel city of '''Neofornia'''.}}
+
+{| class="fandom-table"
+! Faction !! BM !! Chassis !! HP !! Speed
+|-
+| Federate Exiles || 364K || Officer || 250 || 40
+|}
+
+'''Loadout:'''
+{| class="fandom-table"
+! Slot !! Item !! Key Stats
+|-
+| Shield || Shielded Armour || [[File:Vest2.jpg|32px]] Primary: 2500
+|-
+| Weapon || T11 Hand Cannon (×2) || [[File:Inf pistol.jpg|32px]] 2.5 shots/turn each, 100 shield / 80 armour dmg, 90% accuracy
+|-
+| Weapon || Satchel Charge || [[File:Mine2.jpg|32px]] 0.2 shots/turn, 1000 shield / 750 armour / 500 energy drain, 80% accuracy
+|-
+| Module || Tactical Genius || [[File:Brain.jpg|32px]] +12% shield deflect, +10% armour deflect, +30% accuracy, +75% fire rate
+|}
+
+==== Round 2 — Variant C: Seraph ====
+[[File:Bulwark.jpg|right|120px|Seraph — Angelic Collective Bulwark]]
+{{Quote|Your next round you see you fighting '''Seraph''', of the '''Angelic Collective'''. A zealot [[Bulwark]], the Seraph has hunted some of the most evil bots across [[Vulcore Plain|Vulcore]]. The Duel has provided an easier hunting ground.}}
+
+{| class="fandom-table"
+! Faction !! BM !! Chassis !! HP !! Speed
+|-
+| Angelic Collective || 306K || [[Bulwark]] || 650 || 40
+|}
+
+'''Loadout:'''
+{| class="fandom-table"
+! Slot !! Item !! Key Stats
+|-
+| Reactor || [[Tribolt Hydron]] || [[File:Tribolthydron.jpg|32px]] 3000 energy, 1000 recharge
+|-
+| Projected Shield || Projected Shield || 2550 starting max
+|-
+| Shield || [[Argon Web]] (×2) || [[File:Argonweb.jpg|32px]] Primary: 1500 each
+|-
+| Weapon || [[Syphon Elite]] || [[File:Syphonelite.jpg|32px]] 1.0 shots/turn, 600 energy drain, 70% accuracy
+|-
+| Weapon || [[Heavy Shield Disruptor]] || [[File:Generic3.jpg|32px]] 1.0 shots/turn, 500 shield dmg, 75% accuracy
+|-
+| Weapon || [[Vulcan Cannon]] || [[File:Vulcancannon.jpg|32px]] 6.0 shots/turn, 8 shield / 60 armour dmg, 70% accuracy
+|-
+| Weapon || [[Avenger]] || 0.45 shots/turn, 350 armour dmg, 70% accuracy
+|-
+| Module || [[EM Wave Emitter]] || [[File:Module3.jpg|32px]] +30% energy drain deflection
+|-
+| Module || [[Deflection Grid]] || [[File:Module3.jpg|32px]] +12% shield deflection
+|}
+
+==== Round 3 — Variant A: Zulu ====
+[[File:Crusader.jpg|right|120px|Zulu — CCU Crusader]]
+{{Quote|Your opponent for this round is '''Zulu''', a renowned [[Crusader]] with incredible shielding. One of [[Azra's Arena|Azra]]'s favourites.}}
+
+{| class="fandom-table"
+! Faction !! BM !! Chassis !! HP !! Speed
+|-
+| CCU || 264K || [[Crusader]] || 525 || 25
+|}
+
+'''Loadout:'''
+{| class="fandom-table"
+! Slot !! Item !! Key Stats
+|-
+| Reactor || [[Tribolt Hydron]] || [[File:Tribolthydron.jpg|32px]] 3000 energy, 1000 recharge
+|-
+| Shield || [[Argon Array]] (×4) || Primary: 1300 each, 130 energy use, 300 recharge
+|-
+| Weapon || [[Quad Argon Lasers]] || [[File:Argon quad.jpg|32px]] 1.0 shots/turn, 200 shield / 120 armour dmg, 70% accuracy
+|-
+| Module || [[EM Wave Emitter]] || [[File:Module3.jpg|32px]] +30% energy drain deflection
+|-
+| Module || [[Flux Channel]] || [[File:Module2.jpg|32px]] +50% energy saving
+|}
+
+==== Round 3 — Variant B: Gibbo ====
+[[File:Cycorps marauder.jpg|right|120px|Gibbo — CyCorps Marauder]]
+{{Quote|Your opponent for this round is '''Gibbo''', a [[CyCorps]] Legionnaire. This CyMara is a pure assault bot with only one weakness — speed.}}
+
+{| class="fandom-table"
+! Faction !! BM !! Chassis !! HP !! Speed
+|-
+| Accounts || 429K || [[CyCorps Marauder]] || 1200 || 40
+|}
+
+'''Loadout:'''
+{| class="fandom-table"
+! Slot !! Item !! Key Stats
+|-
+| Reactor || [[Tribolt Hydron]] || [[File:Tribolthydron.jpg|32px]] 3000 energy, 1000 recharge
+|-
+| Weapon || [[Shield Displacer]] (×2) || [[File:Generic4.jpg|32px]] 1.0 shots/turn, 750 shield dmg, 70% accuracy
+|-
+| Weapon || [[Shatter Cannon]] || [[File:Shattercannon.jpg|32px]] 0.35 shots/turn, 1600 armour dmg, 70% accuracy
+|-
+| Weapon || [[Pulse Beam]] (×2) || 1.0 shots/turn, 150 shield / 300 energy drain (radius 3), 50% accuracy
+|-
+| Module || Master Fire Director || [[File:Module3.jpg|32px]] +25% accuracy, +40% fire rate, +8% crit
+|}
+
+==== Round 3 — Variant C: Baal ====
+[[File:Leviathan.jpg|right|120px|Baal — Damonian Leviathan]]
+{{Quote|Your opponent for this round is '''Baal''', a massive [[Leviathan]] of the '''Damonian Collective'''.}}
+
+{| class="fandom-table"
+! Faction !! BM !! Chassis !! HP !! Speed
+|-
+| Damonian Collective || — || [[Leviathan]] || 3000 || 30
+|}
+
+'''Loadout:'''
+{| class="fandom-table"
+! Slot !! Item !! Key Stats
+|-
+| Reactor || [[Tribolt Hydron]] || [[File:Tribolthydron.jpg|32px]] 3000 energy, 1000 recharge
+|-
+| Shield || [[Argon Web]] (×2) || [[File:Argonweb.jpg|32px]] Primary: 1500 each
+|-
+| Weapon || [[Syphon Elite]] (×3) || [[File:Syphonelite.jpg|32px]] 1.0 shots/turn, 600 energy drain, 70% accuracy
+|-
+| Weapon || [[Heavy Shield Disruptor]] (×2) || [[File:Generic3.jpg|32px]] 1.0 shots/turn, 500 shield dmg, 75% accuracy
+|-
+| Weapon || [[Avenger]] (×3) || 0.45 shots/turn, 350 armour dmg, 70% accuracy
+|-
+| Module || [[EM Pulse Emitter]] (×2) || [[File:Module3.jpg|32px]] +15% energy drain deflection each
+|}
+
+==== Round 4 — Kraken ====
+[[File:Cycorps sentinel.jpg|right|120px|Kraken — Renegade Sentinel]]
+{{Quote|'''Kraken''' will be your next opponent — a super Renegade [[Sentinel]] with 300 percent projection.}}
+
+{| class="fandom-table"
+! Faction !! BM !! Chassis !! HP !! Speed
+|-
+| Damonian Collective || 494K || [[Sentinel]] || 400 || 35
+|}
+
+'''Loadout:'''
+{| class="fandom-table"
+! Slot !! Item !! Key Stats
+|-
+| Reactor || [[Hydron Core]] || [[File:Hydroncore.jpg|32px]] 1500 energy, 450 recharge
+|-
+| Projected Shield || Projected Shield || 9000 starting max (300% projection)
+|-
+| Shield || [[Argon Web]] (×3) || [[File:Argonweb.jpg|32px]] Primary: 1500 each
+|-
+| Weapon || [[Shield Displacer]] || [[File:Generic4.jpg|32px]] 1.0 shots/turn, 750 shield dmg, 70% accuracy
+|-
+| Weapon || [[Shard Cannon]] || 0.4 shots/turn, 800 armour dmg, 75% accuracy
+|-
+| Module || [[DAX Pod]] || [[File:Modulespecial.jpg|32px]] +10% shield/armour deflect, +25% energy drain deflect, +15% fire rate, +15% bounty
+|}
+
+==== Round 5 — Storm ====
+[[File:Cycorps valadin.jpg|right|120px|Storm — CyCorps Valadin]]
+{{Quote|Your final opponent is '''Storm''', formerly of the '''CyCorps 10th Legionnaires''' of [[Talsian Warfront|Talsia]]. Storm is a veteran of every battlefield and has acquired [[Plasma Technology|Plasma]], [[Magma Technology|Magma]] and [[Storm Technology|Storm]] weapon technology. Good luck.}}
+
+{| class="fandom-table"
+! Faction !! BM !! Chassis !! HP !! Speed
+|-
+| CyCorps 10th Legion || 809K || [[CyCorps Valadin]] || 975 || 60
+|}
+
+'''Loadout:'''
+{| class="fandom-table"
+! Slot !! Item !! Key Stats
+|-
+| Reactor || [[Magmatic Pyroclast]] || [[File:Magmatic2.jpg|32px]] 5000 energy, 1500 recharge
+|-
+| Shield || [[Plasma Anamorph]] (×2) || [[File:Plasmashield3.jpg|32px]] Primary: 6000 each, 300 energy use, 300 recharge
+|-
+| Weapon || [[Storm Bringer]] || [[File:Lrp.jpg|32px]] 0.5 shots/turn, 3500 shield / 250 armour dmg (radius 2), 25% accuracy
+|-
+| Weapon || [[Hail Bringer]] || [[File:Lrp.jpg|32px]] 0.5 shots/turn, 250 shield / 2500 armour dmg (radius 2), 25% accuracy
+|-
+| Module || [[Director Subroutine]] (×2) || [[File:Module3.jpg|32px]] +5% shield deflect, +15% energy drain deflect, +15% accuracy/fire rate
+|-
+| Module || [[Core Overdrive]] || [[File:Module3.jpg|32px]] +5% armour deflect, +15% energy saving, +20% accuracy/fire rate/speed
+|}
+
+'''Strategy notes:'''
+* Storm's [[Plasma Anamorph]] shields provide 12,000 total shield HP — bring high shield-damage weapons.
+* The [[Storm Bringer]] has low accuracy (25%) but massive shield damage; the [[Hail Bringer]] targets armour.
+* [[Syphon]] weapons are effective for draining Storm's large energy pool.
+* Speed-boosting modules help avoid the area-effect weapons.
+
+== Sudden Death ==
+
+=== Rules ===
+* Entering Sudden Death is allowed '''only once''' — there is no second chance.
+* Enemy squads range from '''4 million BM''' up to '''10 million BM'''.
+* '''8 rounds''' must be completed to win.
+* Be sure you are ready before entering.
+
+=== Prize ===
+The '''first Controller''' to survive all 8 rounds of Sudden Death will be awarded a unique '''[[CyCorps Leviathan|CyLeviathan]]'''.
+
+=== Sudden Death Rounds ===
+
+==== SD1 — The Scaven ====
+[[File:Scavenboss.jpg|right|120px|Scaven Boss — SD1 squad leader]]
+{{Quote|The [[Scaven]] clans have united to bring their best to the challenge. Offensively weak, the Scaven rely on their numbers, strong projected shielding technology and leadership of their Matriarch and bosses.}}
+
+{| class="fandom-table"
+! Squad Name !! BM
+|-
+| Union of Scaven Clans || 3,846K
+|}
+
+'''Composition:'''
+{| class="fandom-table"
+! Unit !! Count
+|-
+| Matriarch || 1
+|-
+| Scaven Shield Matrix || 3
+|-
+| [[Scaven Boss]] || 2
+|-
+| Scaven Fighters || 8
+|}
+
+'''Tips:'''
+* Focus the Matriarch first — she provides leadership bonuses to the squad.
+* The Scaven Shield Matrix units provide projected shielding; use shield-stripping weapons ([[Shield Displacer]], [[Heavy Shield Disruptor]]) before switching to armour damage.
+* The Scaven Bosses are tougher than standard fighters; prioritise them after the Matriarch.
+
+==== SD2 — The EX's ====
+[[File:Marauder.jpg|right|120px|EX series — Renegade Marauder variants]]
+{{Quote|From [[Vulcore Plain|Vulcore]] comes the full range of EX series Renegade [[Marauder]] variants, one never before seen. Big guns, stupendous armour and a Shaman escort more than make up for any lack of speed, deflections or shielding.}}
+
+{| class="fandom-table"
+! Squad Name !! BM
+|-
+| Sword Collective || 4,109K
+|}
+
+'''Composition:'''
+{| class="fandom-table"
+! Unit !! Count
+|-
+| EX20 || 1
+|-
+| EX21 || 1
+|-
+| EX22 || 1
+|-
+| EX23 || 1
+|-
+| EX24 || 1
+|-
+| EX25 || 1
+|-
+| Shaman || 1
+|-
+| Orion || 1
+|}
+
+'''Tips:'''
+* The EX series are Renegade [[Marauder]] variants with heavy armour and powerful weapons.
+* The Shaman provides support — eliminate it early to reduce the squad's effectiveness.
+* These bots have minimal shielding; armour-damage weapons are most effective.
+
+==== SD3 — Federate Troopers ====
+[[File:Superinfantry.png|right|120px|Federate Storm Troopers — SD3]]
+{{Quote|Riconnen has set up an entrenched [[Talsian Warfront|Federate]] platoon of Storm Troopers equipped with supporting units. Take out the Spotters before the mortars start raining down.}}
+
+{| class="fandom-table"
+! Squad Name !! BM
+|-
+| Federate Troopers || 5,681K
+|}
+
+'''Composition:'''
+{| class="fandom-table"
+! Unit !! Count
+|-
+| Lieutenant || 1
+|-
+| Storm Troopers || 5
+|-
+| Spotters || 3
+|-
+| Siege Blaster || 2
+|-
+| Heavy Shield Projector || 1
+|-
+| Ranged Field Mortar || 6
+|}
+
+'''Tips:'''
+* '''Destroy the Spotters first''' — they provide targeting data to the Ranged Field Mortars. Without Spotters, mortar accuracy drops significantly.
+* The Heavy Shield Projector provides projected shielding to nearby units; eliminate it to expose the infantry.
+* The Lieutenant buffs the squad; taking it out early reduces overall effectiveness.
+
+==== SD4 — The Destroyers ====
+[[File:Bulwark.jpg|right|120px|Bulwark Renegades — SD4 Destroyers]]
+{{Quote|Although a slow chassis to upgrade, the [[Bulwark]] Renegades of the [[Vulcore Plain|Vulcore]] plateau are here to demonstrate its full potential. These 'Destroyer' squads have drain deflection and are escorted by powerful [[Overseer|Overseers]] and [[Reaper|Reapers]].}}
+
+{| class="fandom-table"
+! Squad Name !! BM
+|-
+| Vice Collective || 5,310K
+|}
+
+'''Composition:'''
+{| class="fandom-table"
+! Unit !! Count
+|-
+| Goliath || 3
+|-
+| Immobiliser || 2
+|-
+| Orion || 2
+|-
+| Mammoth || 2
+|-
+| Trojan || 2
+|-
+| Dreadnaught || 2
+|}
+
+'''Tips:'''
+* These [[Bulwark]]-based Renegades have '''drain deflection''' — [[Syphon]] weapons are less effective.
+* The Immobilisers can disable your bot's movement; prioritise them.
+* High armour-damage weapons ([[Shatter Cannon]], [[Plasma Cannon]]) are recommended.
+
+==== SD5 — Metal Might ====
+[[File:Tank_super.png|right|120px|Voilstrum War Master — SD5 super tank]]
+{{Quote|The Federate Voilstrum super tank takes charge in this seemingly one-sided battle. Hope you brought along the big guns.}}
+
+{| class="fandom-table"
+! Squad Name !! BM
+|-
+| Federate 1st Army || 7,403K
+|}
+
+'''Composition:'''
+{| class="fandom-table"
+! Unit !! Count
+|-
+| Main Battle Tank || 1
+|-
+| Voilstrum War Master || 1
+|-
+| Cruiser Tank || 1
+|-
+| A37 Barrier Tank || 1
+|-
+| Stinger Tank || 1
+|-
+| Heavy Siege Tank || 1
+|}
+
+'''Tips:'''
+* The '''Voilstrum War Master''' is the most dangerous unit — it has exceptional armour and firepower.
+* The A37 Barrier Tank provides shielding to nearby units; destroy it first.
+* Bring maximum armour-damage output; these are heavily armoured Federate tanks.
+* [[Plasma Turbo-Cannon]] and [[Magma Cannon]] are recommended for this round.
+
+==== SD6 — The Master Controllers ====
+[[File:Trainer bot1.jpg|right|120px|Master Controllers — veteran reset winners]]
+{{Quote|The best of the best. Past veterans who have won resets now unite to offer one of the greatest of challenges.}}
+
+{| class="fandom-table"
+! Squad Name !! BM
+|-
+| Master Controllers || Unknown
+|}
+
+'''Composition:'''
+{| class="fandom-table"
+! Unit !! Count
+|-
+| Opto || 1
+|-
+| Tammygotchi || 1
+|-
+| Crimsons || 1
+|-
+| Royi || 1
+|-
+| J4f || 1
+|-
+| Fridge || 1
+|-
+| Stonehead 2 || 1
+|-
+| Hextra || 1
+|-
+| Berkley || 1
+|-
+| Sacdaddy || 1
+|}
+
+'''Notes:'''
+* These are named veteran Controllers who have won previous game resets — their exact loadouts vary.
+* Expect high-tech equipment across all categories.
+* This is considered one of the most unpredictable rounds due to the variety of bot configurations.
+
+==== SD7 — The Sulphur Lords ====
+[[File:Crusader.jpg|right|120px|Sulphur Lords — Crusader-based Renegades]]
+{{Quote|The Sulphur Lords are the guardians of the Renegade workshops hidden in the noxious Sulphur Pits of [[Vulcore Plain|Vulcore]]. They come with a tamed Annihilator and a host of [[Crusader|Crusaders]]. Scared yet?}}
+
+{| class="fandom-table"
+! Squad Name !! BM
+|-
+| Damonian Collective || 8,628K
+|}
+
+'''Composition:'''
+{| class="fandom-table"
+! Unit !! Count
+|-
+| Sulphur Lord || 3
+|-
+| Shaman || 1
+|-
+| Chieftain || 2
+|-
+| Horror || 2
+|-
+| Mantra || 2
+|-
+| Annihilator || 1
+|-
+| Manticore || 1
+|}
+
+'''Tips:'''
+* The '''Annihilator''' is the most dangerous unit in this squad — it has massive HP and firepower.
+* The Sulphur Lords are [[Crusader]]-based Renegades with high armour and shield capacity.
+* The Shaman provides support buffs; eliminate it early.
+* The Manticore is a powerful Renegade [[Leviathan]] variant.
+* Bring maximum firepower — this is the second-hardest round in Sudden Death.
+
+==== SD8 — True Guard ====
+[[File:Superinfantry.png|right|120px|True Guard — SD8 final boss]]
+{{Quote|You have come this far, '''CONTROLLER''', but do you have what it takes to win against the [[True Guard]] force?}}
+
+{| class="fandom-table"
+! Squad Name !! BM
+|-
+| Federate True Guard || 14,937K
+|}
+
+'''Composition:'''
+{| class="fandom-table"
+! Unit !! Count
+|-
+| Storm Bringer || [[File:Cyclone tank.png|32px]] 2
+|-
+| Manium Firespray || [[File:Manium tank.png|32px]] 2
+|-
+| [[True Guard]] || [[File:Superinfantry.png|32px]] 2
+|-
+| Cortex Tank || [[File:Cortex tank.png|32px]] 2
+|}
+
+'''Tips:'''
+* At '''14,937K BM''', this is by far the hardest round in Sudden Death.
+* The [[True Guard]] units are elite Federate soldiers with exceptional equipment.
+* The '''Storm Bringer''' units carry the [[Storm Bringer]] weapon — devastating shield damage.
+* The '''Manium Firespray''' units deal heavy armour damage.
+* The '''Cortex Tank''' is a super tank with extreme HP and firepower.
+* Recommended: maximum shield HP, high energy reserves, and shield-stripping capability to deal with the True Guard's projected shielding.
+
+== Sudden Death — BM Summary ==
+
+{| class="fandom-table"
+! Round !! Name !! Squad !! BM
+|-
+| SD1 || The Scaven || Union of Scaven Clans || 3,846K
+|-
+| SD2 || The EX's || Sword Collective || 4,109K
+|-
+| SD3 || Federate Troopers || Federate Troopers || 5,681K
+|-
+| SD4 || The Destroyers || Vice Collective || 5,310K
+|-
+| SD5 || Metal Might || Federate 1st Army || 7,403K
+|-
+| SD6 || Master Controllers || Master Controllers || Unknown
+|-
+| SD7 || The Sulphur Lords || Damonian Collective || 8,628K
+|-
+| SD8 || True Guard || Federate True Guard || 14,937K
+|}
+
+== Duel Opponents Summary ==
+
+{| class="fandom-table"
+! Round !! Opponent !! Faction !! Chassis !! BM
+|-
+| Round 1 (A) || Marnal Pict || Clan Vire || Scaven Commander || 279K
+|-
+| Round 1 (B) || The Prophet || Cyrix Collective || [[Orbiter]] || 195K
+|-
+| Round 1 (C) || Valdor || CCU || [[Valadin]] || 234K
+|-
+| Round 2 (A) || Black Hornet || Renegade || [[Reaper]] || 193K
+|-
+| Round 2 (B) || Sergeant Slaughter || Federate Exiles || Officer || 364K
+|-
+| Round 2 (C) || Seraph || Angelic Collective || [[Bulwark]] || 306K
+|-
+| Round 3 (A) || Zulu || CCU || [[Crusader]] || 264K
+|-
+| Round 3 (B) || Gibbo || Accounts (CyCorps) || [[CyCorps Marauder]] || 429K
+|-
+| Round 3 (C) || Baal || Damonian Collective || [[Leviathan]] || —
+|-
+| Round 4 || Kraken || Damonian Collective || [[Sentinel]] || 494K
+|-
+| Round 5 || Storm || CyCorps 10th Legion || [[CyCorps Valadin]] || 809K
+|}
+
+== General Strategy ==
+
+=== Duel ===
+* Only one bot is allowed — choose your best single-combat bot.
+* The Duel escalates significantly in difficulty by Round 4 (Kraken's 9000 projected shield) and Round 5 (Storm's dual [[Plasma Anamorph]] shields totalling 12,000 HP).
+* '''Round 4 (Kraken)''': Bring heavy shield-stripping weapons. The 9,000 projected shield must be depleted before you can damage the chassis. [[Shield Displacer]], [[Heavy Shield Disruptor]], and [[Syphon MKII]] are recommended.
+* '''Round 5 (Storm)''': The [[Storm Bringer]] has only 25% accuracy but deals 3,500 shield damage per hit. Maximise your own shield HP and bring energy-drain weapons to deplete Storm's [[Magmatic Pyroclast]] reactor.
+
+=== Sudden Death ===
+* You only get '''one attempt''' — do not enter until fully prepared.
+* The BM of enemy squads ranges from ~4M to nearly 15M.
+* Recommended preparation:
+** Maximum-tech shields (e.g. [[Plasma Anamorph]], [[Argon Web]])
+** High-energy reactor (e.g. [[Magmatic Pyroclast]])
+** Mix of shield-stripping and armour-damage weapons
+** Modules that boost deflection and fire rate
+* SD3: Destroy Spotters first or the mortars will devastate your squad.
+* SD7: The Annihilator is the priority target.
+* SD8: The hardest encounter in the game at 14,937K BM — bring everything you have.
+
+== External Links ==
+* [https://web.archive.org/web/20090324011053/http://cybots.info/ricoduel.php Cybots Info — Rico Duel] (archived 2009)
+* [https://web.archive.org/web/20090324011053/http://cybots.info/ricosuddendeath.php Cybots Info — Rico Sudden Death] (archived 2009)
+
+== Related Pages ==
+* [[Outlands]]
+* [[Vulcore Plain]]
+* [[Talsian Warfront]]
+* [[Scaven Bosses|Scaven Boss]]
+* [[Scaven Shielders]]
+* [[Scaven Grenadiers]]
+* [[Bulwark]]
+* [[Crusader]]
+* [[Leviathan]]
+* [[Sentinel]]
+* [[CyCorps Valadin]]
+* [[CyCorps Marauder]]
+* [[Orbiter]]
+* [[Reaper]]
+* [[Storm Bringer]]
+* [[Hail Bringer]]
+* [[Plasma Anamorph]]
+* [[Magmatic Pyroclast]]
+* [[Argon Web]]
+* [[Syphon Elite]]
+* [[Shield Displacer]]
+* [[Heavy Shield Disruptor]]
+
+[[Category:Outlands]]
+[[Category:Events]]
+[[Category:Riconnen's Challenge]]
