@@ -82,23 +82,9 @@ However you won't win just by having tons of cash — in the end the winner is d
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center;">
 <div style="border:0.5px solid #2a2a4c; border-radius:6px; padding:0.6em; margin-bottom:0.4em;">
-[[File:Console1.jpg|120px|link=Battle Merit]]
-</div>
-[[Battle Merit]]
-</div>
-
-<div style="flex:1 1 120px; max-width:150px; text-align:center;">
-<div style="border:0.5px solid #2a2a4c; border-radius:6px; padding:0.6em; margin-bottom:0.4em;">
 [[File:Battle.jpg|120px|link=Combat]]
 </div>
 [[Combat]]
-</div>
-
-<div style="flex:1 1 120px; max-width:150px; text-align:center;">
-<div style="border:0.5px solid #2a2a4c; border-radius:6px; padding:0.6em; margin-bottom:0.4em;">
-[[File:Trainer bot1.jpg|120px|link=Chassis Characteristics]]
-</div>
-[[Chassis Characteristics]]
 </div>
 
 <div style="flex:1 1 120px; max-width:150px; text-align:center;">
