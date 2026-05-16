@@ -1,10 +1,15 @@
+[[File:Vulcoreplain.jpg|thumb|right|320px|The Vulcore Plain — two million square miles of volcanic wasteland and lethal hazard.]]
+
 == Overview ==
-The '''Vulcore Plain''' (also referred to simply as '''Vulcore''') is the primary patrol zone for [[Controller|Controllers]] in the early-to-mid game. Once the site of the now-infamous "Magma" weapons testing range, the Vulcore Plain is two million square miles of some of the most hazardous terrain on earth. The test complex lies somewhere in the centre of the massive, and now constantly active volcanic field. Dangers such as energy storms, military test mines, and magma geysers are commonly encountered. Both the isolation and hazardous terrain make Vulcore a popular location for renegade squads and, in more recent times, gangs of [[Scaven]] hunters.
+The '''Vulcore Plain''' (also referred to simply as '''Vulcore''') is the primary patrol zone for [[Controller|Controllers]] in the early-to-mid game. Once the site of the now-infamous "Magma" weapons testing range, the Vulcore Plain is two million square miles of some of the most hazardous terrain on earth. The test complex lies somewhere in the centre of the massive, and now constantly active volcanic field. Dangers such as [[Power Storms|energy storms]], military test mines, and magma geysers are commonly encountered. Both the isolation and hazardous terrain make Vulcore a popular location for renegade squads and, in more recent times, gangs of [[Scaven]] hunters.
 
 Vulcore is the first major outland zone available to Controllers and serves as the primary source of [[Mercreds]], [[Crowns]], [[Technology]] segments, and early [[Battle Merit]].
 
 <gallery widths="160" heights="120">
-File:Vulcoreplain.jpg|The Vulcore Plain
+File:Vulcoreplain.jpg|The Vulcore Plain — an endless volcanic wasteland
+File:varena.jpg|[[Lava Fields]] — home of [[Azra's Arena]] and the [[Fallen]]
+File:Lavarng2.jpg|Lava Renegades patrol the molten frontier
+File:Vstorm.jpg|[[Power Storms|Energy Storm]] — strips cash multipliers and drains energy
 File:Scavenboss.jpg|[[Scaven Boss]] — Scaven merc commander
 File:Bulwark.jpg|[[Bulwark]] chassis — unlocked via Bulwark Technology
 File:Crusader.jpg|[[Crusader]] chassis — unlocked via Crusader Technology
@@ -30,6 +35,7 @@ The atmosphere is hostile and unpredictable. Controllers must balance aggression
 == Sub-Zones ==
 
 === Vulcore Plain (Main Area) ===
+[[File:Vopen1.jpg|thumb|right|220px|Setting out on patrol across the Vulcore Plain.]]
 The open patrol area of Vulcore. Contains the majority of standard enemy encounters, [[Mercenary Outpost|Mercenary Outposts]], [[Tag Droid|Tag Droids]], [[Renegade]] squads, [[Scaven]] patrols, and random events. The main area connects to all other sub-zones.
 
 * '''Mercenary Outposts''' — Found scattered across the plain. Offer services: hire mercs, earn mercreds (missions), repairs, and items for sale. Available missions from outposts include: Banking, Cave Crystals, Matriarch Crowns, and Sulphur Anomaly.
@@ -44,7 +50,19 @@ The open patrol area of Vulcore. Contains the majority of standard enemy encount
 * '''[[Tag Droid|Tag Droids]]''' — Fast [[Orbiter]]-chassis enemies carrying a [[Credit Bank]] module. Intercepting and defeating them yields bonus credits. A primary source of cash on patrol.
 * '''Consoles''' — Can be opened for rewards, but opening them can replace an active cash multiplier (Greed/Enrichment) with a standard 10x multiplier — avoid if you have Greed/Enrichment active.
 
+<gallery widths="150" heights="110">
+File:Repair_vulcore.jpg|[[Mercenary Outpost]] — hub of services on patrol
+File:Ruined_outpost.jpg|Destroyed Outpost — investigate for loot
+File:Cave1.jpg|Cave entrance — send an [[Orbiter]] first
+File:Cave_scaven.jpg|Scaven-occupied cave
+File:Canyonpass1.jpg|Hidden canyon pass — blast open or enter directly
+File:Canyonpass2.jpg|Canyon passthrough on the volcanic plain
+File:Renegadebase1.jpg|[[Renegade Base]] — fortified installation with a Base Commander
+File:Renegade1.jpg|Renegade encounter on the open plain
+</gallery>
+
 === Scaven Territory ===
+[[File:V_scaventotems.jpg|thumb|right|240px|Scaven Totems — the gateway into Scaven Territory.]]
 A distinct sub-zone entered from the main Vulcore plain via Scaven Totems. Scaven Territory is the homeland of the [[Scaven]] faction and contains a dense concentration of Scaven units, settlements, burial mounds, and fortifications.
 
 '''Key features:'''
@@ -58,6 +76,15 @@ A distinct sub-zone entered from the main Vulcore plain via Scaven Totems. Scave
 * '''Sun Ritual''' — A special event in Scaven Territory (also found on the plain). Scaven Matriarchs perform a ritual around a glowing rune stone. Defeating them yields the [[Sun Rune]] and 4 Crowns. Best attempted at low BM to face only 1 Matriarch.
 * '''Ice Queen''' — A special Matriarch variant found in Scaven Settlements highlighted in blue by an [[Anomaly Detector]]. Defeating her yields the [[Ice Rune]] and 1 Crown. Has 200 armour. Can only be fought once.
 * '''Scaven Mercs''' — Hired by completing a Scaven mission. Follow the squad everywhere in Vulcore but prevent entry to Mercenary Outposts (must be dropped first). Can be taken out of Scaven Territory, making the squad very powerful in normal Vulcore. Attacking multiple settlements turns them hostile until you return to your workshop.
+
+<gallery widths="150" heights="110">
+File:V_scavenvillage1.jpg|Scaven Settlement — complete a mission for mercs and rewards
+File:V_scavenfarm.jpg|Scaven Farm — demand tribute for negative alignment
+File:V_scavenFort1.jpg|Scaven Fort — heavily defended at high BM
+File:Scaven_ambush.jpg|Scaven ambush — be ready at all times in their territory
+File:V_scaventower.jpg|Scaven Watchtower — ideal for Withdraw training
+File:Firewell_scaven1.jpg|Firewell site in Scaven Territory
+</gallery>
 
 <gallery widths="160" heights="120">
 File:Scavenboss.jpg|[[Scaven Boss]]
@@ -73,6 +100,7 @@ File:Sxd8.jpg|[[SxD8]] shield
 '''Important:''' Scaven mercs provide the squad with significant bonuses to speed, fire rate, accuracy, and a small amount of shielding/deflection via the Scaven Boss unit.
 
 === Lava Fields ===
+[[File:Lavaflow.jpg|thumb|right|260px|The scorching Lava Fields — a sub-zone of fire, danger, and dark bargains.]]
 A dangerous sub-zone accessible from the main Vulcore plain. The Lava Fields are the location of [[Azra's Arena]] and [[Fallen]] encounters.
 
 '''Key features:'''
@@ -87,6 +115,15 @@ A dangerous sub-zone accessible from the main Vulcore plain. The Lava Fields are
 * '''Lava Damage''' — Moving through certain areas of the Lava Fields can cause damage to the squad.
 * '''Firewells''' — Found in the Lava Fields (and occasionally elsewhere). Can be activated for rewards including database access, AI boosts, and rune discovery. Activating an unstable Firewell is risky. Requires an [[Orbiter]] to safely use the access shaft. The [[Fire Rune]] can be found in Firewells (and Magma Labs).
 
+<gallery widths="150" heights="110">
+File:Varena.jpg|[[Azra's Arena]] — the tournament of fire
+File:V_fallen1.jpg|[[Fallen]] encounter — power at the price of alignment
+File:Vfirewell.jpg|Firewell — activate for rune discovery and AI boosts
+File:Firewell1.jpg|Firewell interior — send an [[Orbiter]] down the access shaft
+File:Firewell2.jpg|Active Firewell — rewards database access and XP boosts
+File:Lavarng2.jpg|Lava Renegades patrol the scorched frontier
+</gallery>
+
 === Plateau ===
 An elevated sub-zone accessible from the main Vulcore plain. The Plateau contains unique encounters not found elsewhere.
 
@@ -97,18 +134,20 @@ An elevated sub-zone accessible from the main Vulcore plain. The Plateau contain
 * '''Tag Droids''' — Found on the Plateau, making it a good farming spot for credits when on a Greed/Enrichment run (after 400 KC on Greed, per experienced players).
 * '''Ground Unstable''' — Moving through certain areas may trigger ground instability events.
 
-'''Note:''' Avoid the Plateau if you have Greed/Enrichment active and do not want to risk losing it to a console or cash multiplier event.
+'''Note:''' Avoid the Plateau if you have [[Greed]]/[[Enrichment]] active and do not want to risk losing it to a console or cash multiplier event.
 
 === Sulphur Fields (Sulphur Pits) ===
+[[File:Magmalab.jpg|thumb|right|240px|A Magma Technology Lab — a prized target deep in the Sulphur Fields.]]
 A high-danger sub-zone that becomes accessible after defeating the [[Master Controllers]] and obtaining a CyBot. The Sulphur Fields are the primary location for farming [[Technology]] segments and high-level XP.
 
 '''Key features:'''
-* '''Magma Squads''' — Magma-type enemies (Flamers, Ash, Blazers, Fire Streakers, Combustus, Inferno, Fire Crawlers, Fire Lords, etc.) that drop [[Magma Technology]] segments.
-* '''Annihilators''' — Powerful boss-tier enemies that appear in the Sulphur Fields. Described as "mini Termies" — easier than a Terminus but still very dangerous as they bring Seers. Upon defeat, drop a superweapon based on BM: [[Thermal Dawn]] (low BM), [[Riot Gun]] (mid BM), or [[Obliterator]] (high BM).
+* Magma Squads — Magma-type enemies ([[Flamer|Flamers]], [[Ash]], [[Blazer|Blazers]], [[Fire Streaker|Fire Streakers]], [[Combustus]], [[Inferno]], [[Fire Crawler|Fire Crawlers]], [[Fire Lord|Fire Lords]], etc.) that drop [[Magma Technology]] segments.
+* '''[[Annihilators]]''' — Powerful boss-tier enemies that appear in the Sulphur Fields. Described as "mini Termies" — easier than a [[Terminus]] but still very dangerous as they bring Seers. Upon defeat, drop a superweapon based on BM: [[Thermal Dawn]] (low BM), [[Riot Gun]] (mid BM), or [[Obliterator]] (high BM).
 * '''Enforcers''' — Appear if the squad stays in the Sulphur Fields too long. Grow progressively stronger with each encounter. Most players return to an outpost to drop mercreds and re-enter for a fresh run rather than fighting Enforcers repeatedly.
 * '''Sulphur Workshops''' — Found in the Sulphur Fields. Contain [[Magma Technology]], [[Bulwark Technology]], and [[Crusader Technology]] segments.
-* '''Crusader Technology''' — Primarily obtained in the Sulphur Fields. The [[Crusader]] chassis is the main reward of Sulphur Field runs.
-* '''Magma Lords''' — Powerful Leviathan-chassis enemies (Lord Magmas) armed with 8x Morning Star weapons and EM Repulsor Field modules. Drop [[Magma Technology]] and [[Bulwark Technology]] segments.
+* '''[[Crusader Technology]]''' — Primarily obtained in the Sulphur Fields. The [[Crusader]] chassis is the main reward of Sulphur Field runs.
+* '''Magma Lords''' — Powerful [[Leviathan]]-chassis enemies ([[Lord Magmas]]) armed with 8x [[Morning Star]] weapons and [[EM Repulsor Field]] modules. Drop [[Magma Technology]] and [[Bulwark Technology]] segments.
+
 
 == Factions ==
 
@@ -119,6 +158,10 @@ An insectoid/tribal faction native to Vulcore. The Scaven are the most numerous 
 File:Scavengrenadiers.jpg|[[Scaven Grenadiers]]
 File:Scavenshielders.jpg|[[Scaven Shielders]]
 File:Scavenboss.jpg|[[Scaven Boss]]
+File:Scaven_leader.png|Scaven Leader chassis
+File:Scaven_matriarch.png|Scaven Matriarch chassis
+File:Scaven_shield.png|Scaven Shield chassis
+File:Scaven_wall.png|Scaven Fort Wall
 </gallery>
 
 '''Unit types encountered:'''
@@ -166,6 +209,7 @@ File:Scavenboss.jpg|[[Scaven Boss]]
 * '''Fort Wall''' — Scaven Fortification chassis with Light Wall Effect. Requires high armour-damage weapons to break through deflection.
 
 === Renegades ===
+[[File:Renegade1.jpg|thumb|right|220px|Renegade encounter — a rogue bot faction controlling bases and workshops across Vulcore.]]
 A rogue bot faction operating across Vulcore. Renegades occupy bases, workshops, and uplink installations. They use blast walls and standard bot chassis.
 
 '''Notable Renegade units:'''
@@ -179,6 +223,7 @@ A rogue bot faction operating across Vulcore. Renegades occupy bases, workshops,
 * '''[[EMPEROR LORD]]''' — [[Leviathan]] chassis with [[Tribolt Hydron]] reactor, [[Argon Web]] x2 shields, [[Pulse Streamer]] x3, [[HR X Rocket Pack]] x5.
 
 === Fallen ===
+[[File:V_fallen1.jpg|thumb|right|220px|Fallen Encounter — power and corruption await in the Lava Fields.]]
 A mysterious and malevolent faction encountered in the Lava Fields. The Fallen are arch-enemies of the Angels and offer powerful (but costly) gifts to Controllers with negative alignment.
 
 '''Encounter options (requires negative alignment):'''
@@ -208,6 +253,7 @@ A mysterious and malevolent faction encountered in the Lava Fields. The Fallen a
 * −100 alignment: + Dark Union
 
 === Angels ===
+[[File:Angel_encounter.jpg|thumb|right|220px|Angel encounter — approach with extreme caution and have Withdraw ready.]]
 <small style="color: grey;">''(The Angels section is outdated and may no longer reflect current game behaviour. If you have up-to-date information about the Angels faction, please help update this section.)''</small>
 A mysterious benevolent faction encountered in the Lava Fields. The Angels are arch-enemies of the Fallen and offer gifts to Controllers with positive alignment.
 
@@ -248,12 +294,14 @@ A mysterious benevolent faction encountered in the Lava Fields. The Angels are a
 * Complete the Raze Outpost mission for Scaven
 
 === Magma Enemies ===
-Magma-type enemies are found primarily in the Sulphur Fields and Canyons. They use fire-based weapons ([[Magma Cannon]], [[Phoenix Laser]], [[Morning Star]]) and drop [[Magma Technology]] segments.
+Magma-type enemies are found primarily in the [[Sulphur Fields]] and Canyons. They use fire-based weapons ([[Magma Cannon]], [[Phoenix Laser]], [[Morning Star]]) and drop [[Magma Technology]] segments.
 
 <gallery widths="120" heights="100">
 File:Magmacannon.jpg|[[Magma Cannon]]
 File:Phoenixlaser.jpg|[[Phoenix Laser]]
 File:Morningstar.jpg|[[Morning Star]]
+File:Magmatic.jpg|[[Magmatic]] reactor
+File:Magmaticpyroclast.jpg|[[Magmatic Pyroclast]] reactor
 </gallery>
 
 {| class="fandom-table"
@@ -392,6 +440,7 @@ All Master Controller bots share a Projected Shield of 11,200.
 == Technologies ==
 
 === Magma Technology ===
+[[File:Magmatic.jpg|thumb|right|140px|[[Magmatic]] reactor — unlocked via Magma Technology.]]
 Magma Technology is a progressive upgrade system unlocked by collecting Magma Segments. Maximum: 20 segments.
 
 '''Sources of Magma Segments:'''
@@ -433,6 +482,7 @@ Crusader Technology unlocks the [[Crusader]] chassis. Maximum: 10 segments. Prim
 The Crusader is a high-HP, high-shield chassis that becomes the backbone of advanced Vulcore and Talsia squads.
 
 == Power Storms ==
+[[File:Vstorm.jpg|thumb|right|200px|Energy Storm sweeping the Vulcore Plain]]
 Power Storms are a hazard unique to the Vulcore Plain. When a Power Storm hits:
 * Cash multipliers (Greed/Enrichment) are attracted by storms — storms can strip or reduce multipliers
 * Energy drain effects may occur
@@ -441,6 +491,7 @@ Power Storms are a hazard unique to the Vulcore Plain. When a Power Storm hits:
 '''Storm Shield:''' Costs 200 Mercreds at a Mercenary Outpost. Highly recommended before attempting Greed/Enrichment runs.
 
 == Mercreds ==
+[[File:Repair_vulcore.jpg|thumb|right|200px|A [[Mercenary Outpost]] — where Mercreds are earned, spent, and bots are repaired.]]
 Mercreds are the currency used on patrol in Vulcore. They are earned and spent at [[Mercenary Outpost|Mercenary Outposts]].
 
 '''Earning Mercreds:'''
@@ -553,6 +604,7 @@ Missions available at Mercenary Outposts in Vulcore:
 |}
 
 == Crowns ==
+[[File:V_victory_scaven.jpg|thumb|right|180px|Victory over Scaven forces — Crowns are the reward for hunting Matriarchs.]]
 Crowns are a special currency found in Vulcore, primarily obtained by:
 * Defeating Scaven Matriarchs (Matriarch Crowns mission)
 * Sun Ritual (4 Crowns)
@@ -583,11 +635,12 @@ File:Lunarrune.jpg|[[Moon Rune]]
 | [[Moon Rune]] (Lunar Rune) || Sink Holes on the Vulcore Plateau || [[Orbiter]] + [[Anomaly Detector]] || Only in Anomaly Detector-discovered, booby-trapped Sink Holes
 |}
 
-'''To obtain the SxD8:''' Equip at least 1 of each rune on squad bots, then enter Scaven Territory and find the Scaven Ziggurat. Open it to receive the [[SxD8]] shield (once per reset).
+'''To obtain the SxD8:''' Equip at least 1 of each rune on squad bots, then enter [[Scaven Territory]] and find the [[Scaven Ziggurat]]. Open it to receive the [[SxD8]] shield (once per reset).
 
 '''SxD8 stats:''' Primary level 3000, Tech level 35, Recharge 200.
 
 == Farming: Credits ==
+[[File:Battle8.jpg|thumb|right|200px|Tag Droids intercepted — the fastest cash source on patrol.]]
 The best sources of credits in Vulcore:
 
 * '''[[Tag Droid|Tag Droids]]''' — [[Orbiter]]-chassis enemies with a [[Credit Bank]] module. Fast and found across the plain and Plateau. Primary credit source on patrol. Intercepting them is the main goal of Banking missions.
