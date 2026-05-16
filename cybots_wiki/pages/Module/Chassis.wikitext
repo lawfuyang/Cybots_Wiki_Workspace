@@ -61,7 +61,6 @@ function p.generateTable(frame)
         { title = 'Module Uplink', section = 'Unique Stats', key = 'Module Uplink' },
         { title = 'Energy Distribution / Energy Share', section = 'Unique Stats', key = 'Energy Distribution / Energy Share' },
         { title = 'Energy Induction', section = 'Unique Stats', key = 'Energy Induction' },
-        { title = 'Damage Boost', section = 'Hidden Stats', key = 'Damage Boost' },
         { title = 'Drain Boost', section = 'Hidden Stats', key = 'Drain Boost' },
     }
     

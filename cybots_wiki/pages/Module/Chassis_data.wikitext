@@ -43,7 +43,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = 5,
                 ["Drain Boost"] = nil,
             },
         },
@@ -88,7 +87,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -133,7 +131,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = 200,
                 ["Drain Boost"] = nil,
             },
         },
@@ -168,7 +165,7 @@ return {
                 ["Speed"] = 85,
                 ["Critical Hit Chance"] = { value = 20, unit = "%" },
                 ["Accuracy Adjusted"] = { value = 40, unit = "%" },
-                ["Damage Adjusted"] = nil,
+                ["Damage Adjusted"] = { value = 150, unit = "%" },
                 ["Defensive Merit"] = 16300,
             },
             ["Unique Stats"] = {
@@ -178,7 +175,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = { value = 150, unit = "%" },
                 ["Drain Boost"] = nil,
             },
         },
@@ -223,7 +219,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -258,7 +253,7 @@ return {
                 ["Speed"] = 55,
                 ["Critical Hit Chance"] = nil,
                 ["Accuracy Adjusted"] = nil,
-                ["Damage Adjusted"] = nil,
+                ["Damage Adjusted"] = { value = -25, unit = "%" },
                 ["Defensive Merit"] = "?",
             },
             ["Unique Stats"] = {
@@ -268,7 +263,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = { value = -25, unit = "%" },
                 ["Drain Boost"] = nil,
             },
         },
@@ -303,7 +297,7 @@ return {
                 ["Speed"] = 40,
                 ["Critical Hit Chance"] = { value = 20, unit = "%" },
                 ["Accuracy Adjusted"] = { value = 35, unit = "%" },
-                ["Damage Adjusted"] = nil,
+                ["Damage Adjusted"] = { value = 250, unit = "%" },
                 ["Defensive Merit"] = 85000,
             },
             ["Unique Stats"] = {
@@ -313,7 +307,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = { value = 250, unit = "%" },
                 ["Drain Boost"] = nil,
             },
         },
@@ -348,7 +341,7 @@ return {
                 ["Speed"] = 85,
                 ["Critical Hit Chance"] = { value = 50, unit = "%" },
                 ["Accuracy Adjusted"] = { value = 35, unit = "%" },
-                ["Damage Adjusted"] = nil,
+                ["Damage Adjusted"] = { value = 200, unit = "%" },
                 ["Defensive Merit"] = 34500,
             },
             ["Unique Stats"] = {
@@ -358,7 +351,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = { value = 200, unit = "%" },
                 ["Drain Boost"] = nil,
             },
         },
@@ -403,7 +395,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -438,6 +429,7 @@ return {
                 ["Speed"] = 125,
                 ["Critical Hit Chance"] = { value = 50, unit = "%" },
                 ["Accuracy Adjusted"] = { value = 35, unit = "%" },
+                ["Damage Adjusted"] = { value = 200, unit = "%" },
                 ["Defensive Merit"] = 9250,
             },
             ["Unique Stats"] = {
@@ -447,7 +439,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = { value = 200, unit = "%" },
                 ["Drain Boost"] = nil,
             },
         },
@@ -492,7 +483,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -537,7 +527,6 @@ return {
                 ["Energy Induction"] = { value = 100, unit = "%" },
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = { value = 250, unit = "%" },
             },
         },
@@ -572,6 +561,7 @@ return {
                 ["Speed"] = 150,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
                 ["Accuracy Adjusted"] = { value = 100, unit = "%" },
+                ["Damage Adjusted"] = { value = 125, unit = "%" },
                 ["Defensive Merit"] = 22000,
             },
             ["Unique Stats"] = {
@@ -581,7 +571,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = { value = 125, unit = "%" },
                 ["Drain Boost"] = nil,
             },
         },
@@ -626,7 +615,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = 150,
             },
         },
@@ -661,7 +649,7 @@ return {
                 ["Speed"] = 125,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
                 ["Accuracy Adjusted"] = { value = 100, unit = "%" },
-                ["Damage Adjusted"] = nil,
+                ["Damage Adjusted"] = { value = 125, unit = "%" },
                 ["Defensive Merit"] = 25000,
             },
             ["Unique Stats"] = {
@@ -671,7 +659,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = { value = 125, unit = "%" },
                 ["Drain Boost"] = nil,
             },
         },
@@ -716,7 +703,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -761,7 +747,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = 10,
                 ["Drain Boost"] = nil,
             },
         },
@@ -806,7 +791,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -851,7 +835,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = -25,
                 ["Drain Boost"] = nil,
             },
         },
@@ -896,7 +879,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = 20,
                 ["Drain Boost"] = nil,
             },
         },
@@ -941,7 +923,6 @@ return {
                 ["Energy Induction"] = { value = 100, unit = "%" },
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = { value = 150, unit = "%" },
             },
         },
@@ -976,7 +957,7 @@ return {
                 ["Speed"] = 125,
                 ["Critical Hit Chance"] = { value = 20, unit = "%" },
                 ["Accuracy Adjusted"] = { value = 100, unit = "%" },
-                ["Damage Adjusted"] = nil,
+                ["Damage Adjusted"] = { value = 125, unit = "%" },
                 ["Defensive Merit"] = "?",
             },
             ["Unique Stats"] = {
@@ -986,7 +967,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = { value = 125, unit = "%" },
                 ["Drain Boost"] = nil,
             },
         },
@@ -1021,6 +1001,7 @@ return {
                 ["Speed"] = 50,
                 ["Critical Hit Chance"] = { value = 25, unit = "%" },
                 ["Accuracy Adjusted"] = nil,
+                ["Damage Adjusted"] = { value = 150, unit = "%" },
                 ["Defensive Merit"] = 30000,
             },
             ["Unique Stats"] = {
@@ -1030,7 +1011,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = { value = 150, unit = "%" },
                 ["Drain Boost"] = nil,
             },
         },
@@ -1075,7 +1055,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = -25,
                 ["Drain Boost"] = nil,
             },
         },
@@ -1110,6 +1089,7 @@ return {
                 ["Speed"] = 300,
                 ["Critical Hit Chance"] = { value = 50, unit = "%" },
                 ["Accuracy Adjusted"] = { value = 100, unit = "%" },
+                ["Damage Adjusted"] = { value = 225, unit = "%" },
                 ["Defensive Merit"] = 500000,
             },
             ["Unique Stats"] = {
@@ -1119,7 +1099,6 @@ return {
                 ["Energy Induction"] = { value = 100, unit = "%" },
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = { value = 225, unit = "%" },
                 ["Drain Boost"] = { value = 200, unit = "%" },
             },
         },
@@ -1164,7 +1143,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -1209,7 +1187,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = { value = 125, unit = "%" },
             },
         },
@@ -1244,7 +1221,7 @@ return {
                 ["Speed"] = 5,
                 ["Critical Hit Chance"] = nil,
                 ["Accuracy Adjusted"] = { value = -50, unit = "%" },
-                ["Damage Adjusted"] = nil,
+                ["Damage Adjusted"] = { value = -50, unit = "%" },
                 ["Defensive Merit"] = "?",
             },
             ["Unique Stats"] = {
@@ -1254,7 +1231,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = { value = -50, unit = "%" },
                 ["Drain Boost"] = nil,
             },
         },
@@ -1299,7 +1275,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = "?",
                 ["Drain Boost"] = nil,
             },
         },
@@ -1344,7 +1319,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -1389,7 +1363,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -1434,7 +1407,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -1479,7 +1451,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -1524,7 +1495,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -1569,7 +1539,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -1614,7 +1583,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -1659,7 +1627,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -1704,7 +1671,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -1749,7 +1715,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -1794,7 +1759,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -1839,7 +1803,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -1884,7 +1847,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -1929,7 +1891,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -1974,7 +1935,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -2019,7 +1979,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -2064,7 +2023,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -2109,7 +2067,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -2154,7 +2111,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -2199,7 +2155,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -2244,7 +2199,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -2289,7 +2243,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -2334,7 +2287,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -2379,7 +2331,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -2424,7 +2375,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -2469,7 +2419,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -2514,7 +2463,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = 200,
             },
         },
@@ -2559,7 +2507,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -2604,7 +2551,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -2649,7 +2595,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -2694,7 +2639,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -2739,7 +2683,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -2784,7 +2727,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -2829,7 +2771,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -2874,7 +2815,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -2919,7 +2859,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -2964,7 +2903,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3009,7 +2947,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3054,7 +2991,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3099,7 +3035,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3144,7 +3079,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3189,7 +3123,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3234,7 +3167,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3279,7 +3211,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3324,7 +3255,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3369,7 +3299,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3414,7 +3343,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3459,7 +3387,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3504,7 +3431,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3549,7 +3475,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3594,7 +3519,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3639,7 +3563,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3684,7 +3607,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3729,7 +3651,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3774,7 +3695,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3819,7 +3739,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3864,7 +3783,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3909,7 +3827,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3954,7 +3871,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -3999,7 +3915,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -4044,7 +3959,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -4089,7 +4003,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -4134,7 +4047,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -4179,7 +4091,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
@@ -4224,7 +4135,6 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
                 ["Drain Boost"] = nil,
             },
         },
