@@ -1,1 +1,1 @@
-{{#invoke:Enemies|generateTable}}
+{{#invoke:Enemies|generateTables}}
