@@ -402,4 +402,81 @@ return {
             },
         },
     },
+    {
+        title = "Battlecruiser Shield",
+        url = "https://cybots.fandom.com/wiki/Battlecruiser_Shield",
+        image1 = "battlecruisershield.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 7500,
+                ["Energy Use"] = 350,
+                ["Recharge Rate"] = 1000,
+                ["Defensive Merit"] = 187500,
+            },
+        },
+    },
+    {
+        title = "vestexfed",
+        url = "https://cybots.fandom.com/wiki/vestexfed",
+        image1 = "vestexfed.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 10000,
+                ["Energy Use"] = 350,
+                ["Recharge Rate"] = 2500,
+                ["Defensive Merit"] = 50000,
+            },
+        },
+    },
+    {
+        title = "promshield",
+        url = "https://cybots.fandom.com/wiki/promshield",
+        image1 = "promshield.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 4500,
+                ["Energy Use"] = 0,
+                ["Recharge Rate"] = 1250,
+                ["Defensive Merit"] = 125000,
+            },
+        },
+    },
+    {
+        title = "Plutonic Shield",
+        url = "https://cybots.fandom.com/wiki/Plutonic_Shield",
+        image1 = "plutonicshield.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Primary Level"] = 5000,
+                ["Energy Use"] = 250,
+                ["Recharge Rate"] = 1000,
+                ["Defensive Merit"] = 100000,
+            },
+        },
+    },
+
 }

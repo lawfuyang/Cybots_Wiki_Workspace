@@ -43,7 +43,7 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
+                ["Damage Boost"] = 5,
                 ["Drain Boost"] = nil,
             },
         },
@@ -133,7 +133,7 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
+                ["Damage Boost"] = 200,
                 ["Drain Boost"] = nil,
             },
         },
@@ -255,7 +255,7 @@ return {
             ["Base Stats"] = {
                 ["Payload"] = 400,
                 ["Armor"] = 350,
-                ["Speed"] = 45,
+                ["Speed"] = 55,
                 ["Critical Hit Chance"] = nil,
                 ["Accuracy Adjusted"] = nil,
                 ["Damage Adjusted"] = nil,
@@ -627,7 +627,7 @@ return {
             },
             ["Hidden Stats"] = {
                 ["Damage Boost"] = nil,
-                ["Drain Boost"] = nil,
+                ["Drain Boost"] = 150,
             },
         },
     },
@@ -711,7 +711,7 @@ return {
             },
             ["Unique Stats"] = {
                 ["Shield Projection"] = nil,
-                ["Module Uplink"] = nil,
+                ["Module Uplink"] = 100,
                 ["Energy Distribution / Energy Share"] = nil,
                 ["Energy Induction"] = nil,
             },
@@ -761,7 +761,7 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
+                ["Damage Boost"] = 10,
                 ["Drain Boost"] = nil,
             },
         },
@@ -837,8 +837,8 @@ return {
             },
             ["Base Stats"] = {
                 ["Payload"] = 300,
-                ["Armor"] = 275,
-                ["Speed"] = 40,
+                ["Armor"] = 300,
+                ["Speed"] = 45,
                 ["Critical Hit Chance"] = nil,
                 ["Accuracy Adjusted"] = nil,
                 ["Damage Adjusted"] = { value = -25, unit = "%" },
@@ -851,7 +851,7 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
+                ["Damage Boost"] = -25,
                 ["Drain Boost"] = nil,
             },
         },
@@ -896,7 +896,7 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
+                ["Damage Boost"] = 20,
                 ["Drain Boost"] = nil,
             },
         },
@@ -927,8 +927,8 @@ return {
             },
             ["Base Stats"] = {
                 ["Payload"] = 225,
-                ["Armor"] = 250,
-                ["Speed"] = 45,
+                ["Armor"] = 300,
+                ["Speed"] = 55,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
                 ["Accuracy Adjusted"] = nil,
                 ["Damage Adjusted"] = nil,
@@ -1075,7 +1075,7 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Damage Boost"] = nil,
+                ["Damage Boost"] = -25,
                 ["Drain Boost"] = nil,
             },
         },
@@ -1262,35 +1262,35 @@ return {
     {
         title = "Raven",
         url = "https://cybots.fandom.com/wiki/Raven",
-        image1 = "raven.jpg",
+        image1 = "Raven-blue.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
                 ["Faction"] = "?",
-                ["Chassis Type"] = "?",
-                ["Chassis Cost"] = "?",
+                ["Chassis Type"] = "Hover",
+                ["Chassis Cost"] = "25,000,000 Creduts",
                 ["Requirements"] = "18,000 Talsian Rank Points",
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 6,
-                ["Module Slots"] = "?",
-                ["Shield Slots"] = "?",
+                ["Module Slots"] = 3,
+                ["Shield Slots"] = 2,
                 ["Reactor Slots"] = 1,
             },
             ["Starting Tech Levels"] = {
-                ["Weapon Tech"] = 450,
-                ["Shield Tech"] = "?",
-                ["Module Tech"] = "?",
-                ["Reactor Tech"] = "?",
+                ["Weapon Tech"] = 298,
+                ["Shield Tech"] = 66,
+                ["Module Tech"] = 15,
+                ["Reactor Tech"] = 102,
             },
             ["Base Stats"] = {
-                ["Payload"] = "?",
-                ["Armor"] = "?",
-                ["Speed"] = "?",
-                ["Critical Hit Chance"] = "?",
-                ["Accuracy Adjusted"] = "?",
+                ["Payload"] = 2000,
+                ["Armor"] = 1500,
+                ["Speed"] = 150,
+                ["Critical Hit Chance"] = 30,
+                ["Accuracy Adjusted"] = 100,
                 ["Damage Adjusted"] = "?",
-                ["Defensive Merit"] = "?",
+                ["Defensive Merit"] = 250000,
             },
             ["Unique Stats"] = {
                 ["Shield Projection"] = nil,
@@ -1902,9 +1902,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 2,
+                ["Module Slots"] = 0,
+                ["Shield Slots"] = 1,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -1914,8 +1914,8 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
-                ["Armor"] = 500,
+                ["Payload"] = 600,
+                ["Armor"] = 750,
                 ["Speed"] = 0,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
                 ["Accuracy Adjusted"] = nil,
@@ -1992,9 +1992,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 0,
+                ["Module Slots"] = 0,
+                ["Shield Slots"] = 4,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -2004,7 +2004,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 1400,
                 ["Armor"] = 600,
                 ["Speed"] = 0,
                 ["Critical Hit Chance"] = nil,
@@ -2127,9 +2127,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 0,
+                ["Module Slots"] = 1,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -2140,7 +2140,7 @@ return {
             },
             ["Base Stats"] = {
                 ["Payload"] = nil,
-                ["Armor"] = 1000,
+                ["Armor"] = 5000,
                 ["Speed"] = 0,
                 ["Critical Hit Chance"] = nil,
                 ["Accuracy Adjusted"] = nil,
@@ -2217,9 +2217,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 1,
+                ["Module Slots"] = 1,
+                ["Shield Slots"] = 1,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -2229,8 +2229,8 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
-                ["Armor"] = 500,
+                ["Payload"] = 350,
+                ["Armor"] = 300,
                 ["Speed"] = 70,
                 ["Critical Hit Chance"] = { value = 10, unit = "%" },
                 ["Accuracy Adjusted"] = nil,
@@ -2262,9 +2262,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 6,
+                ["Module Slots"] = 1,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -2274,8 +2274,8 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
-                ["Armor"] = 500,
+                ["Payload"] = 700,
+                ["Armor"] = 1200,
                 ["Speed"] = 40,
                 ["Critical Hit Chance"] = { value = 2, unit = "%" },
                 ["Accuracy Adjusted"] = nil,
@@ -2307,9 +2307,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 1,
+                ["Module Slots"] = 4,
+                ["Shield Slots"] = 1,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -2319,7 +2319,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 200,
                 ["Armor"] = 150,
                 ["Speed"] = 90,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
@@ -2352,9 +2352,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 8,
+                ["Module Slots"] = 3,
+                ["Shield Slots"] = 2,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -2364,8 +2364,8 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
-                ["Armor"] = 500,
+                ["Payload"] = 1500,
+                ["Armor"] = 3250,
                 ["Speed"] = 30,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
                 ["Accuracy Adjusted"] = nil,
@@ -2442,9 +2442,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 2,
+                ["Module Slots"] = 3,
+                ["Shield Slots"] = 2,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -2487,9 +2487,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 2,
+                ["Module Slots"] = 1,
+                ["Shield Slots"] = 2,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -2499,8 +2499,8 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
-                ["Armor"] = 500,
+                ["Payload"] = 350,
+                ["Armor"] = 450,
                 ["Speed"] = 60,
                 ["Critical Hit Chance"] = { value = 2, unit = "%" },
                 ["Accuracy Adjusted"] = nil,
@@ -2510,12 +2510,12 @@ return {
             ["Unique Stats"] = {
                 ["Shield Projection"] = nil,
                 ["Module Uplink"] = nil,
-                ["Energy Distribution / Energy Share"] = { value = 50, unit = "%" },
+                ["Energy Distribution / Energy Share"] = { value = 100, unit = "%" },
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
                 ["Damage Boost"] = nil,
-                ["Drain Boost"] = nil,
+                ["Drain Boost"] = 200,
             },
         },
     },
@@ -2622,9 +2622,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 2,
+                ["Module Slots"] = 1,
+                ["Shield Slots"] = 1,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -2635,7 +2635,7 @@ return {
             },
             ["Base Stats"] = {
                 ["Payload"] = nil,
-                ["Armor"] = 200,
+                ["Armor"] = 400,
                 ["Speed"] = 85,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
                 ["Accuracy Adjusted"] = nil,
@@ -2667,9 +2667,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 4,
+                ["Module Slots"] = 0,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -2680,7 +2680,7 @@ return {
             },
             ["Base Stats"] = {
                 ["Payload"] = nil,
-                ["Armor"] = 600,
+                ["Armor"] = 750,
                 ["Speed"] = 65,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
                 ["Accuracy Adjusted"] = nil,
@@ -2712,9 +2712,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 1,
+                ["Module Slots"] = 4,
+                ["Shield Slots"] = 1,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -2724,7 +2724,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 2000,
                 ["Armor"] = 1250,
                 ["Speed"] = 30,
                 ["Critical Hit Chance"] = nil,
@@ -2757,9 +2757,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 1,
+                ["Module Slots"] = 1,
+                ["Shield Slots"] = 4,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -2769,7 +2769,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 2500,
                 ["Armor"] = 2000,
                 ["Speed"] = 15,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
@@ -2802,9 +2802,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 1,
+                ["Module Slots"] = 1,
+                ["Shield Slots"] = 1,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -2814,7 +2814,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 1000,
                 ["Armor"] = 1000,
                 ["Speed"] = 40,
                 ["Critical Hit Chance"] = nil,
@@ -2847,9 +2847,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 6,
+                ["Module Slots"] = 0,
+                ["Shield Slots"] = 3,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -2859,7 +2859,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 250,
                 ["Armor"] = 500,
                 ["Speed"] = 30,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
@@ -2892,9 +2892,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 3,
+                ["Module Slots"] = 1,
+                ["Shield Slots"] = 1,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -2904,7 +2904,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 80,
                 ["Armor"] = 250,
                 ["Speed"] = 40,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
@@ -2937,9 +2937,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 2,
+                ["Module Slots"] = 0,
+                ["Shield Slots"] = 4,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -2949,7 +2949,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 550,
                 ["Armor"] = 200,
                 ["Speed"] = 0,
                 ["Critical Hit Chance"] = nil,
@@ -2982,9 +2982,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 6,
+                ["Module Slots"] = 0,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -2994,7 +2994,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 250,
                 ["Armor"] = 200,
                 ["Speed"] = 30,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
@@ -3027,9 +3027,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 1,
+                ["Module Slots"] = 0,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -3040,7 +3040,7 @@ return {
             },
             ["Base Stats"] = {
                 ["Payload"] = nil,
-                ["Armor"] = 500,
+                ["Armor"] = 200,
                 ["Speed"] = 0,
                 ["Critical Hit Chance"] = nil,
                 ["Accuracy Adjusted"] = nil,
@@ -3072,9 +3072,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 1,
+                ["Module Slots"] = 1,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -3084,7 +3084,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 2000,
                 ["Armor"] = 1500,
                 ["Speed"] = 0,
                 ["Critical Hit Chance"] = nil,
@@ -3117,9 +3117,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 2,
+                ["Module Slots"] = 0,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -3129,7 +3129,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 1500,
                 ["Armor"] = 500,
                 ["Speed"] = 0,
                 ["Critical Hit Chance"] = nil,
@@ -3162,9 +3162,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 0,
+                ["Module Slots"] = 2,
+                ["Shield Slots"] = 4,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -3175,7 +3175,7 @@ return {
             },
             ["Base Stats"] = {
                 ["Payload"] = nil,
-                ["Armor"] = 500,
+                ["Armor"] = 3000,
                 ["Speed"] = 0,
                 ["Critical Hit Chance"] = nil,
                 ["Accuracy Adjusted"] = nil,
@@ -3207,9 +3207,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 1,
+                ["Module Slots"] = 1,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -3219,7 +3219,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 3500,
                 ["Armor"] = 5000,
                 ["Speed"] = 10,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
@@ -3252,9 +3252,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 3,
+                ["Module Slots"] = 1,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -3264,7 +3264,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 3000,
                 ["Armor"] = 3000,
                 ["Speed"] = 20,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
@@ -3342,9 +3342,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 2,
+                ["Module Slots"] = 2,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -3354,7 +3354,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 3000,
                 ["Armor"] = 1500,
                 ["Speed"] = 20,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
@@ -3432,9 +3432,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 1,
+                ["Module Slots"] = 0,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -3444,7 +3444,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 750,
                 ["Armor"] = 250,
                 ["Speed"] = 0,
                 ["Critical Hit Chance"] = { value = 2, unit = "%" },
@@ -3522,9 +3522,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 0,
+                ["Module Slots"] = 2,
+                ["Shield Slots"] = 1,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -3534,7 +3534,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 1000,
                 ["Armor"] = 1000,
                 ["Speed"] = 0,
                 ["Critical Hit Chance"] = nil,
@@ -3567,9 +3567,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 1,
+                ["Module Slots"] = 4,
+                ["Shield Slots"] = 2,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -3580,7 +3580,7 @@ return {
             },
             ["Base Stats"] = {
                 ["Payload"] = nil,
-                ["Armor"] = 500,
+                ["Armor"] = 1000,
                 ["Speed"] = 0,
                 ["Critical Hit Chance"] = nil,
                 ["Accuracy Adjusted"] = nil,
@@ -3612,9 +3612,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 2,
+                ["Module Slots"] = 1,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -3624,7 +3624,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 3000,
                 ["Armor"] = 1500,
                 ["Speed"] = 5,
                 ["Critical Hit Chance"] = nil,
@@ -3657,9 +3657,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 0,
+                ["Module Slots"] = 6,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -3669,7 +3669,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 3000,
                 ["Armor"] = 2000,
                 ["Speed"] = 5,
                 ["Critical Hit Chance"] = nil,
@@ -3702,9 +3702,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 8,
+                ["Module Slots"] = 4,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -3714,7 +3714,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 50000,
                 ["Armor"] = 20000,
                 ["Speed"] = 5,
                 ["Critical Hit Chance"] = nil,
@@ -3747,9 +3747,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 0,
+                ["Module Slots"] = 0,
+                ["Shield Slots"] = 4,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -3759,7 +3759,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 5000,
                 ["Armor"] = 750,
                 ["Speed"] = 5,
                 ["Critical Hit Chance"] = nil,
@@ -3792,9 +3792,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 1,
+                ["Module Slots"] = 0,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -3805,7 +3805,7 @@ return {
             },
             ["Base Stats"] = {
                 ["Payload"] = nil,
-                ["Armor"] = 650,
+                ["Armor"] = 1400,
                 ["Speed"] = 0,
                 ["Critical Hit Chance"] = nil,
                 ["Accuracy Adjusted"] = nil,
@@ -3882,9 +3882,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 6,
+                ["Module Slots"] = 1,
+                ["Shield Slots"] = 3,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -3894,7 +3894,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 650,
                 ["Armor"] = 1000,
                 ["Speed"] = 40,
                 ["Critical Hit Chance"] = { value = 10, unit = "%" },
@@ -3927,9 +3927,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 4,
+                ["Module Slots"] = 1,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -3939,7 +3939,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 5000,
                 ["Armor"] = 5000,
                 ["Speed"] = 5,
                 ["Critical Hit Chance"] = nil,
@@ -4017,9 +4017,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 5,
+                ["Module Slots"] = 2,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -4030,7 +4030,7 @@ return {
             },
             ["Base Stats"] = {
                 ["Payload"] = nil,
-                ["Armor"] = 7500,
+                ["Armor"] = 10000,
                 ["Speed"] = 15,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
                 ["Accuracy Adjusted"] = nil,
@@ -4062,9 +4062,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 4,
+                ["Module Slots"] = 2,
+                ["Shield Slots"] = 2,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -4074,7 +4074,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 5000,
                 ["Armor"] = 3000,
                 ["Speed"] = 25,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
@@ -4107,9 +4107,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 3,
+                ["Module Slots"] = 2,
+                ["Shield Slots"] = 3,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -4119,7 +4119,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 5000,
                 ["Armor"] = 6000,
                 ["Speed"] = 35,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
@@ -4152,9 +4152,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 1,
+                ["Module Slots"] = 6,
+                ["Shield Slots"] = 2,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -4164,7 +4164,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 5000,
                 ["Armor"] = 3500,
                 ["Speed"] = 25,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
@@ -4197,9 +4197,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 2,
+                ["Module Slots"] = 4,
+                ["Shield Slots"] = 4,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -4210,7 +4210,7 @@ return {
             },
             ["Base Stats"] = {
                 ["Payload"] = nil,
-                ["Armor"] = 10000,
+                ["Armor"] = 5000,
                 ["Speed"] = 0,
                 ["Critical Hit Chance"] = nil,
                 ["Accuracy Adjusted"] = nil,

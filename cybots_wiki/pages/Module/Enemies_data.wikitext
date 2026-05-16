@@ -3556,4 +3556,658 @@ return {
             { name = "Threat Analyser", url = url("Threat_Analyser") },
         },
     },
+    {
+        title = "Artillery Commander",
+        url = url("Artillery_Commander"),
+        chassis = { name = "Officer", url = url("Officer") },
+        reactor = { name = "Power Cell", url = url("Power_Cell") },
+        shields = {
+            { name = "Shield Vest", url = url("Shield_Vest") },
+        },
+        weapons = {
+            { name = "Plasma Rifle", url = url("Plasma_Rifle") },
+        },
+        modules = {
+            { name = "Gunnery Master", url = url("Gunnery_Master") },
+        },
+    },
+    {
+        title = "Uplink Command",
+        url = url("Uplink_Command"),
+        chassis = { name = "Advanced Control Tower", url = url("Advanced_Control_Tower") },
+        reactor = { name = "1000rc Powerplant", url = url("1000rc_Powerplant") },
+        shields = {
+            { name = "Plasma Anamorph", url = url("Plasma_Anamorph") },
+            { name = "Plasma Anamorph", url = url("Plasma_Anamorph") },
+            { name = "Plasma Anamorph", url = url("Plasma_Anamorph") },
+        },
+        weapons = {},
+        modules = {
+            { name = "Gunnery Metalink", url = url("Gunnery_Metalink") },
+            { name = "Threat Analyser", url = url("Threat_Analyser") },
+            { name = "Multiphase Syncroniser", url = url("Multiphase_Syncroniser") },
+            { name = "Enhanced Optics", url = url("Enhanced_Optics") },
+        },
+    },
+    {
+        title = "PR600 Launcher",
+        url = url("PR600_Launcher"),
+        chassis = { name = "Rocket Turret", url = url("Rocket_Turret") },
+        reactor = { name = "Power Reservoir", url = url("Power_Reservoir") },
+        shields = {},
+        weapons = {
+            { name = "FTG 180", url = url("FTG_180") },
+            { name = "FTG 180", url = url("FTG_180") },
+        },
+        modules = {},
+    },
+    {
+        title = "FGSI Turret",
+        url = url("FGSI_Turret"),
+        chassis = { name = "Satelite", url = url("Satelite") },
+        reactor = { name = "250rc Powerplant", url = url("250rc_Powerplant") },
+        shields = {},
+        weapons = {
+            { name = "Ion Cannon", url = url("Ion_Cannon") },
+            { name = "Particle Stream", url = url("Particle_Stream") },
+        },
+        modules = {},
+    },
+    {
+        title = "Reinforced Wall",
+        url = url("Reinforced_Wall"),
+        chassis = { name = "Federate Base Wall", url = url("Federate_Base_Wall") },
+        reactor = { name = "250rc Powerplant", url = url("250rc_Powerplant") },
+        shields = {},
+        weapons = {},
+        modules = {
+            { name = "Heavy Wall Effect", url = url("Heavy_Wall_Effect") },
+        },
+    },
+    {
+        title = "SR180 Receptor",
+        url = url("SR180_Receptor"),
+        chassis = { name = "Federate Energy Turret", url = url("Federate_Energy_Turret") },
+        reactor = { name = "1000rc Powerplant", url = url("1000rc_Powerplant") },
+        shields = {},
+        weapons = {
+            { name = "Rayden Beam", url = url("Rayden_Beam") },
+        },
+        modules = {
+            { name = "Sloped Armour", url = url("Sloped_Armour") },
+        },
+    },
+    {
+        title = "Rhino",
+        url = url("Rhino"),
+        chassis = { name = "Gun Turret", url = url("Gun_Turret") },
+        reactor = { name = "Power Reservoir", url = url("Power_Reservoir") },
+        shields = {},
+        weapons = {
+            { name = "FTG 180", url = url("FTG_180") },
+        },
+        modules = {
+            { name = "Reactive Armour", url = url("Reactive_Armour") },
+        },
+    },
+    {
+        title = "True Guard Shielding",
+        url = url("True_Guard_Shielding"),
+        chassis = { name = "Warship Shield Generator", url = url("Warship_Shield_Generator") },
+        reactor = { name = "True Guard Cell", url = url("True_Guard_Cell") },
+        shields = {
+            { name = "Plasma Anamorph", url = url("Plasma_Anamorph") },
+            { name = "Plasma Anamorph", url = url("Plasma_Anamorph") },
+            { name = "Plasma Anamorph", url = url("Plasma_Anamorph") },
+            { name = "Plasma Anamorph", url = url("Plasma_Anamorph") },
+        },
+        weapons = {},
+        modules = {},
+    },
+    {
+        title = "Iowa Cannon",
+        url = url("Iowa_Cannon"),
+        chassis = { name = "Federate Warship (Fixed)", url = url("Federate_Warship_(Fixed)") },
+        reactor = { name = "Magmatic Pyroclast", url = url("Magmatic_Pyroclast") },
+        shields = {},
+        weapons = {
+            { name = "Vibro Cannon", url = url("Vibro_Cannon") },
+            { name = "Vibro Cannon", url = url("Vibro_Cannon") },
+        },
+        modules = {},
+    },
+    {
+        title = "Ranged VX 88",
+        url = url("Ranged_VX_88"),
+        chassis = { name = "Artillery (ranged)", url = url("Artillery_(ranged)") },
+        reactor = { name = "Crix80 Didron", url = url("Crix80_Didron") },
+        shields = {},
+        weapons = {
+            { name = "Siege Gun", url = url("Siege_Gun") },
+        },
+        modules = {},
+    },
+    {
+        title = "ExFed Bunker",
+        url = url("ExFed_Bunker"),
+        chassis = { name = "ExFed Bunker", url = url("ExFed_Bunker") },
+        reactor = { name = "Pneumatron", url = url("Pneumatron") },
+        shields = {
+            { name = "Battlecruiser Shield", url = url("Battlecruiser_Shield") },
+            { name = "Battlecruiser Shield", url = url("Battlecruiser_Shield") },
+        },
+        weapons = {},
+        modules = {
+            { name = "DAX Pod", url = url("DAX_Pod") },
+            { name = "DAX Pod", url = url("DAX_Pod") },
+            { name = "DAX Pod", url = url("DAX_Pod") },
+            { name = "DAX Pod", url = url("DAX_Pod") },
+        },
+    },
+    {
+        title = "Exfed Infantry",
+        url = url("Exfed_Infantry"),
+        chassis = { name = "exfed_infantry", url = url("exfed_infantry") },
+        reactor = { name = "exfed battery", url = url("exfed_battery") },
+        shields = {
+            { name = "vestexfed", url = url("vestexfed") },
+            { name = "vestexfed", url = url("vestexfed") },
+            { name = "vestexfed", url = url("vestexfed") },
+        },
+        weapons = {
+            { name = "Peace Maker", url = url("Peace_Maker") },
+            { name = "Peace Maker", url = url("Peace_Maker") },
+            { name = "Peace Maker", url = url("Peace_Maker") },
+        },
+        modules = {
+            { name = "DAX Pod", url = url("DAX_Pod") },
+        },
+    },
+    {
+        title = "Pirate Turret",
+        url = url("Pirate_Turret"),
+        chassis = { name = "ML6 Rocket Turret", url = url("ML6_Rocket_Turret") },
+        reactor = { name = "Super Tank Core", url = url("Super_Tank_Core") },
+        shields = {
+            { name = "promshield", url = url("promshield") },
+        },
+        weapons = {
+            { name = "Peace Maker", url = url("Peace_Maker") },
+            { name = "Peace Maker", url = url("Peace_Maker") },
+        },
+        modules = {
+            { name = "Hyper Drive Module", url = url("Hyper_Drive_Module") },
+        },
+    },
+    {
+        title = "Horus Guard",
+        url = url("Horus_Guard"),
+        chassis = { name = "Horus Guard", url = url("Horus_Guard") },
+        reactor = { name = "Magtronic Powercell", url = url("Magtronic_Powercell") },
+        shields = {
+            { name = "SxD8", url = url("SxD8") },
+        },
+        weapons = {
+            { name = "Ravager", url = url("Ravager") },
+        },
+        modules = {
+            { name = "Weapons Amplifier", url = url("Weapons_Amplifier") },
+            { name = "Weapons Amplifier", url = url("Weapons_Amplifier") },
+        },
+    },
+    {
+        title = "Horus Hover",
+        url = url("Horus_Hover"),
+        chassis = { name = "Horus Hover", url = url("Horus_Hover") },
+        reactor = { name = "Magmatic Pyroclast", url = url("Magmatic_Pyroclast") },
+        shields = {},
+        weapons = {
+            { name = "Syphonic Disruptor", url = url("Syphonic_Disruptor") },
+            { name = "Syphonic Disruptor", url = url("Syphonic_Disruptor") },
+            { name = "Syphonic Disruptor", url = url("Syphonic_Disruptor") },
+            { name = "Syphonic Disruptor", url = url("Syphonic_Disruptor") },
+            { name = "Hail Bringer", url = url("Hail_Bringer") },
+            { name = "Hail Bringer", url = url("Hail_Bringer") },
+        },
+        modules = {
+            { name = "Advanced Master Fire Director", url = url("Advanced_Master_Fire_Director") },
+        },
+    },
+    {
+        title = "Horus Warrior",
+        url = url("Horus_Warrior"),
+        chassis = { name = "Horus Warrior", url = url("Horus_Warrior") },
+        reactor = { name = "Ultra Energy Cell", url = url("Ultra_Energy_Cell") },
+        shields = {},
+        weapons = {
+            { name = "Obliterator", url = url("Obliterator") },
+        },
+        modules = {
+            { name = "Plutonium Core Module", url = url("Plutonium_Core_Module") },
+            { name = "prometeus module", url = url("prometeus_module") },
+        },
+    },
+    {
+        title = "Horus Gunner",
+        url = url("Horus_Gunner"),
+        chassis = { name = "Horus Gunner", url = url("Horus_Gunner") },
+        reactor = { name = "Magmatic Pyroclast", url = url("Magmatic_Pyroclast") },
+        shields = {
+            { name = "SxD8", url = url("SxD8") },
+        },
+        weapons = {
+            { name = "Peace Maker", url = url("Peace_Maker") },
+        },
+        modules = {
+            { name = "Plutonium Core Module", url = url("Plutonium_Core_Module") },
+        },
+    },
+    {
+        title = "Horus Shaman",
+        url = url("Horus_Shaman"),
+        chassis = { name = "Horus Shaman", url = url("Horus_Shaman") },
+        reactor = { name = "Prometeus Reactor", url = url("Prometeus_Reactor") },
+        shields = {
+            { name = "SXD10", url = url("SXD10") },
+        },
+        weapons = {},
+        modules = {},
+    },
+    {
+        title = "Cougar",
+        url = url("Cougar"),
+        chassis = { name = "cougar", url = url("cougar") },
+        reactor = { name = "Super Tank Core", url = url("Super_Tank_Core") },
+        shields = {
+            { name = "Plasma Anamorph", url = url("Plasma_Anamorph") },
+            { name = "Plasma Anamorph", url = url("Plasma_Anamorph") },
+            { name = "Plasma Anamorph", url = url("Plasma_Anamorph") },
+            { name = "Plasma Anamorph", url = url("Plasma_Anamorph") },
+        },
+        weapons = {
+            { name = "Peace Maker", url = url("Peace_Maker") },
+            { name = "Peace Maker", url = url("Peace_Maker") },
+        },
+        modules = {
+            { name = "Cryo Fusion Spanner", url = url("Cryo_Fusion_Spanner") },
+            { name = "Gravity Hydro Booster", url = url("Gravity_Hydro_Booster") },
+            { name = "Gravity Hydro Booster", url = url("Gravity_Hydro_Booster") },
+            { name = "DAX Pod", url = url("DAX_Pod") },
+        },
+    },
+    {
+        title = "Gargoyle",
+        url = url("Gargoyle"),
+        chassis = { name = "gargoyle", url = url("gargoyle") },
+        reactor = { name = "Pneumatron", url = url("Pneumatron") },
+        shields = {},
+        weapons = {
+            { name = "Peace Maker", url = url("Peace_Maker") },
+        },
+        modules = {
+            { name = "Gravity Hydro Booster", url = url("Gravity_Hydro_Booster") },
+        },
+    },
+    {
+        title = "Barracuda",
+        url = url("Barracuda"),
+        chassis = { name = "barracuda", url = url("barracuda") },
+        reactor = { name = "Pneumatron", url = url("Pneumatron") },
+        shields = {},
+        weapons = {
+            { name = "Peace Maker", url = url("Peace_Maker") },
+        },
+        modules = {
+            { name = "Cryo Fusion Spanner", url = url("Cryo_Fusion_Spanner") },
+        },
+    },
+    {
+        title = "Nomad Infantry",
+        url = url("Nomad_Infantry"),
+        chassis = { name = "Nomad Infantry", url = url("Nomad_Infantry") },
+        reactor = { name = "Prometeus Reactor", url = url("Prometeus_Reactor") },
+        shields = {},
+        weapons = {
+            { name = "Peace Maker", url = url("Peace_Maker") },
+        },
+        modules = {},
+    },
+    {
+        title = "Albatros",
+        url = url("Albatros"),
+        chassis = { name = "albatros", url = url("albatros") },
+        reactor = { name = "Pneumatron", url = url("Pneumatron") },
+        shields = {
+            { name = "Plasma Anamorph", url = url("Plasma_Anamorph") },
+            { name = "Plasma Anamorph", url = url("Plasma_Anamorph") },
+            { name = "Plasma Anamorph", url = url("Plasma_Anamorph") },
+            { name = "Plasma Anamorph", url = url("Plasma_Anamorph") },
+            { name = "Plasma Anamorph", url = url("Plasma_Anamorph") },
+            { name = "Plasma Anamorph", url = url("Plasma_Anamorph") },
+        },
+        weapons = {},
+        modules = {
+            { name = "Deflection Grid", url = url("Deflection_Grid") },
+            { name = "Deflection Grid", url = url("Deflection_Grid") },
+        },
+    },
+    {
+        title = "Elite Interceptor",
+        url = url("Elite_Interceptor"),
+        chassis = { name = "spacepirate", url = url("spacepirate") },
+        reactor = { name = "Magmatic Pyroclast", url = url("Magmatic_Pyroclast") },
+        shields = {
+            { name = "Plasma IDT", url = url("Plasma_IDT") },
+            { name = "Plasma IDT", url = url("Plasma_IDT") },
+        },
+        weapons = {
+            { name = "Storm Bringer", url = url("Storm_Bringer") },
+            { name = "Storm Bringer", url = url("Storm_Bringer") },
+            { name = "Storm Bringer", url = url("Storm_Bringer") },
+            { name = "Hail Bringer", url = url("Hail_Bringer") },
+            { name = "Hail Bringer", url = url("Hail_Bringer") },
+            { name = "Hail Bringer", url = url("Hail_Bringer") },
+        },
+        modules = {
+            { name = "prometeus module", url = url("prometeus_module") },
+            { name = "Weapons Amplifier", url = url("Weapons_Amplifier") },
+            { name = "Weapons Amplifier", url = url("Weapons_Amplifier") },
+        },
+    },
+    {
+        title = "Interceptor",
+        url = url("Interceptor"),
+        chassis = { name = "spacepirate", url = url("spacepirate") },
+        reactor = { name = "Magmatic Pyroclast", url = url("Magmatic_Pyroclast") },
+        shields = {
+            { name = "Plasma IDT", url = url("Plasma_IDT") },
+        },
+        weapons = {
+            { name = "Riot Gun", url = url("Riot_Gun") },
+            { name = "Riot Gun", url = url("Riot_Gun") },
+            { name = "Riot Gun", url = url("Riot_Gun") },
+            { name = "Riot Gun", url = url("Riot_Gun") },
+            { name = "Phalanx", url = url("Phalanx") },
+            { name = "Phalanx", url = url("Phalanx") },
+            { name = "Phalanx", url = url("Phalanx") },
+            { name = "Phalanx", url = url("Phalanx") },
+        },
+        modules = {
+            { name = "Plutonium Core Module", url = url("Plutonium_Core_Module") },
+            { name = "prometeus module", url = url("prometeus_module") },
+            { name = "prometeus module", url = url("prometeus_module") },
+            { name = "Plutonium Core Module", url = url("Plutonium_Core_Module") },
+        },
+    },
+    {
+        title = "EliteViper",
+        url = url("EliteViper"),
+        chassis = { name = "viper", url = url("viper") },
+        reactor = { name = "Magmatic Pyroclast", url = url("Magmatic_Pyroclast") },
+        shields = {
+            { name = "Plasma IDT", url = url("Plasma_IDT") },
+        },
+        weapons = {
+            { name = "Psiotron Repeater", url = url("Psiotron_Repeater") },
+            { name = "Hail Bringer", url = url("Hail_Bringer") },
+        },
+        modules = {
+            { name = "DAX Pod", url = url("DAX_Pod") },
+        },
+    },
+    {
+        title = "Raven",
+        url = url("Raven"),
+        chassis = { name = "nmeRaven", url = url("nmeRaven") },
+        reactor = { name = "Magmatic Pyroclast", url = url("Magmatic_Pyroclast") },
+        shields = {
+            { name = "Plasma", url = url("Plasma_(Shield)") },
+            { name = "Plasma", url = url("Plasma_(Shield)") },
+        },
+        weapons = {
+            { name = "Obliterator", url = url("Obliterator") },
+            { name = "Obliterator", url = url("Obliterator") },
+            { name = "Obliterator", url = url("Obliterator") },
+            { name = "Obliterator", url = url("Obliterator") },
+            { name = "Obliterator", url = url("Obliterator") },
+            { name = "Obliterator", url = url("Obliterator") },
+        },
+        modules = {
+            { name = "Plutonium Core Module", url = url("Plutonium_Core_Module") },
+            { name = "Plutonium Core Module", url = url("Plutonium_Core_Module") },
+        },
+    },
+    {
+        title = "PraetorianScout",
+        url = url("PraetorianScout"),
+        chassis = { name = "praetorian", url = url("praetorian") },
+        reactor = { name = "Prometeus Reactor", url = url("Prometeus_Reactor") },
+        shields = {
+            { name = "promshield", url = url("promshield") },
+        },
+        weapons = {
+            { name = "Ravager", url = url("Ravager") },
+            { name = "Ravager", url = url("Ravager") },
+        },
+        modules = {
+            { name = "Plutonium Core Module", url = url("Plutonium_Core_Module") },
+            { name = "Plutonium Core Module", url = url("Plutonium_Core_Module") },
+            { name = "Plutonium Core Module", url = url("Plutonium_Core_Module") },
+            { name = "prometeus module", url = url("prometeus_module") },
+        },
+    },
+    {
+        title = "Hornet",
+        url = url("Hornet"),
+        chassis = { name = "enemyHornet", url = url("enemyHornet") },
+        reactor = { name = "500rc Powerplant", url = url("500rc_Powerplant") },
+        shields = {
+            { name = "Plasma", url = url("Plasma_(Shield)") },
+            { name = "Plasma", url = url("Plasma_(Shield)") },
+        },
+        weapons = {
+            { name = "Storm Bringer", url = url("Storm_Bringer") },
+            { name = "Hail Bringer", url = url("Hail_Bringer") },
+        },
+        modules = {
+            { name = "Advanced Master Fire Director", url = url("Advanced_Master_Fire_Director") },
+            { name = "Advanced Master Fire Director", url = url("Advanced_Master_Fire_Director") },
+            { name = "Flux Channel", url = url("Flux_Channel") },
+            { name = "Flux Channel", url = url("Flux_Channel") },
+        },
+    },
+    {
+        title = "Wasp",
+        url = url("Wasp"),
+        chassis = { name = "wasp", url = url("wasp") },
+        reactor = { name = "Tribolt Hydron", url = url("Tribolt_Hydron") },
+        shields = {
+            { name = "Argon Web", url = url("Argon_Web") },
+        },
+        weapons = {
+            { name = "Syphon Immobiliser", url = url("Syphon_Immobiliser") },
+            { name = "Rayden Device", url = url("Rayden_Device") },
+            { name = "Riot Gun", url = url("Riot_Gun") },
+        },
+        modules = {
+            { name = "Weapons Amplifier", url = url("Weapons_Amplifier") },
+            { name = "Weapons Amplifier", url = url("Weapons_Amplifier") },
+        },
+    },
+    {
+        title = "BaseShield",
+        url = url("BaseShield"),
+        chassis = { name = "Proton_shield_array", url = url("Proton_shield_array") },
+        reactor = { name = "Pneumatron", url = url("Pneumatron") },
+        shields = {
+            { name = "Plutonic Shield", url = url("Plutonic_Shield") },
+            { name = "Plutonic Shield", url = url("Plutonic_Shield") },
+        },
+        weapons = {},
+        modules = {},
+    },
+    {
+        title = "PraetorianBaseTurret",
+        url = url("PraetorianBaseTurret"),
+        chassis = { name = "Corvette Turret", url = url("Corvette_Turret") },
+        reactor = { name = "Magmatic Pyroclast", url = url("Magmatic_Pyroclast") },
+        shields = {},
+        weapons = {
+            { name = "Peace Maker", url = url("Peace_Maker") },
+        },
+        modules = {},
+    },
+    {
+        title = "PraetorianBaseWall",
+        url = url("PraetorianBaseWall"),
+        chassis = { name = "PraetorianWall", url = url("PraetorianWall") },
+        reactor = { name = "Magmatic Pyroclast", url = url("Magmatic_Pyroclast") },
+        shields = {},
+        weapons = {},
+        modules = {
+            { name = "basewall Effect", url = url("basewall_Effect") },
+            { name = "basewall Effect", url = url("basewall_Effect") },
+        },
+    },
+    {
+        title = "PraetorianBaseUplink",
+        url = url("PraetorianBaseUplink"),
+        chassis = { name = "Praetorian Uplink", url = url("Praetorian_Uplink") },
+        reactor = { name = "Pneumatron", url = url("Pneumatron") },
+        shields = {},
+        weapons = {},
+        modules = {
+            { name = "Plutonium Core Module", url = url("Plutonium_Core_Module") },
+            { name = "prometeus module", url = url("prometeus_module") },
+            { name = "prometeus module", url = url("prometeus_module") },
+        },
+    },
+    {
+        title = "Marauder",
+        url = url("Marauder"),
+        chassis = { name = "CyCorps Marauder", url = url("CyCorps_Marauder") },
+        reactor = { name = "Hyper Syncron Core 2", url = url("Hyper_Syncron_Core_2") },
+        shields = {},
+        weapons = {
+            { name = "Shield Neutraliser", url = url("Shield_Neutraliser") },
+            { name = "Shield Neutraliser", url = url("Shield_Neutraliser") },
+            { name = "Morning Star", url = url("Morning_Star") },
+            { name = "Morning Star", url = url("Morning_Star") },
+            { name = "Rail-Gun", url = url("Rail-Gun") },
+        },
+        modules = {
+            { name = "Mechanical Obviator", url = url("Mechanical_Obviator") },
+        },
+    },
+    {
+        title = "Fastedious",
+        url = url("Fastedious"),
+        chassis = { name = "cyBulwark", url = url("cyBulwark") },
+        reactor = { name = "Hyper Syncron Core 2", url = url("Hyper_Syncron_Core_2") },
+        shields = {
+            { name = "Argon Web", url = url("Argon_Web") },
+            { name = "Argon Web", url = url("Argon_Web") },
+        },
+        weapons = {
+            { name = "Storm Bringer", url = url("Storm_Bringer") },
+            { name = "Plasma Turbo-Cannon", url = url("Plasma_Turbo-Cannon") },
+            { name = "Plasma Turbo-Cannon", url = url("Plasma_Turbo-Cannon") },
+            { name = "Hail Bringer", url = url("Hail_Bringer") },
+        },
+        modules = {
+            { name = "Hyper Drive Module", url = url("Hyper_Drive_Module") },
+            { name = "Plutonium Core Module", url = url("Plutonium_Core_Module") },
+            { name = "Flux Channel", url = url("Flux_Channel") },
+        },
+    },
+    {
+        title = "Ghengis",
+        url = url("Ghengis"),
+        chassis = { name = "CyCorps Overseer", url = url("CyCorps_Overseer") },
+        reactor = { name = "Cobalt Hydron", url = url("Cobalt_Hydron") },
+        shields = {
+            { name = "Argon Web", url = url("Argon_Web") },
+        },
+        weapons = {
+            { name = "G33 Launcher", url = url("G33_Launcher") },
+        },
+        modules = {
+            { name = "Flux Channel", url = url("Flux_Channel") },
+            { name = "Targeting Subroutine", url = url("Targeting_Subroutine") },
+            { name = "Weapons Amplifier", url = url("Weapons_Amplifier") },
+            { name = "Weapons Amplifier", url = url("Weapons_Amplifier") },
+        },
+    },
+    {
+        title = "Pursuer",
+        url = url("Pursuer"),
+        chassis = { name = "CyCorps Ranger", url = url("CyCorps_Ranger") },
+        reactor = { name = "Bio-Nuclear", url = url("Bio-Nuclear") },
+        shields = {
+            { name = "Photonic", url = url("Photonic") },
+        },
+        weapons = {
+            { name = "Thermal Dawn", url = url("Thermal_Dawn") },
+        },
+        modules = {
+            { name = "Titan Deflector", url = url("Titan_Deflector") },
+        },
+    },
+    {
+        title = "Chimera",
+        url = url("Chimera"),
+        chassis = { name = "CyCorps Reaper", url = url("CyCorps_Reaper") },
+        reactor = { name = "Cobalt Hydron", url = url("Cobalt_Hydron") },
+        shields = {
+            { name = "Argon Web", url = url("Argon_Web") },
+            { name = "Argon Web", url = url("Argon_Web") },
+        },
+        weapons = {
+            { name = "Syphonic Disruptor", url = url("Syphonic_Disruptor") },
+            { name = "Syphonic Disruptor", url = url("Syphonic_Disruptor") },
+        },
+        modules = {
+            { name = "Targeting Subroutine", url = url("Targeting_Subroutine") },
+        },
+    },
+    {
+        title = "Bootstrap",
+        url = url("Bootstrap"),
+        chassis = { name = "CyCorps Leviathan", url = url("CyCorps_Leviathan") },
+        reactor = { name = "1000rc Powerplant", url = url("1000rc_Powerplant") },
+        shields = {
+            { name = "Argon Web", url = url("Argon_Web") },
+            { name = "Argon Web", url = url("Argon_Web") },
+        },
+        weapons = {
+            { name = "Obliterator", url = url("Obliterator") },
+            { name = "Obliterator", url = url("Obliterator") },
+            { name = "Obliterator", url = url("Obliterator") },
+            { name = "Hail Bringer", url = url("Hail_Bringer") },
+            { name = "Hail Bringer", url = url("Hail_Bringer") },
+            { name = "Rail-Gun", url = url("Rail-Gun") },
+            { name = "Rail-Gun", url = url("Rail-Gun") },
+            { name = "Rail-Gun", url = url("Rail-Gun") },
+        },
+        modules = {
+            { name = "Advanced Master Fire Director", url = url("Advanced_Master_Fire_Director") },
+            { name = "Advanced Master Fire Director", url = url("Advanced_Master_Fire_Director") },
+            { name = "Flux Channel", url = url("Flux_Channel") },
+        },
+    },
+    {
+        title = "custodian",
+        url = url("custodian"),
+        chassis = { name = "CyCorps Sentinel", url = url("CyCorps_Sentinel") },
+        reactor = { name = "Magmatic Pyroclast", url = url("Magmatic_Pyroclast") },
+        shields = {
+            { name = "Plasma IDT", url = url("Plasma_IDT") },
+            { name = "Plasma IDT", url = url("Plasma_IDT") },
+            { name = "Plasma IDT", url = url("Plasma_IDT") },
+            { name = "Plasma IDT", url = url("Plasma_IDT") },
+        },
+        weapons = {},
+        modules = {},
+    },
+
 }

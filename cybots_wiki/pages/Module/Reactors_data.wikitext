@@ -321,9 +321,9 @@ return {
                 ["Other Requirements"] = nil,
             },
             ["Properties"] = {
-                ["Max Energy Level"] = nil,
-                ["Recharge Rate"] = nil,
-                ["Defensive Merit"] = nil,
+                ["Max Energy Level"] = 2000,
+                ["Recharge Rate"] = 500,
+                ["Defensive Merit"] = 4500,
             },
         },
     },
@@ -615,4 +615,59 @@ return {
             },
         },
     },
+    {
+        title = "exfed battery",
+        url = "https://cybots.fandom.com/wiki/exfed_battery",
+        image1 = "exfedbattery.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 15000,
+                ["Recharge Rate"] = 3000,
+                ["Defensive Merit"] = 250000,
+            },
+        },
+    },
+    {
+        title = "Prometeus Reactor",
+        url = "https://cybots.fandom.com/wiki/Prometeus_Reactor",
+        image1 = "prometeusreactor.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 10000,
+                ["Recharge Rate"] = 5000,
+                ["Defensive Merit"] = 25000,
+            },
+        },
+    },
+    {
+        title = "Hyper Syncron Core 2",
+        url = "https://cybots.fandom.com/wiki/Hyper_Syncron_Core_2",
+        image1 = "hypersyncroncore2.jpg",
+        sections = {
+            ["Unit Information"] = {
+                ["Cost"] = nil,
+                ["Weight"] = nil,
+                ["Required Tech Level"] = nil,
+                ["Other Requirements"] = "none",
+            },
+            ["Properties"] = {
+                ["Max Energy Level"] = 8000,
+                ["Recharge Rate"] = 1000,
+                ["Defensive Merit"] = 6000,
+            },
+        },
+    },
+
 }
