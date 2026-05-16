@@ -174,7 +174,14 @@ def _replace_value_in_text(text, field, new_value):
     if m:
         return text[:m.start(2)] + fmtval + text[m.end(2):]
 
-    return text
+    # Field not found — insert before section closing brace
+    last_close = text.rfind('}')
+    if last_close == -1:
+        return text
+    indent_m = re.search(r'\n(\s+)\["', text)
+    indent = indent_m.group(1) if indent_m else '                '
+    insert = f'\n{indent}["{field}"] = {fmtval},'
+    return text[:last_close] + insert + '\n' + text[last_close:]
 
 
 def _fmt_lua_value(value):
@@ -273,8 +280,8 @@ MODULE_NAME_MAP = {
     'Hyper Drive Module': 'Hyper Drive',
 }
 
-# Cache entries to skip entirely (admin/cheat modules)
-MODULE_SKIP = {'prometeus module'}
+# Cache entries to skip entirely
+MODULE_SKIP = set()
 
 # Display title to use when adding to wiki (overrides cache key casing)
 MODULE_TITLE_OVERRIDES = {
@@ -289,6 +296,7 @@ def compare_modules(cache, wiki_entries):
         if name in MODULE_SKIP:
             continue
         wiki_name = MODULE_NAME_MAP.get(name, name)
+        wiki_name = MODULE_TITLE_OVERRIDES.get(wiki_name, wiki_name)
         if wiki_name not in wiki_entries:
             missing.append(name)
             continue
@@ -387,7 +395,7 @@ CHASSIS_FIELD_MAP = {
     'shield_projection':   ('Unique Stats', 'Shield Projection', cache_to_pct),
     'module_uplink':       ('Unique Stats', 'Module Uplink', cache_to_pct),
     'energy_share':        ('Unique Stats', 'Energy Distribution / Energy Share', cache_to_pct),
-    'damage_boost':        ('Hidden Stats', 'Damage Boost', cache_to_pct),
+    'damage_boost':        ('Base Stats', 'Damage Adjusted', cache_to_pct),
     'drain_boost':         ('Hidden Stats', 'Drain Boost', cache_to_pct),
     'weapon_slots':        ('Slots', 'Weapon Slots', None),
     'shield_slots':        ('Slots', 'Shield Slots', None),
@@ -699,6 +707,71 @@ def make_module_entry(name, data):
     }},'''
 
 
+def make_chassis_entry(name, data):
+    """Generate a Lua entry for a new chassis."""
+    url = f"https://cybots.fandom.com/wiki/{name.replace(' ', '_')}"
+    armor = data.get('armor', 'nil')
+    speed = data.get('speed', 'nil')
+    payload = data.get('payload', 'nil')
+    ws = data.get('weapon_slots', 'nil')
+    ss = data.get('shield_slots', 'nil')
+    ms = data.get('module_slots', 'nil')
+    sw_tl = data.get('starting_weapon_tl', 'nil')
+    ss_tl = data.get('starting_shield_tl', 'nil')
+    sm_tl = data.get('starting_module_tl', 'nil')
+    sr_tl = data.get('starting_reactor_tl', 'nil')
+    chc = f"{{ value = {cache_to_pct(data['critical_hit_chance'])}, unit = \"%\" }}" if 'critical_hit_chance' in data else 'nil'
+    da  = f"{{ value = {cache_to_pct(data['damage_boost'])}, unit = \"%\" }}" if 'damage_boost' in data else 'nil'
+    sp  = f"{{ value = {cache_to_pct(data['shield_projection'])}, unit = \"%\" }}" if 'shield_projection' in data else 'nil'
+    mu  = f"{{ value = {cache_to_pct(data['module_uplink'])}, unit = \"%\" }}" if 'module_uplink' in data else 'nil'
+    es  = f"{{ value = {cache_to_pct(data['energy_share'])}, unit = \"%\" }}" if 'energy_share' in data else 'nil'
+    db  = cache_to_pct(data['drain_boost']) if 'drain_boost' in data else 'nil'
+    return f'''    {{
+        title = "{name}",
+        url = "{url}",
+        image1 = nil,
+        sections = {{
+            ["Unit Information"] = {{
+                ["Unit Type"] = nil,
+                ["Faction"] = nil,
+                ["Chassis Type"] = nil,
+                ["Chassis Cost"] = nil,
+                ["Requirements"] = nil,
+            }},
+            ["Slots"] = {{
+                ["Weapon Slots"] = {ws},
+                ["Module Slots"] = {ms},
+                ["Shield Slots"] = {ss},
+                ["Reactor Slots"] = nil,
+            }},
+            ["Starting Tech Levels"] = {{
+                ["Weapon Tech"] = {sw_tl},
+                ["Shield Tech"] = {ss_tl},
+                ["Module Tech"] = {sm_tl},
+                ["Reactor Tech"] = {sr_tl},
+            }},
+            ["Base Stats"] = {{
+                ["Payload"] = {payload},
+                ["Armor"] = {armor},
+                ["Speed"] = {speed},
+                ["Critical Hit Chance"] = {chc},
+                ["Accuracy Adjusted"] = nil,
+                ["Damage Adjusted"] = {da},
+                ["Defensive Merit"] = nil,
+            }},
+            ["Unique Stats"] = {{
+                ["Shield Projection"] = {sp},
+                ["Module Uplink"] = {mu},
+                ["Energy Distribution / Energy Share"] = {es},
+                ["Energy Induction"] = nil,
+            }},
+            ["Hidden Stats"] = {{
+                ["Drain Boost"] = {db},
+            }},
+        }},
+    }},'''
+
+
 def make_enemy_entry(name, data):
     """Generate a Lua entry for a new enemy."""
     def chassis_block(n):
@@ -824,7 +897,7 @@ def main():
     process_file('Modules_data', modules_cache, compare_modules, make_module_entry, apply)
     process_file('Reactors_data', reactors_cache, compare_reactors, make_reactor_entry, apply)
     process_file('Shields_data', shields_cache, compare_shields, make_shield_entry, apply)
-    process_file('Chassis_data', chassis_cache, compare_chassis, None, apply)  # chassis missing entries handled manually
+    process_file('Chassis_data', chassis_cache, compare_chassis, make_chassis_entry, apply)
     process_file('Enemies_data', enemies_cache, compare_enemies, make_enemy_entry, apply)
 
     print("\nDone.")
