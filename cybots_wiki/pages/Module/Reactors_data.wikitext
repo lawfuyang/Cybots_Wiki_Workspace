@@ -150,7 +150,7 @@ return {
     {
         title = "Crix80 Didron",
         url = "https://cybots.fandom.com/wiki/Crix80_Didron",
-        image1 = "Crix80didron.jpg",
+        image1 = "Magmatic.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = "81666 credit value; found",
@@ -366,12 +366,12 @@ return {
     {
         title = "Power Cell",
         url = "https://cybots.fandom.com/wiki/Power_Cell",
-        image1 = nil,
+        image1 = "Powercell.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
-                ["Weight"] = nil,
-                ["Required Tech Level"] = nil,
+                ["Weight"] = 5,
+                ["Required Tech Level"] = 0,
                 ["Other Requirements"] = nil,
             },
             ["Properties"] = {
@@ -420,7 +420,7 @@ return {
     {
         title = "250rc Powerplant",
         url = "https://cybots.fandom.com/wiki/250rc_Powerplant",
-        image1 = nil,
+        image1 = "Magmatic.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -618,7 +618,7 @@ return {
     {
         title = "exfed battery",
         url = "https://cybots.fandom.com/wiki/exfed_battery",
-        image1 = "exfedbattery.jpg",
+        image1 = "Exfedbattery.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -636,7 +636,7 @@ return {
     {
         title = "Prometeus Reactor",
         url = "https://cybots.fandom.com/wiki/Prometeus_Reactor",
-        image1 = "prometeusreactor.jpg",
+        image1 = "Prom_reactor.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -654,7 +654,7 @@ return {
     {
         title = "Hyper Syncron Core 2",
         url = "https://cybots.fandom.com/wiki/Hyper_Syncron_Core_2",
-        image1 = "hypersyncroncore2.jpg",
+        image1 = nil,
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,

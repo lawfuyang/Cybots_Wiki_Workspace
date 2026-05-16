@@ -874,7 +874,7 @@ return {
     {
         title = "Horus Fire of Ra",
         url = "https://cybots.fandom.com/wiki/Horus_Fire_of_Ra",
-        image1 = nil,
+        image1 = "Fieryrune.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = "found",
@@ -882,8 +882,8 @@ return {
                 ["Other Requirements"] = "none",
             },
             ["Properties"] = {
-                ["Weight"] = nil,
-                ["Required Tech Level"] = nil,
+                ["Weight"] = 0,
+                ["Required Tech Level"] = 0,
                 ["Energy Use"] = 0,
                 ["Speed"] = nil,
                 ["Critical Hit Chance"] = nil,
@@ -902,7 +902,7 @@ return {
     {
         title = "Horus moon of Ra",
         url = "https://cybots.fandom.com/wiki/Horus_moon_of_Ra",
-        image1 = nil,
+        image1 = "Lunarrune.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = "found",
@@ -910,8 +910,8 @@ return {
                 ["Other Requirements"] = "none",
             },
             ["Properties"] = {
-                ["Weight"] = nil,
-                ["Required Tech Level"] = nil,
+                ["Weight"] = 0,
+                ["Required Tech Level"] = 0,
                 ["Energy Use"] = 0,
                 ["Speed"] = nil,
                 ["Critical Hit Chance"] = nil,
@@ -930,7 +930,7 @@ return {
     {
         title = "Horus Ice of Ra",
         url = "https://cybots.fandom.com/wiki/Horus_Ice_of_Ra",
-        image1 = nil,
+        image1 = "Icyrune.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = "found",
@@ -938,8 +938,8 @@ return {
                 ["Other Requirements"] = "none",
             },
             ["Properties"] = {
-                ["Weight"] = nil,
-                ["Required Tech Level"] = nil,
+                ["Weight"] = 0,
+                ["Required Tech Level"] = 0,
                 ["Energy Use"] = 0,
                 ["Speed"] = nil,
                 ["Critical Hit Chance"] = nil,
@@ -958,7 +958,7 @@ return {
     {
         title = "Horus Sun of Ra",
         url = "https://cybots.fandom.com/wiki/Horus_Sun_of_Ra",
-        image1 = nil,
+        image1 = "Solarrune.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = "found",
@@ -966,8 +966,8 @@ return {
                 ["Other Requirements"] = "none",
             },
             ["Properties"] = {
-                ["Weight"] = nil,
-                ["Required Tech Level"] = nil,
+                ["Weight"] = 0,
+                ["Required Tech Level"] = 0,
                 ["Energy Use"] = 0,
                 ["Speed"] = 50,
                 ["Critical Hit Chance"] = nil,
@@ -1042,7 +1042,7 @@ return {
     {
         title = "Credit Bank",
         url = "https://cybots.fandom.com/wiki/Credit_Bank",
-        image1 = nil,
+        image1 = "Module4.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1050,9 +1050,9 @@ return {
                 ["Other Requirements"] = nil,
             },
             ["Properties"] = {
-                ["Weight"] = nil,
-                ["Required Tech Level"] = nil,
-                ["Energy Use"] = 50,
+                ["Weight"] = 5,
+                ["Required Tech Level"] = 0,
+                ["Energy Use"] = 5,
                 ["Speed"] = nil,
                 ["Critical Hit Chance"] = nil,
                 ["Accuracy"] = nil,
@@ -1070,7 +1070,7 @@ return {
     {
         title = "EM Repulsor Field",
         url = "https://cybots.fandom.com/wiki/EM_Repulsor_Field",
-        image1 = nil,
+        image1 = "Module3.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1098,7 +1098,7 @@ return {
     {
         title = "Voltage Conveyer",
         url = "https://cybots.fandom.com/wiki/Voltage_Conveyer",
-        image1 = nil,
+        image1 = "Module3.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1126,7 +1126,7 @@ return {
     {
         title = "Inspiration",
         url = "https://cybots.fandom.com/wiki/Inspiration",
-        image1 = nil,
+        image1 = "Brain.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1134,12 +1134,12 @@ return {
                 ["Other Requirements"] = nil,
             },
             ["Properties"] = {
-                ["Weight"] = nil,
-                ["Required Tech Level"] = nil,
+                ["Weight"] = 0,
+                ["Required Tech Level"] = 0,
                 ["Energy Use"] = 0,
                 ["Speed"] = { value = 10, unit = "%" },
                 ["Critical Hit Chance"] = { value = 2, unit = "%" },
-                ["Accuracy"] = nil,
+                ["Accuracy"] = { value = 10, unit = "%" },
                 ["Firing Rate"] = { value = 25, unit = "%" },
                 ["Shield Deflection"] = { value = 5, unit = "%" },
                 ["Armor Deflection"] = { value = 3, unit = "%" },
@@ -1154,7 +1154,7 @@ return {
     {
         title = "Omega Pathfinder",
         url = "https://cybots.fandom.com/wiki/Omega_Pathfinder",
-        image1 = nil,
+        image1 = "Module3.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1182,7 +1182,7 @@ return {
     {
         title = "Enhanced Optics",
         url = "https://cybots.fandom.com/wiki/Enhanced_Optics",
-        image1 = nil,
+        image1 = "Module3.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1238,7 +1238,7 @@ return {
     {
         title = "Threat Analyser",
         url = "https://cybots.fandom.com/wiki/Threat_Analyser",
-        image1 = nil,
+        image1 = "Module3.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1266,7 +1266,7 @@ return {
     {
         title = "Damage Control",
         url = "https://cybots.fandom.com/wiki/Damage_Control",
-        image1 = nil,
+        image1 = "Module3.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1294,7 +1294,7 @@ return {
     {
         title = "Armour",
         url = "https://cybots.fandom.com/wiki/Armour",
-        image1 = nil,
+        image1 = "Module_armour.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1322,7 +1322,7 @@ return {
     {
         title = "Gunnery Metalink",
         url = "https://cybots.fandom.com/wiki/Gunnery_Metalink",
-        image1 = nil,
+        image1 = "Module3.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1350,7 +1350,7 @@ return {
     {
         title = "Light Wall Effect",
         url = "https://cybots.fandom.com/wiki/Light_Wall_Effect",
-        image1 = nil,
+        image1 = "Module_armour.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1358,8 +1358,8 @@ return {
                 ["Other Requirements"] = nil,
             },
             ["Properties"] = {
-                ["Weight"] = nil,
-                ["Required Tech Level"] = nil,
+                ["Weight"] = 0,
+                ["Required Tech Level"] = 0,
                 ["Energy Use"] = 0,
                 ["Speed"] = { value = 25, unit = "%" },
                 ["Critical Hit Chance"] = nil,
@@ -1378,7 +1378,7 @@ return {
     {
         title = "Tactical Genius",
         url = "https://cybots.fandom.com/wiki/Tactical_Genius",
-        image1 = nil,
+        image1 = "Brain.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1434,7 +1434,7 @@ return {
     {
         title = "Multiphase Syncroniser",
         url = "https://cybots.fandom.com/wiki/Multiphase_Syncroniser",
-        image1 = nil,
+        image1 = "Module3.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1462,7 +1462,7 @@ return {
     {
         title = "Sloped Armour",
         url = "https://cybots.fandom.com/wiki/Sloped_Armour",
-        image1 = nil,
+        image1 = "Module_armour.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1490,7 +1490,7 @@ return {
     {
         title = "Linked Fire Control",
         url = "https://cybots.fandom.com/wiki/Linked_Fire_Control",
-        image1 = nil,
+        image1 = "Module3.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1518,7 +1518,7 @@ return {
     {
         title = "Reinforced Hull",
         url = "https://cybots.fandom.com/wiki/Reinforced_Hull",
-        image1 = nil,
+        image1 = "Module_armour.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1546,7 +1546,7 @@ return {
     {
         title = "Medium Wall Effect",
         url = "https://cybots.fandom.com/wiki/Medium_Wall_Effect",
-        image1 = nil,
+        image1 = "Module_armour.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1574,7 +1574,7 @@ return {
     {
         title = "Reactive Armour",
         url = "https://cybots.fandom.com/wiki/Reactive_Armour",
-        image1 = nil,
+        image1 = "Module_armour.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1602,7 +1602,7 @@ return {
     {
         title = "Heavy Wall Effect",
         url = "https://cybots.fandom.com/wiki/Heavy_Wall_Effect",
-        image1 = nil,
+        image1 = "Module_armour.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1658,7 +1658,7 @@ return {
     {
         title = "High Ground",
         url = "https://cybots.fandom.com/wiki/High_Ground",
-        image1 = nil,
+        image1 = "Module_armour.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1714,7 +1714,7 @@ return {
     {
         title = "Gravity Hydro Booster",
         url = "https://cybots.fandom.com/wiki/Gravity_Hydro_Booster",
-        image1 = "Module1.jpg",
+        image1 = "Ghb.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1742,7 +1742,7 @@ return {
     {
         title = "Basewall Effect",
         url = "https://cybots.fandom.com/wiki/Basewall_Effect",
-        image1 = "Module1.jpg",
+        image1 = "Module_armour.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1771,7 +1771,7 @@ return {
     {
         title = "prometeus module",
         url = "https://cybots.fandom.com/wiki/prometeus_module",
-        image1 = "Module1.jpg",
+        image1 = "Prometeus.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,

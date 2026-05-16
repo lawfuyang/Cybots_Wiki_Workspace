@@ -6,7 +6,7 @@ return {
     {
         title = "Bulwark",
         url = "https://cybots.fandom.com/wiki/Bulwark",
-        image1 = "bulwark.jpg",
+        image1 = "Bulwark.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -50,7 +50,7 @@ return {
     {
         title = "Cargo Transport",
         url = "https://cybots.fandom.com/wiki/Cargo_Transport",
-        image1 = "cargotransport.jpg",
+        image1 = "Cargotransport.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -94,7 +94,7 @@ return {
     {
         title = "Crusader",
         url = "https://cybots.fandom.com/wiki/Crusader",
-        image1 = "crusader.jpg",
+        image1 = "Crusader.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -120,7 +120,7 @@ return {
                 ["Armor"] = 525,
                 ["Speed"] = 25,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
-                ["Accuracy Adjusted"] = { value = 25, unit = "%" },
+                ["Accuracy Adjusted"] = { value = 20, unit = "%" },
                 ["Damage Adjusted"] = { value = 200, unit = "%" },
                 ["Defensive Merit"] = 94870,
             },
@@ -138,7 +138,7 @@ return {
     {
         title = "CyBulwark",
         url = "https://cybots.fandom.com/wiki/CyBulwark",
-        image1 = "cybulwark.jpg",
+        image1 = "Cybulwark.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -161,7 +161,7 @@ return {
             },
             ["Base Stats"] = {
                 ["Payload"] = 600,
-                ["Armor"] = 1200,
+                ["Armor"] = 650,
                 ["Speed"] = 85,
                 ["Critical Hit Chance"] = { value = 20, unit = "%" },
                 ["Accuracy Adjusted"] = { value = 40, unit = "%" },
@@ -182,7 +182,7 @@ return {
     {
         title = "CySentinel",
         url = "https://cybots.fandom.com/wiki/CySentinel",
-        image1 = "cycorps_sentinel.png",
+        image1 = "Cycorps_sentinel.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -226,7 +226,7 @@ return {
     {
         title = "CyCorps Overseer",
         url = "https://cybots.fandom.com/wiki/CyCorps_Overseer",
-        image1 = "cycorps_overseer.jpg",
+        image1 = "Cycorps_overseer.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -270,7 +270,7 @@ return {
     {
         title = "CyCrusader",
         url = "https://cybots.fandom.com/wiki/CyCrusader",
-        image1 = "cycrusader.jpg",
+        image1 = "Cycrusader.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -314,7 +314,7 @@ return {
     {
         title = "CyMarauder",
         url = "https://cybots.fandom.com/wiki/CyMarauder",
-        image1 = "cymarauder.jpg",
+        image1 = "Cymarauder.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -358,7 +358,7 @@ return {
     {
         title = "CyOrbiter",
         url = "https://cybots.fandom.com/wiki/CyOrbiter",
-        image1 = "cyorbiter.jpg",
+        image1 = "Cyorbiter.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -402,7 +402,7 @@ return {
     {
         title = "CyRanger",
         url = "https://cybots.fandom.com/wiki/CyRanger",
-        image1 = "cyranger.jpg",
+        image1 = "Cyranger.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -446,7 +446,7 @@ return {
     {
         title = "CyValadin",
         url = "https://cybots.fandom.com/wiki/CyValadin",
-        image1 = "cyvaladin.jpg",
+        image1 = "Cyvaladin.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -490,7 +490,7 @@ return {
     {
         title = "Enhanced Reaper",
         url = "https://cybots.fandom.com/wiki/Enhanced_Reaper",
-        image1 = "enhancedreaper.jpg",
+        image1 = "Enhancedreaper.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -534,7 +534,7 @@ return {
     {
         title = "Flaming Hornet",
         url = "https://cybots.fandom.com/wiki/Flaming_Hornet",
-        image1 = "flaminghornet.jpg",
+        image1 = "Flaminghornet.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -578,7 +578,7 @@ return {
     {
         title = "Flaming Orbiter",
         url = "https://cybots.fandom.com/wiki/Flaming_Orbiter",
-        image1 = "flamingorbiter.jpg",
+        image1 = "Flamingorbiter.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -622,7 +622,7 @@ return {
     {
         title = "Hornet",
         url = "https://cybots.fandom.com/wiki/Hornet",
-        image1 = "hornet.jpg",
+        image1 = "Enemyhornet.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -666,7 +666,7 @@ return {
     {
         title = "Leviathan",
         url = "https://cybots.fandom.com/wiki/Leviathan",
-        image1 = "leviathan.jpg",
+        image1 = "Leviathan.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -710,7 +710,7 @@ return {
     {
         title = "Marauder",
         url = "https://cybots.fandom.com/wiki/Marauder",
-        image1 = "marauder.jpg",
+        image1 = "Marauder.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -720,16 +720,16 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = 5,
-                ["Module Slots"] = 0,
+                ["Weapon Slots"] = 4,
+                ["Module Slots"] = 1,
                 ["Shield Slots"] = 0,
                 ["Reactor Slots"] = 1,
             },
             ["Starting Tech Levels"] = {
-                ["Weapon Tech"] = 16,
+                ["Weapon Tech"] = 10,
                 ["Shield Tech"] = 1,
-                ["Module Tech"] = 1,
-                ["Reactor Tech"] = 11,
+                ["Module Tech"] = 25,
+                ["Reactor Tech"] = 10,
             },
             ["Base Stats"] = {
                 ["Payload"] = 550,
@@ -754,7 +754,7 @@ return {
     {
         title = "Orbiter",
         url = "https://cybots.fandom.com/wiki/Orbiter",
-        image1 = "orbital.jpg",
+        image1 = "Orbital.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -765,19 +765,19 @@ return {
             },
             ["Slots"] = {
                 ["Weapon Slots"] = 1,
-                ["Module Slots"] = 4,
+                ["Module Slots"] = 3,
                 ["Shield Slots"] = 1,
                 ["Reactor Slots"] = 1,
             },
             ["Starting Tech Levels"] = {
-                ["Weapon Tech"] = 6,
+                ["Weapon Tech"] = 1,
                 ["Shield Tech"] = 1,
-                ["Module Tech"] = 11,
-                ["Reactor Tech"] = 5,
+                ["Module Tech"] = 5,
+                ["Reactor Tech"] = 1,
             },
             ["Base Stats"] = {
-                ["Payload"] = 180,
-                ["Armor"] = 120,
+                ["Payload"] = 100,
+                ["Armor"] = 75,
                 ["Speed"] = 80,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
                 ["Accuracy Adjusted"] = nil,
@@ -798,7 +798,7 @@ return {
     {
         title = "Overseer",
         url = "https://cybots.fandom.com/wiki/Overseer",
-        image1 = "overseer.jpg",
+        image1 = "Hover.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -816,13 +816,13 @@ return {
             ["Starting Tech Levels"] = {
                 ["Weapon Tech"] = 1,
                 ["Shield Tech"] = 1,
-                ["Module Tech"] = 16,
-                ["Reactor Tech"] = 6,
+                ["Module Tech"] = 10,
+                ["Reactor Tech"] = 1,
             },
             ["Base Stats"] = {
                 ["Payload"] = 300,
-                ["Armor"] = 300,
-                ["Speed"] = 45,
+                ["Armor"] = 275,
+                ["Speed"] = 40,
                 ["Critical Hit Chance"] = nil,
                 ["Accuracy Adjusted"] = nil,
                 ["Damage Adjusted"] = { value = -25, unit = "%" },
@@ -858,7 +858,7 @@ return {
                 ["Reactor Slots"] = 1,
             },
             ["Starting Tech Levels"] = {
-                ["Weapon Tech"] = 6,
+                ["Weapon Tech"] = 5,
                 ["Shield Tech"] = 1,
                 ["Module Tech"] = 1,
                 ["Reactor Tech"] = 1,
@@ -886,7 +886,7 @@ return {
     {
         title = "Reaper",
         url = "https://cybots.fandom.com/wiki/Reaper",
-        image1 = "reaper.jpg",
+        image1 = "Spider.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -902,15 +902,15 @@ return {
                 ["Reactor Slots"] = 1,
             },
             ["Starting Tech Levels"] = {
-                ["Weapon Tech"] = 11,
+                ["Weapon Tech"] = 5,
                 ["Shield Tech"] = 1,
                 ["Module Tech"] = 1,
-                ["Reactor Tech"] = 6,
+                ["Reactor Tech"] = 5,
             },
             ["Base Stats"] = {
                 ["Payload"] = 225,
-                ["Armor"] = 300,
-                ["Speed"] = 55,
+                ["Armor"] = 250,
+                ["Speed"] = 45,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
                 ["Accuracy Adjusted"] = nil,
                 ["Damage Adjusted"] = nil,
@@ -923,14 +923,14 @@ return {
                 ["Energy Induction"] = { value = 100, unit = "%" },
             },
             ["Hidden Stats"] = {
-                ["Drain Boost"] = { value = 150, unit = "%" },
+                ["Drain Boost"] = { value = 115, unit = "%" },
             },
         },
     },
     {
         title = "Recon Hornet",
         url = "https://cybots.fandom.com/wiki/Recon_Hornet",
-        image1 = "reconhornet.jpg",
+        image1 = "Reconhornet.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -974,7 +974,7 @@ return {
     {
         title = "Recon Warthog",
         url = "https://cybots.fandom.com/wiki/Recon_Warthog",
-        image1 = "reconwarthog.jpg",
+        image1 = "Reconwarthog.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -1018,7 +1018,7 @@ return {
     {
         title = "Sentinel",
         url = "https://cybots.fandom.com/wiki/Sentinel",
-        image1 = "sentinel.jpg",
+        image1 = "Sentinel.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -1035,9 +1035,9 @@ return {
             },
             ["Starting Tech Levels"] = {
                 ["Weapon Tech"] = 1,
-                ["Shield Tech"] = 11,
+                ["Shield Tech"] = 10,
                 ["Module Tech"] = 1,
-                ["Reactor Tech"] = 11,
+                ["Reactor Tech"] = 10,
             },
             ["Base Stats"] = {
                 ["Payload"] = 550,
@@ -1049,7 +1049,7 @@ return {
                 ["Defensive Merit"] = 11250,
             },
             ["Unique Stats"] = {
-                ["Shield Projection"] = { value = 30, unit = "%" },
+                ["Shield Projection"] = { value = 20, unit = "%" },
                 ["Module Uplink"] = nil,
                 ["Energy Distribution / Energy Share"] = nil,
                 ["Energy Induction"] = nil,
@@ -1062,7 +1062,7 @@ return {
     {
         title = "Terminus Prototype",
         url = "https://cybots.fandom.com/wiki/Terminus_Prototype",
-        image1 = "terminus.jpg",
+        image1 = "Terminus.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -1106,7 +1106,7 @@ return {
     {
         title = "Valadin",
         url = "https://cybots.fandom.com/wiki/Valadin",
-        image1 = "valadin.jpg",
+        image1 = "Valadin.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -1150,7 +1150,7 @@ return {
     {
         title = "Viper",
         url = "https://cybots.fandom.com/wiki/Viper",
-        image1 = "viper.jpg",
+        image1 = "Viper.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -1194,7 +1194,7 @@ return {
     {
         title = "Warthog",
         url = "https://cybots.fandom.com/wiki/Warthog",
-        image1 = "warthog.jpg",
+        image1 = "Warthog.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -1238,7 +1238,7 @@ return {
     {
         title = "Raven",
         url = "https://cybots.fandom.com/wiki/Raven",
-        image1 = "Raven-blue.png",
+        image1 = "Raven.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = "Cybot (Useable)",
@@ -1255,8 +1255,8 @@ return {
             },
             ["Starting Tech Levels"] = {
                 ["Weapon Tech"] = 298,
-                ["Shield Tech"] = 66,
-                ["Module Tech"] = 15,
+                ["Shield Tech"] = 15,
+                ["Module Tech"] = 66,
                 ["Reactor Tech"] = 102,
             },
             ["Base Stats"] = {
@@ -1282,7 +1282,7 @@ return {
     {
         title = "Scaven Gang",
         url = "https://cybots.fandom.com/wiki/Scaven_Gang",
-        image1 = nil,
+        image1 = "Inf_scaven1.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -1292,9 +1292,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 3,
+                ["Module Slots"] = 0,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -1304,7 +1304,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 90,
                 ["Armor"] = 50,
                 ["Speed"] = 40,
                 ["Critical Hit Chance"] = nil,
@@ -1326,7 +1326,7 @@ return {
     {
         title = "Valadin XR",
         url = "https://cybots.fandom.com/wiki/Valadin_XR",
-        image1 = nil,
+        image1 = "Enemy_walker.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -1336,19 +1336,19 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 2,
+                ["Module Slots"] = 2,
+                ["Shield Slots"] = 2,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
-                ["Weapon Tech"] = nil,
-                ["Shield Tech"] = nil,
-                ["Module Tech"] = nil,
-                ["Reactor Tech"] = nil,
+                ["Weapon Tech"] = 1,
+                ["Shield Tech"] = 1,
+                ["Module Tech"] = 1,
+                ["Reactor Tech"] = 1,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 350,
                 ["Armor"] = 300,
                 ["Speed"] = 65,
                 ["Critical Hit Chance"] = { value = 15, unit = "%" },
@@ -1357,7 +1357,7 @@ return {
                 ["Defensive Merit"] = nil,
             },
             ["Unique Stats"] = {
-                ["Shield Projection"] = nil,
+                ["Shield Projection"] = { value = 10, unit = "%" },
                 ["Module Uplink"] = { value = 10, unit = "%" },
                 ["Energy Distribution / Energy Share"] = nil,
                 ["Energy Induction"] = nil,
@@ -1414,7 +1414,7 @@ return {
     {
         title = "Syphon Turret",
         url = "https://cybots.fandom.com/wiki/Syphon_Turret",
-        image1 = nil,
+        image1 = "Cyturret_syphon.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -1424,20 +1424,20 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 1,
+                ["Module Slots"] = 0,
+                ["Shield Slots"] = 1,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
-                ["Weapon Tech"] = nil,
-                ["Shield Tech"] = nil,
-                ["Module Tech"] = nil,
-                ["Reactor Tech"] = nil,
+                ["Weapon Tech"] = 1,
+                ["Shield Tech"] = 1,
+                ["Module Tech"] = 1,
+                ["Reactor Tech"] = 1,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
-                ["Armor"] = 500,
+                ["Payload"] = 300,
+                ["Armor"] = 600,
                 ["Speed"] = 0,
                 ["Critical Hit Chance"] = { value = 1, unit = "%" },
                 ["Accuracy Adjusted"] = nil,
@@ -1451,14 +1451,14 @@ return {
                 ["Energy Induction"] = nil,
             },
             ["Hidden Stats"] = {
-                ["Drain Boost"] = nil,
+                ["Drain Boost"] = { value = 100, unit = "%" },
             },
         },
     },
     {
         title = "Deflector Shield Array",
         url = "https://cybots.fandom.com/wiki/Deflector_Shield_Array",
-        image1 = nil,
+        image1 = "Malon_generator.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -1468,20 +1468,20 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 0,
+                ["Module Slots"] = 0,
+                ["Shield Slots"] = 4,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
-                ["Weapon Tech"] = nil,
-                ["Shield Tech"] = nil,
-                ["Module Tech"] = nil,
-                ["Reactor Tech"] = nil,
+                ["Weapon Tech"] = 1,
+                ["Shield Tech"] = 1,
+                ["Module Tech"] = 1,
+                ["Reactor Tech"] = 1,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
-                ["Armor"] = 500,
+                ["Payload"] = 1000,
+                ["Armor"] = 300,
                 ["Speed"] = 0,
                 ["Critical Hit Chance"] = nil,
                 ["Accuracy Adjusted"] = nil,
@@ -1489,7 +1489,7 @@ return {
                 ["Defensive Merit"] = nil,
             },
             ["Unique Stats"] = {
-                ["Shield Projection"] = nil,
+                ["Shield Projection"] = { value = 100, unit = "%" },
                 ["Module Uplink"] = nil,
                 ["Energy Distribution / Energy Share"] = nil,
                 ["Energy Induction"] = nil,
@@ -1502,7 +1502,7 @@ return {
     {
         title = "Scaven Shielders",
         url = "https://cybots.fandom.com/wiki/Scaven_Shielders",
-        image1 = nil,
+        image1 = "Scaven_shield.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -1512,9 +1512,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 2,
+                ["Module Slots"] = 0,
+                ["Shield Slots"] = 2,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -1524,7 +1524,7 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 200,
                 ["Armor"] = 100,
                 ["Speed"] = 30,
                 ["Critical Hit Chance"] = nil,
@@ -1533,7 +1533,7 @@ return {
                 ["Defensive Merit"] = nil,
             },
             ["Unique Stats"] = {
-                ["Shield Projection"] = nil,
+                ["Shield Projection"] = { value = 25, unit = "%" },
                 ["Module Uplink"] = nil,
                 ["Energy Distribution / Energy Share"] = nil,
                 ["Energy Induction"] = nil,
@@ -1556,9 +1556,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 2,
+                ["Module Slots"] = 1,
+                ["Shield Slots"] = 1,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -1568,8 +1568,8 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
-                ["Armor"] = 500,
+                ["Payload"] = 50,
+                ["Armor"] = 100,
                 ["Speed"] = 60,
                 ["Critical Hit Chance"] = { value = 5, unit = "%" },
                 ["Accuracy Adjusted"] = nil,
@@ -1678,7 +1678,7 @@ return {
     {
         title = "Scaven Queen",
         url = "https://cybots.fandom.com/wiki/Scaven_Queen",
-        image1 = nil,
+        image1 = "Scaven_matriarch.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -1688,19 +1688,19 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 3,
+                ["Module Slots"] = 1,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
-                ["Weapon Tech"] = nil,
-                ["Shield Tech"] = nil,
-                ["Module Tech"] = nil,
-                ["Reactor Tech"] = nil,
+                ["Weapon Tech"] = 20,
+                ["Shield Tech"] = 20,
+                ["Module Tech"] = 20,
+                ["Reactor Tech"] = 20,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 300,
                 ["Armor"] = 200,
                 ["Speed"] = 30,
                 ["Critical Hit Chance"] = nil,
@@ -1766,7 +1766,7 @@ return {
     {
         title = "Scaven Strike Gang",
         url = "https://cybots.fandom.com/wiki/Scaven_Strike_Gang",
-        image1 = nil,
+        image1 = "Inf_scaven2.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -1776,9 +1776,9 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 6,
+                ["Module Slots"] = 0,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
@@ -1788,8 +1788,8 @@ return {
                 ["Reactor Tech"] = nil,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
-                ["Armor"] = 500,
+                ["Payload"] = 100,
+                ["Armor"] = 100,
                 ["Speed"] = 40,
                 ["Critical Hit Chance"] = nil,
                 ["Accuracy Adjusted"] = nil,
@@ -1810,7 +1810,7 @@ return {
     {
         title = "Scaven Fortification",
         url = "https://cybots.fandom.com/wiki/Scaven_Fortification",
-        image1 = nil,
+        image1 = "Scaven_wall.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -1820,19 +1820,19 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 0,
+                ["Module Slots"] = 1,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
-                ["Weapon Tech"] = nil,
-                ["Shield Tech"] = nil,
-                ["Module Tech"] = nil,
-                ["Reactor Tech"] = nil,
+                ["Weapon Tech"] = 1,
+                ["Shield Tech"] = 1,
+                ["Module Tech"] = 1,
+                ["Reactor Tech"] = 1,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 200,
                 ["Armor"] = 500,
                 ["Speed"] = 0,
                 ["Critical Hit Chance"] = nil,
@@ -1942,7 +1942,7 @@ return {
     {
         title = "Malon Generator",
         url = "https://cybots.fandom.com/wiki/Malon_Generator",
-        image1 = nil,
+        image1 = "Malon_generator.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -1996,20 +1996,20 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 0,
+                ["Module Slots"] = 0,
+                ["Shield Slots"] = 0,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
-                ["Weapon Tech"] = nil,
-                ["Shield Tech"] = nil,
-                ["Module Tech"] = nil,
-                ["Reactor Tech"] = nil,
+                ["Weapon Tech"] = 1,
+                ["Shield Tech"] = 1,
+                ["Module Tech"] = 1,
+                ["Reactor Tech"] = 1,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
-                ["Armor"] = 500,
+                ["Payload"] = 2000,
+                ["Armor"] = 10000,
                 ["Speed"] = 0,
                 ["Critical Hit Chance"] = nil,
                 ["Accuracy Adjusted"] = nil,
@@ -2074,7 +2074,7 @@ return {
     {
         title = "Power Generator",
         url = "https://cybots.fandom.com/wiki/Power_Generator",
-        image1 = nil,
+        image1 = "Turret_powergen.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -2118,7 +2118,7 @@ return {
     {
         title = "Dual Baron Turret",
         url = "https://cybots.fandom.com/wiki/Dual_Baron_Turret",
-        image1 = nil,
+        image1 = "Cyturret_argon.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -2128,19 +2128,19 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 2,
+                ["Module Slots"] = 0,
+                ["Shield Slots"] = 1,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
-                ["Weapon Tech"] = nil,
-                ["Shield Tech"] = nil,
-                ["Module Tech"] = nil,
-                ["Reactor Tech"] = nil,
+                ["Weapon Tech"] = 1,
+                ["Shield Tech"] = 1,
+                ["Module Tech"] = 1,
+                ["Reactor Tech"] = 1,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 250,
                 ["Armor"] = 500,
                 ["Speed"] = 0,
                 ["Critical Hit Chance"] = { value = 2, unit = "%" },
@@ -2266,10 +2266,10 @@ return {
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
-                ["Weapon Tech"] = nil,
-                ["Shield Tech"] = nil,
-                ["Module Tech"] = nil,
-                ["Reactor Tech"] = nil,
+                ["Weapon Tech"] = 11,
+                ["Shield Tech"] = 11,
+                ["Module Tech"] = 16,
+                ["Reactor Tech"] = 11,
             },
             ["Base Stats"] = {
                 ["Payload"] = 200,
@@ -2294,7 +2294,7 @@ return {
     {
         title = "CyCorps Leviathan",
         url = "https://cybots.fandom.com/wiki/CyCorps_Leviathan",
-        image1 = "cycorps_leviathan.jpg",
+        image1 = "Cycorps_leviathan.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -2338,7 +2338,7 @@ return {
     {
         title = "CyCorps Sentinel",
         url = "https://cybots.fandom.com/wiki/CyCorps_Sentinel",
-        image1 = "cycorps_sentinel.png",
+        image1 = "Cycorps_sentinel.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -2348,19 +2348,19 @@ return {
                 ["Requirements"] = nil,
             },
             ["Slots"] = {
-                ["Weapon Slots"] = nil,
-                ["Module Slots"] = nil,
-                ["Shield Slots"] = nil,
+                ["Weapon Slots"] = 2,
+                ["Module Slots"] = 1,
+                ["Shield Slots"] = 4,
                 ["Reactor Slots"] = nil,
             },
             ["Starting Tech Levels"] = {
-                ["Weapon Tech"] = nil,
-                ["Shield Tech"] = nil,
-                ["Module Tech"] = nil,
-                ["Reactor Tech"] = nil,
+                ["Weapon Tech"] = 1,
+                ["Shield Tech"] = 31,
+                ["Module Tech"] = 11,
+                ["Reactor Tech"] = 21,
             },
             ["Base Stats"] = {
-                ["Payload"] = nil,
+                ["Payload"] = 600,
                 ["Armor"] = 600,
                 ["Speed"] = 40,
                 ["Critical Hit Chance"] = nil,
@@ -2426,7 +2426,7 @@ return {
     {
         title = "CyCorps Reaper",
         url = "https://cybots.fandom.com/wiki/CyCorps_Reaper",
-        image1 = "Cycorps reaper.jpg",
+        image1 = "Cycorps_reaper.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -2558,7 +2558,7 @@ return {
     {
         title = "Jet Bike",
         url = "https://cybots.fandom.com/wiki/Jet_Bike",
-        image1 = "jetbike.jpg",
+        image1 = "Jetbike.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -2602,7 +2602,7 @@ return {
     {
         title = "Scout Craft",
         url = "https://cybots.fandom.com/wiki/Scout_Craft",
-        image1 = "scoutcraft.png",
+        image1 = "Scoutcraft.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -2646,7 +2646,7 @@ return {
     {
         title = "Command Tank",
         url = "https://cybots.fandom.com/wiki/Command_Tank",
-        image1 = "commstank.png",
+        image1 = "Commstank.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -2690,7 +2690,7 @@ return {
     {
         title = "Shield Tank",
         url = "https://cybots.fandom.com/wiki/Shield_Tank",
-        image1 = "tank_shielder.png",
+        image1 = "Tank_shielder.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -2734,7 +2734,7 @@ return {
     {
         title = "APC",
         url = "https://cybots.fandom.com/wiki/APC",
-        image1 = "apc1.png",
+        image1 = "Apc1.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -2778,7 +2778,7 @@ return {
     {
         title = "Heavy Infantry",
         url = "https://cybots.fandom.com/wiki/Heavy_Infantry",
-        image1 = "heavyinfantry.png",
+        image1 = "Heavyinfantry.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -2822,7 +2822,7 @@ return {
     {
         title = "Officer",
         url = "https://cybots.fandom.com/wiki/Officer",
-        image1 = "fed_officer1.png",
+        image1 = "Fed_officer1.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -2866,7 +2866,7 @@ return {
     {
         title = "Portable Shield Projector",
         url = "https://cybots.fandom.com/wiki/Portable_Shield_Projector",
-        image1 = "infantryshield.png",
+        image1 = "Infantryshield.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -2910,7 +2910,7 @@ return {
     {
         title = "Infantry Squad",
         url = "https://cybots.fandom.com/wiki/Infantry_Squad",
-        image1 = "lightinfantry.png",
+        image1 = "Lightinfantry.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -2954,7 +2954,7 @@ return {
     {
         title = "Mortar Squad",
         url = "https://cybots.fandom.com/wiki/Mortar_Squad",
-        image1 = "mortarsquad.png",
+        image1 = "Mortarsquad.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -2998,7 +2998,7 @@ return {
     {
         title = "Gun Turret",
         url = "https://cybots.fandom.com/wiki/Gun_Turret",
-        image1 = "turret1.png",
+        image1 = "Turret1.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -3042,7 +3042,7 @@ return {
     {
         title = "Rocket Turret",
         url = "https://cybots.fandom.com/wiki/Rocket_Turret",
-        image1 = "turret3.png",
+        image1 = "Turret3.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -3086,7 +3086,7 @@ return {
     {
         title = "Defence Matrix",
         url = "https://cybots.fandom.com/wiki/Defence_Matrix",
-        image1 = "turret_shieldgen.png",
+        image1 = "Turret_shieldgen.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -3130,7 +3130,7 @@ return {
     {
         title = "Siege Tank",
         url = "https://cybots.fandom.com/wiki/Siege_Tank",
-        image1 = "tank_siege.png",
+        image1 = "Tank_siege.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -3174,7 +3174,7 @@ return {
     {
         title = "Battle Tank",
         url = "https://cybots.fandom.com/wiki/Battle_Tank",
-        image1 = "hovertank1.png",
+        image1 = "Hovertank1.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -3218,7 +3218,7 @@ return {
     {
         title = "Disruptor Tank",
         url = "https://cybots.fandom.com/wiki/Disruptor_Tank",
-        image1 = "tank_disruptor.png",
+        image1 = "Tank_disruptor.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -3262,7 +3262,7 @@ return {
     {
         title = "Inductor Tank",
         url = "https://cybots.fandom.com/wiki/Inductor_Tank",
-        image1 = "tank_syphon.png",
+        image1 = "Tank_syphon.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -3306,7 +3306,7 @@ return {
     {
         title = "Federate Bunker",
         url = "https://cybots.fandom.com/wiki/Federate_Bunker",
-        image1 = "fed_bunker.png",
+        image1 = "Fed_bunker.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -3394,7 +3394,7 @@ return {
     {
         title = "Radial Laser Turret",
         url = "https://cybots.fandom.com/wiki/Radial_Laser_Turret",
-        image1 = "turret2.png",
+        image1 = "Turret2.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -3438,7 +3438,7 @@ return {
     {
         title = "Federate Base Wall",
         url = "https://cybots.fandom.com/wiki/Federate_Base_Wall",
-        image1 = "fedwall1.png",
+        image1 = "Fedwall1.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -3482,7 +3482,7 @@ return {
     {
         title = "Command Tower",
         url = "https://cybots.fandom.com/wiki/Command_Tower",
-        image1 = "turret_controldeck.png",
+        image1 = "Turret_controldeck.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -3526,7 +3526,7 @@ return {
     {
         title = "Warship Gun Turret",
         url = "https://cybots.fandom.com/wiki/Warship_Gun_Turret",
-        image1 = "destroyer_gun1.png",
+        image1 = "Destroyer_gun1.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -3570,7 +3570,7 @@ return {
     {
         title = "Warship Bridge",
         url = "https://cybots.fandom.com/wiki/Warship_Bridge",
-        image1 = "destroyer_bridge.png",
+        image1 = "Destroyer_bridge.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -3614,7 +3614,7 @@ return {
     {
         title = "Warship Hull",
         url = "https://cybots.fandom.com/wiki/Warship_Hull",
-        image1 = "destroyer_hull.png",
+        image1 = "Destroyer_hull.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -3658,7 +3658,7 @@ return {
     {
         title = "Warship Shield Generator",
         url = "https://cybots.fandom.com/wiki/Warship_Shield_Generator",
-        image1 = "destroyer_shield1.png",
+        image1 = "Destroyer_shield1.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -3702,7 +3702,7 @@ return {
     {
         title = "Artillery",
         url = "https://cybots.fandom.com/wiki/Artillery",
-        image1 = "fed_arty1.png",
+        image1 = "Fed_arty1.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -3746,7 +3746,7 @@ return {
     {
         title = "TR-90x Goshawk",
         url = "https://cybots.fandom.com/wiki/TR-90x_Goshawk",
-        image1 = "jetfighter.png",
+        image1 = "Jetfighter.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -3790,7 +3790,7 @@ return {
     {
         title = "True Guard",
         url = "https://cybots.fandom.com/wiki/True_Guard",
-        image1 = "superinfantry.png",
+        image1 = "Superinfantry.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -3878,7 +3878,7 @@ return {
     {
         title = "Super Heavy Tank",
         url = "https://cybots.fandom.com/wiki/Super_Heavy_Tank",
-        image1 = "Tank super.png",
+        image1 = "Tank_super.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -3922,7 +3922,7 @@ return {
     {
         title = "Voilstrum Tank",
         url = "https://cybots.fandom.com/wiki/Voilstrum_Tank",
-        image1 = "tank_super.png",
+        image1 = "Tank_super.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -3966,7 +3966,7 @@ return {
     {
         title = "Cyclone Tank",
         url = "https://cybots.fandom.com/wiki/Cyclone_Tank",
-        image1 = nil,
+        image1 = "Tank_manium2.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -4010,7 +4010,7 @@ return {
     {
         title = "Manium Tank",
         url = "https://cybots.fandom.com/wiki/Manium_Tank",
-        image1 = "tank_manium.png",
+        image1 = "Tank_manium.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -4054,7 +4054,7 @@ return {
     {
         title = "Cortex Tank",
         url = "https://cybots.fandom.com/wiki/Cortex_Tank",
-        image1 = nil,
+        image1 = "Tank_manium2.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -4098,7 +4098,7 @@ return {
     {
         title = "Long Range Spotter",
         url = "https://cybots.fandom.com/wiki/Long_Range_Spotter",
-        image1 = nil,
+        image1 = "Fed_bunker.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -4186,7 +4186,7 @@ return {
     {
         title = "CyFreighter",
         url = "https://cybots.fandom.com/wiki/CyFreighter",
-        image1 = nil,
+        image1 = "Truck.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -4274,7 +4274,7 @@ return {
     {
         title = "CyCarrier Core",
         url = "https://cybots.fandom.com/wiki/CyCarrier_Core",
-        image1 = nil,
+        image1 = "Cycarrier_core.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -4406,7 +4406,7 @@ return {
     {
         title = "Advanced Control Tower",
         url = "https://cybots.fandom.com/wiki/Advanced_Control_Tower",
-        image1 = nil,
+        image1 = "Turret_controldeck.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -4450,7 +4450,7 @@ return {
     {
         title = "Satelite",
         url = "https://cybots.fandom.com/wiki/Satelite",
-        image1 = nil,
+        image1 = "Sat1.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -4494,7 +4494,7 @@ return {
     {
         title = "Federate Energy Turret",
         url = "https://cybots.fandom.com/wiki/Federate_Energy_Turret",
-        image1 = nil,
+        image1 = "Turret8.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -4538,7 +4538,7 @@ return {
     {
         title = "Federate Warship (Fixed)",
         url = "https://cybots.fandom.com/wiki/Federate_Warship_(Fixed)",
-        image1 = nil,
+        image1 = "Carriergun.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -4582,7 +4582,7 @@ return {
     {
         title = "Artillery (ranged)",
         url = "https://cybots.fandom.com/wiki/Artillery_(ranged)",
-        image1 = nil,
+        image1 = "Fed_arty1.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -4670,7 +4670,7 @@ return {
     {
         title = "ExFed Bunker",
         url = "https://cybots.fandom.com/wiki/ExFed_Bunker",
-        image1 = nil,
+        image1 = "Exfed_bunker.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -4714,7 +4714,7 @@ return {
     {
         title = "exfed_infantry",
         url = "https://cybots.fandom.com/wiki/exfed_infantry",
-        image1 = nil,
+        image1 = "Superinfantryexfed.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -4758,7 +4758,7 @@ return {
     {
         title = "ML6 Rocket Turret",
         url = "https://cybots.fandom.com/wiki/ML6_Rocket_Turret",
-        image1 = nil,
+        image1 = "Mb3_turret.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -4802,7 +4802,7 @@ return {
     {
         title = "Horus Guard",
         url = "https://cybots.fandom.com/wiki/Horus_Guard",
-        image1 = nil,
+        image1 = "Horusanubiguard.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -4846,7 +4846,7 @@ return {
     {
         title = "Horus Hover",
         url = "https://cybots.fandom.com/wiki/Horus_Hover",
-        image1 = nil,
+        image1 = "Horus_hover2.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -4890,7 +4890,7 @@ return {
     {
         title = "Horus Warrior",
         url = "https://cybots.fandom.com/wiki/Horus_Warrior",
-        image1 = nil,
+        image1 = "Horus_warrior.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -4934,7 +4934,7 @@ return {
     {
         title = "Horus Gunner",
         url = "https://cybots.fandom.com/wiki/Horus_Gunner",
-        image1 = nil,
+        image1 = "Horusanubigunner.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -4978,7 +4978,7 @@ return {
     {
         title = "Horus Shaman",
         url = "https://cybots.fandom.com/wiki/Horus_Shaman",
-        image1 = nil,
+        image1 = "Horus_shaman.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -5022,7 +5022,7 @@ return {
     {
         title = "cougar",
         url = "https://cybots.fandom.com/wiki/cougar",
-        image1 = nil,
+        image1 = "Cougar.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -5066,7 +5066,7 @@ return {
     {
         title = "gargoyle",
         url = "https://cybots.fandom.com/wiki/gargoyle",
-        image1 = nil,
+        image1 = "Gargoyle.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -5110,7 +5110,7 @@ return {
     {
         title = "barracuda",
         url = "https://cybots.fandom.com/wiki/barracuda",
-        image1 = nil,
+        image1 = "Barracuda.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -5154,7 +5154,7 @@ return {
     {
         title = "Nomad Infantry",
         url = "https://cybots.fandom.com/wiki/Nomad_Infantry",
-        image1 = nil,
+        image1 = "Nomadinfantry.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -5198,7 +5198,7 @@ return {
     {
         title = "albatros",
         url = "https://cybots.fandom.com/wiki/albatros",
-        image1 = nil,
+        image1 = "Albatros.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -5242,7 +5242,7 @@ return {
     {
         title = "Horus Uplinker",
         url = "https://cybots.fandom.com/wiki/Horus_Uplinker",
-        image1 = nil,
+        image1 = "horus_uplinker.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -5286,7 +5286,7 @@ return {
     {
         title = "cyBulwark",
         url = "https://cybots.fandom.com/wiki/cyBulwark",
-        image1 = nil,
+        image1 = "Cybulwark.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -5330,7 +5330,7 @@ return {
     {
         title = "spacepirate",
         url = "https://cybots.fandom.com/wiki/spacepirate",
-        image1 = nil,
+        image1 = "Spacepirate.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -5374,7 +5374,7 @@ return {
     {
         title = "viper",
         url = "https://cybots.fandom.com/wiki/viper",
-        image1 = nil,
+        image1 = "Viper.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -5418,7 +5418,7 @@ return {
     {
         title = "nmeRaven",
         url = "https://cybots.fandom.com/wiki/nmeRaven",
-        image1 = nil,
+        image1 = "Raven.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -5462,7 +5462,7 @@ return {
     {
         title = "praetorian",
         url = "https://cybots.fandom.com/wiki/praetorian",
-        image1 = nil,
+        image1 = "Praetorian.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -5506,7 +5506,7 @@ return {
     {
         title = "enemyHornet",
         url = "https://cybots.fandom.com/wiki/enemyHornet",
-        image1 = nil,
+        image1 = "Enemyhornet.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -5550,7 +5550,7 @@ return {
     {
         title = "wasp",
         url = "https://cybots.fandom.com/wiki/wasp",
-        image1 = nil,
+        image1 = "Wasp.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -5594,7 +5594,7 @@ return {
     {
         title = "Proton_shield_array",
         url = "https://cybots.fandom.com/wiki/Proton_shield_array",
-        image1 = nil,
+        image1 = "Praetorian_shield.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -5638,7 +5638,7 @@ return {
     {
         title = "Corvette Turret",
         url = "https://cybots.fandom.com/wiki/Corvette_Turret",
-        image1 = nil,
+        image1 = "Corvette_turret.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -5682,7 +5682,7 @@ return {
     {
         title = "PraetorianWall",
         url = "https://cybots.fandom.com/wiki/PraetorianWall",
-        image1 = nil,
+        image1 = "Praet_wall2.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,
@@ -5726,7 +5726,7 @@ return {
     {
         title = "Praetorian Uplink",
         url = "https://cybots.fandom.com/wiki/Praetorian_Uplink",
-        image1 = nil,
+        image1 = "Antennatest2.png",
         sections = {
             ["Unit Information"] = {
                 ["Unit Type"] = nil,

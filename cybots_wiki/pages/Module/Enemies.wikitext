@@ -19,10 +19,6 @@ local function loadMod(primary, fallback)
 end
 
 local CHASSIS_DATA  = loadMod('Module:Chassis/data',  'Module:Chassis_data')
-local REACTOR_DATA  = loadMod('Module:Reactors/data', 'Module:Reactors_data')
-local SHIELD_DATA   = loadMod('Module:Shields/data',  'Module:Shields_data')
-local WEAPON_DATA   = loadMod('Module:Weapons/data',  'Module:Weapons_data')
-local MODULE_DATA   = loadMod('Module:Modules/data',  'Module:Modules_data')
 
 -- ── Build title → image1 lookup from an array-style data module ──────────────
 local function buildImageMap(dataModule)
@@ -30,9 +26,7 @@ local function buildImageMap(dataModule)
     if not dataModule then return map end
     for _, entry in pairs(dataModule) do
         if type(entry) == 'table' and entry.title and entry.image1 then
-            -- Store under exact title
             map[entry.title] = entry.image1
-            -- Also store under a normalised lowercase key for fuzzy matching
             map[entry.title:lower()] = entry.image1
         end
     end
@@ -40,10 +34,6 @@ local function buildImageMap(dataModule)
 end
 
 local CHASSIS_IMG = buildImageMap(CHASSIS_DATA)
-local REACTOR_IMG = buildImageMap(REACTOR_DATA)
-local SHIELD_IMG  = buildImageMap(SHIELD_DATA)
-local WEAPON_IMG  = buildImageMap(WEAPON_DATA)
-local MODULE_IMG  = buildImageMap(MODULE_DATA)
 
 -- ── Image lookup helpers ──────────────────────────────────────────────────────
 -- Try exact title, then lowercase, then common shield alias variants
@@ -59,40 +49,19 @@ local function lookupImage(map, name)
     return nil
 end
 
--- ── Render a [[File:...]] wiki tag ───────────────────────────────────────────
-local function fileTag(filename, size, link)
-    if not filename then return '' end
-    size = size or '40px'
-    local tag = '[[File:' .. filename .. '|' .. size
-    if link then tag = tag .. '|link=' .. link end
-    tag = tag .. ']]'
-    return tag
+-- ── Build a Fandom wiki URL from an item name ──────────────────────────────
+local BASE_URL = 'https://cybots.fandom.com/wiki/'
+local function makeWikiUrl(name)
+    if not name or name == '' then return '' end
+    return BASE_URL .. name:gsub(' ', '_')
 end
 
--- ── Render an equipment item: small image (linked) + text link ───────────────
--- imageMap  : the lookup table for this equipment type
--- item      : { name=..., url=... }
--- Returns a string like:  [[File:x.jpg|30px|link=URL]] [URL Name]
-local function fmtItemWithImage(imageMap, item)
+-- ── Render one equipment item as a plain external text link ──────────────────
+local function fmtItem(item)
     if not item then return '—' end
     local name = item.name or ''
-    local url  = item.url  or ''
-    local img  = lookupImage(imageMap, name)
-
-    local imgPart  = ''
-    local textPart = name ~= '' and ('[' .. url .. ' ' .. name .. ']') or name
-
-    if img and img ~= '' then
-        -- [external_url [[File:img|size|link=]]] makes the image itself a clickable
-        -- external link. link= (empty) suppresses the default file-page link.
-        if url ~= '' then
-            imgPart = '[' .. url .. ' [[File:' .. img .. '|30px|link=]]]'
-        else
-            imgPart = '[[File:' .. img .. '|30px]]'
-        end
-        return imgPart .. ' ' .. textPart
-    end
-    return textPart
+    if name == '' then return name end
+    return '[' .. makeWikiUrl(name) .. ' ' .. name .. ']'
 end
 
 -- ── Safe list length (works on mw.loadData frozen tables) ────────────────────
@@ -103,8 +72,8 @@ local function listLen(t)
     return n
 end
 
--- ── Format a list of equipment items with images, deduplicating with ×N ──────
-local function fmtList(imageMap, list)
+-- ── Format a list of equipment items, deduplicating with ×N ────────────────
+local function fmtList(list)
     if not list or listLen(list) == 0 then return '—' end
     -- Deduplicate while preserving order
     local seen  = {}
@@ -120,10 +89,10 @@ local function fmtList(imageMap, list)
     end
     local parts = {}
     for _, key in ipairs(order) do
-        local entry = seen[key]
-        local rendered = fmtItemWithImage(imageMap, entry.item)
-        if entry.count > 1 then
-            rendered = rendered .. ' <small>×' .. entry.count .. '</small>'
+        local e = seen[key]
+        local rendered = fmtItem(e.item)
+        if e.count > 1 then
+            rendered = rendered .. ' <small>×' .. e.count .. '</small>'
         end
         table.insert(parts, rendered)
     end
@@ -134,9 +103,8 @@ end
 local function chassisImageCell(chassis)
     if not chassis or not chassis.name then return '—' end
     local img = lookupImage(CHASSIS_IMG, chassis.name)
-    local url = chassis.url or ''
+    local url = makeWikiUrl(chassis.name)
     if img and img ~= '' then
-        -- [external_url [[File:img|size|link=]]] makes the image a clickable external link
         if url ~= '' then
             return '[' .. url .. ' [[File:' .. img .. '|60px|link=]]]'
         end
@@ -180,19 +148,20 @@ function p.generateTable(frame)
 
     for _, entry in ipairs(data) do
         if entry and entry.title then
-            local nameCell
-            if entry.url and entry.url ~= '' then
-                nameCell = '[' .. entry.url .. ' ' .. entry.title .. ']'
-            else
-                nameCell = entry.title
-            end
+            local entryUrl = makeWikiUrl(entry.title)
+            local nameCell = '[' .. entryUrl .. ' ' .. entry.title .. ']'
 
-            local imageCell   = chassisImageCell(entry.chassis)
-            local chassisCell = fmtItemWithImage(CHASSIS_IMG, entry.chassis)
-            local reactorCell = entry.reactor and fmtItemWithImage(REACTOR_IMG, entry.reactor) or '—'
-            local shieldsCell = fmtList(SHIELD_IMG,  entry.shields)
-            local weaponsCell = fmtList(WEAPON_IMG,  entry.weapons)
-            local modulesCell = fmtList(MODULE_IMG,  entry.modules)
+            local imageCell
+            if entry.image1 and entry.image1 ~= '' then
+                imageCell = '[' .. entryUrl .. ' [[File:' .. entry.image1 .. '|60px|link=]]]'
+            else
+                imageCell = chassisImageCell(entry.chassis)
+            end
+            local chassisCell = fmtItem(entry.chassis)
+            local reactorCell = entry.reactor and fmtItem(entry.reactor) or '—'
+            local shieldsCell = fmtList(entry.shields)
+            local weaponsCell = fmtList(entry.weapons)
+            local modulesCell = fmtList(entry.modules)
 
             table.insert(out, '|-')
             table.insert(out, '| style="text-align:center;" | ' .. imageCell)

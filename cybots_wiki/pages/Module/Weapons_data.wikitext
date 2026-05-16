@@ -256,7 +256,7 @@ return {
     {
         title = "Quad Argon Lasers",
         url = "https://cybots.fandom.com/wiki/Quad_Argon_Lasers",
-        image1 = "Argon quad.jpg",
+        image1 = "Argon_quad.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = { value = 16500, unit = "credits" },
@@ -1356,7 +1356,7 @@ return {
     {
         title = "Radial Laser",
         url = "https://cybots.fandom.com/wiki/Radial_Laser",
-        image1 = "fed_vulcan1.jpg",
+        image1 = "Fed_vulcan1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = "found",
@@ -1381,7 +1381,7 @@ return {
     {
         title = "Heavy Radial Laser",
         url = "https://cybots.fandom.com/wiki/Heavy_Radial_Laser",
-        image1 = "fed_vulcan1.jpg",
+        image1 = "Fed_vulcan1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = "found",
@@ -1514,8 +1514,8 @@ return {
                 ["Other Requirements"] = nil,
             },
             ["Properties"] = {
-                ["Weight"] = nil,
-                ["Required Tech Level"] = nil,
+                ["Weight"] = 1,
+                ["Required Tech Level"] = 0,
                 ["Shield Damage"] = 10,
                 ["Armor Piercing"] = 10,
                 ["Energy Drain"] = 0,
@@ -1531,7 +1531,7 @@ return {
     {
         title = "V6 Plasma Pistol",
         url = "https://cybots.fandom.com/wiki/V6_Plasma_Pistol",
-        image1 = "inf_plasma.jpg",
+        image1 = "Inf_plasma.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1564,13 +1564,13 @@ return {
                 ["Other Requirements"] = nil,
             },
             ["Properties"] = {
-                ["Weight"] = nil,
-                ["Required Tech Level"] = nil,
+                ["Weight"] = 5,
+                ["Required Tech Level"] = 0,
                 ["Shield Damage"] = 6,
                 ["Armor Piercing"] = 10,
                 ["Energy Drain"] = 0,
                 ["Damage Radius"] = 1,
-                ["Accuracy"] = 100,
+                ["Accuracy"] = 70,
                 ["Shots Per Turn"] = 3,
                 ["Energy Per Shot"] = 0,
                 ["Max Targets Per Turn"] = nil,
@@ -1589,8 +1589,8 @@ return {
                 ["Other Requirements"] = nil,
             },
             ["Properties"] = {
-                ["Weight"] = nil,
-                ["Required Tech Level"] = nil,
+                ["Weight"] = 10,
+                ["Required Tech Level"] = 0,
                 ["Shield Damage"] = 50,
                 ["Armor Piercing"] = 50,
                 ["Energy Drain"] = 0,
@@ -1606,7 +1606,7 @@ return {
     {
         title = "Anti-Bot Rocket",
         url = "https://cybots.fandom.com/wiki/Anti-Bot_Rocket",
-        image1 = "nil",
+        image1 = "Inf_bazooka2.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1614,8 +1614,8 @@ return {
                 ["Other Requirements"] = nil,
             },
             ["Properties"] = {
-                ["Weight"] = nil,
-                ["Required Tech Level"] = nil,
+                ["Weight"] = 10,
+                ["Required Tech Level"] = 1,
                 ["Shield Damage"] = 150,
                 ["Armor Piercing"] = 100,
                 ["Energy Drain"] = 0,
@@ -1664,8 +1664,8 @@ return {
                 ["Other Requirements"] = nil,
             },
             ["Properties"] = {
-                ["Weight"] = nil,
-                ["Required Tech Level"] = nil,
+                ["Weight"] = 10,
+                ["Required Tech Level"] = 3,
                 ["Shield Damage"] = 12,
                 ["Armor Piercing"] = 20,
                 ["Energy Drain"] = 0,
@@ -1681,7 +1681,7 @@ return {
     {
         title = "Plasma Rifle",
         url = "https://cybots.fandom.com/wiki/Plasma_Rifle",
-        image1 = nil,
+        image1 = "Inf_plasma.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1731,7 +1731,7 @@ return {
     {
         title = "Ion Rifle",
         url = "https://cybots.fandom.com/wiki/Ion_Rifle",
-        image1 = nil,
+        image1 = "Inf_argon.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1781,7 +1781,7 @@ return {
     {
         title = "Heavy Plasma Rifle",
         url = "https://cybots.fandom.com/wiki/Heavy_Plasma_Rifle",
-        image1 = nil,
+        image1 = "Inf_plasma.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1906,7 +1906,7 @@ return {
     {
         title = "Plasma Vulcan",
         url = "https://cybots.fandom.com/wiki/Plasma_Vulcan",
-        image1 = nil,
+        image1 = "Inf_vulcan2.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1931,7 +1931,7 @@ return {
     {
         title = "Pandora Box",
         url = "https://cybots.fandom.com/wiki/Pandora_Box",
-        image1 = nil,
+        image1 = "Matriarchweap.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1939,8 +1939,8 @@ return {
                 ["Other Requirements"] = nil,
             },
             ["Properties"] = {
-                ["Weight"] = nil,
-                ["Required Tech Level"] = nil,
+                ["Weight"] = 0,
+                ["Required Tech Level"] = 125,
                 ["Shield Damage"] = 800,
                 ["Armor Piercing"] = 300,
                 ["Energy Drain"] = 250,
@@ -1956,7 +1956,7 @@ return {
     {
         title = "Assault Cannon",
         url = "https://cybots.fandom.com/wiki/Assault_Cannon",
-        image1 = "fed_tankgun1.jpg",
+        image1 = "Fed_tankgun1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -1981,7 +1981,7 @@ return {
     {
         title = "Tastron Bazooka",
         url = "https://cybots.fandom.com/wiki/Tastron_Bazooka",
-        image1 = "inf_bazooka.jpg",
+        image1 = "Inf_bazooka.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2006,7 +2006,7 @@ return {
     {
         title = "85mm Mortar",
         url = "https://cybots.fandom.com/wiki/85mm_Mortar",
-        image1 = "inf_mortar.jpg",
+        image1 = "Inf_mortar.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2031,7 +2031,7 @@ return {
     {
         title = "FTG 100",
         url = "https://cybots.fandom.com/wiki/FTG_100",
-        image1 = "fed_tankgun1.jpg",
+        image1 = "Fed_tankgun1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2056,7 +2056,7 @@ return {
     {
         title = "Ram Cannon",
         url = "https://cybots.fandom.com/wiki/Ram_Cannon",
-        image1 = "tripodgun.jpg",
+        image1 = "Tripodgun.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2081,7 +2081,7 @@ return {
     {
         title = "Heavy Assault Cannon",
         url = "https://cybots.fandom.com/wiki/Heavy_Assault_Cannon",
-        image1 = "fed_tankgun1.jpg",
+        image1 = "Fed_tankgun1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2106,7 +2106,7 @@ return {
     {
         title = "TrueG Issue I",
         url = "https://cybots.fandom.com/wiki/TrueG_Issue_I",
-        image1 = "inf_vulcan2.jpg",
+        image1 = "Inf_vulcan2.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2139,8 +2139,8 @@ return {
                 ["Other Requirements"] = nil,
             },
             ["Properties"] = {
-                ["Weight"] = nil,
-                ["Required Tech Level"] = nil,
+                ["Weight"] = 300,
+                ["Required Tech Level"] = 267,
                 ["Shield Damage"] = nil,
                 ["Armor Piercing"] = nil,
                 ["Energy Drain"] = 2500,
@@ -2156,7 +2156,7 @@ return {
     {
         title = "Hellion Bazooka",
         url = "https://cybots.fandom.com/wiki/Hellion_Bazooka",
-        image1 = "inf_bazooka.jpg",
+        image1 = "Inf_bazooka.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2181,7 +2181,7 @@ return {
     {
         title = "FTG 120",
         url = "https://cybots.fandom.com/wiki/FTG_120",
-        image1 = "fed_tankgun1.jpg",
+        image1 = "Fed_tankgun1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2206,7 +2206,7 @@ return {
     {
         title = "Deck Gun",
         url = "https://cybots.fandom.com/wiki/Deck_Gun",
-        image1 = "destroyer_gun1.png",
+        image1 = "Destroyer_gun1.png",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2231,7 +2231,7 @@ return {
     {
         title = "Battering Cannon",
         url = "https://cybots.fandom.com/wiki/Battering_Cannon",
-        image1 = "tripodgun.jpg",
+        image1 = "Tripodgun.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2256,7 +2256,7 @@ return {
     {
         title = "AP22 Assault Cannon",
         url = "https://cybots.fandom.com/wiki/AP22_Assault_Cannon",
-        image1 = "fed_tankgun1.jpg",
+        image1 = "Fed_tankgun1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2306,7 +2306,7 @@ return {
     {
         title = "FTG 150",
         url = "https://cybots.fandom.com/wiki/FTG_150",
-        image1 = "fed_tankgun1.jpg",
+        image1 = "Shattercannon.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2331,7 +2331,7 @@ return {
     {
         title = "Siege Blaster",
         url = "https://cybots.fandom.com/wiki/Siege_Blaster",
-        image1 = "fed_siegegun.jpg",
+        image1 = "Tripodgun.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2356,7 +2356,7 @@ return {
     {
         title = "Ion Charged Rocket Pack",
         url = "https://cybots.fandom.com/wiki/Ion_Charged_Rocket_Pack",
-        image1 = "fed_rockets1.jpg",
+        image1 = "Fed_rockets1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2381,7 +2381,7 @@ return {
     {
         title = "Devastator Cannon",
         url = "https://cybots.fandom.com/wiki/Devastator_Cannon",
-        image1 = "carriergun.png",
+        image1 = "Fed_siegegun.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2406,7 +2406,7 @@ return {
     {
         title = "Siege Gun",
         url = "https://cybots.fandom.com/wiki/Siege_Gun",
-        image1 = "fed_siegegun.jpg",
+        image1 = "Fed_siegegun.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2456,7 +2456,7 @@ return {
     {
         title = "Heavy Deck Gun",
         url = "https://cybots.fandom.com/wiki/Heavy_Deck_Gun",
-        image1 = "destroyer_gun1.png",
+        image1 = "Destroyer_gun1.png",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2481,7 +2481,7 @@ return {
     {
         title = "TrueG Issue II",
         url = "https://cybots.fandom.com/wiki/TrueG_Issue_II",
-        image1 = nil,
+        image1 = "Inf_multipack.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2506,7 +2506,7 @@ return {
     {
         title = "Pulse Rocket Pack",
         url = "https://cybots.fandom.com/wiki/Pulse_Rocket_Pack",
-        image1 = "fed_rockets1.jpg",
+        image1 = "Fed_rockets1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2556,7 +2556,7 @@ return {
     {
         title = "SD70 Rocket Pack",
         url = "https://cybots.fandom.com/wiki/SD70_Rocket_Pack",
-        image1 = "fed_rockets1.jpg",
+        image1 = "Fed_rockets1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2581,7 +2581,7 @@ return {
     {
         title = "TrueG Issue III",
         url = "https://cybots.fandom.com/wiki/TrueG_Issue_III",
-        image1 = nil,
+        image1 = "Inf_bazooka.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2606,7 +2606,7 @@ return {
     {
         title = "Disruptor Siege Gun",
         url = "https://cybots.fandom.com/wiki/Disruptor_Siege_Gun",
-        image1 = "fed_siegegun.jpg",
+        image1 = "Fed_siegegun.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2631,7 +2631,7 @@ return {
     {
         title = "Vibro Cannon",
         url = "https://cybots.fandom.com/wiki/Vibro_Cannon",
-        image1 = "carriergun.png",
+        image1 = "Fed_siegegun.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2656,7 +2656,7 @@ return {
     {
         title = "Vibro Devastator",
         url = "https://cybots.fandom.com/wiki/Vibro_Devastator",
-        image1 = "carriergun.png",
+        image1 = "Fed_siegegun.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2731,7 +2731,7 @@ return {
     {
         title = "FTG 180",
         url = "https://cybots.fandom.com/wiki/FTG_180",
-        image1 = "ftg180.jpg",
+        image1 = "Shattercannon.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2756,7 +2756,7 @@ return {
     {
         title = "Ion Cannon",
         url = "https://cybots.fandom.com/wiki/Ion_Cannon",
-        image1 = "ioncannon.jpg",
+        image1 = "Satweap.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2781,7 +2781,7 @@ return {
     {
         title = "Particle Stream",
         url = "https://cybots.fandom.com/wiki/Particle_Stream",
-        image1 = "particlestream.jpg",
+        image1 = "Satweap.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2806,7 +2806,7 @@ return {
     {
         title = "Rayden Beam",
         url = "https://cybots.fandom.com/wiki/Rayden_Beam",
-        image1 = "raydenbeam.jpg",
+        image1 = "Rayden.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2831,7 +2831,7 @@ return {
     {
         title = "Peace Maker",
         url = "https://cybots.fandom.com/wiki/Peace_Maker",
-        image1 = "peacemaker.jpg",
+        image1 = "Pmc.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -2856,7 +2856,7 @@ return {
     {
         title = "Immobilizer Array",
         url = "https://cybots.fandom.com/wiki/Immobilizer_Array",
-        image1 = "immobilizerarray.jpg",
+        image1 = "Rayden.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,

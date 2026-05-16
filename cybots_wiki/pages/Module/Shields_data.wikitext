@@ -348,7 +348,7 @@ return {
     {
         title = "Shield Vest",
         url = "https://cybots.fandom.com/wiki/Shield_Vest",
-        image1 = "vest1.jpg",
+        image1 = "Vest1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -367,7 +367,7 @@ return {
     {
         title = "Heavy Shield Vest",
         url = "https://cybots.fandom.com/wiki/Heavy_Shield_Vest",
-        image1 = "vest1.jpg",
+        image1 = "Vest1.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -386,7 +386,7 @@ return {
     {
         title = "True Guard Shield Vest",
         url = "https://cybots.fandom.com/wiki/True_Guard_Shield_Vest",
-        image1 = "vest2.jpg",
+        image1 = "Vest2.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -424,7 +424,7 @@ return {
     {
         title = "vestexfed",
         url = "https://cybots.fandom.com/wiki/vestexfed",
-        image1 = "vestexfed.jpg",
+        image1 = "Vestexfed.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -443,7 +443,7 @@ return {
     {
         title = "promshield",
         url = "https://cybots.fandom.com/wiki/promshield",
-        image1 = "promshield.jpg",
+        image1 = "Prometeus.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
@@ -462,7 +462,7 @@ return {
     {
         title = "Plutonic Shield",
         url = "https://cybots.fandom.com/wiki/Plutonic_Shield",
-        image1 = "plutonicshield.jpg",
+        image1 = "Prombaseshield.jpg",
         sections = {
             ["Unit Information"] = {
                 ["Cost"] = nil,
