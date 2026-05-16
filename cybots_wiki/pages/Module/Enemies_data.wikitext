@@ -13,7 +13,7 @@ return {
     },
     {
         title = "Flea",
-        image1 = "Ranger.jpeg",
+        image1 = "Enemy_trike.png",
         chassis = { name = "Ranger" },
         reactor = { name = "Ion" },
         shields = {},
@@ -73,7 +73,7 @@ return {
     },
     {
         title = "Tick",
-        image1 = "Ranger.jpeg",
+        image1 = "Enemy_trike.png",
         chassis = { name = "Ranger" },
         reactor = { name = "Ion" },
         shields = {
@@ -86,7 +86,7 @@ return {
     },
     {
         title = "Defiant",
-        image1 = "Valadin.jpg",
+        image1 = "Enemy_walker.png",
         chassis = { name = "Valadin XR" },
         reactor = { name = "Ion" },
         shields = {},
@@ -98,7 +98,7 @@ return {
     },
     {
         title = "Nighthawk",
-        image1 = "Ranger.jpeg",
+        image1 = "Enemy_trike.png",
         chassis = { name = "Ranger" },
         reactor = { name = "Ion" },
         shields = {
@@ -111,7 +111,7 @@ return {
     },
     {
         title = "Ferret",
-        image1 = "Ranger.jpeg",
+        image1 = "Enemy_trike.png",
         chassis = { name = "Ranger" },
         reactor = { name = "Ion" },
         shields = {
@@ -152,7 +152,7 @@ return {
     },
     {
         title = "Mosquito",
-        image1 = "Ranger.jpeg",
+        image1 = "Enemy_trike.png",
         chassis = { name = "Ranger" },
         reactor = { name = "Ion" },
         shields = {},
@@ -178,7 +178,7 @@ return {
     },
     {
         title = "Rylon",
-        image1 = "Valadin.jpg",
+        image1 = "Enemy_walker.png",
         chassis = { name = "Valadin XR" },
         reactor = { name = "Ion" },
         shields = {
@@ -205,7 +205,7 @@ return {
     },
     {
         title = "Faulter",
-        image1 = "Valadin.jpg",
+        image1 = "Enemy_walker.png",
         chassis = { name = "Valadin XR" },
         reactor = { name = "Ion" },
         shields = {
@@ -220,7 +220,7 @@ return {
     },
     {
         title = "Nimbus",
-        image1 = "Sentinel.jpg",
+        image1 = "Enemy_tracker.png",
         chassis = { name = "Sentinel" },
         reactor = { name = "Ion Flux" },
         shields = {
@@ -271,7 +271,7 @@ return {
     },
     {
         title = "Weasel",
-        image1 = "Ranger.jpeg",
+        image1 = "Enemy_trike.png",
         chassis = { name = "Ranger" },
         reactor = { name = "Ion" },
         shields = {
@@ -286,7 +286,7 @@ return {
     },
     {
         title = "Dukat",
-        image1 = "Sentinel.jpg",
+        image1 = "Enemy_tracker.png",
         chassis = { name = "Sentinel" },
         reactor = { name = "Ion" },
         shields = {
@@ -299,7 +299,7 @@ return {
     },
     {
         title = "Wraith",
-        image1 = "Spider.png",
+        image1 = "Enemy_spider.png",
         chassis = { name = "Reaper" },
         reactor = { name = "Ion Flux Plus" },
         shields = {},
@@ -313,7 +313,7 @@ return {
     },
     {
         title = "Raider",
-        image1 = "Ranger.jpeg",
+        image1 = "Enemy_trike.png",
         chassis = { name = "Ranger" },
         reactor = { name = "Ion" },
         shields = {
@@ -366,7 +366,7 @@ return {
     },
     {
         title = "Marten",
-        image1 = "Ranger.jpeg",
+        image1 = "Enemy_trike.png",
         chassis = { name = "Ranger" },
         reactor = { name = "Ion Flux" },
         shields = {
@@ -379,7 +379,7 @@ return {
     },
     {
         title = "Centurion",
-        image1 = "Centurion.jpg",
+        image1 = "Enemy_spider.png",
         chassis = { name = "Reaper" },
         reactor = { name = "Ion Flux" },
         shields = {
@@ -435,7 +435,7 @@ return {
     },
     {
         title = "Biter",
-        image1 = "Valadin.jpg",
+        image1 = "Enemy_walker.png",
         chassis = { name = "Valadin XR" },
         reactor = { name = "Ion" },
         shields = {
@@ -476,7 +476,7 @@ return {
     },
     {
         title = "Orion",
-        image1 = "Hover.png",
+        image1 = "Enemy_hover.png",
         chassis = { name = "Overseer" },
         reactor = { name = "Ion Flux" },
         shields = {
@@ -508,7 +508,7 @@ return {
     },
     {
         title = "Hammer",
-        image1 = "Valadin.jpg",
+        image1 = "Enemy_walker.png",
         chassis = { name = "Valadin XR" },
         reactor = { name = "Ion Flux" },
         shields = {
@@ -523,7 +523,7 @@ return {
     },
     {
         title = "Defender",
-        image1 = "Sentinel.jpg",
+        image1 = "Enemy_tracker.png",
         chassis = { name = "Sentinel" },
         reactor = { name = "Ion Flux" },
         shields = {
@@ -539,7 +539,7 @@ return {
     },
     {
         title = "Predator",
-        image1 = "Marauder.jpg",
+        image1 = "Enemy_quadra.png",
         chassis = { name = "Marauder" },
         reactor = { name = "Ion Flux Plus" },
         shields = {},
@@ -553,7 +553,7 @@ return {
     },
     {
         title = "Trapper",
-        image1 = "Valadin.jpg",
+        image1 = "Enemy_walker.png",
         chassis = { name = "Valadin XR" },
         reactor = { name = "Ion V2" },
         shields = {
@@ -568,7 +568,7 @@ return {
     },
     {
         title = "Adverse",
-        image1 = "Hover.png",
+        image1 = "Enemy_hover.png",
         chassis = { name = "Overseer" },
         reactor = { name = "Ion Flux Plus" },
         shields = {
@@ -585,7 +585,7 @@ return {
     },
     {
         title = "Dominator",
-        image1 = "Valadin.jpg",
+        image1 = "Enemy_walker.png",
         chassis = { name = "Valadin XR" },
         reactor = { name = "Ion Flux Plus" },
         shields = {
@@ -600,7 +600,7 @@ return {
     },
     {
         title = "Doom Raider",
-        image1 = "Ranger.jpeg",
+        image1 = "Enemy_trike.png",
         chassis = { name = "Ranger" },
         reactor = { name = "Ion V2" },
         shields = {
@@ -628,7 +628,7 @@ return {
     },
     {
         title = "Myth",
-        image1 = "Valadin.jpg",
+        image1 = "Enemy_walker.png",
         chassis = { name = "Valadin XR" },
         reactor = { name = "Ion Flux" },
         shields = {
@@ -671,7 +671,7 @@ return {
     },
     {
         title = "Badger",
-        image1 = "Ranger.jpeg",
+        image1 = "Enemy_trike.png",
         chassis = { name = "Ranger" },
         reactor = { name = "Ion Flux" },
         shields = {
@@ -686,7 +686,7 @@ return {
     },
     {
         title = "Trembler",
-        image1 = "Marauder.jpg",
+        image1 = "Enemy_quadra.png",
         chassis = { name = "Marauder" },
         reactor = { name = "Ion Flux" },
         shields = {},
@@ -700,7 +700,7 @@ return {
     },
     {
         title = "Syphon",
-        image1 = "Spider.png",
+        image1 = "Enemy_spider.png",
         chassis = { name = "Reaper" },
         reactor = { name = "Ion Flux Plus" },
         shields = {
@@ -727,7 +727,7 @@ return {
     },
     {
         title = "Copius",
-        image1 = "Hover.png",
+        image1 = "Enemy_hover.png",
         chassis = { name = "Overseer" },
         reactor = { name = "Hydron Core" },
         shields = {},
@@ -770,7 +770,7 @@ return {
     },
     {
         title = "Regulator",
-        image1 = "Hover.png",
+        image1 = "Enemy_hover.png",
         chassis = { name = "Overseer" },
         reactor = { name = "Bio-Nuclear" },
         shields = {
@@ -816,7 +816,7 @@ return {
     },
     {
         title = "Praetor",
-        image1 = "Praetor.jpg",
+        image1 = "Enemy_quadra.png",
         chassis = { name = "Marauder" },
         reactor = { name = "Ion Flux" },
         shields = {},
@@ -830,7 +830,7 @@ return {
     },
     {
         title = "Pontios",
-        image1 = "Spider.png",
+        image1 = "Enemy_spider.png",
         chassis = { name = "Reaper" },
         reactor = { name = "Ion Flux Plus" },
         shields = {
@@ -845,7 +845,7 @@ return {
     },
     {
         title = "Walker",
-        image1 = "Walker.png",
+        image1 = "Enemy_walker.png",
         chassis = { name = "Valadin XR" },
         reactor = { name = "Ion Flux" },
         shields = {
@@ -883,7 +883,7 @@ return {
     },
     {
         title = "Trojan",
-        image1 = "Hover.png",
+        image1 = "Enemy_hover.png",
         chassis = { name = "Overseer" },
         reactor = { name = "Bio-Nuclear" },
         shields = {
@@ -916,7 +916,7 @@ return {
     },
     {
         title = "Projector",
-        image1 = "Sentinel.jpg",
+        image1 = "Enemy_tracker.png",
         chassis = { name = "Sentinel" },
         reactor = { name = "Ion Flux" },
         shields = {
@@ -974,7 +974,7 @@ return {
     },
     {
         title = "Prometheus",
-        image1 = "Marauder.jpg",
+        image1 = "Enemy_quadra.png",
         chassis = { name = "Marauder" },
         reactor = { name = "Sub-Nuclear" },
         shields = {},
@@ -1060,7 +1060,7 @@ return {
     },
     {
         title = "Zodiac",
-        image1 = "Sentinel.jpg",
+        image1 = "Enemy_tracker.png",
         chassis = { name = "Sentinel" },
         reactor = { name = "Bio-Nuclear" },
         shields = {
@@ -1075,7 +1075,7 @@ return {
     },
     {
         title = "Yaloni",
-        image1 = "Hover.png",
+        image1 = "Enemy_hover.png",
         chassis = { name = "Overseer" },
         reactor = { name = "Tribolt Hydron" },
         shields = {
@@ -1090,7 +1090,7 @@ return {
     },
     {
         title = "Wolverine",
-        image1 = "Ranger.jpeg",
+        image1 = "Enemy_trike.png",
         chassis = { name = "Ranger" },
         reactor = { name = "Nuclear" },
         shields = {
@@ -1160,7 +1160,7 @@ return {
     },
     {
         title = "Tracker",
-        image1 = "Tracker.png",
+        image1 = "Enemy_walker.png",
         chassis = { name = "Valadin XR" },
         reactor = { name = "Ion Flux Plus" },
         shields = {
@@ -1184,7 +1184,7 @@ return {
     },
     {
         title = "Crawler",
-        image1 = "Sentinel.jpg",
+        image1 = "Enemy_tracker.png",
         chassis = { name = "Sentinel" },
         reactor = { name = "Sub-Nuclear" },
         shields = {
@@ -1201,7 +1201,7 @@ return {
     },
     {
         title = "Widow",
-        image1 = "Spider.png",
+        image1 = "Enemy_spider.png",
         chassis = { name = "Reaper" },
         reactor = { name = "Sub-Nuclear" },
         shields = {
@@ -1230,7 +1230,7 @@ return {
     },
     {
         title = "Thunder",
-        image1 = "Marauder.jpg",
+        image1 = "Enemy_quadra.png",
         chassis = { name = "Marauder" },
         reactor = { name = "Sub-Nuclear" },
         shields = {},
@@ -1275,7 +1275,7 @@ return {
     },
     {
         title = "EX20",
-        image1 = "Marauder.jpg",
+        image1 = "Enemy_quadra.png",
         chassis = { name = "Marauder" },
         reactor = { name = "Cobalt Hydron" },
         shields = {},
@@ -1289,7 +1289,7 @@ return {
     },
     {
         title = "Legend",
-        image1 = "Valadin.jpg",
+        image1 = "Enemy_walker.png",
         chassis = { name = "Valadin XR" },
         reactor = { name = "Ion Flux Plus" },
         shields = {
@@ -1336,7 +1336,7 @@ return {
     },
     {
         title = "Gnasher",
-        image1 = "Valadin.jpg",
+        image1 = "Enemy_walker.png",
         chassis = { name = "Valadin XR" },
         reactor = { name = "Ion Flux Plus" },
         shields = {
@@ -1351,7 +1351,7 @@ return {
     },
     {
         title = "Mantis",
-        image1 = "Spider.png",
+        image1 = "Enemy_spider.png",
         chassis = { name = "Reaper" },
         reactor = { name = "Hydron Core" },
         shields = {
@@ -1400,7 +1400,7 @@ return {
     },
     {
         title = "Trigora",
-        image1 = "Spider.png",
+        image1 = "Enemy_spider.png",
         chassis = { name = "Reaper" },
         reactor = { name = "Hydron Core Mk. II" },
         shields = {
@@ -1417,7 +1417,7 @@ return {
     },
     {
         title = "Proteus",
-        image1 = "Sentinel.jpg",
+        image1 = "Enemy_tracker.png",
         chassis = { name = "Sentinel" },
         reactor = { name = "Cobalt Hydron" },
         shields = {
@@ -1460,7 +1460,7 @@ return {
     },
     {
         title = "Immobiliser",
-        image1 = "Ranger.jpeg",
+        image1 = "Enemy_spider.png",
         chassis = { name = "Ranger" },
         reactor = { name = "Ion" },
         shields = {},
@@ -1472,7 +1472,7 @@ return {
     },
     {
         title = "Folklore",
-        image1 = "Valadin.jpg",
+        image1 = "Enemy_walker.png",
         chassis = { name = "Valadin XR" },
         reactor = { name = "Hydron Core" },
         shields = {
@@ -1487,7 +1487,7 @@ return {
     },
     {
         title = "Chieftain",
-        image1 = "Hover.png",
+        image1 = "Enemy_hover.png",
         chassis = { name = "Overseer" },
         reactor = { name = "Hydron Core" },
         shields = {
@@ -1504,7 +1504,7 @@ return {
     },
     {
         title = "Flamer",
-        image1 = "Spider.png",
+        image1 = "Enemy_spider.png",
         chassis = { name = "Reaper" },
         reactor = { name = "Magmatic" },
         shields = {
@@ -1548,7 +1548,7 @@ return {
     },
     {
         title = "Fire Streaker",
-        image1 = "Valadin.jpg",
+        image1 = "Enemy_walker.png",
         chassis = { name = "Valadin XR" },
         reactor = { name = "Magmatic Pyroclast" },
         shields = {
@@ -1563,7 +1563,7 @@ return {
     },
     {
         title = "Hell Raider",
-        image1 = "Ranger.jpeg",
+        image1 = "Enemy_trike.png",
         chassis = { name = "Ranger" },
         reactor = { name = "Bio-Nuclear" },
         shields = {
@@ -1593,7 +1593,7 @@ return {
     },
     {
         title = "Stalwart",
-        image1 = "Marauder.jpg",
+        image1 = "Enemy_quadra.png",
         chassis = { name = "Marauder" },
         reactor = { name = "Sub-Nuclear" },
         shields = {},
@@ -1623,7 +1623,7 @@ return {
     },
     {
         title = "Hurricane",
-        image1 = "Marauder.jpg",
+        image1 = "Enemy_quadra.png",
         chassis = { name = "Marauder" },
         reactor = { name = "Nuclear" },
         shields = {},
@@ -1687,7 +1687,7 @@ return {
     },
     {
         title = "Capalso",
-        image1 = "Sentinel.jpg",
+        image1 = "Enemy_tracker.png",
         chassis = { name = "Sentinel" },
         reactor = { name = "Hydron Core" },
         shields = {
@@ -1734,7 +1734,7 @@ return {
     },
     {
         title = "Praetorian Alpha",
-        image1 = "Sentinel.jpg",
+        image1 = "Enemy_tracker.png",
         chassis = { name = "Sentinel" },
         reactor = { name = "Hydron Core" },
         shields = {
@@ -1827,7 +1827,7 @@ return {
     },
     {
         title = "Aegis",
-        image1 = "Sentinel.jpg",
+        image1 = "Enemy_tracker.png",
         chassis = { name = "Sentinel" },
         reactor = { name = "Tribolt Hydron" },
         shields = {
@@ -1856,7 +1856,7 @@ return {
     },
     {
         title = "Judicator",
-        image1 = "Valadin.jpg",
+        image1 = "Enemy_walker.png",
         chassis = { name = "Valadin XR" },
         reactor = { name = "Hydron Core Mk. II" },
         shields = {
@@ -1882,7 +1882,7 @@ return {
     },
     {
         title = "Fire Scorchio",
-        image1 = "Hover.png",
+        image1 = "Enemy_hover.png",
         chassis = { name = "Overseer" },
         reactor = { name = "Magmatic" },
         shields = {
@@ -1932,7 +1932,7 @@ return {
     },
     {
         title = "Shaman",
-        image1 = "Hover.png",
+        image1 = "Enemy_hover.png",
         chassis = { name = "Overseer" },
         reactor = { name = "Tribolt Hydron" },
         shields = {},
@@ -1947,7 +1947,7 @@ return {
     },
     {
         title = "Blazer",
-        image1 = "Sentinel.jpg",
+        image1 = "Enemy_tracker.png",
         chassis = { name = "Sentinel" },
         reactor = { name = "Magmatic Pyroclast" },
         shields = {
@@ -2053,7 +2053,7 @@ return {
     },
     {
         title = "Avenger",
-        image1 = "Avenger.jpg",
+        image1 = "Enemy_quadra.png",
         chassis = { name = "Marauder" },
         reactor = { name = "Cobalt Hydron" },
         shields = {},
@@ -2101,7 +2101,7 @@ return {
     },
     {
         title = "Ginzu",
-        image1 = "Spider.png",
+        image1 = "Enemy_spider.png",
         chassis = { name = "Reaper" },
         reactor = { name = "Tribolt Hydron" },
         shields = {
@@ -2147,7 +2147,7 @@ return {
     },
     {
         title = "EX23",
-        image1 = "Marauder.jpg",
+        image1 = "Enemy_quadra.png",
         chassis = { name = "Marauder" },
         reactor = { name = "Cobalt Hydron" },
         shields = {},
@@ -2290,7 +2290,7 @@ return {
     },
     {
         title = "Hunter",
-        image1 = "Valadin.jpg",
+        image1 = "Enemy_walker.png",
         chassis = { name = "Valadin XR" },
         reactor = { name = "Bio-Nuclear" },
         shields = {
@@ -2305,7 +2305,7 @@ return {
     },
     {
         title = "EX22",
-        image1 = "Marauder.jpg",
+        image1 = "Enemy_quadra.png",
         chassis = { name = "Marauder" },
         reactor = { name = "Cobalt Hydron" },
         shields = {},
@@ -2319,7 +2319,7 @@ return {
     },
     {
         title = "Angel",
-        image1 = "Sentinel.jpg",
+        image1 = "Enemy_tracker.png",
         chassis = { name = "Sentinel" },
         reactor = { name = "Tribolt Hydron" },
         shields = {
@@ -2337,7 +2337,7 @@ return {
     },
     {
         title = "Arbitrator",
-        image1 = "Marauder.jpg",
+        image1 = "Enemy_quadra.png",
         chassis = { name = "Marauder" },
         reactor = { name = "Cobalt Hydron" },
         shields = {},
@@ -2398,7 +2398,7 @@ return {
     },
     {
         title = "Burner",
-        image1 = "Marauder.jpg",
+        image1 = "Enemy_quadra.png",
         chassis = { name = "Marauder" },
         reactor = { name = "Cobalt Hydron" },
         shields = {},
@@ -2412,7 +2412,7 @@ return {
     },
     {
         title = "Romper",
-        image1 = "Marauder.jpg",
+        image1 = "Enemy_quadra.png",
         chassis = { name = "Marauder" },
         reactor = { name = "Nuclear" },
         shields = {},
@@ -2426,7 +2426,7 @@ return {
     },
     {
         title = "Inferno",
-        image1 = "Marauder.jpg",
+        image1 = "Enemy_quadra.png",
         chassis = { name = "Marauder" },
         reactor = { name = "Magmatic Pyroclast" },
         shields = {},
@@ -2440,7 +2440,7 @@ return {
     },
     {
         title = "Mauler",
-        image1 = "Valadin.jpg",
+        image1 = "Enemy_walker.png",
         chassis = { name = "Valadin XR" },
         reactor = { name = "Nuclear" },
         shields = {
@@ -2518,7 +2518,7 @@ return {
     },
     {
         title = "Fire Crawler",
-        image1 = "Sentinel.jpg",
+        image1 = "Enemy_tracker.png",
         chassis = { name = "Sentinel" },
         reactor = { name = "Magmatic Pyroclast" },
         shields = {
@@ -2678,7 +2678,7 @@ return {
     },
     {
         title = "Malice",
-        image1 = "Marauder.jpg",
+        image1 = "Enemy_quadra.png",
         chassis = { name = "Marauder" },
         reactor = { name = "Cobalt Hydron" },
         shields = {},
@@ -2746,7 +2746,7 @@ return {
     },
     {
         title = "EX21",
-        image1 = "Marauder.jpg",
+        image1 = "Enemy_quadra.png",
         chassis = { name = "Marauder" },
         reactor = { name = "Hydron Core Mk. II" },
         shields = {},
@@ -2870,7 +2870,7 @@ return {
     },
     {
         title = "EX24",
-        image1 = "Marauder.jpg",
+        image1 = "Enemy_quadra.png",
         chassis = { name = "Marauder" },
         reactor = { name = "Hydron Core Mk. II" },
         shields = {},
