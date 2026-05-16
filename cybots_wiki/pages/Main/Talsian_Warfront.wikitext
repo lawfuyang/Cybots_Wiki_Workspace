@@ -1,4 +1,5 @@
 == Overview ==
+[[File:Tintro.jpg|thumb|right|220px|The Talsian Warfront — a vast, active military theatre.]]
 The '''Talsian Warfront''' (commonly referred to as '''Talsia''' or '''Tals''') is the second major outland zone available to [[Controller|Controllers]], accessible after establishing a foothold in [[Vulcore Plain|Vulcore]]. It is an active military theatre — a vast, contested warzone where [[CyCorps]] forces and their allied [[Legionnaires]] are locked in an ongoing conflict against the '''Federate''' military. Unlike Vulcore's open wasteland, Talsia is a structured battlefield with defined sectors, fortified positions, warships, armoured columns, and elite enemy units.
 
 Talsia is the primary source of '''Talsian Rank Points (TRP)''', '''Accolades''', and '''Mission Reward Points (MRP)''', which together drive the progression system for mid-to-late game Controllers. The zone is divided into two main sectors — '''Delta''' and '''Alpha''' — plus the '''Ruins''' area, each with escalating difficulty and rewards.
@@ -18,6 +19,9 @@ File:Ylink.jpg|[[Y-Link]] module — awarded via CyCorps Commendation
 </gallery>
 
 Talsia is entered from the [[Workshop]] once the Controller meets the prerequisites. Upon entering, the Controller chooses between '''Delta Sector''' and '''Alpha Sector''' as their starting camp. Alpha Sector becomes accessible at '''750 TRP'''.
+
+== Progression Guide ==
+For a comprehensive walkthrough and progression guide — squad loadouts, patrol strategies, mission priorities, TRAF guide, and endgame builds — see '''[[Talsia Guide]]'''. This page covers general information about the zone.
 
 == Theme ==
 The Talsian Warfront is a war-torn military environment defined by:
@@ -408,7 +412,7 @@ Accolades are spent on:
 File:Leviathan.jpg|[[Leviathan]] — awarded at 3,200 TRP (Order of the Regiment)
 File:Rayden.jpg|[[Rayden Device]] — awarded at 100 missions (Union of Service)
 File:Ylink.jpg|[[Y-Link]] module — awarded via CyCorps Commendation
-File:Module3.jpg[[Advanced Master Fire Director]] module — awarded at 200 missions w/ 90%+ success rate (Master of Talsia)
+File:Module3.jpg|[[Advanced Master Fire Director]] module — awarded at 200 missions w/ 90%+ success rate (Master of Talsia)
 </gallery>
 Talsian Rank Awards are milestone achievements earned by reaching specific TRP thresholds or completing specific objectives. Each award grants a merit bar and a unique reward.
 
@@ -441,6 +445,7 @@ Talsian Rank Awards are milestone achievements earned by reaching specific TRP t
 * The '''[[Y-Link]]''' module (CyCorps Commendation) provides an orbital strike bot that fires automatically each turn
 
 == Technologies ==
+[[File:Plasmaturbocannon.jpg|thumb|right|220px|[[Plasma Turbo-Cannon]] — the cornerstone of the Alpha Sector loadout, unlocked via Plasma Technology.]]
 
 Talsia offers two unique technology segments purchasable with Accolades from the Accolade Exchanger:
 
@@ -476,6 +481,7 @@ File:Stormbringer.jpg|[[Storm Bringer]]
 * '''Recommended purchase order:''' Buy after Plasma Tech and 1–2 Obliterators
 
 == TRAF (Tactical Re-Arming Facility) ==
+[[File:Turretfire.jpg|thumb|right|220px|TRAF defences open fire — the hardest repeatable encounter in Talsia.]]
 
 A '''TRAF''' (Tactical Re-Arming Facility) is a heavily fortified Federate installation found in Talsia. TRAFs are multi-round encounters — the hardest repeatable challenge in the zone — and reward '''75 Talsian Rank Points''' upon completion.
 
@@ -527,6 +533,7 @@ The '''[[Ravager]]''' is a rare super weapon that can drop as a reward from comp
 == Super Tanks ==
 <gallery widths="160" heights="120">
 File:Tank_super.png|[[Super_Heavy_Tank]] — Super Heavy Tank
+File:Plasmaanamorph.jpg|[[Plasma Anamorph]] — carried by all Super Tanks
 </gallery>
 Super Tanks are massive Federate armoured units that roam the Talsian Warfront. They are tracked by PL-Scans and can be attacked or avoided. Each has unique rewards.
 
@@ -564,10 +571,11 @@ Super Tanks are massive Federate armoured units that roam the Talsian Warfront. 
 == Notable Warships ==
 <gallery widths="160" heights="120">
 File:Destroyer_hull.png|[[Cruiser_Hull]] — warship hull
-File:Destroyer_bridge.png|[[Battlecruiser_Deck]] - Battlecruiser Deck
-File:Carriergun.png|[[Devastator_Battery]] - Devastator Battery
-File:Destroyer_gun1.png|[[Gun_Turret]] - Gun Turret
-File:Destroyer_shield1.png|[[Shield_Generator]] - Shield Generator
+File:Destroyer_bridge.png|[[Battlecruiser_Deck]] — Battlecruiser Deck
+File:Carriergun.png|[[Devastator_Battery]] — Devastator Battery
+File:Destroyer_gun1.png|[[Gun_Turret]] — Gun Turret
+File:Destroyer_shield1.png|[[Shield_Generator]] — Shield Generator
+File:Raven.png|[[Raven]] — unlocked at 18,000 TRP
 </gallery>
 
 === Destroyer ===
@@ -596,7 +604,8 @@ A massive Federate warship — one of the most dangerous encounters in Talsia. B
 
 == Carrier SOS ==
 <gallery widths="160" heights="120">
-File:Cycarrier_hull.png
+File:Cycarrier_hull.png|[[CyCarrier]] hull — the vessel under attack
+File:Cycarrier2.jpg|[[CyCarrier]] — ambushed by [[True Guard]] forces
 </gallery>
 The '''Carrier SOS''' is a random event in Alpha Sector where a CyCarrier is ambushed by True Guard forces.
 
@@ -792,6 +801,8 @@ The following are representative enemy squad compositions encountered in Talsia 
 * 3x Devastator Battery, 1x Bridge, 5x Heavy Gun Turret, 1x Cruiser Hull, 6x Shield Generator
 
 == See Also ==
+* '''[[Talsia Guide]]''' — comprehensive walkthrough, squad loadouts, patrol strategies, TRAF guide, and endgame builds
+* [[Vulcore Guide]] — the Vulcore progression guide; pre-Talsia preparation
 * [[Vulcore Plain]]
 * [[Mercenary Outpost]]
 * [[Obliterator]]
@@ -802,3 +813,10 @@ The following are representative enemy squad compositions encountered in Talsia 
 * [[Federates]]
 * [[Legionnaires]]
 * [[CyCorps]]
+* [[Plasma Technology]]
+* [[Storm Weapons Technology]]
+* [[Leviathan]]
+* [[CySentinel]]
+* [[Crusader]]
+
+[[Category:Talsian Warfront]]

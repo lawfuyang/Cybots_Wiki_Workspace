@@ -1,0 +1,984 @@
+== Overview ==
+
+The '''[[Talsian Warfront]]''' (commonly called '''Talsia''' or '''Tals''') is the second major outland zone in Cybots — a vast, active military theatre where Controllers fight alongside [[CyCorps]] and the [[Legionnaires]] against the Federate military. It is significantly more demanding than [[Vulcore Plain|Vulcore]], both in combat intensity and strategic depth. Unlike Vulcore's open wasteland, Talsia is a structured battlefield with defined sectors, warships, heavily armed tank columns, fortified installations, and elite enemy units.
+
+This guide covers the full progression arc from your first patrol in Delta Sector through to the endgame beyond 18,000 [[Talsian Rank Points|TRP]].
+
+<gallery widths="155" heights="120">
+File:Talsianwarfront.jpg|The Talsian Warfront — welcome to the war
+File:Crusader.jpg|[[Crusader]] — the backbone of your attack squad
+File:Cycorps_sentinel.jpg|[[CySentinel]] — your shielding powerhouse
+File:Leviathan.jpg|[[Leviathan]] — awarded at 3,200 TRP
+File:Obliterator.jpg|[[Obliterator]] — purchase with Accolades
+File:Rayden.jpg|[[Rayden Device]] — awarded at 100 missions
+File:Stormbringer.jpg|[[Storm Bringer]] — endgame firepower
+File:Plasmaanamorph.jpg|[[Plasma Anamorph]] — high-capacity projected shield
+File:Superinfantry.png|[[True Guard]] — elite Federate faction; extremely dangerous
+File:Tank_super.png|[[Super Tank]] — massive Federate armoured behemoth
+File:Raven-blue.png|[[Raven]] — unlocked at 18,000 TRP
+</gallery>
+
+{{Quote|Talsia is more touch and go than Vulcore. You need to change dynamically — you will die in Talsia. The most important thing is how you set up your Seers. No fixed setup survives contact with the warfront unchanged.|Slidingtoke, veteran Controller}}
+
+'''What this guide covers:'''
+* [[#Prerequisites|Prerequisites]] — what you need before entering Talsia
+* [[#Squad Composition|Squad Composition Philosophy]] — why the Talsia squad looks the way it does
+* [[#Patrol Phases|Patrol Phases]] — step-by-step guide from Delta entry to endgame
+* [[#Mission Guide|Mission Types, Rewards & Strategy]] — every mission, what it rewards, and how to approach it
+* [[#Technology Purchase Order|Technology Purchase Order]] — when to buy what
+* [[#Awards and Milestones|Awards & Milestones]] — every TRP and mission milestone and what you earn
+* [[#TRAF Guide|TRAF Guide]] — the hardest repeatable encounter in Talsia, explained round by round
+* [[#Dangerous Enemies|Dangerous Enemies & Events]] — what to watch out for and when to withdraw
+* [[#General Tips|General Tips & KCharge Management]] — surviving the warfront efficiently
+
+----
+
+== Prerequisites ==
+[[File:Tintro.jpg|thumb|right|220px|Welcome to Talsia — the war zone that will define your progression.]]
+
+Before entering the Talsian Warfront, ensure your squad meets the following minimums. Arriving underprepared will result in rapid attrition.
+
+=== Required Equipment ===
+{| class="wikitable"
+|-
+! Requirement !! Minimum !! Optimal
+|-
+| [[Crusader]] level || 10 || 12
+|-
+| [[Crusader|Crusaders]] (count) || 1 || 2
+|-
+| [[CySentinel]] level || 10 || 13–16
+|-
+| [[Seer|Seers]] (count) || 3 || 4
+|-
+| [[Seer]] level || 8 (lowest) || 10–11
+|-
+| [[Reaper]] || 1 || 1
+|-
+| [[Bulwark]] || optional || optional
+|-
+| [[Motion Tracker]] (on [[CySentinel]]) || recommended || yes
+|}
+
+=== Technology Checklist ===
+These should ideally be completed before entering Talsia:
+* [[Magmatic Technology]] — [[Magmatic]] reactor on [[CySentinel]] is critical
+* [[Bulwark Technology]] — for [[Bulwark]] Chassis (optional)
+
+=== Coming from Vulcore ===
+At the end of [[Vulcore Plain|Vulcore]] Patrol 6 (the pre-Talsia patrol), your squad should look roughly like:
+* 1× [[Reaper]] (Level 12+) — equipped with [[Syphonic Immobilizer|Immobilizer]] + [[Pulse Streamer]]
+* 1× [[Bulwark]] (Level 10+) — primary attacker (optional)
+* 4× [[Seer|Seers]] (Level 10) — the engine of your squad's deflection, fire rate, and support
+* 1× [[CySentinel]] (Level 12–16) — shielding and protection
+* 1× [[Crusader]] (Level 10–12) — primary heavy attacker (2 Crusaders are optional)
+
+If you're unsure whether you're ready for Talsia, see the [[Vulcore Guide]] for the full pre-Talsia preparation.
+
+----
+
+== Squad Composition ==
+The standard Talsia squad is built around a specific philosophy: '''maximum projected shielding, combined with drain to neutralise enemy shield projectors, and concentrated firepower'''. Here is why each bot type matters:
+
+=== The Core Formula ===
+A typical Talsia squad consists of:
+* '''3 Attack Bots''' — [[Crusader]] and/or [[Bulwark]], [[Reaper]]
+* '''1 [[CySentinel]]''' — provides projected shielding for the entire squad; the stronger the [[CySentinel]], the more punishment the squad absorbs
+* '''4 [[Seer|Seers]]''' — the most critical element; they determine fire rate, accuracy, energy savings, critical hit chance, and deflection
+
+{{MessageBox
+| header = Why 4 Seers?
+| text   = Some Controllers use 5 Seers, and some use 3 with an extra attack bot. Testing has shown that 4 Seers reaches the same fire rate and deflection thresholds as 5, without the additional drain on energy. With 4 Seers, you can still hit maximum fire rate while keeping your attack bots fully energised for their weapons.
+}}
+
+=== Targeting Priority — Critical Setting ===
+This is the most important configuration to get right when entering Talsia:
+* '''[[Reaper]] / drain bots:''' Set '''Manual Targeting → Highest Shield Projector'''. The [[Reaper]]'s [[Syphonic Immobilizer|Immobilizer]] (and later the [[Rayden Device]]) will automatically target enemy shield projectors — this is essential for neutralising [[Ae7 Barrier Tank]]s, [[SR180 Receptor]] drain turrets, [[True Guard Shielding]], and Uplink Command towers.
+* '''[[Crusader]] / [[Bulwark]]:''' Set to '''Highest Weapon Potential''' or manual targeting as needed.
+* When hiring [[Basilisk]] (CyCorps Reaper merc): ensure squad targeting includes "Highest Shield Projector" so the Basilisk hits shielders automatically.
+
+=== Bot Role Summary ===
+{| class="wikitable"
+|-
+! Bot !! Role !! Key Equipment
+|-
+| [[Crusader]] || Primary heavy attacker; later carries [[Obliterator]] / [[Ravager]] / [[Plasma Turbo-Cannon]] || [[Plasma Turbo-Cannon]], [[Obliterator]], [[Master Fire Director|MFDs]], best reactor
+|-
+| [[Bulwark]] || Secondary heavy attacker; uses mines on [[#Blockade|Blockade]] missions || [[Plasma Turbo-Cannon]], [[Storm Bringer]], [[Obliterator]], [[Plasma Mines]]
+|-
+| [[Reaper]] || Primary drain bot; targets shield projectors || [[Syphonic Immobilizer|Immobilizer]], [[Rayden Device]], later [[Obliterator]]s
+|-
+| [[CySentinel]] || Projected shielding; protects entire squad || [[Magmatic]] / [[Pneumatron]] reactor, [[Plasma Anamorph]] shields, [[Motion Tracker]]
+|-
+| [[Seer]] (×4) || Fire rate / accuracy / deflection / energy savings || [[Mechanical Obviator]]s, [[TC7 Target Predictor]]s, [[Master Fire Director|MFDs]], [[DAX Pod]]s, [[Flux Channel]]
+|}
+
+----
+
+== Patrol Phases ==
+
+Talsia progression is divided into distinct phases defined by TRP thresholds, equipment unlocks, and workshop upgrades. Each phase ends when you return to the Workshop to upgrade and re-equip.
+
+=== Phase 1 — Delta Entry ===
+
+This is your first patrol in Talsia, operating exclusively in Delta Sector. The goal is to build TRP, accumulate Accolades for Plasma Tech, and survive without burning through your KCharge.
+
+==== Phase 1 Requirements ====
+* [[Crusader]] and [[CySentinel]] at Level 10 minimum (12 optimal)
+* [[Seer|Seers]] at Level 8+ minimum
+
+==== Phase 1 Loadouts ====
+
+'''[[CySentinel]] (Phase 1):'''
+Upgrade: 56 Reactor Tech, 252 Shield Tech max.
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Magmatic]]
+|-
+| Module || [[Motion Tracker]]
+|}
+
+'''[[Crusader]] (Phase 1):'''
+Upgrade: 298 Weapon Tech (Level 10 minimum; nothing in Reactor yet).
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Ion Flux Plus]]
+|-
+| Weapon || [[HRX Rocket Pack]]
+|-
+| Module (×2) || [[Targeting Subroutine|T-Sub]]
+|}
+
+'''[[Bulwark]] (Phase 1):'''
+Upgrade: 298 Weapon Tech, 15 Module Tech, 56 Reactor Tech max.
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Bio-Nuclear]] (minimum) / [[Magmatic]] (optimal)
+|-
+| Weapon || [[Shield Neutraliser]]
+|-
+| Weapon (×2) || [[HRX Rocket Pack]]
+|-
+| Weapon || [[Magma Cannon]]
+|-
+| Module || [[Magma Mines]]
+|-
+| Module (×2) || [[Targeting Subroutine|T-Sub]]
+|}
+
+'''[[Reaper]] (Phase 1):'''
+Upgrade: 226 Weapon Tech, 10 Module Tech, 305 Payload (Level 15), 20 Reactor Tech; remaining upgrades in Enhanced Accuracy.
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Sub-Nuclear]]
+|-
+| Weapon || [[Syphonic Immobilizer|Immobilizer]]
+|-
+| Weapon || [[Magnatron]] (if payload allows) / [[Pulse Streamer]]
+|-
+| Module || [[Targeting Subroutine|T-Sub]]
+|}
+'''Set Reaper manual targeting to "Highest Shield Projector"'''
+
+'''[[Seer|Seers]] (Phase 1):'''
+Upgrade: 50% Uplink, 44 Module Tech, 10 Reactor Tech; save remaining upgrades.
+
+''First 2 Seers:''
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Ion Flux Plus]]
+|-
+| Module (×3) || [[Mechanical Obviator]]
+|}
+
+''Last 2 Seers:''
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Ion Flux Plus]]
+|-
+| Module (×2) || [[Mechanical Obviator]]
+|-
+| Module || [[TC7 Target Predictor]]
+|}
+
+This setup provides: ~80% armour deflection, ~50% fire rate — check in Personal Squad Viewer.
+
+==== Phase 1 Goals ====
+{| class="wikitable"
+|-
+! Goal !! Target
+|-
+| TRP accumulated || 800 (Order of Merit) → 2,250 spare Accolades (for Plasma Tech)
+|-
+| Accolades || 500 (Order of Merit reward) + 2,250 spare for Plasma Tech
+|-
+| [[CySentinel]] Level || 13 minimum; 16 optimal
+|-
+| Mission count || Keep Cruiser missions — never abort them
+|}
+
+==== Phase 1 Strategy ====
+[[File:Fedbasedead1.jpg|thumb|right|220px|A destroyed Federate position — the spoils of a successful patrol.]]
+
+'''Mission priority in Delta:'''
+# '''Bombardier (Disrupt Bombing Runs)''' — Best Delta mission. Lots of Accolades and TRP. Kill the Grenadier first turn; the [[Reaper]] drains the Shield Projector; then all kill the Lieutenant second turn.
+# '''Tank Threat''' — Use the orbital drain satellite (0.9 shots/turn, drains 10,000). Kill Battle Tanks first (fire second turn with heavy weapons), then Main Battle Tanks (600 armour damage second turn), then Cruiser Tanks (900 armour damage but only 1k reactor — drain with Reaper [[Magnatron]]).
+# '''Freighter Escort''' — Decent; defend the freighter. If storm troopers have 2 Lieutenants, kill Lieutenants first.
+# '''Priority Defence''' — Good for TRP/Accolades + experience ×2 bonus.
+# '''Sector Patrol''' — Easiest. Just keep walking until you get back to base.
+
+'''Between missions:'''
+* Attack '''Bunkers''' (3 Accolades each — easy)
+* Attack '''Tank Squads''' when encountered as mission objectives
+* Attack '''Destroyers''' (+25 TRP +15 Accolades — worth doing)
+* Avoid '''Fire Bases''' if they have shields and Sabretooth turrets — the cannon can kill units
+* Skip standard infantry patrols (no Accolades, wastes KC)
+
+'''Leave Delta when you have:'''
+* 800 TRP (Order of Merit unlocked — grants 500 Accolades)
+* 2,250 Accolades spare to buy [[Plasma Technology]]
+* [[CySentinel]] at Level 13+ (Level 16 optimal for Alpha; if less than Level 16 you need 1.6M+ cash)
+* If below Level 16 CySentinel: use the [[Bulwark]] / Seer team, add 4 Seers and [[Plasma Turbo-Cannon]] on [[Crusader]], use Magnetic Actuators for 25% fire rate — get to Level 16 CySentinel and 2.5M cash before Alpha.
+
+---
+
+=== Phase 2 — Alpha Entry (Plasma Tech) ===
+[[File:Plasmaturbocannon.jpg|thumb|right|220px|[[Plasma Turbo-Cannon]] — the Alpha sector standard.]]
+[[File:Plasmaanamorph.jpg|thumb|right|220px|[[Plasma Anamorph]] — high-capacity projected shield for [[CySentinel]].]]
+
+At 800 TRP, return to Workshop: purchase '''[[Plasma Technology]]''' (2,250 Accolades) and prepare for Alpha Sector.
+
+==== Phase 2 Loadouts ====
+
+'''[[CySentinel]] (Phase 2):'''
+Upgrade: 250 Shield Tech, 920 Payload max (CySentinel Level 16 = 880 payload = 4 [[Plasma Anamorph|Plasma Anamorph shields]]).
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Magmatic]]
+|-
+| Shield (×3–4) || [[Plasma Anamorph]] (3 if Level 15 = 920 payload; 4 if Level 16+ = 960 payload)
+|-
+| Module || [[Motion Tracker]] (if 920+ payload)
+|}
+''Alternate at 920 payload: 3× [[Plasma Anamorph]] + [[Plasma IDT]] shield for 10,500 projected shields.''
+
+'''[[Crusader]] (Phase 2):'''
+Upgrade: 450 Weapon Tech, 50 Reactor Tech max, 15 Module Tech.
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || Best available ([[Magmatic]] / [[Bio-Nuclear]])
+|-
+| Weapon || [[Plasma Turbo-Cannon]]
+|-
+| Module || [[Magmatic Accurators]]
+|-
+| Module || [[Targeting Subroutine|T-Sub]]
+|}
+
+'''[[Bulwark]] (Phase 2):'''
+Upgrade: 450 Weapon Tech (if possible); remaining upgrades in Payload.
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Magmatic]]
+|-
+| Weapon || [[Plasma Turbo-Cannon]]
+|-
+| Weapon || [[HRX Rocket Pack]]
+|-
+| Weapon || Plasma Cannon / [[Plasma Auto-Cannon]] (if payload allows)
+|-
+| Module || [[Magma Mines]]
+|-
+| Module || [[Magnetic Actuators]] (10% fire rate)
+|-
+| Module || [[Targeting Subroutine|T-Sub]]
+|}
+
+'''[[Reaper]] (Phase 2):'''
+Keep previous setup; remaining upgrades on Enhanced Accuracy.
+
+'''[[Seer|Seers]] (Phase 2):'''
+Highest-ranking Seer: 75 Module Tech, 356 Payload, 50% Uplink; rest in Reactor (56 max).
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Magmatic]]
+|-
+| Module (×3) || [[DAX Pod]]
+|}
+
+2 mid-tier Seers: 66 Module Tech, 50% Uplink; rest in Reactor (56 max).
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Bio-Nuclear]] / [[Magmatic]]
+|-
+| Module (×2) || [[Weapons Amplifier]]
+|-
+| Module || [[Flux Channel]]
+|}
+
+Last Seer: 66 Module Tech, highest Reactor (56 max).
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Bio-Nuclear]] / [[Magmatic]]
+|-
+| Module (×2) || [[TC7 Target Predictor]]
+|-
+| Module || [[Deflection Grid]]
+|}
+
+==== Phase 2 Goals ====
+{| class="wikitable"
+|-
+! Goal !! Target
+|-
+| TRP || 3,200 (Order of the Regiment / [[Leviathan]])
+|-
+| Accolades || 1,000 for [[Obliterator]] + 3,200 TRP milestone
+|-
+| [[CySentinel]] Level || 16–20
+|-
+| All bots || Level 20 ideally
+|-
+| Warship kills || Working toward 50 (Star of Talsia)
+|}
+
+==== Phase 2 Strategy ====
+[[File:Cycorps_reaper.jpg|thumb|right|220px|[[Basilisk]] — the essential drain mercenary for Alpha Sector.]]
+
+'''General Alpha rules:'''
+* Avoid all random infantry and tank encounters in open patrol — tanks will kill you outright
+* Save all KCharge for missions; skip Destroyers, Fire Bases, and Bunkers if low on KC
+* Do Bunkers and Relay Stations when KC allows (3 Accolades and 15 MRP respectively — easy)
+* '''Avoid TRAFs, Battle Cruisers, and Carrier SOS until Phase 4/5''' — they will kill your squad
+
+'''Mission priority in Alpha:'''
+# '''Destroy Cruiser''' — '''Never abort this mission''' (until 18k TRP). 100 TRP, the best single mission in the game. Hire [[Basilisk]] + [[Remus]] for safety.
+# '''Reinforce Besieged Base''' — Best early Alpha mission. You get a base with increased deflections. Hire Basilisk. Hard if drain tanks have good uplinks.
+# '''Mining Facility Raid''' — Usually easy; always get 5 tons and leave. Can be deadly if unlucky with tank composition.
+# '''Blockade''' — Hardest Alpha mission. [[Crash Troopers]] can kill you in second turn — kill as many as possible on turn 1. Hire [[Typhoon]] for Crash Troopers. Use Magma Mines to lower BM of attacking squads.
+# '''Chassis Recovery''' — Easiest Alpha mission; get 5 chassis and leave.
+# '''Free Patrol''' — Do not take this mission; poor TRP/MRP ratio.
+
+'''Target priority when fighting tanks:'''
+# Drain [[Ae7 Barrier Tank]] / Shield Tanks first (their projected shields protect everything else)
+# Kill/drain [[C6II Enertron]] / Inductor Tanks (they drain your squad)
+# Kill Uplink Tanks (Command, Director, Syncron — boost accuracy and fire rate)
+# Kill Heavy Siege Tanks first among damage dealers
+# Kill remaining tanks
+
+'''When hiring mercs:'''
+* Only hire mercs in Alpha Sector
+* '''[[Basilisk]]''' — essential for any mission with shield projectors (auto-drains them)
+* '''[[Remus]]''' — valuable for 9% shield deflection and 11% drain deflection; great with Cruiser missions
+* '''[[Typhoon]]''' — for Blockade missions with Crash Troopers
+* [[Eclipse]] — extra 1,600 projected shielding for extra safety
+
+---
+
+=== Phase 3 — Order of the Regiment (Leviathan) ===
+[[File:Leviathan.jpg|thumb|right|220px|[[Leviathan]] — issued at 3,200 TRP (Battle Marshal rank).]]
+
+At '''3,200 TRP''' (Battle Marshal rank), the [[Order of the Regiment]] award issues a '''[[Leviathan]]''' chassis to your Workshop. '''Ensure your Workshop has a free slot before hitting 3,200 TRP.'''
+
+==== Phase 3 Workshop Changes ====
+* Buy [[Obliterator]] (1,000 Accolades) — equip on [[Crusader]]
+
+==== Phase 3 Loadouts ====
+
+'''[[Crusader]] (Phase 3):'''
+Upgrade: 450 Weapon Tech, 66 Module Tech, 50 Reactor Tech.
+
+2× [[Weapons Amplifier]] + [[Obliterator]] + [[Cobalt Hydron]] reactor → gives 100% extra fire rate → pushes Cruz past 186% speed needed for 1 shot per turn.
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Cobalt Hydron]]
+|-
+| Weapon || [[Obliterator]]
+|-
+| Module (×2) || [[Weapons Amplifier]]
+|}
+
+'''[[Bulwark]] (Phase 3):'''
+Upgrade: Payload to 900 minimum before Module Tech to 66.
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Magmatic]]
+|-
+| Weapon (×3) || [[Plasma Turbo-Cannon]]
+|-
+| Weapon || [[HRX Rocket Pack]]
+|-
+| Module || [[Magma Mines]]
+|-
+| Module (×2) || [[Targeting Subroutine|T-Sub]]
+|}
+''If Storm Tech available: replace 2× [[Plasma Turbo-Cannon]] with 1× [[Storm Bringer]] + 1× [[Hail Bringer]].''
+
+'''[[Leviathan]] (Optional, Phase 3):'''
+Upgrade: 60 Reactor Tech first, then 450 Weapon Tech. Use heavy weapons; try to get 3× [[Syphonic Immobilizer|Immobilizers]] or [[Rayden Device]] + 1× [[Syphonic Immobilizer|Immobilizer]].
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || Best available ([[Tribolt Hydron]] when 60 Reactor Tech)
+|-
+| Weapon (×3) || [[Syphonic Immobilizer|Immobilizer]] (or [[Rayden Device]] + 2× [[Syphonic Immobilizer|Immobilizer]] at 100 missions)
+|-
+| Weapon || Best heavy weapon available
+|-
+| Module || [[Phase Modulator]]
+|-
+| Module || [[Anomaly Detector]]
+|}
+'''Set Leviathan to auto (Highest Shield Projector) so it drains along with the squad targeting'''
+
+'''[[Seer|Seers]] (Phase 3):'''
+Keep previous setup; upgrade Reactor to 56 and equip [[Magmatic]] reactors; save remaining upgrades.
+
+==== Phase 3 Goals ====
+{| class="wikitable"
+|-
+! Goal !! Target
+|-
+| All bots || Level 20+
+|-
+| Warship kills || 50 (Star of Talsia → [[Pneumatron Reactor]])
+|-
+| TRP || Working toward 18,000 cap
+|-
+| Accolades || Buy more [[Obliterator]]s; aim for 2+ Oblits
+|-
+| [[Rayden Device]] || Obtained at 100 missions (Union of Service award)
+|}
+
+==== Phase 3 Strategy ====
+[[File:Cycorps_leviathan.jpg|thumb|right|220px|[[Hercules]] (CyCorps Leviathan) — best combat mercenary available.]]
+
+* If you choose to use a Leviathan in place of a Reaper, '''Hire [[Basilisk]] on every Cruiser mission''' to compensate for loss of [[Reaper]]'s dedicated drain
+* Continue to destroy 50 warships for the [[Star of Talsia]] award ([[Pneumatron Reactor]])
+* Focus on Cruiser missions (100 TRP) — keep grinding until 18k TRP cap
+* After Star of Talsia: equip [[Pneumatron Reactor]] on [[CySentinel]] (10,000 energy — virtually undrainable)
+
+---
+
+=== Phase 4 — Pneumatron & Advanced Seers ===
+[[File:Stormbringer.jpg|thumb|right|220px|[[Storm Bringer]] — the hallmark of an advanced Talsian squad.]]
+
+Once you have the [[Pneumatron Reactor]] (from '''Star of Talsia''' — 50 warship victories), the squad enters a new tier. The [[CySentinel]] becomes virtually immune to drain, allowing the squad to bump up BM safely and tackle harder encounters.
+
+==== Phase 4 Workshop Changes ====
+* Move [[Pneumatron Reactor]] to [[CySentinel]] (take it off [[Leviathan]] if needed)
+* Upgrade [[Crusader]]: 60 Reactor Tech → equip [[Tribolt Hydron]]; get 102 Module Tech → switch [[Weapons Amplifier|Wamps]] for 2× [[Master Fire Director|MFDs]]
+* Upgrade [[Bulwark]]: 60 Reactor Tech → equip [[Tribolt Hydron]]
+* Buy '''[[Storm Weapons Technology]]''' if not already owned (2,250 Accolades)
+* Upgrade Seers to advanced module setup (see below)
+
+==== Phase 4 Loadouts ====
+
+'''[[CySentinel]] (Phase 4):'''
+Upgrade: 960 Payload, 102 Reactor Tech; all other upgrades in Projection %.
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Pneumatron Reactor]] (from Star of Talsia award)
+|-
+| Shield (×4) || [[Plasma Anamorph]]
+|-
+| Module || [[Motion Tracker]]
+|}
+''Pneumatron provides 10,000 energy — the [[CySentinel]] is now virtually impossible to drain.''
+
+'''[[Crusader]] (Phase 4):'''
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Tribolt Hydron]]
+|-
+| Weapon || [[Obliterator]] (or [[Ravager]] if obtained from TRAF)
+|-
+| Module (×2) || [[Master Fire Director]]
+|}
+''If [[Ravager]] is obtained: swap one [[Master Fire Director|MFD]] for [[Ravager]] — 3,000 shield damage / 1,750 armour damage / 500 drain.''
+
+'''[[Bulwark]] (Phase 4):'''
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Tribolt Hydron]]
+|-
+| Weapon || [[Storm Bringer]]
+|-
+| Weapon || [[Obliterator]]
+|-
+| Weapon || [[Plasma Turbo-Cannon]] / [[Plasma Auto-Cannon]]
+|-
+| Module || [[Magma Mines]]
+|-
+| Weapon || [[Hail Bringer]] (if payload)
+|}
+
+'''[[Leviathan]] (Phase 4):'''
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Pneumatron Reactor]] or [[Tribolt Hydron]]
+|-
+| Weapon || [[Rayden Device]] (from 100 missions)
+|-
+| Weapon (×1–2) || [[Syphonic Immobilizer|Immobilizer]]
+|-
+| Weapon || Best heavy weapon available
+|-
+| Module || [[Phase Modulator]]
+|-
+| Module || [[Anomaly Detector]]
+|}
+
+'''Dax Pod Seer:'''
+All upgrades in Uplink; 56 Reactor Tech; [[Magmatic]] reactor equipped.
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Magmatic]]
+|-
+| Module (×3) || [[DAX Pod]]
+|}
+
+'''2 MFD Seers (340+ payload):'''
+Upgrade to 56 Reactor Tech, 102 Module Tech.
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Magmatic]]
+|-
+| Module (×2) || [[Master Fire Director]]
+|-
+| Module || [[Director Subroutine]]
+|}
+
+'''Flux Seer (308 payload):'''
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Magmatic]]
+|-
+| Module (×2) || [[Master Fire Director]]
+|-
+| Module || [[Flux Channel]]
+|}
+
+''This Seer/MFD setup gives substantial firepower, critical hit chance, shield and energy deflection, and ~50% energy savings.''
+
+==== Phase 4 Goals ====
+{| class="wikitable"
+|-
+! Goal !! Target
+|-
+| All bots || Level 25+
+|-
+| TRP || 18,000 (MRP cap — maximum XP/credit output)
+|-
+| [[Ravager]] || Attempt TRAFs (75 TRP each; chance of [[Ravager]] drop)
+|-
+| [[Advanced Master Fire Director|AMFD]] || 200 missions with 90%+ success rate (Master of Talsia)
+|-
+| Accolades || Buy max [[Obliterator]]s (save 1,000–2,000 for mercs)
+|}
+
+==== Phase 4 Strategy ====
+* This squad can now '''beat TRAFs and Battle Cruisers''' — see [[#TRAF Guide|TRAF Guide]] below
+* Continue grinding Cruiser missions until 18k TRP
+* [[Carrier SOS]] (Aid CyCarrier) — now feasible; [[True Guard]] forces in SOS are easier than a full TRAF
+* Battle Cruiser encounters are now viable — high TRP + Accolades reward
+* Keep Cruiser missions as priority until 18k TRP cap is reached
+
+---
+
+=== Phase 5 — Endgame (18,000 TRP Cap) ===
+[[File:Raven-blue.png|thumb|right|220px|[[Raven]] — unlocked at 18,000 TRP.]]
+
+At '''18,000 TRP''', the MRP conversion rate reaches its maximum (~7,500 XP per MRP at max BM). No additional TRP increases XP/credit output from missions.
+
+This means: '''you can now abort unwanted missions''' (costs −50 TRP and Accolades) without significant loss. You are now farming '''experience and credits''' rather than TRP.
+
+At this point, your squad should also be ready for '''[[Gamma Sector]]'''
+
+Also at 18,000 TRP: the '''[[Raven]]''' chassis is unlocked.
+
+==== Endgame Squad (All Bots Level 25) ====
+
+'''[[CySentinel]]:''' 1,064 payload, 102 Reactor Tech, all other upgrades in Projection %.
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Pyroclastic Reactor]] (take [[Pneumatron]] for [[Leviathan]])
+|-
+| Shield (×4) || [[Plasma Anamorph]]
+|-
+| Module || [[Motion Tracker]]
+|}
+''At Level 25: can achieve 105% projection = 25,200 projected shields.''
+
+'''[[Crusader]] (Endgame):''' 102 Reactor Tech, 976+ payload.
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Pyroclastic Reactor]]
+|-
+| Weapon || [[Ravager]] (if obtained)
+|-
+| Module (×2) || [[Advanced Master Fire Director|AMFD]]
+|}
+
+'''[[Bulwark]] (Endgame):''' 102 Module Tech, 1,470 payload max.
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Pyroclastic Reactor]] / [[Tribolt Hydron]]
+|-
+| Weapon || [[Storm Bringer]]
+|-
+| Weapon (×3) || [[Obliterator]]
+|-
+| Weapon || [[Hail Bringer]]
+|}
+''Best weapons: Storm + Obliterator + random weapon depending on payload; use Wamps + Tribolt for 25k support.''
+
+'''[[Leviathan]] (Endgame):''' 110 Module Tech, 2,320 payload max.
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Pneumatron Reactor]]
+|-
+| Weapon || [[Rayden Device]]
+|-
+| Weapon || [[Storm Bringer]]
+|-
+| Weapon (×5) || [[Obliterator]]
+|-
+| Weapon || [[Hail Bringer]]
+|}
+
+'''Advanced Seers (Endgame):'''
+All Seers: 110 Module Tech, 412 payload, 100% Uplink max.
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Magmatic]]
+|-
+| Module (×3) || [[Advanced Master Fire Director|AMFD]]
+|}
+Dax Pod Seer remains with 2× [[DAX Pod]] + [[Flux Channel]].
+
+''This gives 790% fire rate on attack bots and 100% critical hit chance — everyone crits every shot.''
+
+==== Endgame Mission Strategy ====
+At 18k+ TRP:
+* '''[[#Mining Facility Raid|Mining Facility Raid]]''' and '''[[#Blockade|Blockade]]''' become the best missions — highest MRP yield = 2M+ XP per mission
+* '''Chassis Recovery''' and '''Reinforce Besieged Base''' → abort (recover + abort; don't exit and re-enter patrol — wastes KC)
+* You can now attack everything encountered — 1–2 KC per battle at high BM
+* TRAFs are no longer necessary for TRP; they can be risky for bots
+* Battle Cruisers are now easy — all-attack the Battle Cruiser hull for a quick kill
+
+----
+
+== Mission Guide ==
+Missions are accepted at the Mission Briefing in Delta or Alpha Sector. Completing a mission converts all accumulated [[Mission Reward Points|MRP]] into experience and credits at a rate determined by your TRP and BM.
+
+=== Understanding MRP Conversion ===
+* '''TRP''' — Higher TRP = more XP per MRP (caps at 18,000 TRP)
+* '''BM (Battle Merit)''' — Higher BM = more XP per MRP (caps at ~14,000,000 BM)
+* At maximum TRP (18k) and high BM (~30M+), a single mission can yield '''1–2 million XP''' and '''$1–2M credits'''
+* The faster you build TRP early, the more XP each patrol earns overall
+
+=== Delta Sector Missions ===
+
+{| class="wikitable"
+|-
+! Mission !! TRP !! Accolades !! Recommended? !! Strategy
+|-
+| '''Disrupt Bombing Runs''' || ~45 || ~75 || '''Yes — Best Delta mission''' || Kill Grenadier turn 1; Reaper drains Shield Projector; all kill Lieutenant turn 2. [[Motion Tracker]] helps detect targets.
+|-
+| '''Tank Threat''' || ~40 || ~35 || Yes || Use CySat orbital drain. Kill Battle/Assault Tanks first, then Main Battle Tanks (600 arm. dmg turn 2), then Cruiser Tanks.
+|-
+| '''Priority Defence''' || ~40 || ~35 || Yes || Defend the ADMI installation. Bonus: Experience ×2.
+|-
+| '''Freighter Escort''' || ~20 || ~25 || Yes (fast) || Escort Colonite Freighters. Kill Lieutenants first if Shock Troopers appear.
+|-
+| '''Sector Patrol''' || ~20 || ~25 || '''Yes''' || Just avoid everything
+|}
+
+=== Alpha Sector Missions ===
+[[File:Cycorps_sentinel.jpg|thumb|right|220px|The [[CySentinel]] bonus: Cruiser missions allow up to 6 support units including CyCorps Sentinel types.]]
+
+{| class="wikitable"
+|-
+! Mission !! TRP !! Accolades !! Recommended? !! Strategy
+|-
+| '''Destroy Cruiser''' || +100 || +15 || '''Yes — Never abort until 18k TRP''' || Best TRP mission. Hire [[Basilisk]] + [[Remus]]. Bridge → Shield Generators → Hull. CySentinel support bonus active.
+|-
+| '''Reinforce Besieged Base''' || +55 || +65 || Yes || Hold base until Zeus arrives. Legionnaire bonus. Hire Basilisk. Hard if drain tanks with uplinks appear.
+|-
+| '''Blockade''' || +55 || +65 || Yes || Most dangerous. Kill Crash Troopers turn 1. Use Magma Mines to reduce BM. Hire Typhoon for Crash Troopers.
+|-
+| '''Mining Facility Raid''' || +45 || +75 || Yes || Get 5+ tons and leave. Best MRP yield post-18k TRP. Usually easy unless tanks spawn.
+|-
+| '''Chassis Recovery''' || +20 || +25 || Yes (easy) || Easiest Alpha mission. Get 5+ chassis and leave. Abort post-18k TRP.
+|-
+| '''Free Patrol''' || Variable || Variable || '''No''' || Poor TRP/MRP ratio. Only use for quick Accolades or if no other options.
+|}
+
+'''Legionnaire Bonus Missions''' (Reinforce Besieged Base and Blockade) reward +55 TRP / +65 Accolades — higher than their listed base value. These are the best missions post-18k TRP for pure credit/XP farming.
+
+----
+
+== Technology Purchase Order ==
+[[File:Obliterator.jpg|thumb|right|220px|[[Obliterator]] — 1,000 Accolades each; buy multiple at endgame.]]
+
+The recommended technology and equipment purchase order is:
+
+# '''[[Plasma Technology]]''' (2,250 Accolades) — Buy as soon as you have 800 TRP and 2,250 spare Accolades. Plasma weapons ([[Plasma Turbo-Cannon]], [[Plasma Anamorph]] shields) are the foundation of Alpha Sector. Do not delay.
+# '''1–2 [[Obliterator|Obliterators]]''' (1,000 Accolades each) — Buy after Plasma Tech. Equip on [[Crusader]]. The [[Obliterator]]'s high crit rate also helps break [[Reinforced Wall|Reinforced Wall]] deflection in TRAFs.
+# '''[[Storm Weapons Technology]]''' (2,250 Accolades) — Buy after Plasma Tech and 1–2 Obliterators. Unlocks [[Storm Bringer]] and [[Hail Bringer]] for [[Bulwark]] and [[Leviathan]].
+
+{{MessageBox
+| header = Do Not Change Cruiser Missions
+| text   = '''Never abort a Destroy Cruiser mission until you are past 18,000 TRP.''' At 100 TRP per completion, it is the single best mission in the game. Every time you bypass a Cruiser mission you are leaving 100 TRP on the table.
+}}
+
+----
+
+== Awards and Milestones ==
+[[File:Rayden.jpg|thumb|right|220px|[[Rayden Device]] — the Union of Service award at 100 missions.]]
+[[File:Leviathan.jpg|thumb|right|220px|[[Leviathan]] — the Order of the Regiment award at 3,200 TRP.]]
+
+Every award is a significant progression milestone. Plan your patrol around these targets.
+
+{| class="wikitable"
+|-
+! Award !! Requirement !! Reward !! Strategic Impact
+|-
+| '''Order of Merit''' || 800 TRP (Endurion rank) || +500 Accolades || Use 500 Accolades toward Plasma Tech (needs 2,250 total)
+|-
+| '''Crimsons Cross''' || 1,600 TRP (Field Director rank) || [[Radial Laser]] weapon set || Equip on attack bots as secondary; useful for fire rate bonus
+|-
+| '''CyCorps Commendation''' || 75%+ mission success with 50+ missions || [[Y-Link]] module ([[Y-Bot]] orbital strike) || Provides automatic orbital [[Plasma Beam]] shot each turn; 90% accuracy; free damage every round
+|-
+| '''Union of Service''' || 100 missions completed || [[Rayden Device]] || Primary drain weapon for [[Leviathan]]; equip immediately. Critical milestone.
+|-
+| '''Order of the Regiment''' || 3,200 TRP (Battle Marshal rank) || [[Leviathan]] chassis || Replace [[Reaper]] with [[Leviathan]]. '''Ensure Workshop space before reaching 3,200 TRP.'''
+|-
+| '''Star of Talsia''' || 50 warship victories || [[Pneumatron Reactor]] (10,000 energy) || Equip on [[CySentinel]] — becomes virtually undrainable. Enables higher BM.
+|-
+| '''Order of the CyLegion''' || 90%+ success with 150+ missions || [[Y-Link]] upgraded to MKII [[Y-Bot]] ([[Tribolt Hydron]] reactor; 2× [[Plasma Beam]]) || Y-Bot fires 2× [[Plasma Beam]] per turn — significant free damage
+|-
+| '''Master of Talsia''' || 200 missions with 90%+ success rate || [[Advanced Master Fire Director|Advanced Master Fire Director (AMFD)]] module || Critical endgame module; replaces [[Master Fire Director|MFDs]] on Seers and attack bots. Maximum fire rate and crit.
+|-
+| '''Raven Unlock''' || 18,000 TRP || [[Raven]] chassis accessible || Advanced chassis for endgame Controllers
+|}
+
+'''Milestone planning notes:'''
+* Warship kills (toward '''Star of Talsia''' — 50 kills) accumulate passively through Cruiser missions and Destroyer encounters. Track your count in Personal Squad Viewer.
+* Mission success rate (toward '''CyCorps Commendation''' and '''Master of Talsia''') is hurt by deaths/aborts. Abort missions carefully — only when safe to do so.
+* The '''[[Leviathan]]''' is issued automatically. If your Workshop is full, it is held until space is available. Plan ahead.
+* At the '''Union of Service''' (100 missions), always equip the [[Rayden Device]] immediately — it dramatically improves drain output.
+
+----
+
+== TRAF Guide ==
+[[File:Turret8.png|thumb|right|220px|[[SR180 Receptor]] — the deadliest drain turret in Talsia; cannot be targeted until walls are down.]]
+[[File:Tank_manium2.png|thumb|right|220px|True Guard assembly — the final TRAF round.]]
+
+A '''TRAF''' (Tactical Re-Arming Facility) is the hardest repeatable encounter in Talsia, rewarding '''75 TRP''' upon completion and a chance to receive the legendary '''[[Ravager]]''' super weapon.
+
+TRAFs are discovered via '''Incoming Transmission''' orders (target the TRAF for destruction) or by stumbling across a '''TRAF Located''' event during patrol.
+
+=== When to Attempt TRAFs ===
+* '''Do not attempt TRAFs until Phase 4''' at minimum (Pneumatron + MFD Seers)
+* Recommended minimums before your first TRAF:
+  ** 10,000+ projected shielding on [[CySentinel]] (including mercs)
+  ** 75%+ energy drain deflection on your squad
+  ** [[Obliterator]] with 20%+ crit rate on [[Crusader]] (for breaking [[Reinforced Wall]] deflection)
+  ** Hired [[Remus]] (9% shield deflection + 11% drain deflection) and [[Basilisk]] (drain assist)
+
+=== TRAF Round-by-Round ===
+
+'''Round 1 — Outer Defences:'''
+[[File:Turret3.png|thumb|right|180px|PR600 Launcher — standard TRAF outer turret.]]
+* Uplink Commands (×2, up to ×3 at high BM) — project 9,000 shield each; provide heavy armour/shield deflection
+* Rhino turrets — deal ~5,000 damage (up to 15,000 with crits, though infrequent)
+* FGSI Turrets — deal shield damage and drain; very active and crit-prone
+* '''FGSI turrets stop operating when Uplink Commands are destroyed'''
+
+'''Strategy:'''
+# Turn 1: Drain both Uplink Commands with all drain bots
+# Turn 2+: Kill the Uplink Commands once drained
+# FGSI turrets become inactive once Commands are dead — mop up the rest
+# Rhinos do manageable damage — kill in order of remaining threats
+
+'''Round 2 — Wall Turrets:'''
+[[File:Fedwall1.png|thumb|right|180px|Reinforced Wall — must be killed, not just drained.]]
+* Reinforced Wall (×1) — provides drain deflection to all units behind it; [[SR180 Receptor]]s and Uplink Commands '''cannot be drained until the wall is killed'''
+* SR180 Receptor (×1–2) — heavy drain turrets that crit frequently; the most dangerous drain sources in the game
+* Uplink Commands (×2–3)
+* Rhino turrets
+
+'''Critical:''' The [[Reinforced Wall]] must be '''killed''' (not just drained) before the SR180 Receptors or Uplink Commands can be drained. Without a high-crit [[Obliterator]] or [[Ravager]] on [[Crusader]], breaking its deflection is very difficult.
+
+'''Strategy:'''
+# Turn 1: ALL attack the Reinforced Wall until it is dead
+# Once the wall is down: drain Uplink Commands and SR180 Receptors
+# Kill SR180s as a priority (they drain your squad heavily when active)
+# Mop up remaining turrets
+
+'''Round 3 — Inner Wall:'''
+* Same as Round 2 but with additional tanks
+* The tanks add moderate damage — not dramatically harder than Round 2
+* Use the same approach: wall first, then drain, then kill SR180s
+
+'''Round 4 — True Guard (Final Round):'''
+[[File:Superinfantry.png|thumb|right|180px|True Guard infantry — high-damage, high-crit-rate elite units.]]
+[[File:Tank_manium.png|thumb|right|180px|[[Storm Bringer]] — True Guard tank variant.]]
+
+* '''[[True Guard]]''' infantry — deal ~6,000 damage with crits (very frequent crit rate)
+* '''Manium Firespray''' — True Guard support unit; deals ~6,000 damage with crits
+* '''[[Storm Bringer]]''' tanks — deal ~10,500 damage with crits (less frequent)
+* '''Cortex Tanks''' — True Guard [[Seer|Seer]] equivalent; provide deflection, fire rate, and energy bonuses
+* '''SR180 Receptors''' — still present; drain threat continues
+* '''True Guard Shielding''' (×2, up to ×3 at 10M+ BM) — project massive shields; must be drained (not killed) to neutralise the True Guard formation
+
+'''Warning:''' Do not stop or recover before Round 4. If you stop/recover after Round 3, you trigger another Round 3 equivalent instead of Round 4 — wasting KC and progress.
+
+'''Strategy:'''
+# Assign [[Reaper]] (with [[Rayden Device]]) to True Guard Shielding 1
+# Assign hired [[Basilisk]] to True Guard Shielding 2 (and 3 if present)
+# At 10M+ BM with 3 Shieldings: hire a second [[Basilisk]] for the third shielding
+# A crit from [[Rayden Device]] first turn can drain all shields simultaneously
+# Once shields are drained: kill SR180 Receptors first, then True Guard and Storm Tanks
+
+=== TRAF Rewards ===
+* '''75 Talsian Rank Points'''
+* '''Rare: [[Ravager]]''' super weapon
+  ** 3,000 shield damage / 1,750 armour damage / 500 drain
+  ** Weight: 500 kg — requires 676+ Weapon Tech on [[Crusader]] and high payload
+  ** ''One of the best weapons in the game — if you get it, restructure [[Crusader]] around it''
+
+----
+
+== Dangerous Enemies ==
+[[File:Tank_syphon.png|thumb|right|180px|[[C6II Enertron]] — the Inductor Tank; its [[Induction Device]] drains entire squads.]]
+
+Talsia has many encounter types, but most can be skipped to conserve KC. The following are the threats that require the most careful handling.
+
+=== Priority Drain Targets ===
+Always drain these before they fire:
+* '''[[Ae7 Barrier Tank]] / Shield Tank''' — projects 19,200+ shield for the entire formation; drain first or nothing else dies
+* '''[[C6II Enertron]] / Inductor Tank''' — fires [[Induction Device]]; drains your entire squad's energy; must be drained/killed immediately
+* '''[[Uplink Command]] tower''' — projects 9,000 shield; provides armour/shield deflection to all behind it
+* '''[[Reinforced Wall]]''' — provides drain deflection to all units; kill it first
+* '''True Guard Shielding''' — projects massive shields for True Guard formation; drain to neutralise
+
+=== Extremely Dangerous Encounters (Avoid Early) ===
+* '''[[True Guard]] (in open patrol)''' — Elite Federate faction; very high crit rate; 6,000+ damage per crit. Only engage when Phase 4+ with full merc support. In Carrier SOS events, easier than TRAF variants.
+* '''[[Crash Troopers]]''' — Elite jetpack infantry. Can kill a bot on turn 2. Kill as many as possible on turn 1. Hire [[Typhoon]] merc to help.
+* '''[[SR180 Receptor]] drain turrets''' — Cannot be targeted until Uplink Commands and Reinforced Walls are down. Deal enormous drain damage. Avoid their section until walls are cleared.
+* '''[[Storm APC]]''' — transports [[Storm Troopers]] in Blockade missions; manage these carefully
+* '''[[Battle Cruiser]]''' — Only engage in Phase 4+. Long-range bombardment phase + heavy engagement. 75 TRP reward.
+
+=== Events to Never Skip ===
+These are easy free resources during patrol:
+* '''[[Bunkers]]''' — 3 Accolades each; easy fights or avoidable entirely
+* '''[[Communications Relay Station]]s''' — 15 MRP for quick destruction
+* '''[[Federate Drop Crate]]''' — 4 MRP to destroy the supplies; always worth investigating
+
+=== Events to Skip (Save KC) ===
+* Standard infantry patrols — no Accolades; pure KC drain
+* Free Patrol mission — poor TRP/MRP ratio
+* Valleys — optional; not needed for missions
+* Fire Bases (early game) — dangerous; Sabretooth cannon can kill units
+* TRAFs (before Phase 4) — too dangerous
+
+----
+
+== General Tips ==
+'''KCharge Management:'''
+* KCharge is your most precious resource in Talsia — treat it as currency
+* Skip all encounters that don't give TRP, Accolades, or MRP
+* '''Do not fight standard infantry patrols''' — they give nothing and cost 1–2 KC each
+* Only use mercs when truly necessary (generally only in Alpha Sector)
+* If you die and get sent back to Workshop: do not upgrade bots too much; conserve resources and re-enter
+
+'''BM Management:'''
+* Higher BM = more XP per MRP (up to ~14M BM)
+* Before Phase 4, keep BM controlled — higher BM = harder enemy squads = more KC per fight
+* After Phase 4 (Pneumatron), bump BM as high as you can sustain
+
+'''Seer Setup:'''
+* Seers are the most critical element of your squad. Wrong modules on Seers lose battles. Check Personal Squad Viewer constantly to see your actual deflection, fire rate, and energy stats.
+* At any given phase, your Seers' stats determine whether you can survive Alpha encounters. Prioritise Seer upgrades.
+
+'''Mission Success Rate:'''
+* Keep your success rate above 90% to work toward higher-tier awards
+* Abort missions you genuinely cannot complete — a loss is worse than an abort for success rate
+* At 18k TRP, you can afford to abort regularly (−50 TRP each abort) since TRP no longer matters for MRP output
+
+'''Using [[Magma Mines]]:'''
+* [[Magma Mines]] on [[Bulwark]] reduce incoming BM from attacking squads — use them on Blockade missions to lower the difficulty of reinforcement squads
+
+'''[[Uncrewed Tanks]] and [[Comwave Scanner]]:'''
+* Having a [[Comwave Scanner]] on a squad member enables hijacking Uncrewed Tanks, accessing Command Centers (Neoforina), and accessing Super Credit Caches ($500,000)
+* The Comwave Scanner is a significant passive bonus — consider keeping one in your squad for these encounters
+
+----
+
+== See Also ==
+* [[Talsian Warfront]] — General information, factions, zones, enemies, missions, and mechanics
+* [[Vulcore Guide]] — The Vulcore progression guide; pre-Talsia preparation
+* [[Vulcore Plain]] — Vulcore zone overview
+* [[CySentinel]] — The key support chassis for Talsia
+* [[Leviathan]] — The super-chassis awarded at 3,200 TRP
+* [[Plasma Technology]] — Required Alpha Sector technology
+* [[Storm Weapons Technology]] — Advanced endgame weapon technology
+
+[[Category:Guides]]
+[[Category:Talsian Warfront]]
