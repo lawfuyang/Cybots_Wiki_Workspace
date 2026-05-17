@@ -141,7 +141,7 @@ The North East quadrant is the quest and exploration hub of Gamma Sector. It is 
 * '''Horus Temple''' — the centrepiece of the NE. Contains books, inscriptions, a secret portal, and the Brotherhood door code needed for the [[#Peace Maker Cannon Quest|PMC quest]]. Also contains a '''4-digit dial''' that opens a '''Pharaoh's Tomb''' for rewards. Requires the four [[Runes]] to have been obtained to access the portal chamber (the Runes must be ''in the workshop'' — they do not need to be physically equipped unless the Ziggurat is the target).
 * '''Enhanced Reaper Quest Portal''' — inside the Horus Temple, a portal appears ''only'' if the Controller has already received the city name from a SE outpost. The portal leads to the correct city on the Horus Planet, where 3 battles must be won to obtain the [[Enhanced Reaper]].
 * '''Matriarch (PMC Quest)''' — an NE Matriarch who provides the city name needed for the PMC quest (requires already having the Knight's name from the SE outpost)
-* '''Terminus Prototype Chassis Trader''' — a special chassis trader in the NE who will sell the [[Terminus Prototype]] chassis, but '''only if the Prius merc is hired and present in the squad'''
+* '''Chassis Merchant''' — a chassis merchant in the NE who sells a range of chassis and mercs in exchange for [[Lava Diamond|Lava Diamonds]]. Requires the '''Prius''' merc to be present in the squad; the Prius is found via NE exploration events. See [[#Chassis Merchant (NE)|Chassis Merchant]] below for the full stock.
 * '''Antenna Hacking events''' — hacking Praetorian communications antennas can yield Mirons, experience bonuses, or other random rewards
 * '''Brotherhood of the Chosen clues''' — quest information is distributed across the NE (temple inscriptions, Matriarch dialogue); reading and recording this information carefully is essential
 
@@ -150,14 +150,45 @@ The North East quadrant is the quest and exploration hub of Gamma Sector. It is 
 
 '''Rewards:'''
 * [[Enhanced Reaper]] chassis (quest reward)
-* [[Terminus Prototype]] chassis (via trader + Prius merc)
+* [[CyValadin]], [[CyRanger]], [[Praetorian Viper]], [[CyMara]], [[Terminus Prototype]] chassis (via Chassis Merchant; costs Lava Diamonds; requires Prius merc)
+* Cargo Transport mercs (via Chassis Merchant; alternative to Epsilon FOB)
 * Mirons (via Antenna hacking and other events)
 * Quest information (Brotherhood code, Matriarch city name)
 
 <gallery widths="150" heights="110">
 File:Enhancedreaper.jpg|[[Enhanced Reaper]] — obtainable via the NE temple portal
-File:Terminus.jpg|[[Terminus Prototype]] — available from the NE chassis trader (requires Prius)
+File:Terminus.jpg|[[Terminus Prototype]] — available from the NE Chassis Merchant (requires Prius)
 </gallery>
+
+==== Chassis Merchant ====
+
+A Chassis Merchant is encountered during NE patrols, selling chassis and mercs for [[Lava Diamond|Lava Diamonds]]. The merchant only appears if the '''Prius''' merc is present in the squad — the Prius is found for free via NE exploration events and must be hired before the merchant will trade.
+
+<gallery widths="150" heights="110">
+File:Cyvaladin.jpg|[[CyValadin]] — 100 Lava Diamonds
+File:Cyranger.jpg|[[CyRanger]] — 300 Lava Diamonds
+File:Cargotransport.jpg|Cargo Transport — 300 Lava Diamonds
+File:Viper.jpg|[[Praetorian Viper]] — 400 Lava Diamonds
+File:Cycorps_marauder.jpg|[[CyCorps Marauder]] — 600 Lava Diamonds
+File:Terminus.jpg|[[Terminus Prototype]] — 1,000 Lava Diamonds
+</gallery>
+
+{| class="wikitable"
+|-
+! Chassis / Merc !! Cost
+|-
+| '''[[CyValadin]]''' || 100 [[Lava Diamond|Lava Diamonds]]
+|-
+| '''[[CyRanger]]''' || 300 [[Lava Diamond|Lava Diamonds]]
+|-
+| '''Cargo Transport''' || 300 [[Lava Diamond|Lava Diamonds]]
+|-
+| '''[[Praetorian Viper]]''' || 400 [[Lava Diamond|Lava Diamonds]]
+|-
+| '''[[CyMara]]''' || 600 [[Lava Diamond|Lava Diamonds]]
+|-
+| '''[[Terminus Prototype]]''' || 1,000 [[Lava Diamond|Lava Diamonds]]
+|}
 
 === South East Quadrant ===
 [[File:SE_generic3.jpg|thumb|right|240px]]
@@ -168,7 +199,7 @@ The South East quadrant is the '''primary experience-grinding zone''' in Gamma S
 * '''Praetorian Mining Facilities''' — the centrepiece of the SE. These facilities actively mine Meteorite Iron that Controllers can '''steal''' by hiring Cargo Transport mercs from the Epsilon FOB (see [[#Meteorite Iron Mining|Meteorite Iron Mining]]). Stealing from these facilities yields colossal amounts of experience and Mirons.
 * '''Praetorian Bases & Research Labs''' — as in the NE, defeating SE Research Labs yields [[Hornet]]/[[Warthog]] chassis schematics
 * '''Reinforcement mercs''' — Controllers can call for patrol reinforcements while in the SE. There is approximately a '''5% chance''' of receiving free reinforcement mercs, a '''35% chance''' of the call being intercepted (triggering an enemy attack instead), and the remainder resulting in no response
-* '''Casino & Market''' — the SE has both a Casino and a Market. The Market is encountered fairly frequently & offers Pneumatron Reactors for a whopping 10,000 Accolades
+* '''Casino & Market''' — the SE has both a Casino and a Market. The Market is encountered fairly frequently & offers Pneumatron Reactors for a whopping 5,000 Accolades
 
 '''The Wasp problem:''' The single biggest combat challenge in the SE (and NE) is the [[Wasp]] enemy unit. Wasps have a base speed of '''225''' and are equipped with powerful drain weapons. At high BM (37M+), squads can encounter 4–6 Wasps in a single fight. Against a Reaper-and-Rayden drain build, Wasps can deflect drain entirely if they're accompanied by Praetorian units carrying [[DAX Pod]] modules. The primary counter strategies are:
 * '''Out-speed them''' — equip at least one Immobilizer on each Raven (base 150 speed) to gain targeting priority and drain/kill 2+ Wasps before they fire
