@@ -1,0 +1,746 @@
+{{MessageBox
+| header = ⚠ Work in Progress — This Guide Needs You
+| text   = '''This guide is highly work in progress.''' The Gamma Sector is one of the newest areas in Cybots and its content changes rapidly between sets. Much of the information here may be '''incomplete, missing, or incorrect''' — this is especially true for later patrols, loadout specifics, and quest details, which evolve as the community discovers more. If you have first-hand knowledge of Gamma strategies, squad builds, or quest steps — '''please help improve this page!'''
+| image  = Gammasector.jpg
+}}
+
+[[File:Gammaintro.jpg|right|frameless|800px]]
+
+== Overview ==
+
+'''[[Gamma Sector]]''' (commonly called '''Gamma''') is the third and most advanced outland zone in Cybots — the endgame frontier beyond the [[Talsian Warfront]]. If Vulcore taught you how to play Cybots, and Talsia taught you how to fight it, then Gamma is where everything you've learned gets stress-tested at once. It is deliberately non-linear, deeply quest-driven, and designed so that '''no two Controllers will take the same path through it.'''
+
+This guide is a walkthrough and strategy companion. General information about Gamma — its factions, traders, chassis, quests, and reward mechanics — lives on the main [[Gamma Sector]] page. This guide focuses on ''how to approach'' Gamma: patrol sequencing, squad setups, priorities, and what to watch out for.
+
+{{Quote|Gamma was designed to take the boredom out of having a squad that cannot die and one-click everything until the end of the set. Being invincible is not as rewarding as having to work your way around scared — knowing you will get blasted on a misclick or ambush.|maximo0727, lead developer}}
+
+{{Quote|Gamma is more open-ended. You need to change dynamically. You will die in Gamma. The most important thing is how you think about your goals.}}
+
+<gallery widths="155" heights="115">
+File:Gammapatrolsquad2.jpg|A Raven squad — your primary weapon in Gamma
+File:Epsilonbase.jpg|The [[Epsilon Forward Operating Base]] — your hub in Gamma
+File:Hornet.jpg|[[Hornet]] chassis — unlocked via Praetorian Bases & Labs in SE
+File:Flaminghornet.jpg|[[Flaming Hornet]] — fire-enhanced variant, exclusive to SW
+File:Enhancedreaper.jpg|[[Enhanced Reaper]] — obtainable via NE quest chain
+File:Peacemakercannon.jpg|[[Peace Maker Cannon]] — ultimate reward of the Brotherhood Quest
+File:Hydroplasmonic.jpg|[[Hydroplasmonic Reactor]] — awarded by the SW Arena Masters
+File:Cybulwark.jpg|[[CyBulwark]] — the Arena Champion chassis of the Lords of the Flame
+File:Meteoriteiron.jpg|Meteorite Iron — stolen from Praetorian Mining Facilities
+File:Piratescorpions.jpg|[[Pirate Scorpions]] — some of the most dangerous enemies in Gamma
+File:Ne_gen1.jpg|The NE quadrant — ancient temples and quest treasure
+File:Lavaflow.jpg|(Placeholder Image) The SW quadrant — volcanic lava fields and Lava Forts
+</gallery>
+
+'''What this guide covers:'''
+* [[#How Gamma Differs From Talsia|How Gamma Differs From Talsia]] — the mindset shift required
+* [[#The Philosophy of Gamma|The Philosophy of Gamma]] — be flexible; throw away the rules
+* [[#Prerequisites & Pre-Gamma Preparation|Prerequisites & Pre-Gamma Preparation]] — what you need before you enter
+* [[#Vulcore Cash Run|Vulcore Cash Run]] — how to fund your Ravens and workshop upgrade
+* [[#Patrol 1|Patrol 1]] — the first steps into Gamma; squad setup, goals, walkthrough
+* [[#Patrol 2|Patrol 2]] — levelling your new chassis and finishing Phase 1 objectives
+* [[#Dangerous Enemies & Things to Watch Out For|Dangerous Enemies]] — what will kill you and how to deal with it
+* [[#Key Mechanics to Understand|Key Mechanics]] — BM management, mercenary persistence, Wasp targeting
+* [[#Quest Cheat Sheet|Quest Cheat Sheet]] — quick reference for PMC and Enhanced Reaper quests
+
+----
+
+== How Gamma Differs From Talsia ==
+[[File:Gammasector.jpg|thumb|right|260px|The Gamma Sector — a frontier beyond the warfront.]]
+
+Before diving into strategy, it is critical to understand how Gamma fundamentally differs from the [[Talsian Warfront]]:
+
+{| class="wikitable"
+|-
+! Aspect !! Talsian Warfront !! Gamma Sector
+|-
+| '''Structure''' || Linear — missions, sectors, TRP milestones || Non-linear — four quadrants, open patrol, self-directed
+|-
+| '''Mercs''' || Hired per mission, released after || Persist for the entire patrol; losing them costs Accolades
+|-
+| '''Winning strategy''' || "Tank everything" — high shields, drain, survive || Speed and fire rate dominate; high shields invite BM penalties
+|-
+| '''BM''' || Higher is generally better (more base BM = more income) || '''Diminishing returns above 30M''' — XP penalty scales up harshly at 37M+
+|-
+| '''Death risk''' || Low (with good deflection) || High — you '''will''' lose bots if you misclick or fight the wrong enemy
+|-
+| '''Goals''' || Clear and structured (TRP, mission counts, awards) || Vague and self-defined — quests, chassis, currencies, levels
+|-
+| '''Information''' || Documented and stable || Scarce; quest info is randomised each set; read everything in-game
+|}
+
+=== The Most Important Difference: Be Flexible ===
+
+In Talsia, there is a well-documented optimal path: get TRP, buy Plasma Tech, get AMFDs, reach Alpha, push BM. You could follow a guide step-by-step and be fine.
+
+'''Gamma does not work like that.'''
+
+The guide below will give you a starting framework, but treat it as a ''rough map'', not a GPS route. Your goals will shift mid-patrol. The currency you planned to farm might take twice as long as expected. A bad fight might mean your mercs are gone. An unexpected quest trigger might redirect your entire patrol.
+
+{{MessageBox
+| header = Golden Rule of Gamma
+| text   = '''Do what works for you.''' The top-ranked Controllers in Gamma will never share their exact strategies — and with good reason. The zone rewards inventiveness and adaptation. Use this guide as a starting point, explore aggressively, and build your own understanding.
+}}
+
+----
+
+== The Philosophy of Gamma ==
+
+Gamma was '''designed to be a high-risk, high-reward zone'''. The developer's explicit intent is that Controllers who rely on slow, invincible deflection builds will be penalised — both in experience rewards (via the BM penalty above 30M) and in actual combat (Wasps and high-fire-rate enemies will drain you before you respond if your squad is slow).
+
+Key principles to internalise:
+* '''Speed wins.''' Going first is everything. [[Wasp]] enemies (base speed 225) will drain your reactors before you fire if you can't outpace them. [[Hornet|Hornets]] and high-uplink [[Seer]] builds are essential.
+* '''Read everything.''' Gamma is full of quest text, in-game hints, and lore. Quest steps are gated on reading specific event text. Missing a Knight's name or city name means spending more KC hunting it down again.
+* '''BM is a liability.''' In Talsia, high BM meant more reward. In Gamma, high BM means more Wasps, harder squads, and an XP penalty above 30M. '''Target ~20–30M BM''' for optimal Gamma rewards.
+* '''Mercs are permanent (and precious).''' A Gamma merc you hire at the Epsilon FOB stays until it dies or you return to the workshop. Losing a full merc loadout to a bad fight is devastating. Don't over-commit valuable mercs to unnecessary fights.
+* '''Note-taking is mandatory.''' Quest keys (Knight names, city names, door codes) are randomly generated each set. There is no in-game journal. Write them down immediately.
+
+----
+
+== Prerequisites & Pre-Gamma Preparation ==
+[[File:Spider.png|right|80px|Reaper chassis]]
+
+Before entering Gamma, you should have completed the following in [[Talsian Warfront|Talsia]]:
+
+=== Hard Requirements ===
+* '''18,000 TRP''' (unlocks the [[Raven]] chassis — the defining bot of Gamma; can be slightly higher in some configurations)
+* '''[[Advanced Multi-Fire Director|AMFDs]]''' equipped on your squad — this is the Talsia Alpha-sector endgame configuration
+* Sufficient cash to purchase the 9th-bot Workshop upgrade (typically 25–100M credits) and at least one or two [[Raven]] chassis (25M each)
+* Some Accolades reserves for the Epsilon FOB — you will start spending Accolades almost immediately on mercs
+
+=== Strongly Recommended ===
+* At least 3–5 [[DAX Pod]] modules — these provide drain deflection that is disproportionately valuable in early Gamma when enemy drain is your biggest threat
+* Familiarity with managing [[KCharge]] efficiently — Gamma fights can cost significantly more KC than late-Talsia fights if you're unprepared
+
+{{MessageBox
+| header = On Entering Gamma Without Ravens
+| text   = It is technically possible to enter Gamma with a Talsia squad (Crusaders, Seers, Reaper, CySentinel). However, Gamma enemies are tuned for late-game squads. Doing so will result in very high KC costs, significant bot attrition, and slow progress. The [[Raven]] is the practical minimum for comfortable Gamma play.
+}}
+
+----
+
+== Vulcore Cash Run ==
+[[File:Varena.jpg|thumb|right|220px|Vulcore's Lava Fields — revisited for the cash you need.]]
+
+Before or during your transition into Gamma, you will need a large amount of credits (typically '''100–200M''') to fund:
+* The 9th-bot Workshop upgrade
+* One or two [[Raven]] chassis (25M each)
+* Initial equipment purchases
+
+The most reliable way to obtain this is a '''Vulcore cash farming patrol''' with your late-game Talsia squad:
+
+=== Vulcore Cash Run Strategy ===
+
+# Take your standard AMFD squad into [[Vulcore Plain|Vulcore]]
+# '''Inflate your BM as much as possible''' before entering — more BM means more credits from Azras
+# '''Do not forget the [[Storm Shield]]''' — toss it on your [[Reaper]] or [[Leviathan|Levi]] to avoid being completely drained mid-patrol
+# At the start of patrol: hire an [[Orbie]] merc; locate [[Azra's Arena]] as quickly as possible
+# EX-series enemy squads give large experience and cash bonuses — pursue these
+# More [[DAX Pod]] modules on your squad helps survive early encounters in Gamma later, so if you still need to purchase them, do so
+# Farm [[Magma Lord]] encounters for additional [[Mercred|Mercreds]] — you can also ask Azra for coordinates to new Lava Fields if it's available again
+# When you reach 50M credits: exit patrol, buy the Workshop upgrade, add a Seer for more BM, then '''re-enter for the next 50M'''
+
+{{MessageBox
+| header = Note on Vulcore Cash Nerfing
+| text   = Vulcore cash rewards are reduced by ~25% for squads above a certain BM threshold (has changed over sets). The return trip is still worth it — just be aware that diminishing returns kick in as BM climbs very high.
+}}
+
+----
+
+== Patrol 1 ==
+[[File:Epsilonbase.jpg|thumb|right|240px|The Epsilon FOB — your first stop in Gamma.]]
+
+{{MessageBox
+| header = ⚠ Work in Progress
+| text   = Patrol 1 details are based on community testing from early Gamma access. Some details may differ in current sets. Please update if you have more current experience.
+}}
+
+=== Goals ===
+
+{| class="wikitable"
+|-
+! Priority !! Goal
+|-
+| Core || Buy [[Terminus Prototype|Termi]] Chassis (NE), [[Hornet]] + [[Recon Warthog]] Chassis (SE), [[Enhanced Reaper]] (NE quest)
+|-
+| Core || Finish PMC Quest chain (gather all 4 quest keys across all four quadrants)
+|-
+| Core (NE) || Buy: 3× [[Plutonium Core]] from NE Trader
+|-
+| Core (SW) || Buy: 2× [[Hyper Drive]] from SW Trader; farm 500+ [[Lava Diamond|Lava Diamonds]] for Hyper Drive purchases
+|-
+| Core (SE) || Buy: 7× [[Pneumatron|Pneu Reactor]] from SE Trader
+|-
+| Core (NW) || Buy: 2× [[Rayden Device]] from NW Trader (you already have 1 from Talsia)
+|-
+| Core (Base) || Buy: 3× [[FS14]] module from Epsilon FOB (cost: [[Miron|Mirons]])
+|}
+
+=== Squad Setup ===
+
+{{MessageBox
+| header = Note on Squad Setups
+| text   = Squad setups in Gamma are '''highly personal''' and shift rapidly as you acquire new chassis and equipment. The setups below represent one reasonable starting configuration — not a prescription. Adapt to what you have.
+}}
+
+==== Raven Loadouts ====
+
+{| class="wikitable"
+|-
+! Slot !! Raven 1 !! Raven 2
+|-
+| Weapon 1 || [[Ravager]] || [[Obliterator]]
+|-
+| Weapon 2 || [[Obliterator]] || [[Storm Bringer]]
+|-
+| Weapon 3 || [[Storm Bringer]] || [[Storm Bringer]]
+|-
+| Weapon 4 || [[Rail-Gun]] || [[Rail-Gun]]
+|-
+| Weapon 5 || [[Storm Bringer]] || [[Storm Bringer]]
+|-
+| Weapon 6 || [[Rail-Gun]] || — [[Rail-Gun]]
+|-
+| Module (×3) || [[Advanced Multi-Fire Director|AMFD]] (×3) || [[Advanced Multi-Fire Director|AMFD]] (×3)
+|}
+
+==== Reaper / Enhanced Reaper ====
+
+{| class="wikitable"
+|-
+! Slot !! Item !! Notes
+|-
+| Weapon 1 || [[Rayden Device]] || Primary drain weapon
+|-
+| Weapon 2 || [[Syphon Immobiliser]] || Immobilises high-speed targets; essential for Wasp control
+|-
+| Module 1 || [[Advanced Multi-Fire Director|AMFD]] || Fire rate support
+|}
+
+==== CySentinel ====
+
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Reactor || [[Pneumatron]] (or best available — Magmatic Pyro)
+|-
+| Shield (×4) || [[Plasma Anamorph]]
+|-
+| Module || [[Motion Tracker]]
+|}
+
+==== Seers (1–5) ====
+
+{| class="wikitable"
+|-
+! Seer !! Loadout
+|-
+| Seer 1 || [[Advanced Multi-Fire Director|AMFD]], [[DAX Pod]], [[D-Sub]]
+|-
+| Seer 2 || [[Advanced Multi-Fire Director|AMFD]], [[DAX Pod]], [[D-Sub]]
+|-
+| Seer 3 || [[Advanced Multi-Fire Director|AMFD]], [[DAX Pod]], [[D-Sub]]
+|-
+| Seer 4 || [[Advanced Multi-Fire Director|AMFD]], [[DAX Pod]], [[D-Sub]]
+|-
+| Seer 5 (if applicable) || [[Advanced Multi-Fire Director|AMFD]], [[DAX Pod]], [[D-Sub]]
+|}
+''Target: 100% Uplink, 110 Module Tech.''
+
+=== Patrol 1 Walkthrough ===
+[[File:Forcereconscreen2.jpg|thumb|right|220px|Praetorian Recon — fast, aggressive, and dangerous. Withdraw early if your squad isn't ready.]]
+
+'''At the Epsilon FOB (start of patrol):'''
+# Hire: 1× [[Custodian]] → 3× [[Nightowl]] → 1× [[Custodian]] (adjust Custodian count based on your projected shield needs — fewer if you are confident your CySentinel is sufficient; add [[Vamper]] mercs if you need more drain)
+# Note your current Accolade balance — spend wisely. Merc costs add up fast.
+
+'''NE Quadrant:'''
+# On your way NE: '''pick up the free Drainer merc''' if found (it will appear as a special event; do not miss it)
+# Head SE first to get the Enhanced Reaper city name from an SE Outpost (Step 1 of Enhanced Reaper quest — ~10% chance per outpost)
+# While in SE: also look for the '''Brotherhood Knight's name''' (PMC Quest Step 1 — same ~10% chance per SE Outpost — this is a different piece of info from the Enhanced Reaper city name)
+# Record: '''Brotherhood Outpost PIN, Brotherhood Knight name, PMC City name, Enhanced Reaper city name''' — write these down, they are one-time events
+# Return to NE; head to the '''Horus Temple'''
+# At the temple: find inscriptions → record the '''Brotherhood door code''' (PMC Quest Step 3)
+# Look for the '''portal''' inside the temple (only appears if you already found the Enhanced Reaper city name from SE — if not, the portal won't show)
+# If portal is available: enter, select the correct city, win 3 battles → receive the [[Enhanced Reaper]]
+# Find the '''Matriarch''' in NE → she will give you the '''PMC city name''' (Quest Step 2 — only works after you have the Knight name from SE)
+# Farm NE for '''3× Plutonium Core''' from the NE Trader (costs Mirons)
+# If a '''Prius''' merc appears during NE patrol: hire it — Prius is required to unlock the [[Terminus Prototype]] chassis trader
+
+'''SW Quadrant:'''
+# Head to SW; find a '''Lava Fort''' — defeat it to earn the '''Coin of Destiny''' (PMC Quest Step 4; only the FIRST Lava Fort victory gives the Coin)
+# Farm SW Caves and Lava Forts for '''Lava Diamonds''' — target 500 diamonds minimum (~39 diamonds per 1,800 KC in SW Caves; Forts give variable amounts)
+# At the SW Trader: buy '''2× Hyper Drive''' (costs Lava Diamonds)
+# If time and Diamonds allow: farm an additional 400+ Diamonds for later
+# Note: Lava Fort fights include Lava Reapers — bring drain weapons; these fights cost 3–4 KC each if you're not prepared
+
+'''NW Quadrant:'''
+# With the Coin of Destiny in hand: locate the '''Brotherhood Outpost''' in NW (appears only if you have the Coin)
+# Enter the Outpost; use the correct door code; select the '''correct Knight''' (the one whose name matches the SE intel)
+# The Knight joins the squad for free — this triggers access to the Airfield
+# Find the '''Airfield / Space Port''' in NW; have the Knight pilot the ship to the Horus Planet (PMC Quest Step 6)
+# On the Horus Planet: find the city matching the NE Matriarch's info; learn the PMC was stolen; raze the Pirate Outpost → receive [[Peace Maker Cannon]] (Quest Step 9)
+# Optional: buy 1× [[Rayden Device]] from the NW Trader (costs Accolades — 10,000) if available
+# Farm Destroyers and Battle Cruisers in NW for TRP and Accolades if you need them
+
+'''At 750 Lava Diamonds (milestone):'''
+# Return to NE; trigger the '''Voice Calling for Help''' event (appears around 750 Diamonds threshold)
+# Release the trapped unit → recruit the [[Prius]] merc (if not already hired)
+# With Prius in squad: locate the '''Termi Chassis Trader''' in NE and purchase the [[Terminus Prototype]] chassis
+# While searching for the trader: continue purchasing Plutonium Cores
+
+'''Return to Base:'''
+# Exchange collected Lava Diamonds → [[Miron|Mirons]] (via the Base currency exchanger)
+# Buy '''3× [[FS14]]''' modules (costs Mirons)
+# Exchange remaining Mirons → Accolades as needed for future merc costs
+# In SE: buy '''7× [[Pneumatron|Pneu Reactors]]''' from the SE Trader
+# In NW: buy [[Rayden Device|Raydens]] from the NW Trader until you have 3 total (1 from Talsia, 2 from Gamma's NW Market)
+
+=== Optional: SW Arena ===
+The '''Carnutum Ignus Arena''' Masters fight in SW is available at any point. Defeating the Arena Masters earns the '''[[Hydroplasmonic Reactor]]'''. This fight is '''[[#SW Arena Masters|detailed further below]]''' — completing it in Patrol 1 is viable if you're confident in your squad, but you're most likely going to get wiped
+
+----
+
+== Patrol 2 ==
+[[File:Hornet.jpg|thumb|right|220px|The [[Hornet]] — acquired in Patrol 1, levelled in Patrol 2.]]
+
+{{MessageBox
+| header = ⚠ Work in Progress
+| text   = Patrol 2 information is particularly sparse — Gamma is new enough that community-documented strategies beyond Patrol 1 are limited. Consider the following as a rough guide. Contributions welcome.
+}}
+
+=== Goals ===
+
+{| class="wikitable"
+|-
+! Goal
+|-
+| Level [[Terminus Prototype|Termi]], [[Hornet]], [[Recon Warthog]], [[Enhanced Reaper]] to viable combat levels
+|-
+| Complete Space Pirate Quest (if not done in Patrol 1)
+|-
+| Defeat SW Arena Masters (if not completed in Patrol 1)
+|-
+| Obtain [[Flaming Hornet]] chassis schematics from Lava Forts (SW)
+|-
+| Continue accumulating [[Pneumatron|Pneu Reactors]], [[Plutonium Core|Plut Cores]], [[Hyper Drive|Hyper Drives]]
+|}
+
+=== Squad ===
+
+By Patrol 2, the core squad evolves to include the new Gamma chassis alongside the existing Raven squad:
+
+* [[Terminus Prototype]] (Termi)
+* [[Hornet]]
+* [[Recon Warthog]]
+* [[Enhanced Reaper]]
+* 4× [[Seer]]
+
+=== Loadouts ===
+
+{{MessageBox
+| header = ⚠ Work in Progress
+| text   = These loadouts are based on community recommendations from early testing and may not reflect the current optimal meta. Adjust based on your available equipment.
+}}
+
+==== Terminus Prototype ====
+
+{| class="wikitable"
+|-
+! Slot !! Item !! Notes
+|-
+| Reactor || Best available ([[Pneumatron]] or [[Pneumatron|Pneu]]) || High energy consumption weapons require Pneu
+|-
+| Weapon 1 || [[Rayden Device]] || —
+|-
+| Weapon 2 || [[PMC]] ([[Peace Maker Cannon]], if obtained) || If not yet obtained: [[Obliterator]] or [[Ravager]]
+|-
+| Weapon 3 || [[Ravager]] || —
+|-
+| Weapon 4 || [[Storm Bringer]] || —
+|-
+| Weapon 5 || [[Rail-Gun]] || —
+|-
+| Weapon 6 || [[Storm Bringer]] || —
+|-
+| Weapon 7 || [[Rail-Gun]] || —
+|-
+| Weapon 8 || [[Storm Bringer]] || —
+|-
+| Module (×3) || [[Advanced Multi-Fire Director|AMFD]] (×3) || —
+|}
+
+==== Enhanced Reaper ====
+
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Weapon 1 || [[Rayden Device]]
+|-
+| Weapon 2 || [[Rayden Device]]
+|-
+| Module 1 || [[Advanced Multi-Fire Director|AMFD]]
+|-
+| Module 2 || [[Advanced Multi-Fire Director|AMFD]] (extra module slot from Enhanced Reaper upgrade)
+|}
+
+==== Recon Warthog ====
+
+{| class="wikitable"
+|-
+! Slot !! Item !! Notes
+|-
+| Shield (×5) || [[Plasma Anamorph]] (×5) || Recon Warthog has 5 shield slots vs. 4 on standard Warthog — key advantage
+|-
+| Module (×all) || All utility mods || Fill remaining module slots with DAX Pods, Flux Channels, etc.
+|}
+
+==== Hornet ====
+
+{| class="wikitable"
+|-
+! Slot !! Item
+|-
+| Module 1 || [[Hyper Drive]]
+|-
+| Module 2 || [[DAX Pod]]
+|-
+| Module 3 || [[DAX Pod]]
+|-
+| Module 4 || [[Flux Channel]]
+|}
+
+==== Seers ====
+
+{| class="wikitable"
+|-
+! Seer !! Loadout
+|-
+| Seer 1 || [[Plutonium Core]], [[Hyper Drive]], [[DAX Pod]]
+|-
+| Seer 2 || [[Plutonium Core]], [[FS14]], [[DAX Pod]]
+|-
+| Seer 3 || [[Plutonium Core]], [[FS14]], [[DAX Pod]]
+|-
+| Seer 4 || [[FS14]], [[DAX Pod]], [[EM Wave]]
+|-
+| Seer 5 (if present) || [[EM Wave]], [[EM Wave]], [[EM Wave]]
+|}
+
+=== Patrol 2 Flow ===
+
+# Enter patrol
+# At Epsilon FOB: hire mercs — '''Custodian → 3× Nightowl → Custodian''' (standard setup; adjust as needed)
+# Pick up available quest mercs and free events first
+# Prioritise levelling Termi, Hornet, Recon Warthog, and Enhanced Reaper in active combat
+# Complete Patrol 2 objectives in parallel across the four quadrants — Gamma does not gate you; run them concurrently
+
+=== Target End-Game Squad (Patrol 2 Completion) ===
+
+{{MessageBox
+| header = ⚠ Work in Progress
+| text   = Reaching the full endgame squad requires a '''ridiculous''' amount of currencies, time, and multiple patrols. Do not expect to reach this in a single patrol. This is presented as the target, not the expectation.
+}}
+
+{| class="wikitable"
+|-
+! Bot !! Key Equipment
+|-
+| [[Terminus Prototype]] || [[Rayden Device]], [[Peace Maker Cannon]], [[Ravager]], [[Storm Bringer]] ×3, [[Rail-Gun]] ×2, 3× [[Advanced Multi-Fire Director|AMFD]]
+|-
+| [[Enhanced Reaper]] || 2× [[Rayden Device]], 2× [[Advanced Multi-Fire Director|AMFD]]
+|-
+| [[Recon Warthog]] || 5× [[Plasma Anamorph]], all utility mods
+|-
+| [[Hornet]] || [[Hyper Drive]], 2× [[DAX Pod]], [[Flux Channel]]
+|-
+| [[Flaming Hornet]] || [[Plutonium Core]], [[Hyper Drive]], [[DAX Pod]], [[EM Wave]]
+|-
+| Seer 1 || [[Plutonium Core]], [[FS14]], [[DAX Pod]]
+|-
+| Seer 2 || [[Plutonium Core]], [[FS14]], [[DAX Pod]]
+|-
+| Seer 3 || [[FS14]], [[DAX Pod]], [[EM Wave]]
+|-
+| Seer 4 || [[FS14]], [[EM Wave]], [[EM Wave]]
+|}
+
+----
+
+== Dangerous Enemies & Things to Watch Out For ==
+[[File:Piratescorpions.jpg|thumb|right|240px|[[Pirate Scorpions]] — four of them will ruin your day.]]
+
+Gamma is full of enemies that can and will destroy your squad without warning. Unlike Talsia where high deflection made most encounters manageable, Gamma has enemies specifically designed to punish the standard tank-everything build.
+
+=== The Wasp ===
+[[File:Dead_wasp.png|right|60px]]
+
+The [[Wasp]] is the defining combat threat of Gamma's SE and NE quadrants. Every new Controller learns to respect them very quickly.
+
+* '''Base speed: 225''' — faster than a standard Raven (base 150 speed). If you don't have Immobilisers on your Reaper or Enhanced Reaper, Wasps will drain you before you fire.
+* '''Drain weapons''' — Wasps are equipped with powerful drain weapons that can strip reactor energy from your bots before they take a turn, effectively disabling them.
+* '''DAX Pod deflection''' — Wasps in high-BM squads (37M+) are sometimes equipped with [[DAX Pod]] modules, which deflect drain back at the drainer. This can make your Reaper's drain less effective.
+* '''Up to 6 Wasps per encounter''' — at very high BM, you can face a squad of 6 Wasps simultaneously. This is almost always unwinnable unless you have extreme drain coverage or multiple [[Pneumatron|Pneu Reactors]] to absorb the drain.
+
+'''Counters:'''
+# '''Immobiliser on every drain bot''' — equip at least 1 [[Syphon Immobiliser]] on each Raven/Reaper. At base 150 speed with Immobiliser, you can target and drain 2+ Wasps before they act.
+# '''Vamper mercs''' — [[Vamper]] mercs are Reaper-type units that add drain coverage against multiple Wasps simultaneously. Essential for SE patrols.
+# '''Lower your BM''' — keeping BM around 20–30M significantly reduces the number of Wasps per encounter.
+# '''Kill or drain Wasps first''' — set targeting priority to the fastest/most dangerous units; kill Wasps with weapons if drain isn't fast enough.
+
+{{MessageBox
+| header = BM and Wasps
+| text   = Keeping your squad BM close to 20–30M is the single most effective way to control Wasp encounters. At 37M+ BM you will regularly face 4–6 Wasps. At 20–25M BM, encounters typically include 2–3 Wasps, which is manageable with standard drain coverage.
+}}
+
+=== Pirate Scorpions ===
+[[File:Piratescorpions.jpg|right|80px]]
+
+[[Pirate Scorpion|Pirate Scorpions]] are elite Pirate units found primarily in the NW and outer space regions. A squad of '''4 Pirate Scorpions''' is one of the most dangerous encounters in Gamma.
+
+* Their combined drain deflection was originally so high (29,400 deflection vs. ~29,250 Rayden crit drain) that they were literally unbeatable in a reasonable KC budget.
+* Their loadout has since been adjusted (DAX Pods replaced with [[Gravity Hydro Booster]] modules) to bring drain deflection to a manageable level — but they remain very dangerous.
+* '''Withdraw if your drain cannot break their shields in 1–2 turns.'''
+
+=== Ex-Feds Special Operations ===
+[[File:Gammapatrolsquad2.jpg|thumb|right|200px|Ex-Feds patrol the NW — their Special Ops squads have extreme drain deflection.]]
+
+Ex-Feds Special Operations squads in the NW are walker-type units with very high deflection from Uplink Trucks. A well-equipped Ex-Feds Special Ops squad can '''instantly destroy Ravens''' if it outpaces your squad and fires first.
+
+* Treat these like Talsia's True Guard — check the squad composition before committing.
+* If there are multiple Uplink Trucks: withdraw unless you're confident your drain can break the shields fast.
+
+=== Praetorian Recon ===
+[[File:Forcereconscreen2.jpg|right|80px]]
+
+[[Praetorian]] Recon units are elite Praetorian squads with extremely high fire rates — recorded instances of '''2,275+ fire rate'''. They deal enormous damage per turn.
+
+* Always check the squad composition when entering SE or NE patrols.
+* Against standard Praetorian patrols: fine.
+* Against a Praetorian Recon squad: '''be very sure your deflection and shields can handle it, or withdraw immediately.'''
+
+=== YF-95 Interceptors ===
+
+The YF-95 Interceptors are described in-game as "the elite of the elite among Praetorian squads." Encountering them unexpectedly is a death sentence for an underprepared squad.
+* '''Withdraw on sight unless you are confident.'''
+
+=== Lava Reapers (SW) ===
+
+[[Lava Reaper|Lava Reapers]] in the SW are fire-variant Reapers with high drain output. In cave fights, they appear alongside [[Sentinel|Sentinels]] and [[Bulwark|Bulwarks]].
+* These fights take 3–4 KC each with standard drain. Additional [[Rayden Device|Raydens]] can reduce this to 2 KC.
+* Max 2 Lava Reapers in a single encounter (post-patch limit).
+
+=== The Space Monster ===
+
+A unique, very dangerous enemy encountered in outer space in the NW. It has been described as the game's version of a "jumpscare" — an unexpected encounter with a single powerful entity. '''Withdraw immediately if encountered unprepared.'''
+
+----
+
+== Key Mechanics to Understand ==
+
+=== BM Management ===
+
+Unlike Talsia, Gamma actively penalises high BM:
+
+{| class="wikitable"
+|-
+! Total BM !! XP Multiplier
+|-
+| ≤ 30,000,000 || 100% (no penalty)
+|-
+| 30–35M || 90%
+|-
+| 35–40M || 80%
+|-
+| 40–45M || 70%
+|-
+| 45–50M || 60%
+|-
+| > 50M || 50%
+|}
+
+Target '''20–30M BM''' for the best experience-per-KC ratio. This also keeps enemy squad sizes manageable (fewer Wasps per encounter).
+
+=== Merc Persistence ===
+
+Gamma mercs are '''persistent''' — unlike Talsia where mercs are hired per mission and released afterwards, a Gamma merc stays with your squad until:
+* It dies in combat (and is lost permanently for the patrol)
+* You return to the Workshop
+
+This means:
+* '''Merc deaths are expensive''' — losing a full Custodian + Nightowl stack to a bad fight means losing thousands of Accolades.
+* '''Choose fights carefully.''' There is no shame in withdrawing when your mercs are at risk.
+* '''Mercs being alive at the end of patrol is a good sign''' you managed the patrol well.
+
+=== Reinforcement Call Risk (SE) ===
+
+When patrolling the SE, a '''Call for Reinforcements''' option appears. The outcome is:
+* '''5% chance''' — receive free reinforcement mercs
+* '''35% chance''' — the call is intercepted; enemy ambush incoming ('''use this option very cautiously''')
+* ~60% — no response
+
+=== 100-Ton Pirate Aggression Threshold ===
+
+After stealing '''100+ tons of Meteorite Iron''' from SE Praetorian Mining Facilities cumulatively across all patrols, the Space Pirates start '''pre-draining and pre-damaging''' your squad at the start of every encounter. This "head start" penalty makes all subsequent Gamma patrols harder. [[DAX Pod]] modules help mitigate reactor pre-drain.
+
+=== Quest Information Is Set-Specific and Randomised ===
+
+Every set, quest keys are regenerated:
+* Knight names (for PMC quest)
+* City names (for PMC and Enhanced Reaper quests)
+* Brotherhood door codes
+
+These are different between accounts and between sets. '''Never assume last set's info applies.'''
+
+----
+
+== Quest Cheat Sheet ==
+[[File:Peacemakercannon.jpg|thumb|right|200px|[[Peace Maker Cannon]] — the ultimate Gamma prize.]]
+
+=== Brotherhood of the Chosen — Peace Maker Cannon ===
+
+{| class="wikitable"
+|-
+! Step !! Location !! Action !! Notes
+|-
+| 1 || SE Outpost || Get '''Knight's name''' || ~10% chance per outpost; write it down immediately
+|-
+| 2 || NE Matriarch || Get '''city name''' || Only available after Step 1; ~5% chance per Matriarch
+|-
+| 3 || NE Temple || Get '''door code''' from inscriptions || One-time event; read every inscription
+|-
+| 4 || SW Lava Fort || Defeat fort → get '''Coin of Destiny''' || First fort only; subsequent forts give Lava Diamonds
+|-
+| 5 || NW Brotherhood Outpost || With Coin: enter, use code, select correct Knight || Knight joins squad for free
+|-
+| 6 || NW Airfield || Knight pilots spaceship to Horus Planet || Airfield appears once Knight is in squad
+|-
+| 7–9 || Horus Planet || Find city (Step 2 name), learn PMC stolen, raze Pirate Outpost || Three sequential steps on the Horus Planet
+|}
+
+'''Reward:''' [[Peace Maker Cannon]] (first completion per set: Special Edition with slightly superior stats)
+
+=== Enhanced Reaper Quest ===
+[[File:Enhancedreaper.jpg|thumb|right|200px|[[Enhanced Reaper]] — obtained via the NE quest chain.]]
+
+{| class="wikitable"
+|-
+! Step !! Location !! Action !! Notes
+|-
+| 1 || SE Outpost || Get '''city name''' (different from PMC city name) || ~10% chance per outpost
+|-
+| 2 || NE Temple || Find '''portal''' (only appears after Step 1) || Portal is invisible if Step 1 not completed
+|-
+| 3 || Horus Planet (via portal) || Win '''3 battles''' in the designated city || Challenging fights; requires strong squad
+|}
+
+'''Reward:''' [[Enhanced Reaper]] chassis with 200% drain bonus + extra module slot.
+
+=== Space Cruiser Quest ===
+{{MessageBox
+| header = ⚠ Work in Progress
+| text   = The Space Cruiser Quest is incompletely documented. It involves locating and defeating Space Cruisers in the NW/outer space, and rewards a significant one-time cash bonus (~20M credits) upon completion. Details subject to change.
+}}
+
+----
+
+== SW Arena Masters ==
+[[File:Cybulwark.jpg|thumb|right|200px|[[CyBulwark]] — Arena Champion and centrepiece of the Carnutum Ignus Arena fights.]]
+
+The '''Carnutum Ignus Arena''' (also called the Lava Arena) in the SW quadrant is Gamma's equivalent of Talsia's [[Master Controllers]]. Defeating the Arena Masters awards the '''[[Hydroplasmonic Reactor]]''' — one of the best reactors in the game.
+
+{{MessageBox
+| header = ⚠ Work in Progress
+| text   = Detailed Arena fight strategies, exact round composition, and reliable counter-strategies are not yet well-documented. The following is high-level guidance only.
+}}
+
+* The Arena features escalating fights against [[CyBulwark]] and other champion bots
+* [[Lava Diamond|Lava Diamonds]] can be wagered in Arena bets to multiply your Diamond reserves (high risk, high reward)
+* Complete this when your squad is well-established — ideally with multiple [[Rayden Device|Raydens]] and [[Pneumatron|Pneu Reactors]] equipped
+* Target Patrol 2 or later for a reliable Arena attempt, though a strong Patrol 1 squad can attempt it
+
+'''Reward:''' [[Hydroplasmonic Reactor]]
+
+----
+
+== General Tips ==
+
+=== Going First is Everything ===
+Gamma combat is decided by initiative. If the enemy goes first and you're facing Wasps or a high-fire-rate Praetorian squad, your bots will be drained/destroyed before they act. Prioritise:
+* Speed upgrades on Ravens
+* [[Hyper Drive]] on Hornets
+* [[Nightowl]] mercs for squad speed bonus
+* [[Syphon Immobiliser|Immobilisers]] on drain bots — they neutralise fast enemies before they act
+
+=== Accolade Starvation ===
+New Gamma players are almost always Accolade-starved in the early patrols. Mercs are expensive; the NW is your best source of Accolades (Ex-Feds Outposts: 100–200 each; Destroyers: +25 TRP, +15 Accolades; True Guard: Accolades in Gamma). '''Farm the NW before committing to heavy merc-loadout patrols.'''
+
+=== Don't Fast-Click ===
+Gamma events contain quest information, hints, and lore that are '''permanently lost''' if skipped. Missing the Knight's name from an SE Outpost means spending KC finding another one (10% chance per outpost). Missing the door code from the NE Temple can block the entire PMC quest. '''Read every event. Take notes.'''
+
+=== Meteorite Mining — Know the Threshold ===
+Stealing Meteorite Iron from SE Praetorian Mining Facilities gives enormous experience and Mirons — but after '''100+ cumulative tons stolen''', Pirates begin pre-draining and pre-damaging your squad before every encounter. Plan your mining around this threshold; equip [[DAX Pod|DAX Pods]] accordingly once you cross it.
+
+=== The Casino and Market — Skip Them ===
+The SE Casino and Market are event encounters. The Casino is ''not'' favourable on average (it's designed to eat your resources). The Market can sell [[Pneumatron|Pneu Reactors]] for '''10,000 Accolades''' — an extremely high price that is rarely worth it early on. Avoid these events unless you have surplus Accolades to spare. (Going to the Casino is an adventure, but you've been warned. 😛)
+
+=== Follow the Quest Breadcrumbs ===
+Many Gamma encounters are connected to quest chains in non-obvious ways. The [[Brotherhood of the Chosen]] quest spans all four quadrants and requires encountering specific events in a specific order. If something seems like it might be a quest trigger — it probably is. '''Don't skip it.'''
+
+=== You Will Die ===
+Unlike Talsia's late-game endgame, where a good squad can run almost indefinitely, Gamma is designed to punish overconfidence. Losing bots to a bad fight, or losing an expensive merc to a misclick, is part of the experience. The zone is balanced around Controllers who are cautious, strategic, and willing to withdraw when a fight isn't going well.
+
+'''Withdraw early and often when in doubt.''' The KC cost of withdrawing is always less than the KC cost of losing a bot.
+
+----
+
+== Progression Checklist ==
+
+Use this as a rough tracker across your first few Gamma patrols:
+
+'''Phase 0 — Pre-Gamma (Talsia)'''
+* {{box|checked}} 18,000+ TRP → [[Raven]] unlocked
+* {{box|checked}} [[Advanced Multi-Fire Director|AMFDs]] on all squad bots
+* {{box|checked}} [[Storm Shield]] equipped (on Reaper / Levi)
+* {{box|checked}} 100–200M credits from Vulcore cash run
+* {{box|checked}} 9th-bot Workshop upgrade purchased
+
+'''Phase 1 — Early Gamma (Patrol 1)'''
+* {{box|unchecked}} 2× [[Raven]] chassis purchased and levelling
+* {{box|unchecked}} Brotherhood Knight name (SE Outpost)
+* {{box|unchecked}} PMC City name (NE Matriarch)
+* {{box|unchecked}} Brotherhood door code (NE Temple)
+* {{box|unchecked}} Enhanced Reaper city name (SE Outpost)
+* {{box|unchecked}} Enhanced Reaper obtained (NE quest)
+* {{box|unchecked}} Coin of Destiny (SW Lava Fort)
+* {{box|unchecked}} PMC Quest completed → [[Peace Maker Cannon]] obtained
+* {{box|unchecked}} [[Terminus Prototype]] purchased (NE trader, requires Prius)
+* {{box|unchecked}} [[Hornet]] + [[Recon Warthog]] schematics (SE Research Labs)
+* {{box|unchecked}} 3× [[Plutonium Core]] (NE Trader)
+* {{box|unchecked}} 2× [[Hyper Drive]] (SW Trader)
+* {{box|unchecked}} 7× [[Pneumatron|Pneu Reactor]] (SE Trader)
+* {{box|unchecked}} 3× [[Rayden Device]] total (1 from Talsia + 2 from NW Trader)
+* {{box|unchecked}} 3× [[FS14]] (Base, costs Mirons)
+
+'''Phase 2 — Mid Gamma (Patrol 2+)'''
+* {{box|unchecked}} Termi, Hornet, Recon Warthog, Enhanced Reaper all levelled
+* {{box|unchecked}} [[Flaming Hornet]] obtained (SW Lava Forts)
+* {{box|unchecked}} SW Arena Masters defeated → [[Hydroplasmonic Reactor]] obtained
+* {{box|unchecked}} Space Pirate Quest completed
+* {{box|unchecked}} Full [[Pneumatron|Pneu Reactor]] loadout across squad
+* {{box|unchecked}} [[Plutonium Core|Plut Cores]] and [[FS14]] distributed across Seers
+* {{box|unchecked}} 50 Pirate Corvette kills (Pirate Hunter milestone)
+* {{box|unchecked}} 100 Pirate Corvette kills (Pirate Exterminator milestone)
+
+----
+
+== See Also ==
+
+* [[Gamma Sector]] — general information, factions, quadrant overviews, and reward mechanics
+* [[Talsian Warfront Guide]] — the guide for the zone preceding Gamma
+* [[Vulcore Guide]] — the complete guide for Vulcore Plain
+
+[[Category:Outlands]]
+[[Category:Gamma Sector]]
+[[Category:Guides]]
