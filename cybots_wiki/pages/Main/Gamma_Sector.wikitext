@@ -1,0 +1,591 @@
+{{MessageBox
+| header = ⚠ Work in Progress — Community Help Needed
+| text   = '''This page is highly work in progress.''' The Gamma Sector is a relatively new and rapidly evolving area in Cybots. Its content changes significantly between sets, and much of the information here may be '''incomplete, missing, or out of date'''. If you have first-hand knowledge of Gamma Sector mechanics, quests, enemies, rewards, or equipment — '''please help improve this page''' by editing it.
+| image  = Fedbasedead1.jpg
+}}
+
+[[File:Gammasector.jpg|thumb|right|320px|The Gamma Sector — a vast, hostile frontier beyond the Talsian Warfront.]]
+
+== Overview ==
+The '''Gamma Sector''' (commonly referred to simply as '''Gamma''') is the third and most advanced outland zone available to [[Controller|Controllers]], and serves as the primary late-game destination. It is a sprawling, dangerous frontier beyond the [[Talsian Warfront]] — designed explicitly for Controllers who have already established themselves in [[Talsia]] and are pushing for end-game progression. Unlike Vulcore or Talsia, Gamma is deliberately non-linear: the four quadrants each have their own themes, rewards, and hazards, and Controllers are free to choose where to spend their [[KCharge]] based on their goals.
+
+Gamma was designed to be a '''high-risk, high-reward''' environment. Whereas Talsia rewarded building a "tank everything" squad, Gamma punishes it. Controllers who rely on deflection-heavy, slow squads will find themselves penalised both in combat effectiveness and in experience rewards. Instead, Gamma favours '''speed, fire rate, and precise target prioritisation'''. The enemy will drain and destroy you before you can react if you're not fast enough.
+
+<gallery widths="160" heights="120">
+File:Gammaintro.jpg|Setting out into the Gamma Sector
+File:Gammapatrolsquad2.jpg|A patrol squad in Gamma
+File:Epsilonbase.jpg|[[Epsilon Forward Operating Base]] — the gateway to Gamma
+File:Hornet.jpg|[[Hornet]] chassis — unlocked via Praetorian Bases & Research Labs
+File:Warthog.jpg|[[Warthog]] chassis — unlocked via Praetorian Bases & Research Labs
+File:Flaminghornet.jpg|[[Flaming Hornet]] chassis — unlocked via Lava Forts in SW
+File:Enhancedreaper.jpg|[[Enhanced Reaper]] — obtainable via an NE quest
+File:Peacemakercannon.jpg|[[Peace Maker Cannon]] — the ultimate reward of the Brotherhood Quest
+File:Hydroplasmonic.jpg|[[Hydroplasmonic Reactor]] — awarded by the SW Arena Masters
+File:Piratescorpions.jpg|[[Pirate Scorpions]] — some of the most dangerous enemies in Gamma
+File:Cybulwark.jpg|[[CyBulwark]] — Gamma's Arena Champion chassis
+File:Meteoriteiron.jpg|Meteorite Iron — a fortune in experience and Mirons
+</gallery>
+
+Gamma is entered directly from the [[Workshop]] at no [[KCharge]] cost. Leaving and re-entering is free — this freedom to quickly refit and re-enter is an intentional design choice, enabling Controllers to adapt their loadout between patrol runs without a KC tax.
+
+== Prerequisites ==
+Gamma is an endgame zone. The intended progression before entering Gamma is:
+* '''[[Talsian Warfront|Talsia]] Alpha Sector''' firmly established
+* '''[[Advanced Multi-Fire Director|AMFDs]]''' equipped on squad bots
+* '''[[Raven]]''' chassis unlocked — the Raven is unlocked at '''18,000 TRP''' and is the primary chassis for Gamma
+* A solid supply of [[Accolade|Accolades]] to hire mercenaries at the Epsilon FOB
+* At least 100–200 million credits for a new [[Workshop]] upgrade (9th bot slot) and initial Raven chassis purchases
+
+The [[Raven]] is the defining chassis of Gamma. While it is possible to enter Gamma without Ravens, doing so is generally considered dangerous — the enemies are tuned around opponent squads of the late-game tier.
+
+== Theme ==
+The Gamma Sector is a multi-environment frontier region defined by:
+* '''Praetorian territory''' — a disciplined, advanced military faction guarding vast meteorite mining operations across the SE and NE quadrants
+* '''Ancient Horus civilization''' — ruins of a lost alien/ancient culture, including Temples, Ziggurats, and sacred city-planets accessible via portal and spaceship
+* '''Lava Fields and Volcanic Forts''' — a fire-themed SW quadrant dominated by the '''Lords of the Flame''', their Lava Reapers, Flaming Patrols, and the deadly Carnutum Ignus Arena
+* '''Outer Space and Pirates''' — the NW quadrant expands into actual space, where Pirate Corvettes, Pirate Scorpions, and wandering Space Pirates await
+* '''Ex-Federate remnants''' — former Federate military who have set up mining operations and special forces in the NW
+* A deliberate philosophy of '''exploration and discovery''' — Gamma rewards Controllers who read carefully, take notes, and follow quest breadcrumbs across all four quadrants
+
+== Progression Guide ==
+{{MessageBox
+| header = Progression Guide
+| text   = A dedicated step-by-step Gamma progression guide is yet to be written. The information below provides a condensed overview. See the individual quadrant sections for related context.
+}}
+
+A condensed progression path for transitioning into Gamma:
+# Reach 18,000 TRP in [[Talsia]] and unlock the [[Raven]] chassis
+# Run Vulcore cash farming patrol to accumulate 100–200M credits
+# Purchase the 9th bot [[Workshop]] upgrade and additional [[Raven]] chassis (up to 2 initially)
+# Enter Gamma and head to the [[#Epsilon Forward Operating Base|Epsilon FOB]] — familiarise yourself with available mercs and items
+# Once confident, move to the '''SE quadrant''' for Praetorian Bases, Research Labs, and Hornet/Warthog chassis unlocks
+# Explore NE and SW quadrants for quests, unique chassis, and special rewards
+# Pursue the [[#The Brotherhood of the Chosen Quest|Brotherhood of the Chosen Quest]] across all four quadrants for the [[Peace Maker Cannon]]
+
+== Epsilon Forward Operating Base ==
+[[File:Epsilonbase.jpg|thumb|right|280px|The Epsilon Forward Operating Base — the Controller's hub in Gamma.]]
+The '''Epsilon Forward Operating Base''' (commonly called the '''Epsilon FOB''' or simply '''Gamma Base''') is the Controller's hub within Gamma Sector. It serves as the primary source of mercenaries, special equipment, and currency exchange services.
+
+The Epsilon FOB is accessed at the start of any Gamma patrol. Mercs hired at the Epsilon FOB persist with the squad for the entire patrol — unlike Talsia where mercs are hired before each mission and released afterwards, Gamma mercs stay with the squad until they are killed in combat or you return to the workshop. This makes each merc hire a significant investment: losing them in a bad fight means losing all the Accolades you spent.
+
+=== Mercenaries at the Epsilon FOB ===
+{{MessageBox|header=Work in Progress|text=Full merc stats, exact Accolade costs, and complete availability list are yet to be documented.}}
+
+The Epsilon FOB offers a range of mercenaries for hire, purchased with [[Accolade|Accolades]]. Mercenaries at Gamma are '''significantly more expensive''' than their Talsia counterparts — a full complement of hired mercs can easily cost thousands of Accolades per patrol.
+
+<gallery widths="160" heights="120">
+File:Cargotransport.jpg|Cargo Transport merc — essential for Meteorite Iron mining
+File:Cycorps_reaper.jpg|Vamper — Reaper-type merc, critical for draining Wasps
+</gallery>
+
+Key mercs available at the FOB:
+
+{| class="wikitable"
+|-
+! Merc !! Role !! Notes
+|-
+| '''Orbiter''' (various) || Scouting / Support || Basic support; cheap; good for reconnaissance and light utility
+|-
+| '''Vamper''' || Drain / Anti-Wasp || Reaper-type merc with drain weapons; essential for handling multiple [[Wasp]] draining enemies and dealing with enemy squads that have projected shields. '''Recommended''' for SE patrols.
+|-
+| '''Night Owl''' || Speed Boost || Provides speed bonus to the squad; valuable for keeping ahead of fast Praetorian and Wasp units
+|-
+| '''Custodian''' || Shield Defence || Sentinel-type merc providing significant projected shields
+|-
+| '''Cargo Transport''' || Meteorite Mining || '''Required''' for meteorite iron mining operations. Hired at the FOB and used to carry stolen meteorite from Praetorian Mining Facilities in the SE. Each Cargo Transport can carry '''5 tons''' per run and is consumed (lost) after delivering the cargo. Up to '''4 Cargo Transports''' can be hired at once, enabling up to 20 tons per run.
+|-
+| '''Prius''' || Quest/Special || Found via exploration in the NE. Not available at the FOB but is hired during the NE exploration. Hiring the '''Prius''' merc is required to access the [[#Terminus Prototype Chassis|Terminus Prototype]] chassis trader in the NE.
+|}
+
+'''Warning on Accolade costs:''' Hiring even a modest merc loadout in Gamma can cost 500–2,000 Accolades per patrol. Since the primary Accolade sources in Gamma are Ex-Feds outposts (100–200 each) and NW Battle Cruisers/Destroyers, new Gamma players will often find themselves Accolade-starved until they establish a farming rhythm. '''Farm Accolades in the NW before committing to expensive merc-heavy SE patrols.'''
+
+=== Items for Sale at the Epsilon FOB ===
+
+{{MessageBox|header=Work in Progress}}
+
+<gallery widths="160" heights="120">
+File:Fs14.jpg|[[FS14]] module — available for purchase at the Epsilon FOB
+</gallery>
+
+{| class="wikitable"
+|-
+! Item !! Currency !! Notes
+|-
+| '''[[FS14]]''' || Mirons || A powerful module with insane deflection stats available for purchase at the Epsilon FOB.
+|-
+|}
+
+== The Four Quadrants ==
+[[File:Quadrantmap.jpg|thumb|240px|Quadrant Map]]
+Gamma Sector is divided into four distinct operational quadrants. Each has its own enemy composition, reward profile, and strategic role.
+
+{| class="wikitable"
+|-
+! Quadrant !! Theme !! Primary Purpose !! Key Features
+|-
+| '''[[#North East Quadrant|North East (NE)]]''' || Ancient Praetorian Temples & Ruins || Quest hub; Chassis traders || Horus Temples, Enhanced Reaper quest portal, Terminus Prototype trader, Matriarch (PMC quest info), Antenna hacking
+|-
+| '''[[#South East Quadrant|South East (SE)]]''' || Praetorian Mining Territory || Primary XP grind; Meteorite mining; Chassis unlocks || Praetorian Mining Facilities, Meteorite Iron, Praetorian Bases & Research Labs (Hornet/Warthog), Reinforcement mercs, Casino/Market
+|-
+| '''[[#South West Quadrant|South West (SW)]]''' || Lava Fields & Fire Territory || Currency farming; Arena; Flaming Hornet || Lava Forts, Lava Temples, Carnutum Ignus Arena (Masters), Flaming Hornet chassis, SW Caves (Lava Diamonds), Coin of Destiny (PMC quest)
+|-
+| '''[[#North West Quadrant|North West (NW)]]''' || Outer Space & Ex-Feds || TRP; Accolades; Space content || Destroyers, Battle Cruisers, True Guard, Ex-Feds Mining Camp & Base, PMC quest (Brotherhood Outpost + Airfield), Pirate Corvettes, NW Caves (Mirons), Rayden trader
+|}
+
+=== North East Quadrant ===
+[[File:Ne_gen1.jpg|thumb|right|240px|The NE quadrant — Tons of sand. It’s coarse and rough and irritating... and it gets everywhere.]]
+
+The North East quadrant is the quest and exploration hub of Gamma Sector. It is home to ancient '''Horus Temples''' that contain vital quest information, secret chambers, and powerful rewards locked behind puzzles and rune knowledge. Praetorian forces defend both the open terrain and the temple grounds.
+
+'''Key features:'''
+* '''Horus Temple''' — the centrepiece of the NE. Contains books, inscriptions, a secret portal, and the Brotherhood door code needed for the [[#Peace Maker Cannon Quest|PMC quest]]. Also contains a '''4-digit dial''' that opens a '''Pharaoh's Tomb''' for rewards. Requires the four [[Runes]] to have been obtained to access the portal chamber (the Runes must be ''in the workshop'' — they do not need to be physically equipped unless the Ziggurat is the target).
+* '''Enhanced Reaper Quest Portal''' — inside the Horus Temple, a portal appears ''only'' if the Controller has already received the city name from a SE outpost. The portal leads to the correct city on the Horus Planet, where 3 battles must be won to obtain the [[Enhanced Reaper]].
+* '''Matriarch (PMC Quest)''' — an NE Matriarch who provides the city name needed for the PMC quest (requires already having the Knight's name from the SE outpost)
+* '''Terminus Prototype Chassis Trader''' — a special chassis trader in the NE who will sell the [[Terminus Prototype]] chassis, but '''only if the Prius merc is hired and present in the squad'''
+* '''Antenna Hacking events''' — hacking Praetorian communications antennas can yield Mirons, experience bonuses, or other random rewards
+* '''Brotherhood of the Chosen clues''' — quest information is distributed across the NE (temple inscriptions, Matriarch dialogue); reading and recording this information carefully is essential
+
+'''Enemies encountered:'''
+* Horus enemy units
+
+'''Rewards:'''
+* [[Enhanced Reaper]] chassis (quest reward)
+* [[Terminus Prototype]] chassis (via trader + Prius merc)
+* Mirons (via Antenna hacking and other events)
+* Quest information (Brotherhood code, Matriarch city name)
+
+<gallery widths="150" heights="110">
+File:Enhancedreaper.jpg|[[Enhanced Reaper]] — obtainable via the NE temple portal
+File:Terminus.jpg|[[Terminus Prototype]] — available from the NE chassis trader (requires Prius)
+</gallery>
+
+=== South East Quadrant ===
+[[File:SE_generic3.jpg|thumb|right|240px]]
+
+The South East quadrant is the '''primary experience-grinding zone''' in Gamma Sector and contains the most lucrative activities for mid-to-late Gamma progression. It is defined by the massive Praetorian Mining Facilities that extract rare '''Meteorite Iron''' from the sector's deposits, and by the Praetorian military presence protecting those operations.
+
+'''Key features:'''
+* '''Praetorian Mining Facilities''' — the centrepiece of the SE. These facilities actively mine Meteorite Iron that Controllers can '''steal''' by hiring Cargo Transport mercs from the Epsilon FOB (see [[#Meteorite Iron Mining|Meteorite Iron Mining]]). Stealing from these facilities yields colossal amounts of experience and Mirons.
+* '''Praetorian Bases & Research Labs''' — as in the NE, defeating SE Research Labs yields [[Hornet]]/[[Warthog]] chassis schematics
+* '''Reinforcement mercs''' — Controllers can call for patrol reinforcements while in the SE. There is approximately a '''5% chance''' of receiving free reinforcement mercs, a '''35% chance''' of the call being intercepted (triggering an enemy attack instead), and the remainder resulting in no response
+* '''Casino & Market''' — the SE has both a Casino and a Market. The Market is encountered fairly frequently & offers Pneumatron Reactors for a whopping 10,000 Accolades
+
+'''The Wasp problem:''' The single biggest combat challenge in the SE (and NE) is the [[Wasp]] enemy unit. Wasps have a base speed of '''225''' and are equipped with powerful drain weapons. At high BM (37M+), squads can encounter 4–6 Wasps in a single fight. Against a Reaper-and-Rayden drain build, Wasps can deflect drain entirely if they're accompanied by Praetorian units carrying [[DAX Pod]] modules. The primary counter strategies are:
+* '''Out-speed them''' — equip at least one Immobilizer on each Raven (base 150 speed) to gain targeting priority and drain/kill 2+ Wasps before they fire
+* '''Bring Vamper mercs''' — Vamper mercs can drain multiple Wasps simultaneously, especially useful when Wasps are spread out
+* '''Lower BM''' — keeping squad BM around 20–30M reduces the number of Wasps encountered per fight
+
+'''Enemies encountered:'''
+* Praetorian units (large numbers; 3–7 per encounter depending on BM)
+* Wasp units (drain specialists; primary threat)
+* Praetorian Recon (highly dangerous!)
+* Raiders
+
+'''Rewards:'''
+* Massive experience bonuses (base fight exp + High Priority Target Reward)
+* Mirons (from Meteorite delivery)
+* [[Hornet]] / [[Recon Hornet]] / [[Warthog]] / [[Recon Warthog]] chassis schematics
+* Cash (significant credits per fight)
+
+<gallery widths="150" heights="110">
+File:Hornetstd.png|[[Hornet]] chassis
+File:Reconhornet.jpg|[[Recon Hornet]] variant
+File:Reconwarthog.jpg|[[Recon Warthog]] chassis
+File:Meteoriteiron.jpg|Meteorite Iron — the prize of the SE Mining Facilities
+File:Cargotransport.jpg|Cargo Transport merc — needed for mining runs
+File:Enemyhornet.png|Enemy Hornet — Praetorian-piloted Hornet chassis
+</gallery>
+
+=== South West Quadrant ===
+[[File:Lavaflow.jpg|thumb|right|240px|(Placeholder Image) The SW quadrant — volcanic lava fields and Praetorian fire installations.]]
+
+The South West quadrant is the most atmospheric area of Gamma Sector — a volcanic, lava-scorched region dominated by the '''Lords of the Flame''', a fire-themed faction operating Lava Forts and Lava Temples. The SW is the primary source of '''Lava Diamonds''', the unique Flaming Hornet chassis, and the critical '''Coin of Destiny''' needed for the PMC quest.
+
+'''Key features:'''
+* '''Lava Forts''' — heavily fortified positions defended by Lava Reapers and fire-themed units. Defeating a Lava Fort yields [[Lava Diamonds]] and, importantly, the '''Coin of Destiny''' (required as step 4 of the [[#Peace Maker Cannon Quest|PMC quest]]). The [[Flaming Hornet]] chassis schematics are also dropped from Lava Forts.
+* '''Lava Temples''' — ancient fire temples containing additional Lava Diamond caches and possible quest-related artefacts
+* '''SW Caves''' — cave systems below the lava fields containing [[Lava Diamonds]] and [[Mirons]]. Encounters inside can include Lava Reapers paired with Sentinels and Bulwarks.
+* '''[[Carnutum Ignus Arena]] (Lava Arena)''' — the SW Arena is the Gamma equivalent of Talsia's [[Master Controllers]]. Defeating the '''Arena Masters''' awards the [[Hydroplasmonic|Hydroplasmonic Reactor]] — a top-tier endgame reactor. The Arena can also yield Lava Diamonds through wagering.
+* '''Flaming Hornet''' — a fire-variant of the [[Hornet]] chassis, dropped exclusively from Lava Forts in the SW
+
+'''Enemies encountered:'''
+* Lava Reapers (fire-variant Reaper; very dangerous; high fire rate)
+* Flaming Patrols
+* Praetorian units (mixed)
+* Cave-specific enemies (Lava Reapers with Sentinels, Raiders)
+* Arena combatants (CyBulwark and champion bots for Arena Master fights)
+
+'''Rewards:'''
+* [[Lava Diamond|Lava Diamonds]] (from Forts, Temples, Caves)
+* [[Flaming Hornet]] chassis schematics (from Lava Forts)
+* [[Coin of Destiny]] (PMC quest item — from first Lava Fort defeat)
+* [[Hydroplasmonic|Hydroplasmonic Reactor]] (from Arena Masters completion)
+* Mirons (from SW Caves)
+
+<gallery widths="150" heights="110">
+File:Flaminghornet.jpg|[[Flaming Hornet]] — exclusive to the SW Lava Forts
+File:Flamingorbiter.jpg|Flaming Orbiter — fire-variant Orbiter encountered in SW
+File:Varena.jpg|(Placeholder Image) Carnutum Ignus Arena — the SW Arena Masters
+File:Hydroplasmonic.jpg|[[Hydroplasmonic Reactor]] — the Arena Masters reward
+File:Lavarng2.jpg|(Placeholder Image) Lava terrain — the hostile SW lava fields
+</gallery>
+
+=== North West Quadrant ===
+[[File:Gammasector.jpg|thumb|right|240px|The NW quadrant — outer space operations and Ex-Feds territory.]]
+
+The North West quadrant is the most accessible entry point for Controllers just arriving in Gamma, since it contains [[Destroyer|Destroyers]] and [[Battle Cruiser|Battle Cruisers]] that award [[Talsian Rank Points|TRP]] and [[Accolade|Accolades]] — familiar content from Talsia. Beyond this, the NW expands dramatically into '''outer space''', hosting Pirate operations, a spaceport, and the final stage of the PMC quest.
+
+'''Key features:'''
+* '''Destroyers & Battle Cruisers''' — the safe, familiar content of the NW. Destroyers award 25 TRP + 15 Accolades. Battle Cruisers award 75 TRP. '''[[True Guard]]''' units also appear in the NW and award Accolades (a notable change from Talsia where TG was the primary bottleneck).
+* '''Ex-Feds (Ex-Federates)''' — former Federate military forces who have set up independent operations in the NW, including:
+** '''Ex-Feds Mining Operations Camp''' — a Federate mining installation; engaging it yields significant Accolade rewards
+** '''Ex-Feds Base''' — a larger fortified Ex-Feds installation; defeating it yields 100–200 Accolades
+** '''Ex-Feds Special Operations''' — elite Ex-Feds squads; very dangerous (high deflection from Uplink Trucks; can instantly wipe Ravens if out-sped)
+* '''NW Caves''' — cave systems containing [[Miron|Mirons]] (the primary accessible Miron source early in Gamma); valuable for building up the Miron supply before meteorite mining becomes feasible
+* '''Pirate Corvettes''' — Space Pirates operating Corvette-class vessels in the NW and outer space. Defeating Pirate Corvettes contributes to the '''Pirate Hunter''' (50 kills) and '''Pirate Exterminator''' (100 kills) stat milestones. Corvette count is tracked across the entire set.
+* '''Pirate Scorpions''' — elite Pirate units deploying Scorpion-class chassis with heavy drain deflection. Up to 4 Pirate Scorpions can appear in a single encounter; a full squad of 4 can be effectively invincible against standard drain (deflecting 29,400 drain vs a standard Rayden crit of ~29,250). DAX Pods were previously given to Scorpions but have since been replaced with Gravity Hydro Boosters to bring their drain deflection to a manageable level.
+* '''Currency Traders''' — the NW hosts traders where currencies can be exchanged (e.g. Mercreds to Mirons). However, each exchange costs KC and only converts a limited amount per visit, making bulk conversion very expensive.
+* '''[[#Rayden (NW Trader)|Rayden Weapon Trader]]''' — the NW trader sells the [[Rayden Device]] drain weapon
+* '''Brotherhood Outpost (PMC Quest)''' — found in the NW only after obtaining the [[Coin of Destiny]] from the SW. Requires entering the correct Brotherhood door code (from NE temple inscriptions). Selecting the correct Knight inside triggers the next phase of the PMC quest.
+* '''Airfield (PMC Quest)''' — the spaceship launch site found in the NW after the Knight joins the squad. The Knight pilots the ship to the Horus Planet for the PMC quest finale.
+* '''Space Monster''' — a unique and very dangerous enemy encountered in outer space; notable for being an unexpected surprise for Controllers who venture too far out
+
+'''Enemies encountered:'''
+* Ex-Feds Special Ops (walkers; very high deflection; can one-shot Ravens)
+* [[Destroyer]] (warship; 25 TRP + 15 Accolades)
+* [[Battle Cruiser]] (warship; 75 TRP; requires preparation)
+* [[True Guard]] units (now award Accolades in Gamma)
+* Pirate Corvettes (space pirates; contribute to Corvette kill count)
+* Pirate Scorpions (very dangerous; heavy drain deflection)
+* Space Monster (unique encounter)
+
+'''Rewards:'''
+* [[Talsian Rank Points|TRP]] (from Destroyers, Battle Cruisers)
+* [[Accolade|Accolades]] (from TG, Ex-Feds Outposts, Destroyers, Battle Cruisers)
+* [[Miron|Mirons]] (from NW Caves)
+* [[Rayden Device]] weapon (from NW Trader)
+* Pirate kill count milestones (50 = Pirate Hunter; 100 = Pirate Exterminator)
+
+<gallery widths="150" heights="110">
+File:Spacepirate.png|Space Pirate chassis
+File:Piratescorpions.jpg|[[Pirate Scorpions]] — formidable drain-deflecting enemies
+File:Corvette_turret.png|(Placeholder Image) Pirate Corvette turret
+File:Dead_spacepirate.png|Defeated Space Pirate
+File:Rayden.jpg|[[Rayden Device]] — available from the NW trader
+</gallery>
+
+== Traders in Gamma ==
+Gamma Sector has four quadrant-specific traders, each offering a unique item unavailable elsewhere. These traders are encountered during patrol and represent some of the most valuable single items in the game.
+
+<gallery widths="160" heights="120">
+File:Plutoniumcore.jpg|[[Plutonium Core]] module — NE Trader
+File:Rayden.jpg|[[Rayden Device]] weapon — NW Trader
+File:Hydroplasmonic.jpg|[[Hydroplasmonic Reactor]] — SW Arena (not a trader, but a related reward)
+</gallery>
+
+{| class="wikitable"
+|-
+! Trader Location !! Item Sold !! Notes
+|-
+| '''North East Trader''' || [[Plutonium Core]] (Module) || A high-tier module available exclusively from the NE Trader. An essential purchase for advanced Gamma builds.
+|-
+| '''North West Trader''' || [[Rayden Device]] (Weapon) || A drain weapon available from the NW Trader. The Rayden Device is a powerful drain weapon for Reapers and certain Raven configurations, though Ravens do not have the enhanced drain damage bonus that Reapers receive.
+|-
+| '''South East Trader''' || [[Pneumatron]] (Reactor) || The [[Pneumatron]] is a top-tier reactor sold by the SE Trader. One of the most sought-after items in Gamma — running multiple Pneumatrons is the standard endgame reactor setup, especially given the high energy consumption of weapons like the Peace Maker Cannon.
+|-
+| '''South West Trader''' || [[Hyper Drive]] (Module) || A unique module available exclusively from the SW Trader.
+|}
+
+== Chassis Available in Gamma ==
+Gamma Sector introduces six new chassis that are unavailable anywhere else in the game.
+
+=== Hornet / Recon Hornet ===
+<gallery widths="160" heights="120">
+File:Hornet.jpg|[[Hornet]] chassis
+File:Reconhornet.jpg|[[Recon Hornet]] variant
+</gallery>
+
+The [[Hornet]] is the primary new chassis introduced in Gamma and serves as the Seer-equivalent offensive fast-attack bot. Hornets are unlocked via schematics dropped from '''Praetorian Bases and Research Labs''' in the SE and NE quadrants. The Recon Hornet is simply a cosmetic variant of the Hornet.
+
+=== Warthog / Recon Warthog ===
+<gallery widths="160" heights="120">
+File:Warthog.jpg|[[Warthog]] chassis
+File:Reconwarthog.jpg|[[Recon Warthog]] chassis
+</gallery>
+
+The [[Warthog]] is the Sentinel-equivalent chassis introduced in Gamma — a heavier, more defensive alternative to the Hornet. Like the Hornet, it is obtained from schematics in '''Praetorian Bases and Research Labs''' in the SE and NE. Controllers choosing between Hornet and Warthog schematics must make a one-time pick per unlock opportunity (similar to the Master Controller chassis choice in Talsia). The Recon Warthog is an enhanced variant with 1 more Shield equipment slot (5 vs 4).
+
+=== Flaming Hornet ===
+[[File:Flaminghornet.jpg|thumb|right|220px|The Flaming Hornet — a fire-enhanced variant exclusive to the SW.]]
+
+The [[Flaming Hornet]] is a fire-themed variant of the Hornet chassis, exclusive to the South West quadrant. It is obtained from schematics dropped by '''Lava Forts''' in the SW.
+
+=== Enhanced Reaper ===
+[[File:Enhancedreaper.jpg|thumb|right|220px|The Enhanced Reaper — a stolen prototype obtained via the NE quest.]]
+
+The [[Enhanced Reaper]] is a modified, upgraded version of the standard [[Reaper]] chassis, referred to in-game as a "stolen prototype." It is obtained by completing a multi-step quest primarily focused in the NE quadrant (see [[#Enhanced Reaper Quest|Enhanced Reaper Quest]] below).
+
+Key improvements over the standard Reaper:
+* '''200% drain bonus''' (enhanced from standard Reaper drain)
+* '''Extra module slot''' (giving it more flexibility than a standard Reaper)
+
+=== Terminus Prototype ===
+[[File:Terminus.jpg|thumb|right|220px|The Terminus Prototype — available from the NE chassis trader.]]
+
+The [[Terminus Prototype]] is a special chassis available from a '''chassis trader in the NE quadrant'''. To access this trader and unlock the Terminus Prototype, the Controller must have the '''Prius''' merc present in their squad. The Prius is found via NE exploration events and joins the squad for free.
+
+=== CyBulwark ===
+[[File:Cybulwark.jpg|thumb|right|220px|The CyBulwark — Gamma's Arena Champion chassis.]]
+
+The [[CyBulwark]] is a unique Arena Champion chassis created by the '''Lords of the Flame''' using Praetorian technology and renegade AI, designed specifically for combat in the '''Carnutum Ignus Arena'''. It is an unusual hybrid design that merges multiple ability sets into a single weapons platform.
+
+== Meteorite Iron Mining ==
+[[File:Meteoriteiron.jpg|thumb|right|220px|Meteorite Iron — stolen from Praetorian Mining Facilities in the SE.]]
+
+One of Gamma's most distinctive and rewarding activities is '''stealing Meteorite Iron''' from Praetorian Mining Facilities in the '''SE quadrant'''. This activity provides some of the highest experience-per-patrol output in the entire game.
+
+'''How it works:'''
+# Hire '''Cargo Transport''' mercs at the Epsilon FOB before entering the SE (up to 4 at a time; each costs Accolades)
+# Locate Praetorian Mining Facilities during your SE patrol
+# Defeat the Praetorian defenders and proceed with the extraction
+# Each Cargo Transport delivers '''5 tons''' of Meteorite Iron per run
+# Upon delivery, the Cargo Transport mercs are '''consumed''' (lost from the squad)
+# The reward is granted: massive experience + Mirons proportional to the total tons delivered
+
+'''Example deliveries from early testing:'''
+* 100 tons delivered → ~60,000,000 experience points + 1,503 Mirons
+* 234 tons delivered → ~58,500,000 experience points + 5,850 Mirons
+
+{{MessageBox|header=Nerf Notice|text=This has since been nerfed, as you can only hire up to 4 Cargo Transports at a time, thus delivering only up to 20 tons per trip.}}
+
+=== The 100-Ton Threshold: Pirates Start Hunting You ===
+{{MessageBox|header=Work in Progress|text=Exact details of the pirate aggression mechanic — the specific timing and magnitude of pre-drain/pre-damage — are yet to be confirmed. Figures above are based on community observations.}}
+
+After a Controller has collectively stolen '''100 or more tons''' of Meteorite Iron from the Praetorian Mining Facilities, the '''Space Pirates''' take notice. From this point onward, Pirates begin '''pre-draining and pre-damaging''' the squad's reactors and shields at the start of encounters — effectively getting a "free turn" against the squad before combat even begins. This makes all subsequent Gamma patrols riskier, and Controllers must account for this "head start" penalty when planning their loadouts and patrol lengths.
+
+This mechanic is a significant shift: the more you steal from the Praetorians, the more dangerous every patrol becomes. [[DAX Pod]] modules become relevant again at this stage — their drain recovery properties help mitigate the pre-patrol reactor drain that Pirates inflict before each fight.
+
+== Space Pirates ==
+[[File:Piratescorpions.jpg|thumb|right|240px|Pirate Scorpions — some of the most formidable enemies in Gamma.]]
+
+Space Pirates are a faction operating primarily in the '''NW quadrant''' and outer space regions of Gamma Sector. They range from skirmishing Corvette patrols to the fearsome Pirate Scorpion squadrons.
+
+=== Pirate Corvettes ===
+
+[[File:Corvette_turret.png|thumb|right|150px|(Placeholder Image) Pirate Corvette turret]]
+Pirate Corvettes are the standard combat vessel of the Pirates. Defeating Pirate Corvettes contributes to permanent stat milestones:
+
+{| class="wikitable"
+|-
+! Kills !! Milestone !! Notes
+|-
+| '''50 kills''' || '''Pirate Hunter''' || Tracked on the Controller's stats page
+|-
+| '''100 kills''' || '''Pirate Exterminator''' || Tracked on the Controller's stats page
+|}
+
+=== Pirate Scorpions ===
+
+Pirate Scorpions are elite Pirate units with Scorpion-chassis configurations and extremely high drain deflection. A squad of '''4 Pirate Scorpions''' was originally nearly unbeatable due to their combined drain deflection exceeding the damage output of a standard Rayden crit (29,400 deflection vs ~29,250 Rayden crit drain). Their loadout was subsequently adjusted — replacing [[DAX Pod]] modules with [[Gravity Hydro Booster]] modules — to bring their deflection to a manageable level while keeping them dangerous. They remain one of the hardest enemy configurations in Gamma.
+
+== Quests ==
+
+Gamma Sector contains several multi-step quests that span multiple quadrants. Unlike most Talsia content, quest information in Gamma is '''procedurally generated and set-specific''' — quest keys, city names, and Knight names are '''randomised each set''' and differ between accounts. Controllers must read all event text carefully and record information, as most quest trigger events are one-time-only.
+
+{{MessageBox|header=Work in Progress|text=Some quest steps are still undocumented or subject to change between sets. Quest information is based on the initial set of testing and early community reports.}}
+
+=== The Brotherhood of the Chosen — Peace Maker Cannon Quest ===
+[[File:Peacemakercannon.jpg|thumb|right|220px|The Peace Maker Cannon — awarded on completing the Brotherhood Quest.]]
+
+The Brotherhood of the Chosen is the primary quest of Gamma Sector, spanning all four quadrants and requiring careful, systematic play across multiple patrols. Its reward is the '''[[Peace Maker Cannon]]''' — the most powerful weapon in the game.
+
+'''Peace Maker Cannon stats:'''
+* Shield Damage: 4,750 | Armour Damage: 2,000 | Radius: 5 | Accuracy: 100% | SPT: 1 | Energy per shot: 1,000
+* '''Special Edition Peace Maker Cannon''' (first completion only): Shield Damage: 4,950 | Armour Damage: 2,025 | Radius: 5 | Accuracy: 100% | SPT: 1 | Energy per shot: 950 | Tech: 1,000
+
+'''Quest steps (in order):'''
+
+{| class="wikitable"
+|-
+! Step !! Location !! Action !! Notes
+|-
+| '''1''' || South East || Find the **Knight's name** at an SE Outpost || ~10% chance per outpost encounter; a unique set-specific name is randomly generated
+|-
+| '''2''' || North East || Find the **city name** from the NE Matriarch || Only available after Step 1 is complete; ~5% chance per Matriarch encounter; a unique set-specific city name is generated
+|-
+| '''3''' || North East || Find the **Brotherhood door code** from inscriptions in the Horus Temple || Read the temple inscriptions carefully — this is a one-time event; the code is required in Step 5
+|-
+| '''4''' || South West || Obtain the **Coin of Destiny** by defeating the Lava Fort in SW || Only the first Lava Fort defeat yields the Coin; subsequent Lava Forts give only Lava Diamonds
+|-
+| '''5''' || North West || With the Coin of Destiny, find the **Brotherhood Outpost** during NW patrol; enter the correct door code; select the **correct Knight** || The correct Knight is the one whose name matches Step 1; hiring this Knight is free and he joins the squad
+|-
+| '''6''' || North West || Find the **Airfield** in the NW (appears after the Knight joins); let the Knight pilot the spaceship to the **Horus Planet** || Airfield appears during standard NW patrol once the Knight is in the squad
+|-
+| '''7''' || Horus Planet || Travel to the Horus Planet and find the city matching Step 2 || The portal leads to the city; explore to find the Matriarch
+|-
+| '''8''' || Horus Planet || Learn from the city's Matriarch that the PMC was **stolen by Pirates** || 
+|-
+| '''9''' || Horus Planet || **Raze the Pirate Outpost** on the Horus Planet to recover the Peace Maker Cannon || Defeating the Pirate Outpost completes the quest
+|}
+
+'''Reward:''' The '''first Controller''' to complete the quest each set receives the '''Special Edition Peace Maker Cannon''' (slightly superior stats). All subsequent completions receive the standard [[Peace Maker Cannon]].
+
+'''Brotherhood Knights after quest completion:''' After completing the PMC quest, the Brotherhood Outpost can still be visited and additional Knights can be hired.
+
+=== Enhanced Reaper Quest ===
+[[File:Enhancedreaper.jpg|thumb|right|220px|The Enhanced Reaper — the prize at the end of the NE quest chain.]]
+{{MessageBox|header=Work in Progress|text=Full quest details are subject to change between sets and may not be fully accurate.}}
+
+The Enhanced Reaper quest is an NE-focused quest chain for obtaining the [[Enhanced Reaper]] chassis.
+
+'''Quest steps:'''
+
+{| class="wikitable"
+|-
+! Step !! Location !! Action !! Notes
+|-
+| '''1''' || South East || Find the **city name** from an SE Outpost || ~10% chance per outpost; a randomly generated city name specific to this quest (different from the PMC city name)
+|-
+| '''2''' || North East || Find the **portal in the Horus Temple** || The portal ''only appears'' if Step 1 has been completed; this is why Controllers who haven't found the SE city name will find the NE temple apparently empty
+|-
+| '''3''' || Horus Planet (via portal) || Win **3 battles** in the city found in Step 1 || The fights are challenging; high deflection and speed are required.
+|}
+
+'''Reward:''' The [[Enhanced Reaper]] chassis with 200% drain bonus and an extra module slot.
+
+=== Space Cruiser Quest ===
+{{MessageBox|header=Work in Progress|text=The Space Cruiser Quest is not fully documented. Information is scarce.}}
+
+A separate quest involving locating and defeating a number of Space Cruisers in the NW/outer space regions. Rewards a significant one-time cash bonus (~20 million credits) upon completion. The quest requires finding and capturing an airport/spaceport in the NW.
+
+== SW Arena Masters (Carnutum Ignus Arena) ==
+
+The '''Carnutum Ignus Arena''' (also called the Lava Arena) is Gamma's equivalent of the [[Master Controllers]] in Talsia. It is located in the South West quadrant.
+
+Defeating the SW Arena Masters — a series of escalating Arena fights featuring the [[CyBulwark]] and other champion bots — awards the '''[[Hydroplasmonic Reactor]]''', one of the most powerful reactors available in the game.
+
+Lava Diamonds can also be wagered and multiplied through Arena bets.
+
+<gallery widths="160" heights="120">
+File:Varena.jpg|(Placeholder Image) The Carnutum Ignus Arena
+File:Cybulwark.jpg|[[CyBulwark]] — Arena Champion chassis created by the Lords of the Flame
+File:Hydroplasmonic.jpg|[[Hydroplasmonic Reactor]] — the Arena Masters reward
+</gallery>
+
+== Reward Mechanics ==
+
+=== Experience Scaling ===
+Gamma experience rewards do not scale simply with BM the way Vulcore and Talsia do. The Gamma reward formula includes several modifiers:
+
+'''BM Penalty (applied above 30M BM):'''
+{| class="wikitable"
+|-
+! Total BM !! XP Multiplier
+|-
+| ≤ 30,000,000 || 100% (no penalty)
+|-
+| 30,000,001 – 35,000,000 || 90%
+|-
+| 35,000,001 – 40,000,000 || 80%
+|-
+| 40,000,001 – 45,000,000 || 70%
+|-
+| 45,000,001 – 50,000,000 || 60%
+|-
+| > 50,000,000 || 50%
+|}
+
+'''Optimal BM for Gamma:''' Approximately '''20–30 million BM''' maximises Gamma rewards while keeping enemy squad sizes manageable. Controllers with 37M+ BM will regularly face 4–6 Wasp squads and the full BM penalty above.
+
+=== Mirons ===
+{{MessageBox|header=Work in Progress|text=Miron usage is not fully documented. Known sources include: NW Caves, Meteorite Iron delivery rewards, NE Antenna hacking events, NE Currency Trader, and various patrol events.}}
+
+Mirons are a Gamma-specific currency. Known acquisition sources include NW Caves, Meteorite Iron delivery rewards, the NE Antenna hacking event, the NE Currency Trader, and various patrol events across all quadrants.
+
+=== Lava Diamonds ===
+
+Lava Diamonds are a rare Gamma currency found primarily in the SW quadrant. Known sources:
+* SW Caves (primary source; ~39 diamonds per 1,800 KC)
+* Lava Forts (variable reward; a single Fort may yield 60 Lava Diamonds but this reward has had bug history — verify in-game)
+* Lava Temples
+
+== Factions ==
+
+=== Praetorians ===
+
+The Praetorians are the primary enemy faction of Gamma Sector. They are a disciplined, advanced military faction that operates across all four quadrants, guarding meteorite mining operations and ancient Horus temple sites. They are equipped with significantly more powerful tech than the standard Federates of Talsia.
+
+<gallery widths="150" heights="110">
+File:Praetorian.png|Praetorian unit
+File:Enemyhornet.png|Enemy Hornet — Praetorian pilot
+File:Wasp.png|Enemy Wasp
+File:Forcereconscreen2.png|Praetorian Recon Units
+
+</gallery>
+
+Notable Praetorian units:
+* '''[[Wasp]]''' — high-speed drain specialist (base speed 225); the defining threat of Gamma combat
+* '''[[Praetorian]] standard units''' — armoured soldiers with heavy weapons; 3–7 per encounter depending on BM
+* '''YF-95 Interceptors''' — elite Praetorian squads; considered "the elite of the elite"; very high fire rates (recorded instances of 2,275+ fire rate)
+* '''Praetorian Shield units''' — project large shields for Praetorian formations
+
+=== Space Pirates ===
+
+Space Pirates are a lawless faction operating in the NW and outer space. They range from Pirate Corvette patrols to formidable Pirate Scorpion strike teams.
+
+<gallery widths="150" heights="110">
+File:Spacepirate.png|Space Pirate chassis
+File:Dead_spacepirate.png|Defeated Space Pirate
+File:Piratescorpions.jpg|[[Pirate Scorpions]] — elite Pirate strike units
+File:Corvette_turret.png|Pirate Corvette turret
+File:Dead_corvette_turret.png|Defeated Corvette turret
+</gallery>
+
+=== Lords of the Flame ===
+{{MessageBox|header=Work in Progress|text=The Lords of the Flame faction is not yet fully documented. Information is scarce.}}
+
+A Gamma-specific faction occupying the SW quadrant's lava fields. Operators of the Lava Forts, Lava Temples, and the Carnutum Ignus Arena. They were involved in the creation of the [[CyBulwark]] chassis by combining Praetorian technology with renegade AI.
+
+=== Ex-Federates (Ex-Feds) ===
+{{MessageBox|header=Work in Progress|text=The Ex-Federates faction in Gamma is not yet fully documented. Information is scarce.}}
+
+Former Federate military who have established independent operations in the NW quadrant. They operate mining camps, fortified bases, and special operations units.
+
+<gallery widths="150" heights="110">
+File:Gammapatrolsquad2.jpg|Ex-Feds patrol territory in the NW
+</gallery>
+
+=== True Guard ===
+
+The [[True Guard]] from Talsia are also present in the Gamma NW quadrant. Unlike in Talsia where they are the apex threat, in Gamma they are a more manageable encounter — and notably, they now '''award Accolades''' upon defeat. True Guard in Gamma are primarily encountered in the NW and do not award TRP.
+
+== Important Tips & Mechanics ==
+
+; Speed is everything
+: Unlike Talsia, Gamma does not reward "tank everything" builds. If enemies go first, they will drain your reactors and your bots will be defenceless. Priority: always go first or at minimum match enemy speed. Most [[Wasp]] enemies have ~225 speed; a squad that consistently goes before Wasps wins easily.
+
+; Read everything
+: Gamma is full of quest information, hint events, and lore scattered throughout patrol. Many quests are permanently gated on having read specific text events. Missing a Knight's name from an SE Outpost may require dozens more outpost visits (10% chance per outpost) to get another chance. Never fast-click through Gamma events.
+
+; Mercs persist (and die permanently)
+: Gamma mercs stay with the squad for the entire patrol — a huge advantage over Talsia. However, a bad fight that wipes your mercs means losing all the Accolades spent on them. Plan patrol carefully; don't risk valuable mercs on unnecessarily difficult encounters.
+
+; Calling for reinforcements (SE) has a dark side
+: When patrolling the SE, Controllers can call for patrol reinforcements. There is a 5% chance of receiving free mercs, but also a 35% chance of the call being intercepted — triggering an enemy ambush. Use this option judiciously.
+
+; Note-taking is mandatory
+: Quest information (Knight names, city names, door codes) is randomly generated per set and per account. There is no in-game journal. Write things down immediately upon encountering quest text. Missing this information is devastating: the Enhanced Reaper portal will not appear in the NE temple until the correct SE city name has been found, and the Brotherhood Outpost requires the exact door code.
+
+== Endgame Goals ==
+The following represent the overall goals of a Controller progressing through Gamma Sector across a set:
+
+# '''Chassis collection''' — Hornet, Recon Hornet, Warthog, Recon Warthog, Flaming Hornet, Enhanced Reaper, Terminus Prototype, CyBulwark (where applicable)
+# '''PMC Quest completion''' — complete the Brotherhood of the Chosen quest to obtain the [[Peace Maker Cannon]]
+# '''SW Arena Masters''' — defeat the Carnutum Ignus Arena Masters to earn the [[Hydroplasmonic Reactor]]
+# '''Meteorite Mining''' — accumulate significant tonnage for massive experience and Mirons (with full awareness of the 100-ton pirate aggression threshold)
+# '''Trader items''' — acquire the [[Plutonium Core]], [[Hyper Drive]], [[Pneumatron]], and [[Rayden Device]] from the four quadrant traders
+# '''Pirate Exterminator''' — reach 100 Pirate Corvette kills
+# '''Space Cruiser Quest''' — complete the optional Space Cruiser bounty for its one-time cash reward
+
+[[Category:Outlands]]
+[[Category:Gamma Sector]]
