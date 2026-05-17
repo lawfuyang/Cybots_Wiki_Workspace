@@ -50,7 +50,7 @@ The Gamma Sector is a multi-environment frontier region defined by:
 == Progression Guide ==
 {{MessageBox
 | header = Progression Guide
-| text   = A dedicated step-by-step Gamma progression guide is yet to be written. The information below provides a condensed overview. See the individual quadrant sections for related context.
+| text   = For a detailed walkthrough and strategy guide covering patrol phases, squad setups, and quest steps, see the '''[[Gamma Sector Guide]]'''. The information below provides a condensed overview. See the individual quadrant sections for related context.
 }}
 
 A condensed progression path for transitioning into Gamma:
@@ -586,6 +586,13 @@ The following represent the overall goals of a Controller progressing through Ga
 # '''Trader items''' — acquire the [[Plutonium Core]], [[Hyper Drive]], [[Pneumatron]], and [[Rayden Device]] from the four quadrant traders
 # '''Pirate Exterminator''' — reach 100 Pirate Corvette kills
 # '''Space Cruiser Quest''' — complete the optional Space Cruiser bounty for its one-time cash reward
+
+== See Also ==
+
+* [[Gamma Sector Guide]] — step-by-step walkthrough and strategy guide for Gamma Sector
+* [[Talsian Warfront]] — the zone preceding Gamma
+* [[Talsian Warfront Guide]] — the guide for Talsia
+* [[Vulcore Guide]] — for earlier progression reference
 
 [[Category:Outlands]]
 [[Category:Gamma Sector]]
