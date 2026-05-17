@@ -1,5 +1,6 @@
 {
   "batchcomplete": "",
+  "continue"     : {"aicontinue": "Vopen1a.jpg", "continue": "-||"},
   "limits"       : {"allimages": 500},
   "query"        : {
     "allimages": [
@@ -65,6 +66,15 @@
         "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=730",
         "ns": 6,
         "title": "File:Antennatest2.png"
+      },
+      {
+        "name": "Anubisenforcer.jpg",
+        "timestamp": "2026-05-17T06:49:53Z",
+        "url": "https://static.wikia.nocookie.net/cybots/images/a/aa/Anubisenforcer.jpg/revision/latest?cb=20260517064953",
+        "descriptionurl": "https://cybots.fandom.com/wiki/File:Anubisenforcer.jpg",
+        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=908",
+        "ns": 6,
+        "title": "File:Anubisenforcer.jpg"
       },
       {
         "name": "Apc1.png",
@@ -902,6 +912,15 @@
         "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=827",
         "ns": 6,
         "title": "File:Dead cyturret syphon.png"
+      },
+      {
+        "name": "Dead_cywall1.png",
+        "timestamp": "2026-05-17T07:01:13Z",
+        "url": "https://static.wikia.nocookie.net/cybots/images/d/da/Dead_cywall1.png/revision/latest?cb=20260517070113",
+        "descriptionurl": "https://cybots.fandom.com/wiki/File:Dead_cywall1.png",
+        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=921",
+        "ns": 6,
+        "title": "File:Dead cywall1.png"
       },
       {
         "name": "Dead_destroyer_bridge.png",
@@ -2227,6 +2246,15 @@
         "title": "File:Mr100rocketpack.jpg"
       },
       {
+        "name": "Mummycurse.jpg",
+        "timestamp": "2026-05-17T06:49:53Z",
+        "url": "https://static.wikia.nocookie.net/cybots/images/c/c7/Mummycurse.jpg/revision/latest?cb=20260517064953",
+        "descriptionurl": "https://cybots.fandom.com/wiki/File:Mummycurse.jpg",
+        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=906",
+        "ns": 6,
+        "title": "File:Mummycurse.jpg"
+      },
+      {
         "name": "NE_currencytrader.jpg",
         "timestamp": "2026-05-15T16:26:29Z",
         "url": "https://static.wikia.nocookie.net/cybots/images/3/35/NE_currencytrader.jpg/revision/latest?cb=20260515162629",
@@ -2234,6 +2262,42 @@
         "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=705",
         "ns": 6,
         "title": "File:NE currencytrader.jpg"
+      },
+      {
+        "name": "NE_patrol1.jpg",
+        "timestamp": "2026-05-17T06:49:53Z",
+        "url": "https://static.wikia.nocookie.net/cybots/images/2/22/NE_patrol1.jpg/revision/latest?cb=20260517064953",
+        "descriptionurl": "https://cybots.fandom.com/wiki/File:NE_patrol1.jpg",
+        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=909",
+        "ns": 6,
+        "title": "File:NE patrol1.jpg"
+      },
+      {
+        "name": "NE_patrol2.jpg",
+        "timestamp": "2026-05-17T06:56:09Z",
+        "url": "https://static.wikia.nocookie.net/cybots/images/c/c2/NE_patrol2.jpg/revision/latest?cb=20260517065609",
+        "descriptionurl": "https://cybots.fandom.com/wiki/File:NE_patrol2.jpg",
+        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=913",
+        "ns": 6,
+        "title": "File:NE patrol2.jpg"
+      },
+      {
+        "name": "NE_patrol3.jpg",
+        "timestamp": "2026-05-17T06:49:53Z",
+        "url": "https://static.wikia.nocookie.net/cybots/images/5/5e/NE_patrol3.jpg/revision/latest?cb=20260517064953",
+        "descriptionurl": "https://cybots.fandom.com/wiki/File:NE_patrol3.jpg",
+        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=907",
+        "ns": 6,
+        "title": "File:NE patrol3.jpg"
+      },
+      {
+        "name": "NE_patrol4.jpg",
+        "timestamp": "2026-05-17T06:49:53Z",
+        "url": "https://static.wikia.nocookie.net/cybots/images/f/fb/NE_patrol4.jpg/revision/latest?cb=20260517064953",
+        "descriptionurl": "https://cybots.fandom.com/wiki/File:NE_patrol4.jpg",
+        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=905",
+        "ns": 6,
+        "title": "File:NE patrol4.jpg"
       },
       {
         "name": "NE_scaventemple.jpg",
@@ -2254,6 +2318,15 @@
         "title": "File:NE scavenvillage.jpg"
       },
       {
+        "name": "NW_currency_trader.jpg",
+        "timestamp": "2026-05-17T07:01:13Z",
+        "url": "https://static.wikia.nocookie.net/cybots/images/3/33/NW_currency_trader.jpg/revision/latest?cb=20260517070113",
+        "descriptionurl": "https://cybots.fandom.com/wiki/File:NW_currency_trader.jpg",
+        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=922",
+        "ns": 6,
+        "title": "File:NW currency trader.jpg"
+      },
+      {
         "name": "NW_patrol1.jpg",
         "timestamp": "2026-05-17T05:32:15Z",
         "url": "https://static.wikia.nocookie.net/cybots/images/8/8b/NW_patrol1.jpg/revision/latest?cb=20260517053215",
@@ -2261,6 +2334,42 @@
         "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=902",
         "ns": 6,
         "title": "File:NW patrol1.jpg"
+      },
+      {
+        "name": "NW_patrol2.jpg",
+        "timestamp": "2026-05-17T06:56:08Z",
+        "url": "https://static.wikia.nocookie.net/cybots/images/9/9d/NW_patrol2.jpg/revision/latest?cb=20260517065608",
+        "descriptionurl": "https://cybots.fandom.com/wiki/File:NW_patrol2.jpg",
+        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=911",
+        "ns": 6,
+        "title": "File:NW patrol2.jpg"
+      },
+      {
+        "name": "NW_patrol3.jpg",
+        "timestamp": "2026-05-17T06:56:09Z",
+        "url": "https://static.wikia.nocookie.net/cybots/images/9/99/NW_patrol3.jpg/revision/latest?cb=20260517065609",
+        "descriptionurl": "https://cybots.fandom.com/wiki/File:NW_patrol3.jpg",
+        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=912",
+        "ns": 6,
+        "title": "File:NW patrol3.jpg"
+      },
+      {
+        "name": "NW_patrol4.jpg",
+        "timestamp": "2026-05-17T06:56:09Z",
+        "url": "https://static.wikia.nocookie.net/cybots/images/1/11/NW_patrol4.jpg/revision/latest?cb=20260517065609",
+        "descriptionurl": "https://cybots.fandom.com/wiki/File:NW_patrol4.jpg",
+        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=919",
+        "ns": 6,
+        "title": "File:NW patrol4.jpg"
+      },
+      {
+        "name": "Ne_construction.jpg",
+        "timestamp": "2026-05-17T06:56:09Z",
+        "url": "https://static.wikia.nocookie.net/cybots/images/c/cf/Ne_construction.jpg/revision/latest?cb=20260517065609",
+        "descriptionurl": "https://cybots.fandom.com/wiki/File:Ne_construction.jpg",
+        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=914",
+        "ns": 6,
+        "title": "File:Ne construction.jpg"
       },
       {
         "name": "Ne_desertmeerchants.jpg",
@@ -2344,6 +2453,15 @@
         "title": "File:Ne horusshaman.jpg"
       },
       {
+        "name": "Ne_hoverattack.jpg",
+        "timestamp": "2026-05-17T06:49:52Z",
+        "url": "https://static.wikia.nocookie.net/cybots/images/3/33/Ne_hoverattack.jpg/revision/latest?cb=20260517064952",
+        "descriptionurl": "https://cybots.fandom.com/wiki/File:Ne_hoverattack.jpg",
+        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=903",
+        "ns": 6,
+        "title": "File:Ne hoverattack.jpg"
+      },
+      {
         "name": "Ne_koth.jpg",
         "timestamp": "2026-05-15T16:23:25Z",
         "url": "https://static.wikia.nocookie.net/cybots/images/9/9c/Ne_koth.jpg/revision/latest?cb=20260515162325",
@@ -2360,6 +2478,15 @@
         "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=675",
         "ns": 6,
         "title": "File:Ne market2.jpg"
+      },
+      {
+        "name": "Ne_patrol6.jpg",
+        "timestamp": "2026-05-17T06:49:53Z",
+        "url": "https://static.wikia.nocookie.net/cybots/images/8/8d/Ne_patrol6.jpg/revision/latest?cb=20260517064953",
+        "descriptionurl": "https://cybots.fandom.com/wiki/File:Ne_patrol6.jpg",
+        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=904",
+        "ns": 6,
+        "title": "File:Ne patrol6.jpg"
       },
       {
         "name": "Ne_temple_guards.jpg",
@@ -2432,6 +2559,33 @@
         "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=692",
         "ns": 6,
         "title": "File:Nw guards.jpg"
+      },
+      {
+        "name": "Nw_hunters.jpg",
+        "timestamp": "2026-05-17T06:56:09Z",
+        "url": "https://static.wikia.nocookie.net/cybots/images/f/f9/Nw_hunters.jpg/revision/latest?cb=20260517065609",
+        "descriptionurl": "https://cybots.fandom.com/wiki/File:Nw_hunters.jpg",
+        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=918",
+        "ns": 6,
+        "title": "File:Nw hunters.jpg"
+      },
+      {
+        "name": "Nw_interceptors.jpg",
+        "timestamp": "2026-05-17T07:01:12Z",
+        "url": "https://static.wikia.nocookie.net/cybots/images/f/f0/Nw_interceptors.jpg/revision/latest?cb=20260517070112",
+        "descriptionurl": "https://cybots.fandom.com/wiki/File:Nw_interceptors.jpg",
+        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=920",
+        "ns": 6,
+        "title": "File:Nw interceptors.jpg"
+      },
+      {
+        "name": "Nw_miningpost.jpg",
+        "timestamp": "2026-05-17T06:56:09Z",
+        "url": "https://static.wikia.nocookie.net/cybots/images/a/a5/Nw_miningpost.jpg/revision/latest?cb=20260517065609",
+        "descriptionurl": "https://cybots.fandom.com/wiki/File:Nw_miningpost.jpg",
+        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=915",
+        "ns": 6,
+        "title": "File:Nw miningpost.jpg"
       },
       {
         "name": "Obliterator.jpg",
@@ -3757,6 +3911,15 @@
         "title": "File:Temple inentrance2.jpg"
       },
       {
+        "name": "Temple_inentrance4.jpg",
+        "timestamp": "2026-05-17T06:56:09Z",
+        "url": "https://static.wikia.nocookie.net/cybots/images/d/d4/Temple_inentrance4.jpg/revision/latest?cb=20260517065609",
+        "descriptionurl": "https://cybots.fandom.com/wiki/File:Temple_inentrance4.jpg",
+        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=917",
+        "ns": 6,
+        "title": "File:Temple inentrance4.jpg"
+      },
+      {
         "name": "Temple_library.jpg",
         "timestamp": "2026-05-17T05:30:17Z",
         "url": "https://static.wikia.nocookie.net/cybots/images/f/fd/Temple_library.jpg/revision/latest?cb=20260517053017",
@@ -3775,6 +3938,15 @@
         "title": "File:Temple outentrance.jpg"
       },
       {
+        "name": "Temple_outentrance3.jpg",
+        "timestamp": "2026-05-17T06:56:09Z",
+        "url": "https://static.wikia.nocookie.net/cybots/images/f/f3/Temple_outentrance3.jpg/revision/latest?cb=20260517065609",
+        "descriptionurl": "https://cybots.fandom.com/wiki/File:Temple_outentrance3.jpg",
+        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=916",
+        "ns": 6,
+        "title": "File:Temple outentrance3.jpg"
+      },
+      {
         "name": "Temple_outentrance4.jpg",
         "timestamp": "2026-05-17T05:30:17Z",
         "url": "https://static.wikia.nocookie.net/cybots/images/f/fd/Temple_outentrance4.jpg/revision/latest?cb=20260517053017",
@@ -3782,6 +3954,15 @@
         "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=891",
         "ns": 6,
         "title": "File:Temple outentrance4.jpg"
+      },
+      {
+        "name": "Temple_outentrance5.jpg",
+        "timestamp": "2026-05-17T06:49:53Z",
+        "url": "https://static.wikia.nocookie.net/cybots/images/c/cb/Temple_outentrance5.jpg/revision/latest?cb=20260517064953",
+        "descriptionurl": "https://cybots.fandom.com/wiki/File:Temple_outentrance5.jpg",
+        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=910",
+        "ns": 6,
+        "title": "File:Temple outentrance5.jpg"
       },
       {
         "name": "Temple_prayer.jpg",
@@ -4322,150 +4503,6 @@
         "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=796",
         "ns": 6,
         "title": "File:Vopen1.jpg"
-      },
-      {
-        "name": "Vopen1a.jpg",
-        "timestamp": "2026-05-16T06:34:28Z",
-        "url": "https://static.wikia.nocookie.net/cybots/images/0/0a/Vopen1a.jpg/revision/latest?cb=20260516063428",
-        "descriptionurl": "https://cybots.fandom.com/wiki/File:Vopen1a.jpg",
-        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=785",
-        "ns": 6,
-        "title": "File:Vopen1a.jpg"
-      },
-      {
-        "name": "Vopen1b.jpg",
-        "timestamp": "2026-05-16T06:42:52Z",
-        "url": "https://static.wikia.nocookie.net/cybots/images/8/8c/Vopen1b.jpg/revision/latest?cb=20260516064252",
-        "descriptionurl": "https://cybots.fandom.com/wiki/File:Vopen1b.jpg",
-        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=833",
-        "ns": 6,
-        "title": "File:Vopen1b.jpg"
-      },
-      {
-        "name": "Vopen2.jpg",
-        "timestamp": "2026-05-16T06:34:28Z",
-        "url": "https://static.wikia.nocookie.net/cybots/images/7/7a/Vopen2.jpg/revision/latest?cb=20260516063428",
-        "descriptionurl": "https://cybots.fandom.com/wiki/File:Vopen2.jpg",
-        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=802",
-        "ns": 6,
-        "title": "File:Vopen2.jpg"
-      },
-      {
-        "name": "Vopen2a.jpg",
-        "timestamp": "2026-05-16T06:36:38Z",
-        "url": "https://static.wikia.nocookie.net/cybots/images/2/25/Vopen2a.jpg/revision/latest?cb=20260516063638",
-        "descriptionurl": "https://cybots.fandom.com/wiki/File:Vopen2a.jpg",
-        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=808",
-        "ns": 6,
-        "title": "File:Vopen2a.jpg"
-      },
-      {
-        "name": "Vopen3.jpg",
-        "timestamp": "2026-05-16T06:34:28Z",
-        "url": "https://static.wikia.nocookie.net/cybots/images/5/57/Vopen3.jpg/revision/latest?cb=20260516063428",
-        "descriptionurl": "https://cybots.fandom.com/wiki/File:Vopen3.jpg",
-        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=791",
-        "ns": 6,
-        "title": "File:Vopen3.jpg"
-      },
-      {
-        "name": "Vsighted.jpg",
-        "timestamp": "2026-05-16T06:34:28Z",
-        "url": "https://static.wikia.nocookie.net/cybots/images/d/d5/Vsighted.jpg/revision/latest?cb=20260516063428",
-        "descriptionurl": "https://cybots.fandom.com/wiki/File:Vsighted.jpg",
-        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=798",
-        "ns": 6,
-        "title": "File:Vsighted.jpg"
-      },
-      {
-        "name": "Vsightedb.jpg",
-        "timestamp": "2026-05-16T06:34:27Z",
-        "url": "https://static.wikia.nocookie.net/cybots/images/4/43/Vsightedb.jpg/revision/latest?cb=20260516063427",
-        "descriptionurl": "https://cybots.fandom.com/wiki/File:Vsightedb.jpg",
-        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=773",
-        "ns": 6,
-        "title": "File:Vsightedb.jpg"
-      },
-      {
-        "name": "Vstorm.jpg",
-        "timestamp": "2026-05-16T06:36:38Z",
-        "url": "https://static.wikia.nocookie.net/cybots/images/c/c1/Vstorm.jpg/revision/latest?cb=20260516063638",
-        "descriptionurl": "https://cybots.fandom.com/wiki/File:Vstorm.jpg",
-        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=806",
-        "ns": 6,
-        "title": "File:Vstorm.jpg"
-      },
-      {
-        "name": "Vulcancannon.jpg",
-        "timestamp": "2025-03-10T21:46:04Z",
-        "url": "https://static.wikia.nocookie.net/cybots/images/9/97/Vulcancannon.jpg/revision/latest?cb=20250310214604",
-        "descriptionurl": "https://cybots.fandom.com/wiki/File:Vulcancannon.jpg",
-        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=221",
-        "ns": 6,
-        "title": "File:Vulcancannon.jpg"
-      },
-      {
-        "name": "Vulcoreplain.jpg",
-        "timestamp": "2025-04-03T01:29:26Z",
-        "url": "https://static.wikia.nocookie.net/cybots/images/f/f9/Vulcoreplain.jpg/revision/latest?cb=20250403012926",
-        "descriptionurl": "https://cybots.fandom.com/wiki/File:Vulcoreplain.jpg",
-        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=523",
-        "ns": 6,
-        "title": "File:Vulcoreplain.jpg"
-      },
-      {
-        "name": "Walker.png",
-        "timestamp": "2026-05-13T07:15:35Z",
-        "url": "https://static.wikia.nocookie.net/cybots/images/a/a1/Walker.png/revision/latest?cb=20260513071535",
-        "descriptionurl": "https://cybots.fandom.com/wiki/File:Walker.png",
-        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=628",
-        "ns": 6,
-        "title": "File:Walker.png"
-      },
-      {
-        "name": "Warning.jpg",
-        "timestamp": "2026-05-16T06:34:28Z",
-        "url": "https://static.wikia.nocookie.net/cybots/images/1/10/Warning.jpg/revision/latest?cb=20260516063428",
-        "descriptionurl": "https://cybots.fandom.com/wiki/File:Warning.jpg",
-        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=794",
-        "ns": 6,
-        "title": "File:Warning.jpg"
-      },
-      {
-        "name": "Warthog.jpg",
-        "timestamp": "2025-03-28T02:13:32Z",
-        "url": "https://static.wikia.nocookie.net/cybots/images/9/90/Warthog.jpg/revision/latest?cb=20250328021332",
-        "descriptionurl": "https://cybots.fandom.com/wiki/File:Warthog.jpg",
-        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=450",
-        "ns": 6,
-        "title": "File:Warthog.jpg"
-      },
-      {
-        "name": "Warthogrecon.png",
-        "timestamp": "2026-05-15T16:26:29Z",
-        "url": "https://static.wikia.nocookie.net/cybots/images/7/7d/Warthogrecon.png/revision/latest?cb=20260515162629",
-        "descriptionurl": "https://cybots.fandom.com/wiki/File:Warthogrecon.png",
-        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=723",
-        "ns": 6,
-        "title": "File:Warthogrecon.png"
-      },
-      {
-        "name": "Wasp.png",
-        "timestamp": "2026-05-15T17:07:44Z",
-        "url": "https://static.wikia.nocookie.net/cybots/images/f/f8/Wasp.png/revision/latest?cb=20260515170744",
-        "descriptionurl": "https://cybots.fandom.com/wiki/File:Wasp.png",
-        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=747",
-        "ns": 6,
-        "title": "File:Wasp.png"
-      },
-      {
-        "name": "Ylink.jpg",
-        "timestamp": "2025-03-27T23:24:13Z",
-        "url": "https://static.wikia.nocookie.net/cybots/images/c/c7/Ylink.jpg/revision/latest?cb=20250327232413",
-        "descriptionurl": "https://cybots.fandom.com/wiki/File:Ylink.jpg",
-        "descriptionshorturl": "https://cybots.fandom.com/index.php?curid=436",
-        "ns": 6,
-        "title": "File:Ylink.jpg"
       }
     ]
   }
