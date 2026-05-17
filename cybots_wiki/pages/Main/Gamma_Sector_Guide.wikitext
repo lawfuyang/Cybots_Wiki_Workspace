@@ -340,7 +340,7 @@ By Patrol 2, the core squad evolves to include the new Gamma chassis alongside t
 
 {{MessageBox
 | header = ⚠ Work in Progress
-| text   = These loadouts are based on community recommendations from early testing and may not reflect the current optimal meta. Adjust based on your available equipment.
+| text   = Loadouts are highly variable. Might not be the meta. Adjust based on your available equipment, liking & combat style.
 }}
 
 ==== Terminus Prototype ====
@@ -349,11 +349,11 @@ By Patrol 2, the core squad evolves to include the new Gamma chassis alongside t
 |-
 ! Slot !! Item !! Notes
 |-
-| Reactor || Best available ([[Pneumatron]] or [[Pneumatron|Pneu]]) || High energy consumption weapons require Pneu
+| Reactor || Best available ([[Pneumatron]] or [[Magmatic_Pyroclast|Magmatic Pyroclast]]) || High energy consumption weapons require Pneumatron
 |-
 | Weapon 1 || [[Rayden Device]] || —
 |-
-| Weapon 2 || [[PMC]] ([[Peace Maker Cannon]], if obtained) || If not yet obtained: [[Obliterator]] or [[Ravager]]
+| Weapon 2 || [[PMC]] ([[Peace Maker Cannon]]) ||
 |-
 | Weapon 3 || [[Ravager]] || —
 |-
@@ -393,7 +393,7 @@ By Patrol 2, the core squad evolves to include the new Gamma chassis alongside t
 |-
 | Shield (×5) || [[Plasma Anamorph]] (×5) || Recon Warthog has 5 shield slots vs. 4 on standard Warthog — key advantage
 |-
-| Module (×all) || All utility mods || Fill remaining module slots with DAX Pods, Flux Channels, etc.
+| Module (×all) || All utility mods || Fill remaining module slots Motion Detector, Security Countermand, etc.
 |}
 
 ==== Hornet ====
@@ -431,7 +431,7 @@ By Patrol 2, the core squad evolves to include the new Gamma chassis alongside t
 === Patrol 2 Flow ===
 
 # Enter patrol
-# At Epsilon FOB: hire mercs — '''Custodian → 3× Nightowl → Custodian''' (standard setup; adjust as needed)
+# At Epsilon FOB: hire mercs — '''5× Nightowl''' (Balls to the wall speed!)
 # Pick up available quest mercs and free events first
 # Prioritise levelling Termi, Hornet, Recon Warthog, and Enhanced Reaper in active combat
 # Complete Patrol 2 objectives in parallel across the four quadrants — Gamma does not gate you; run them concurrently
@@ -478,13 +478,13 @@ Gamma is full of enemies that can and will destroy your squad without warning. U
 
 The [[Wasp]] is the defining combat threat of Gamma's SE and NE quadrants. Every new Controller learns to respect them very quickly.
 
-* '''Base speed: 225''' — faster than a standard Raven (base 150 speed). If you don't have Immobilisers on your Reaper or Enhanced Reaper, Wasps will drain you before you fire.
+* '''Base speed: 225''' — faster than a standard Raven (base 150 speed). If your Reaper or Enhanced Reaper is slower than that after modules, Wasps will drain you before you fire.
 * '''Drain weapons''' — Wasps are equipped with powerful drain weapons that can strip reactor energy from your bots before they take a turn, effectively disabling them.
-* '''DAX Pod deflection''' — Wasps in high-BM squads (37M+) are sometimes equipped with [[DAX Pod]] modules, which deflect drain back at the drainer. This can make your Reaper's drain less effective.
-* '''Up to 6 Wasps per encounter''' — at very high BM, you can face a squad of 6 Wasps simultaneously. This is almost always unwinnable unless you have extreme drain coverage or multiple [[Pneumatron|Pneu Reactors]] to absorb the drain.
+* '''DAX Pod''' — Wasps in high-BM squads (37M+) are sometimes equipped with [[DAX Pod]] modules,.
+* '''Up to 6 Wasps per encounter''' — at very high BM, you can face a squad of 6 Wasps simultaneously. This is almost always unwinnable unless you have extreme drain coverage or multiple [[EM Wave Emitter]] & [[Pneumatron|Pneu Reactors]] to absorb the drain.
 
 '''Counters:'''
-# '''Immobiliser on every drain bot''' — equip at least 1 [[Syphon Immobiliser]] on each Raven/Reaper. At base 150 speed with Immobiliser, you can target and drain 2+ Wasps before they act.
+# '''Rayden on every drain bot''' — equip at least 1 [[Rayden Device]] on your Reaper. At base 150 speed with it, you can target and drain 2+ Wasps before they act.
 # '''Vamper mercs''' — [[Vamper]] mercs are Reaper-type units that add drain coverage against multiple Wasps simultaneously. Essential for SE patrols.
 # '''Lower your BM''' — keeping BM around 20–30M significantly reduces the number of Wasps per encounter.
 # '''Kill or drain Wasps first''' — set targeting priority to the fastest/most dangerous units; kill Wasps with weapons if drain isn't fast enough.
@@ -528,8 +528,6 @@ The YF-95 Interceptors are described in-game as "the elite of the elite among Pr
 === Lava Reapers (SW) ===
 
 [[Lava Reaper|Lava Reapers]] in the SW are fire-variant Reapers with high drain output. In cave fights, they appear alongside [[Sentinel|Sentinels]] and [[Bulwark|Bulwarks]].
-* These fights take 3–4 KC each with standard drain. Additional [[Rayden Device|Raydens]] can reduce this to 2 KC.
-* Max 2 Lava Reapers in a single encounter (post-patch limit).
 
 === The Space Monster ===
 
@@ -700,38 +698,36 @@ Unlike Talsia's late-game endgame, where a good squad can run almost indefinitel
 Use this as a rough tracker across your first few Gamma patrols:
 
 '''Phase 0 — Pre-Gamma (Talsia)'''
-* {{box|checked}} 18,000+ TRP → [[Raven]] unlocked
-* {{box|checked}} [[Advanced Multi-Fire Director|AMFDs]] on all squad bots
-* {{box|checked}} [[Storm Shield]] equipped (on Reaper / Levi)
-* {{box|checked}} 100–200M credits from Vulcore cash run
-* {{box|checked}} 9th-bot Workshop upgrade purchased
+* 18,000+ TRP → [[Raven]] unlocked
+* [[Advanced Multi-Fire Director|AMFDs]] on all squad bots
+* 9th-bot Workshop upgrade purchased
 
 '''Phase 1 — Early Gamma (Patrol 1)'''
-* {{box|unchecked}} 2× [[Raven]] chassis purchased and levelling
-* {{box|unchecked}} Brotherhood Knight name (SE Outpost)
-* {{box|unchecked}} PMC City name (NE Matriarch)
-* {{box|unchecked}} Brotherhood door code (NE Temple)
-* {{box|unchecked}} Enhanced Reaper city name (SE Outpost)
-* {{box|unchecked}} Enhanced Reaper obtained (NE quest)
-* {{box|unchecked}} Coin of Destiny (SW Lava Fort)
-* {{box|unchecked}} PMC Quest completed → [[Peace Maker Cannon]] obtained
-* {{box|unchecked}} [[Terminus Prototype]] purchased (NE trader, requires Prius)
-* {{box|unchecked}} [[Hornet]] + [[Recon Warthog]] schematics (SE Research Labs)
-* {{box|unchecked}} 3× [[Plutonium Core]] (NE Trader)
-* {{box|unchecked}} 2× [[Hyper Drive]] (SW Trader)
-* {{box|unchecked}} 7× [[Pneumatron|Pneu Reactor]] (SE Trader)
-* {{box|unchecked}} 3× [[Rayden Device]] total (1 from Talsia + 2 from NW Trader)
-* {{box|unchecked}} 3× [[FS14]] (Base, costs Mirons)
+* 2× [[Raven]] chassis purchased and levelling
+* Brotherhood Knight name (SE Outpost)
+* PMC City name (NE Matriarch)
+* Brotherhood door code (NE Temple)
+* Enhanced Reaper city name (SE Outpost)
+* Enhanced Reaper obtained (NE quest)
+* Coin of Destiny (SW Lava Fort)
+* PMC Quest completed → [[Peace Maker Cannon]] obtained
+* [[Terminus Prototype]] purchased (NE trader, requires Prius)
+* [[Hornet]] + [[Recon Warthog]] schematics (SE Research Labs)
+* 3× [[Plutonium Core]] (NE Trader)
+* 2× [[Hyper Drive]] (SW Trader)
+* 7× [[Pneumatron|Pneu Reactor]] (SE Trader)
+* 3× [[Rayden Device]] total (1 from Talsia + 2 from NW Trader)
+* 3× [[FS14]] (Base, costs Mirons)
 
 '''Phase 2 — Mid Gamma (Patrol 2+)'''
-* {{box|unchecked}} Termi, Hornet, Recon Warthog, Enhanced Reaper all levelled
-* {{box|unchecked}} [[Flaming Hornet]] obtained (SW Lava Forts)
-* {{box|unchecked}} SW Arena Masters defeated → [[Hydroplasmonic Reactor]] obtained
-* {{box|unchecked}} Space Pirate Quest completed
-* {{box|unchecked}} Full [[Pneumatron|Pneu Reactor]] loadout across squad
-* {{box|unchecked}} [[Plutonium Core|Plut Cores]] and [[FS14]] distributed across Seers
-* {{box|unchecked}} 50 Pirate Corvette kills (Pirate Hunter milestone)
-* {{box|unchecked}} 100 Pirate Corvette kills (Pirate Exterminator milestone)
+* Termi, Hornet, Recon Warthog, Enhanced Reaper all levelled
+* [[Flaming Hornet]] obtained (SW Lava Forts)
+* SW Arena Masters defeated → [[Hydroplasmonic Reactor]] obtained
+* Space Pirate Quest completed
+* Full [[Pneumatron|Pneu Reactor]] loadout across squad
+* [[Plutonium Core|Plut Cores]] and [[FS14]] distributed across Seers
+* 50 Pirate Corvette kills (Pirate Hunter milestone)
+* 100 Pirate Corvette kills (Pirate Exterminator milestone)
 
 ----
 
